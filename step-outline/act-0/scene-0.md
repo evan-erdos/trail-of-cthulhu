@@ -1,12 +1,16 @@
 
-bescott 2016-01-23
+*bescott 2016-01-26*
 
-Scene 0
--------
+### Scene 0 ###
 
-## Inciting Action ##
+`Players` are all students at Miskatonic University, (in Dunwich, Massachusetts, along the eponymous river).
+Naturally, the `Players` have varying skills and abilities, ranging from psychology to military training.
+Professor Cameron T. **BIRCHWELL** is beloved by all, but behaves strangely one day in lecture.
+He gives the whole class a very strange assignment:
 
-Players are all students at a New England college, and naturally have varying skills and abilities.
-A **Professor** they all know has them begin a strange assignment.
-The **Professor** is, in fact, under the influence of an Outer God in the Cthulhu Mythos, and attempts to kill the students by locking them in a basement.
-The students overcome this challenge, and believe they have killed the **Professor**.
+> For homework, I want each of you to do something you know to be ethically wrong.
+> Come to the next lecture with half a page about the experience.
+> 
+> Or... don't. It's all... pointless anyways... Class is dismissed early. 
+
+**BIRCHWELL** is, in fact, under the influence of an `Outer God`.
