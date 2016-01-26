@@ -47,7 +47,7 @@ _bescott 2016-01-26_
 
   * the room is ablaze, fire consumes his bookshelf and his window curtains
 
-  * he talks of strange dreams, research leads him to an artefact?
+- he talks of strange dreams, research leads him to an artefact?
 
   * Attempts, nonchalantly, to kill the players
 
@@ -61,7 +61,7 @@ _bescott 2016-01-26_
 
   * the players leave him in the burning building, save themselves
 
-  * they have nothing left after defeating him, and leave town
+- they have nothing left after defeating him, and leave town
 
 
 ### Scene 4 : On the Road Again ###
