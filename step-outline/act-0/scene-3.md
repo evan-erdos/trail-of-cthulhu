@@ -1,21 +1,23 @@
 
 *bescott 2016-01-26*
 
-### Scene 3 : *On the Road, Again* ###
 
-Deciding that there's nothing left for them in this town, the `Players` leave.
-`Players` pick up some of **BIRCHWELL**'s papers, SOMEHOW, and are therafter introduced to the Mythos via his writings.
-They decide to continue his research, as a way of explaining why he attempted to kill them.
+### Scene 3 : *Writings on the Wall* ###
+
+Deciding that there's nothing left for them, the `Players` leave the lab.
+Now that they have time, they pore over **PROFESSOR BIRCHWELL**'s papers.
+It's slightly helpful, but now they need to learn more.
+They can:
+- study at what's left of the lab
+- go the ruins, and talk to the tribes
+- look around in a nearby town for clues
+
+---
 
 
-### Scene 4 : On the Road Again ###
+#### Clues ####
 
-- they continue **BIRCHWELL**'s research, and later find out he's alive!
-- they find out what happened to him
-- a Hannibal-esque plot, dealing with an `Outer God` indirectly
-  * e.g., Hannibal in his cell, causing havoc.
-  * `Cthulhu` sleeping, perhaps the goal is to keep him asleep?
-- follow in footsteps through letters / documents
-- be openly antagonized by the Professor / Mentor
-- other kinds of epistolary storytelling
+- The professor wasn't interested in these costal tribes to cure them
+- He learned that they were worshipping `Hastur` & `Cthulhu`
+
 

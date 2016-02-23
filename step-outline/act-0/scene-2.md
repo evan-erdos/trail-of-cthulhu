@@ -1,20 +1,38 @@
 
 *bescott 2016-01-26*
 
-### Scene 2 : *The Professor* ###
 
-Finally, the `Players` come across the door to Professor **BIRCHWELL**'s office.
-A dim, orange glow can be seen flickering under the door.
-If they try to feel the door, it is warm to the touch.
-As they enter, they are greeted with the sight of their professor.
-Professor **BIRCHWELL** sits, scribbling away madly, at his desk.
-The room is ablaze, fire consumes his bookshelf and his window curtains.
-**BIRCHWELL** talks of strange dreams, and of an *artefact*.
-Then, he nonchalantly attempts to kill the `Players`.
-**BIRCHWELL** reaches calmly for a gun, on sight.
-Combat ensues, and the `Players` enfeeble him.
-Then, the `Players` could:
-  * perform **BIRCHWELL**'s *coup de grâce*
-  * try to take **BIRCHWELL** with them
-Either way, the `Players` are separated from **BIRCHWELL** before they can act.
-The `Players` leave **BIRCHWELL** in the burning building, saving themselves.
+### Scene 2 : *"...which is a building, which is on fire..."* ###
+
+`Players` don't get to the assignment, because the lab catches fire.
+They awake to the sound of sirens, and must flee their rooms.
+On their way out, they observe some of their peers doing very strange things.
+
+The `Players` travel through a section of the building which has caved in.
+A **CRYING STUDENT** is clawing so vigorously into his door that his fingers are bleeding.
+If the `Players` attempt to save him (or if they mention there's a window he can escape through), he says:
+
+> No! You can't! Don't leave! I have to get through! No! NO!
+> The door! The door! If I don't get through, they'll kill me!
+
+If they continue to try to reason with him, he attacks.
+As they pass **PROFESSOR BIRCHWELL**'s office, they grab whatever they can.
+An **INCENSED STUDENT** bars the door as they try to leave, they can:
+  * kill the **INCENSED STUDENT** to escape
+  * leave the **INCENSED STUDENT** to his fate
+  * actively attempt to save the **INCENSED STUDENT**
+
+They rush out, into the "thawing frost of a new day".
+
+---
+
+
+#### Clues ####
+
+Some parts of the Lab aren't burned, they've been smashed.
+
+**Birchwell's Notes** are gibberish, but one passage is legible:
+
+> The sleeping god must not awaken. It is a danger to the world.
+> The Yellow Demon may be a good force in all of this, and...
+
