@@ -16,7 +16,9 @@ Then, the `Players` could:
 Either way, the `Players` are separated from **BIRCHWELL** before they can act.
 
 
+#### Clues ####
 
+- the notebook is actually his spellbook, and he's trying to deal with the knowledge he's unlocked via spells and whatnot.
 
 
 

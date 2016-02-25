@@ -20,6 +20,7 @@ They can:
 - The professor wasn't interested in these costal tribes to cure them
 - He learned that they were worshipping `Hastur` & `Cthulhu`
 - Further examination of his notebook reveals a `Tendril-Like Glyph`.
-- the professor is no longer trying to save the world, he's lost his mind so severely that he's working with the Soviets now
+- the professor is no longer trying to save the world
+- he's lost his mind so severely that he's working with the Soviets now
 
 
