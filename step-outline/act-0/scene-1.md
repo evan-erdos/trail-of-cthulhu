@@ -22,6 +22,6 @@ Some students put it out, and the Professor dismisses the class.
 
 #### Clues ####
 
-**PROFESSOR BIRCHWELL** is under the influence of an `Outer God`.
-
+- **PROFESSOR BIRCHWELL** is under the influence of an `Outer God`.
+- the fire was started by somebody, it didn't just happen to occur
 

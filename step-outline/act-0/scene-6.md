@@ -9,5 +9,6 @@ followed by an attaché of armed guards.
 He takes **PROFESSOR BIRCHWELL**'s notebook,
 and asks them if they know anything about a weapon.
 If the `Players` feign ignorance, he lets them go.
+They then need to covertly follow him to the Soviet base.
 
 
