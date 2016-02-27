@@ -2,7 +2,7 @@
 *bescott 2016-01-26*
 
 
-### Scene 2 : *"...which is a building, which is on fire..."* ###
+### Scene 0 : *"...which is a building, which is on fire..."* ###
 
 `Players` don't get to the assignment, because the lab catches fire.
 They awake to the sound of sirens, and must flee their rooms.

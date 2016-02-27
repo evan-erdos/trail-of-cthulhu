@@ -2,7 +2,7 @@
 *bescott 2016-01-26*
 
 
-### Scene 3 : *Writings on the Wall* ###
+### Scene 1 : *Writings on the Wall* ###
 
 Deciding that there's nothing left for them, the `Players` leave the lab.
 Now that they have time, they pore over **PROFESSOR BIRCHWELL**'s notebook.
