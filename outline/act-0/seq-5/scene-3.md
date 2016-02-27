@@ -1,7 +1,4 @@
 
-*bescott 2016-02-23*
-
-
 ### Scene 3 : *Discovered* ###
 
 Ilya & The Professor sneak up behind the Players as they discover the big secret.

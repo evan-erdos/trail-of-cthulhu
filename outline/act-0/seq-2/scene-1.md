@@ -1,7 +1,4 @@
 
-*bescott 2016-01-26*
-
-
 ### Scene 1 : *Writings on the Wall* ###
 
 Deciding that there's nothing left for them, the `Players` leave the lab.

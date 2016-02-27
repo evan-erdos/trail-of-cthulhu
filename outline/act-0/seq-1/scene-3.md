@@ -1,7 +1,4 @@
 
-*bescott 2016-02-26*
-
-
 ### Scene 3 : *A Bad Diagnosis* ###
 
 They return to the village to present the chief with their findings.

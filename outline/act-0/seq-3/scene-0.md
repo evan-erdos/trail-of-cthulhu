@@ -1,7 +1,4 @@
 
-*bescott 2016-01-26*
-
-
 ### Scene 0 : *Diplomacy with Necromancers* ###
 
 If the `Players` go to town or back to the ruins, they learn of a new ritual.

@@ -1,7 +1,4 @@
 
-*bescott 2016-02-23*
-
-
 ### Scene 6 : *The Medallion* ###
 
 The Players awake and find that the light is a key to solving a puzzle.

@@ -1,7 +1,4 @@
 
-*bescott 2016-02-23*
-
-
 ### Scene 2 : *Inside the Observatory* ###
 
 They find a way in, and see Sputnik through the telescope.

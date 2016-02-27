@@ -1,7 +1,4 @@
 
-*bescott 2016-02-26*
-
-
 ### Scene 4 : *Paranoia* ###
 
 Back at the lab, the professor screams at the students,
