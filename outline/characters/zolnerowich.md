@@ -1,6 +1,4 @@
 
-_bburgess 2016-02-26_
-
 Ilya Zolnerowich
 ----------------
 

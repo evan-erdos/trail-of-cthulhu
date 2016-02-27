@@ -1,7 +1,4 @@
 
-_vivek 2016-02-26_
-
-
 Colonel Ukrit Omari
 -------------------
 

@@ -1,6 +1,4 @@
 
-_bescott 2016-02-26_
-
 Dolya Petrovna
 --------------
 

@@ -1,6 +1,4 @@
 
-_bescott 2016-02-26_
-
 Professor Cameron Trenton Birchwell
 -----------------------------------
 
@@ -70,7 +68,7 @@ but on his latest expedition he has made a number of questionable decisions rega
 > precisely because you know it to be morally wrong,
 > and write an essay of whatever length you please about the experience, typewritten only.
 > I expect to see all of you up early tomorrow for the expedition north into the ruins.
-> Class dismissed.”
+> Class dismissed.
 
 ---
 
