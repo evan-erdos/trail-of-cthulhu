@@ -43,6 +43,9 @@ or some kind of a cure to a previously-incurable disease.
 This conflicts with his desire to lose himself in the places he visits.
 He believes that he would feel more at home in the jungles of South America or among ruins and tribes in Northern Africa than he feels when he’s in his office at the University.
 
+---
+
+
 ### Tools ###
 
 The professor has an army of graduate student researchers at his disposal,
