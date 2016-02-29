@@ -1,25 +1,33 @@
 
 ### Scene 0 : *Meet Interesting People, and Kill Them* ###
 
-**[Professor Birchwell][]** takes the students on a mission to a village.
+**[Professor Birchwell][]** takes the students on an expedition to a village.
 Their destination is a cluster of late-Antiquity Roman ruins,
-which stretch along the North African coast.
-A rash of sleep disturbances was recently reported by the tribes,
+which stretch along the sandy coastline of Northeastern Africa.
+A rash of sleep disturbances were recently reported by the tribes,
 and **[Professor Birchwell][]** was sent to investigate and diagnose it.
-They blow a tire along the way, and have to continue on foot.
-They are ambushed by a different tribe,
-each member of which wears a strange necklace.
-**[Professor Birchwell][]** kills a tribesman, and takes his necklace.
-The students are asked to carry the symbol he takes from the body,
-and the expedition continues on ahead.
 
-[professor birchwell]: <https://github.com/evan-erdos/trail-of-cthulhu/blob/master/outline/characters/birchwell.md>
----
+Along the way, they blow a tire and have to continue on foot.
+**[Professor Birchwell][]** becomes irate with the driver, but it's not his fault.
+Suddenly, his enraged face vanishes, and is replaced by a blank stare.
+The caravan continues on, and they make camp just outside the ruins.
+
+Late at night, they are ambushed by tribesmen, each of which wears a strange necklace.
+The **[Players][]** witness **[Professor Birchwell][]** kill one, and take his necklace.
+The tribesmen disperse at the sound of the first gunshot, however,
+**[Professor Birchwell][]** continues to shoot at them, long after their retreat.
+
+When **[Professor Birchwell][]** notices the **[Players][]**,
+he nonchalantly asks them to carry the necklace back to the lab.
+He still has blood on him, but he doesn't appear to notice.
 
 
 #### Clues ####
-- their necklaces are actually the *[Talisman of the Yellow Sign][]*
+- the professor's weird temper is not what it seems, his corruption by Cthulhu has already begun
+- their necklaces are actually *[Talismans of the Yellow Sign][talisman]*
 
-[Talisman of the Yellow Sign]: </items/yellow-talisman.md>
 ---
 
+[players]: <https://github.com/evan-erdos/trail-of-cthulhu/blob/master/outline/characters/players.md>
+[professor birchwell]: <https://github.com/evan-erdos/trail-of-cthulhu/blob/master/outline/characters/birchwell.md>
+[talisman]: <https://github.com/evan-erdos/trail-of-cthulhu/blob/master/outline/items/talisman.md>

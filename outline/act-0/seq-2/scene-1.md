@@ -9,15 +9,12 @@ They can:
 - go the ruins, and talk to the tribes
 - look around in a nearby town for clues
 
----
-
 
 #### Clues ####
-
 - The professor wasn't interested in these costal tribes to cure them
 - He learned that they were worshipping `Hastur` & `Cthulhu`
 - Further examination of his notebook reveals a `Tendril-Like Glyph`.
 - the professor is no longer trying to save the world
 - he's lost his mind so severely that he's working with the Soviets now
 
-
+---

@@ -28,7 +28,7 @@ They rush out, into the "thawing frost of a new day".
 - the students have been possessed
 - the professor started the fire to destroy his research, in an insane attempt to drive Cthuhu out of his mind 
 - some parts of the Lab aren't burned, they've been smashed.
-- **Birchwell's Notes** are gibberish, but one passage is legible:
+- *Birchwell's Notes* are gibberish, but one passage is legible:
 
 > The sleeping god must not awaken. It is a danger to the world.
 > The Yellow Demon may be a good force in all of this, and...

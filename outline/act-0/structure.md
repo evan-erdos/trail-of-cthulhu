@@ -1,7 +1,4 @@
 
-*bescott 2016-02-18*
-
-
 Act 0 Structure
 ---------------
 
