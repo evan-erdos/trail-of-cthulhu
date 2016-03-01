@@ -1,6 +1,6 @@
 
-### Scene 0 : *Dolya* ###
+### Scene 0 : *Warpath* ###
 
-As they leave, they see Dolya getting tortured for information.
-
+The players return through the village, and find that the Soviets have destroyed it.
+They learn from the survivors that there's a Soviet Encampment.
 

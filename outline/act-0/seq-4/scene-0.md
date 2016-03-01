@@ -1,15 +1,6 @@
 
-### Scene 0 : *asdvasd* ###
+### Scene 0 : *Dolya* ###
 
-Dream sequence!
-
-
-
-
-
-
-
-
-
+As they leave, they see Dolya getting tortured for information.
 
 

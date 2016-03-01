@@ -10,7 +10,7 @@ They notice **[Dolya Petrovna][]** fooling around under the lab tables behind th
 **[Professor Birchwell][]** rambles on about mythology for a short while,
 and then takes an unexpected turn into what ethics *really* mean.
 
-After a brief interrogation, they determine that she is a Soviet reporter.
+After a brief interrogation, they determine that **[Dolya Petrovna][]** is a Soviet reporter.
 
 At this point, **[Professor Birchwell][]** begins to speak very loudly.
 He gives the class a very strange assignment:

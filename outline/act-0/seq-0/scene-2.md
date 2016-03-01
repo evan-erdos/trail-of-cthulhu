@@ -28,4 +28,3 @@ The **[Players][]** gather samples from the village, and return to the lab to an
 
 [players]: <https://github.com/evan-erdos/trail-of-cthulhu/blob/master/outline/characters/players.md>
 [professor birchwell]: <https://github.com/evan-erdos/trail-of-cthulhu/blob/master/outline/characters/birchwell.md>
-

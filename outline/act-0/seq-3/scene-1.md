@@ -1,7 +1,12 @@
 
-### Scene 1 : *Diplomacy with Necromancers* ###
+### Scene 5 : *No Escape* ###
 
-The players sneak in, but are found, and must make a choice
+Having no other recourse, they go deeper into the warrens to find an underground river.
+They begin to dream, and then fall unconscious.
+
+
+
+
 
 
 

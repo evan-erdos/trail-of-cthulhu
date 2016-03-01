@@ -1,7 +1,6 @@
 
-### Scene 6 : *The Medallion* ###
+### Scene 2 : *Inside the Observatory* ###
 
-The Players awake and find that the light is a key to solving a puzzle.
-They solve it, and Cthulhu gives them a medallion.
-
+They find a way in, and see Sputnik through the telescope.
+They decode the puzzle, and realize what the Soviets are attempting.
 

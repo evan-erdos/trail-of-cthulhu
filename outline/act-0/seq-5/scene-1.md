@@ -1,7 +1,5 @@
 
-### Scene 1 : *The Observatory* ###
+### Scene 1 : *New Ruins* ###
 
-They save her, and she reveals that there's an observatory in the jungle.
-They depart at night to go find it.
-
+The players return to the lab to find the Soviets combing over it for clues.
 

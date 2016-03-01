@@ -1,6 +1,5 @@
 
-### Scene 2 : *Inside the Observatory* ###
+### Scene 2 : *On the Road Again* ###
 
-They find a way in, and see Sputnik through the telescope.
-They decode the puzzle, and realize what the Soviets are attempting.
+The players avoid capture in the lab ruins, and follow the soliders to the base.
 

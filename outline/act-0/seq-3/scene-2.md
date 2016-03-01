@@ -1,11 +1,7 @@
 
-### Scene 2 : *Diplomacy with Necromancers* ###
+### Scene 6 : *The Medallion* ###
 
-They do the deed, and the leader tells them about a man who can speak to Cthulhu.
-He also says Hastur will be their saviour.
-
-
-
-
+The Players awake and find that the light is a key to solving a puzzle.
+They solve it, and Cthulhu gives them a medallion.
 
 

@@ -2,14 +2,15 @@
 ### Scene 1 : *A Bad Diagnosis* ###
 
 They return to the village to present the chief with their findings.
-As they talk with the Chieftan, they notice the professor slip away into the woods.
+The chieftan characteristically suggests that they kill the whole neighboring tribe.
+As they talk with the Chieftan, they notice **[Professor Birchwell][]** slip away into the woods.
 Following him, they realize he's speaking in Russian to someone they can't see.
-A twig breaks, and the professor looks around, but says nothing to **[Ilya Zolnerowich][]**.
+A twig breaks, and the professor looks around, but says nothing to the man.
 They return to the village.
 
 
 #### Clues ####
-- **[Professor Birchwell][]** is under the influence of an Outer God
+- **[Professor Birchwell][]** is secretly meeting with **[Ilya Zolnerowich][]**
 
 ---
 

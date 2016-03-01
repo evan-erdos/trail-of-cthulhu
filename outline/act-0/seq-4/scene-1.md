@@ -1,15 +1,7 @@
 
-### Scene 5 : *No Escape* ###
+### Scene 1 : *The Observatory* ###
 
-Having no other recourse, they go deeper into the warrens to find an underground river.
-They begin to dream, and then fall unconscious.
-
-
-
-
-
-
-
-
+They save her, and she reveals that there's an observatory in the jungle.
+They depart at night to go find it.
 
 
