@@ -11,6 +11,12 @@ They notice **[Dolya Petrovna][]** fooling around under the lab tables behind th
 and then takes an unexpected turn into what ethics *really* mean.
 
 After a brief interrogation, they determine that **[Dolya Petrovna][]** is a Soviet reporter.
+She tells them that the Soviets believe that the US is developing a secret weapon,
+and that's what she's doing here: looking for it.
+They tell her they have no idea what she's talking about (and they dont),
+but she doesn't believe them, and tells them off:
+
+> Do not be so trusting of a government who plays favourites.
 
 At this point, **[Professor Birchwell][]** begins to speak very loudly.
 He gives the class a very strange assignment:
