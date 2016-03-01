@@ -101,3 +101,8 @@ Borst has been placed under Chief Commander Ilya Zolnerowich who takes orders fr
 Strangely most of Stalin’s orders are informed by Borst himself.
 Borst and llya don’t see eye to eye because he Ilya is so quiet, cold, and uncharasmatic.
 Borst sometimes wonders if the Chief Commander is even human.
+
+---
+
+[profile]: <assets/chekhov.png>
+

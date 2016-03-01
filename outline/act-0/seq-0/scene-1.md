@@ -17,6 +17,6 @@ and wanders off into the village in an attempt to diagnose the problem.
 [up][]
 
 [up]: <https://github.com/evan-erdos/trail-of-cthulhu/blob/master/outline/act-0/seq-0/sequence.md>
-[players]: <https://github.com/evan-erdos/trail-of-cthulhu/blob/master/outline/characters/players.md>
-[professor birchwell]: <https://github.com/evan-erdos/trail-of-cthulhu/blob/master/outline/characters/birchwell.md>
-[ilya zolnerowich]: <https://github.com/evan-erdos/trail-of-cthulhu/blob/master/outline/characters/zolnerowich.md>
+[players]: <https://github.com/evan-erdos/trail-of-cthulhu/blob/master/characters/players.md>
+[professor birchwell]: <https://github.com/evan-erdos/trail-of-cthulhu/blob/master/characters/birchwell.md>
+[ilya zolnerowich]: <https://github.com/evan-erdos/trail-of-cthulhu/blob/master/characters/zolnerowich.md>

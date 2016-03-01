@@ -2,6 +2,7 @@
 Professor Cameron Trenton Birchwell
 -----------------------------------
 
+![profile][]
 
 ### Role ###
 
@@ -72,4 +73,5 @@ but on his latest expedition he has made a number of questionable decisions rega
 
 ---
 
+[profile]: <assets/birchwell.png>
 
