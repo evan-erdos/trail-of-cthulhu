@@ -20,6 +20,8 @@ Upon hearing this, **[Professor Birchwell][]** says simply,
 - the professor knows what's going on, but won't tell the **[Players][]**
 
 ---
+[up][]
 
+[up]: <https://github.com/evan-erdos/trail-of-cthulhu/blob/master/outline/act-0/seq-0/sequence.md>
 [players]: <https://github.com/evan-erdos/trail-of-cthulhu/blob/master/outline/characters/players.md>
 [professor birchwell]: <https://github.com/evan-erdos/trail-of-cthulhu/blob/master/outline/characters/birchwell.md>

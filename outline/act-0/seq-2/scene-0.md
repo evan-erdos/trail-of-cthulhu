@@ -11,7 +11,10 @@ They are told that if they perform his *coup de grâce*,
 then they'll be in good standing with the chief,
 and must decide if they want to kill him, or plead for his life.
 
+---
+[up][]
 
+[up]: <https://github.com/evan-erdos/trail-of-cthulhu/blob/master/outline/act-0/seq-2/sequence.md>
 
 
 

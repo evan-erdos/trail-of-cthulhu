@@ -7,3 +7,8 @@ He gives the order to kill the students, but the professor begs for their lives.
 Ilya concededs, but needs to wipe their memories as best he can.
 Ilya drugs the players, and they lose consciousness.
 
+---
+[up][]
+
+[up]: <https://github.com/evan-erdos/trail-of-cthulhu/blob/master/outline/act-0/seq-4/sequence.md>
+
