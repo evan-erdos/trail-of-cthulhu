@@ -2,6 +2,8 @@
 Ilya Zolnerowich
 ----------------
 
+![profile][]
+
 ### Role ###
 
 Ilya Zolnerwich is the chief commander of a large swath of Red Army forces south of Cairo.
@@ -64,3 +66,6 @@ What's more, his frantic urge to collect more artifacts seems to supercede all s
 Ilya will go entire days without eating or sleeping when he feels the familiar tingle in the back of his brain that urges him to ceaselessly comb a particular part of the desert.
 
 ---
+
+[profile]: <https://raw.githubusercontent.com/evan-erdos/trail-of-cthulhu/master/assets/zolnerowich.png>
+

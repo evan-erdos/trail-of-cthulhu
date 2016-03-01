@@ -2,6 +2,7 @@
 Dolya Petrovna
 --------------
 
+![profile][]
 
 ### Role ###
 
@@ -46,5 +47,5 @@ She's too curious
 ---
 
 
-[profile]: <assets/dolya.png>
+[profile]: <https://raw.githubusercontent.com/evan-erdos/trail-of-cthulhu/master/assets/dolya.png>
 

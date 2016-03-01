@@ -2,6 +2,8 @@
 Colonel Ukrit Omari
 -------------------
 
+![profile][]
+
 ### Wants ###
 
 To be the most powerful man alive, having gained a taste of power and control,
@@ -68,3 +70,4 @@ to toil for him without rest.
 
 ---
 
+[profile]: <https://raw.githubusercontent.com/evan-erdos/trail-of-cthulhu/master/assets/omari.png>

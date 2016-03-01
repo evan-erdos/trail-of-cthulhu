@@ -73,5 +73,5 @@ but on his latest expedition he has made a number of questionable decisions rega
 
 ---
 
-[profile]: <master/assets/birchwell.png>
+[profile]: <https://raw.githubusercontent.com/evan-erdos/trail-of-cthulhu/master/assets/birchwell.png>
 

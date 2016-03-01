@@ -2,6 +2,8 @@
 Borst Chekhov
 -------------
 
+![profile][]
+
 ### Allies ###
 
 Soviet Military, Stalin, Adela (Wife)
@@ -104,5 +106,5 @@ Borst sometimes wonders if the Chief Commander is even human.
 
 ---
 
-[profile]: <assets/chekhov.png>
+[profile]: <https://raw.githubusercontent.com/evan-erdos/trail-of-cthulhu/master/assets/chekhov.png>
 
