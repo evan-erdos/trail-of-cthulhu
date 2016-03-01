@@ -38,7 +38,7 @@ but at some point, she learned not to be so open about her interests.
 
 ---
 
-### Samantha Bennett ###
+### Alexandra Hayes ###
 
 #### Wants ####
 stuff
