@@ -23,7 +23,7 @@ The **[Players][]** must now decide whether to investigate the other tribe, or  
 [up][]
 
 [up]: <https://github.com/evan-erdos/trail-of-cthulhu/blob/master/outline/act-0/seq-1/sequence.md>
-[players]: <https://github.com/evan-erdos/trail-of-cthulhu/blob/master/outline/characters/players.md>
-[professor birchwell]: <https://github.com/evan-erdos/trail-of-cthulhu/blob/master/outline/characters/birchwell.md>
+[players]: <https://github.com/evan-erdos/trail-of-cthulhu/blob/master/characters/players.md>
+[professor birchwell]: <https://github.com/evan-erdos/trail-of-cthulhu/blob/master/characters/birchwell.md>
 [dolya petrovna]: <https://github.com/evan-erdos/trail-of-cthulhu/blob/master/outline/act-0/characters/dolya.md>
-[ilya zolnerowich]: <https://github.com/evan-erdos/trail-of-cthulhu/blob/master/outline/characters/zolnerowich.md>
+[ilya zolnerowich]: <https://github.com/evan-erdos/trail-of-cthulhu/blob/master/characters/zolnerowich.md>

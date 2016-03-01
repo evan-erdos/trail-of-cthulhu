@@ -73,5 +73,5 @@ but on his latest expedition he has made a number of questionable decisions rega
 
 ---
 
-[profile]: <assets/birchwell.png>
+[profile]: <master/assets/birchwell.png>
 
