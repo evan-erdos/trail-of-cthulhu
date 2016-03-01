@@ -16,5 +16,5 @@ ehthumbs.db
 Thumbs.db
 
 # sublime text project files
-.sublime-workspace
-.sublime-project
+*.sublime-workspace
+*.sublime-project
