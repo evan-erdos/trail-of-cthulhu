@@ -1,8 +1,9 @@
 ---
 layout:  sequence
 title:   Resolution
+story:   0
 act:     3
-seq:     5
+seq:     6
 ---
 
 
