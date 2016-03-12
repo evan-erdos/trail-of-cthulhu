@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <description></description>
+    <link>bescott.org//</link>
+    <atom:link href="bescott.org//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 11 Mar 2016 19:35:49 -0500</pubDate>
+    <lastBuildDate>Fri, 11 Mar 2016 19:35:49 -0500</lastBuildDate>
+    <generator>Jekyll v3.1.1</generator>
+    
+      <item>
+        <title>Welcome to Cthulhu</title>
+        <description>&lt;p&gt;Here we go!&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 07 Mar 2016 17:25:56 -0500</pubDate>
+        <link>bescott.org//welcome-to-cthulhu/</link>
+        <guid isPermaLink="true">bescott.org//welcome-to-cthulhu/</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
