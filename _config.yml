@@ -2,7 +2,7 @@
 trail_title: "Trail of Cthulhu : Red Tide Rising"
 email: bescott@andrew.cmu.edu
 url: "bescott.org/"
-baseurl: ""
+baseurl: "trail-of-cthulhu/"
 permalink: /:title/
 trail_desc: >
   A Lovecraftian horror story,
