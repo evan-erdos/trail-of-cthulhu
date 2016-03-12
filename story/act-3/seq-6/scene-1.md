@@ -1,23 +1,20 @@
 ---
 layout:      scene
-title:       Another Scene
+title:       Firearms Training
 scene:       1
 beat:        procedural
-objective:   up
-subjective:  up
+objective:   down
 ---
 
 
-**[Players][]**, you'd better strap in for this one.[^0]
+On their way out of the cathedral,
+one of the **[Players][]** stops by the side of a dead citizen's body,
+pulls a pistol out of its grip and calmly turns it onto their compatriots.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+They reiterate Hastur's words:
+they can either submit their minds to Hastur
+(and possibly regain control of their bodies in the future), or die.
 
-[^0]: It's going to be a bumpy ride!
 
 
 {% include refs.md %}

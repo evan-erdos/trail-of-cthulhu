@@ -4,6 +4,7 @@ title:   Crossing a River
 seq:     2
 ---
 
+
 Upon escaping from the apartment,
 the group finds that Moscow's streets are starting to flood with the waters of the river Moskva.
 Dolya suggests that the group get to Radio Moscow in order to call for aid.

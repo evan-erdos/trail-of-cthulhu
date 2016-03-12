@@ -2,7 +2,7 @@
 layout:      scene
 title:       Being Followed
 scene:       0
-beat:        procedural
+beat:        question
 ---
 
 
