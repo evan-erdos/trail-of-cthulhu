@@ -1,9 +1,0 @@
-IFID: TADS3TOC-3DFD-4E23-8419-89B0337C6A19
-Name: Trail of Cthulhu
-Byline: by Ben Scott
-Version: v0.1.2
-ReleaseDate: 2016-03-07
-Language: en-US
-LicenseType: Freeware
-CopyingRules: Nominal cost only; compilations allowed
-PresentationProfile: Default
