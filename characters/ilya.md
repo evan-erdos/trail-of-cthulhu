@@ -4,6 +4,7 @@ title:    Ilya Zolnerowich
 profile:  ilya.png
 ---
 
+
 ### Role ###
 Ilya Zolnerowich is the chief commander of a large swath of Red Army forces south of Cairo.
 His underlings have never seen him smile, not once.

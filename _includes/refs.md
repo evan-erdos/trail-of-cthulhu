@@ -8,6 +8,7 @@
 [acheron]: <{{site.baseurl}}/characters/players/acheron/>
 [ilya]: <{{site.baseurl}}/characters/ilya/>
 [ilya zolnerowich]: <{{site.baseurl}}/characters/ilya/>
+[zolnerowich]: <{{site.baseurl}}/characters/ilya/>
 [dolya]: <{{site.baseurl}}/characters/dolya/>
 [dolya petrovna]: <{{site.baseurl}}/characters/dolya/>
 [borst]: <{{site.baseurl}}/characters/borst/>
