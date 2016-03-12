@@ -5,7 +5,9 @@
   <a href="../">Back to Sequence</a>
 {% endif %}
 &nbsp;•&nbsp;
-{% if page.act %}
+{% if page.story %}
+  <a href="{{site.baseurl}}/">Table of Contents</a>
+{% elsif page.act %}
   <a href="../../../act-{{ page.act | plus:1 }}/seq-0/scene-0/">Next Scene</a>
 {% elsif page.seq %}
   <a href="../../seq-{{ page.seq | plus:1 }}/scene-0/">Next Scene</a>
