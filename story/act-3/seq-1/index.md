@@ -1,6 +1,6 @@
 ---
 layout:  sequence
-title:   Sequence 1
+title:   Dolya Revisited
 seq:     1
 ---
 

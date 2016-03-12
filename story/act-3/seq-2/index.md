@@ -1,10 +1,11 @@
 ---
 layout:  sequence
-title:   Complication 
+title:   Crossing a River
 seq:     2
 ---
 
-Upon escaping from the apartment, the group finds that Moscow's streets are starting to flood with the waters of the river Moskva.
+Upon escaping from the apartment,
+the group finds that Moscow's streets are starting to flood with the waters of the river Moskva.
 Dolya suggests that the group get to Radio Moscow in order to call for aid.
 This means that they must cross the river,
 but both major bridges that are still above water are either teeming with night-ghaunts or smashed to pieces.

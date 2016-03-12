@@ -1,6 +1,6 @@
 ---
 layout:  sequence
-title:   Resolution
+title:   Divine Retribution
 story:   0
 act:     3
 seq:     6
