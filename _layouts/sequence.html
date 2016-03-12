@@ -3,6 +3,7 @@ layout: story
 ---
 
 <article class="sequence">
+  {% include nav/sequence.html %}
   <header class="sequence-header">
     <h1 class="sequence-title">{% if page.seq %}Sequence {{ page.seq | plus:1 }} : {% endif %}{{ page.title }}</h1>
   </header>
@@ -22,5 +23,6 @@ layout: story
     {% endif %}
     {% endfor %}
     </ul>
+  {% include nav/sequence.html %}
 </article>
 

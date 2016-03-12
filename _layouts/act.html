@@ -3,6 +3,7 @@ layout: story
 ---
 
 <article class="act">
+  {% include nav/act.html %}
   <header class="act-header">
     <h1 class="act-title">{{ page.title }}</h1>
   </header>
@@ -12,34 +13,35 @@ layout: story
   <ul>
   {% assign acts = (site.pages | sort:'url') %}
   {% for seq in acts %}
-  	{% if seq.layout == 'sequence' and seq.url contains page.url %}
-  	<li>
-  	  <article class="sequence">
-  	  	<a href="{{site.baseurl}}{{ seq.url }}">{{ seq.title }}</a>
-  	  	<ul class="fa-ul">
-  		  {% for scene in acts %}
-  		  	{% if scene.layout == 'scene' and (scene.url contains seq.url) %}
-  		  	<li>
+    {% if seq.layout == 'sequence' and seq.url contains page.url %}
+    <li>
+      <article class="sequence">
+        <a href="{{site.baseurl}}{{ seq.url }}">{{ seq.title }}</a>
+        <ul class="fa-ul">
+        {% for scene in acts %}
+          {% if scene.layout == 'scene' and (scene.url contains seq.url) %}
+          <li>
             <a href="{{site.baseurl}}{{ scene.url }}">
-  		  	  <article class="scene">
+            <article class="scene">
             <span class="beat">
             {% if scene.beat %}{% include beat/{{ scene.beat }}.html %}{% endif %}
             </span>
             {{ scene.title }}
-  			    <div class="entry">
-  			      {{ scene.excerpt }}
-  			    </div>
-  			  </article>
-  			  </a>
-  		  	</li>
-  		    {% endif %}
-  		  {% endfor %}
-  	  	</ul>
-	  </article>
-  	</li>
+            <div class="entry">
+              {{ scene.excerpt }}
+            </div>
+          </article>
+          </a>
+          </li>
+          {% endif %}
+        {% endfor %}
+        </ul>
+    </article>
+    </li>
     {% endif %}
   {% endfor %}
   </ul>
+  {% include nav/act.html %}
 </article>
 
 

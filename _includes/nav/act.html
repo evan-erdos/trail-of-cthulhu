@@ -1,0 +1,13 @@
+<span>
+{% if page.act > 0 %}
+  <a href="../act-{{ page.act | minus:1 }}">Previous Act</a>
+{% else %}
+  <a href="../../">Table of Contents</a>
+{% endif %}
+&nbsp;•&nbsp;
+{% if page.story %}
+  <a href="../../">Table of Contents</a>
+{% elsif page.act %}
+  <a href="../act-{{ page.act | plus:1 }}">Next Act</a>
+{% endif %}
+</span>

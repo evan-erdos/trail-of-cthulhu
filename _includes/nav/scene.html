@@ -1,0 +1,15 @@
+<span>
+{% if page.scene > 0 %}
+  <a href="../scene-{{ page.scene | minus:1 }}">Previous Scene</a>
+{% else %}
+  <a href="../">Back to Sequence</a>
+{% endif %}
+&nbsp;•&nbsp;
+{% if page.act %}
+  <a href="../../../act-{{ page.act | plus:1 }}/seq-0/scene-0/">Next Scene</a>
+{% elsif page.seq %}
+  <a href="../../seq-{{ page.seq | plus:1 }}/scene-0/">Next Scene</a>
+{% elsif page.scene %}
+  <a href="../scene-{{ page.scene | plus:1 }}">Next Scene</a>
+{% endif %}
+</span>
