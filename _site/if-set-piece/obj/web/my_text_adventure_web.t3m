@@ -1,0 +1,36 @@
+# my_text_adventure - TADS 3 Build File
+
+-DLANGUAGE=en_us
+-DMESSAGESTYLE=neu
+-nobanner
+-Fs ../../src
+-Fs ../../src/items
+-Fs ../../src/map
+-Fs ../../src/npcs
+
+-D TADS_INCLUDE_NET
+-Fy ../web -Fo ../web
+-I ../../src/
+-o ../../tgt/my_text_adventure_web.t3
+-lib system
+-lib adv3/adv3web
+-lib webui
+-source tadsnet
+-source about.t
+-source hints.t
+-source flashlight.t
+-source hay.t
+-source items.t
+-source leaflet.t
+-source main.t
+-source area.t
+-source area_example.t
+-source map.t
+-source emily_dickinson.t
+-source example_person.t
+-source npc.t
+-source paul_erdos.t
+-source unicorn.t
+-source user.t
+-source util.t
+-source verbs.t
