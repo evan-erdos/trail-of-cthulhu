@@ -21,4 +21,4 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 [^0]: It's going to be a bumpy ride!
 
 
-{% include trail/refs.md %}
+{% include refs.md %}

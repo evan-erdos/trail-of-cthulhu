@@ -25,7 +25,7 @@ and find themselves in a clearing, where an enormous Observatory has been built.
 They lie in wait until the Soviets leave, and then enter the Observatory.
 
 
-{% include trail/refs.md %}
+{% include refs.md %}
 
 
 

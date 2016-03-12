@@ -84,7 +84,7 @@ The **[Players][]** run through the woods to arrive before him, seeking to avoid
 [^1]: The professor will try to confuse them with more medical knowledge, or cast doubt on them.
 [^2]: **[Professor Birchwell][]** is secretly meeting with **[Ilya Zolnerowich][]**
 
-{% include trail/refs.md %}
+{% include refs.md %}
 
 
 

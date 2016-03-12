@@ -10,7 +10,7 @@ They investigate, but are caught snooping around,
 and must take a much more active role in the ritual.
 
 
-{% include trail/refs.md %}
+{% include refs.md %}
 
 
 

@@ -8,6 +8,6 @@ title:   Undersea Grottoes
 These are the warrens under the [Ruins][].
 
 
-{% include trail/refs.md %}
+{% include refs.md %}
 
 

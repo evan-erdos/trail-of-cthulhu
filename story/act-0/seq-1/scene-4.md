@@ -18,7 +18,7 @@ which appear to be forming the strange glyph they found in the notes.
 [^1]: The professor wasn't interested in these costal tribes to cure them.
 
 
-{% include trail/refs.md %}
+{% include refs.md %}
 
 
 

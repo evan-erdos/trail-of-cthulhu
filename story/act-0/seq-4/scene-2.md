@@ -19,7 +19,7 @@ they decode and record what the blinking object is sending for later evaluation.
 [^0]: Sputnik was broadcasting small amounts of information up to a month after launch.
 
 
-{% include trail/refs.md %}
+{% include refs.md %}
 
 
 

@@ -9,5 +9,5 @@ after having watched him lie to the chieftain about their plight.
 Then, they escape a fire in the lab, and investigate strange lights in the ruins.
 
 
-{% include trail/refs.md %}
+{% include refs.md %}
 

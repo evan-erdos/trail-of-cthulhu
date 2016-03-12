@@ -10,4 +10,4 @@ Just as they arrive and begin to look through the documents there,
 they're discovered by **[Ilya][]** and **[Professor Birchwell][]**.
 
 
-{% include trail/refs.md %}
+{% include refs.md %}

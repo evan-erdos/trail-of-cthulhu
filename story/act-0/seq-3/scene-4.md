@@ -39,7 +39,7 @@ When they pull it out of the water, they realize it's the *[Tendril Medallion][]
 They exit the cavern, and find themselves along the shore.
 
 
-{% include trail/refs.md %}
+{% include refs.md %}
 
 
 

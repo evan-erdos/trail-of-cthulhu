@@ -30,7 +30,7 @@ They also find another cavern, with an underground river running through it.
 [^0]: Their assailant is the spawn of Cthulhu.
 
 
-{% include trail/refs.md %}
+{% include refs.md %}
 
 
 

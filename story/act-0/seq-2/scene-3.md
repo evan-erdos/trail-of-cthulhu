@@ -40,6 +40,6 @@ The **[Players][]** set off to find him.
 
 [^0]: This is a dream representation of the *[Tendril Medallion][]*.
 
-{% include trail/refs.md %}
+{% include refs.md %}
 
 

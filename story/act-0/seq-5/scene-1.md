@@ -25,7 +25,7 @@ they roughly correlate to the capitals of every major country in the world.
 [^1]: They don't need to be, as the rockets will rely on Organic Control.
 
 
-{% include trail/refs.md %}
+{% include refs.md %}
 
 
 

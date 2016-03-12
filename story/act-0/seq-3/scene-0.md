@@ -39,7 +39,7 @@ It's round, with short tendrils around its edge.
 [^2]: This is his attempt to create his own *[Tendril Medallion][]*.
 
 
-{% include trail/refs.md %}
+{% include refs.md %}
 
 
 

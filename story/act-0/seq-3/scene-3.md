@@ -27,7 +27,7 @@ If they climb the ledge, they find that it doesn't lead out,
 but it reveals that the underground river opens into a larger cavern downstream.
 
 
-{% include trail/refs.md %}
+{% include refs.md %}
 
 
 

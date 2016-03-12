@@ -9,5 +9,5 @@ A small village along the North coast.
 It has been hit hardest by this strange curse.
 
 
-{% include trail/refs.md %}
+{% include refs.md %}
 

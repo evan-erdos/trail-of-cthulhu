@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
-    <description></description>
-    <link>bescott.org//</link>
-    <atom:link href="bescott.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 11 Mar 2016 19:35:49 -0500</pubDate>
-    <lastBuildDate>Fri, 11 Mar 2016 19:35:49 -0500</lastBuildDate>
+    <title>Trail of Cthulhu : Red Tide Rising</title>
+    <description>A Lovecraftian horror story, written for the Trail of Cthulhu Game System.
+</description>
+    <link>bescott.org//trail-of-cthulhu/</link>
+    <atom:link href="bescott.org//trail-of-cthulhu/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 11 Mar 2016 21:32:23 -0500</pubDate>
+    <lastBuildDate>Fri, 11 Mar 2016 21:32:23 -0500</lastBuildDate>
     <generator>Jekyll v3.1.1</generator>
     
       <item>
@@ -15,8 +16,8 @@
 
 </description>
         <pubDate>Mon, 07 Mar 2016 17:25:56 -0500</pubDate>
-        <link>bescott.org//welcome-to-cthulhu/</link>
-        <guid isPermaLink="true">bescott.org//welcome-to-cthulhu/</guid>
+        <link>bescott.org//trail-of-cthulhu/welcome-to-cthulhu/</link>
+        <guid isPermaLink="true">bescott.org//trail-of-cthulhu/welcome-to-cthulhu/</guid>
         
         
       </item>

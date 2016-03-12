@@ -36,7 +36,7 @@ An **Incensed Student** bars the door as they try to leave, they can:
 [^2]: Some parts of the lab aren't burned, they've been smashed.
 [^3]: This is, in fact, *[Birchwell's Grimoire][grimoire]*, a powerful spell-tome.
 
-{% include trail/refs.md %}
+{% include refs.md %}
 
 
 

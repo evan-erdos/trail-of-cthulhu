@@ -20,5 +20,5 @@ Characters
     - **[Chieftain][]**
     - **[High Acolyte][]**
 
-{% include trail/refs.md %}
+{% include refs.md %}
 

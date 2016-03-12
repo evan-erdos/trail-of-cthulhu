@@ -10,7 +10,7 @@ who claims to be able to speak to gods.
 They investigate, and end up trapped in the ruins.
 
 
-{% include trail/refs.md %}
+{% include refs.md %}
 
 
 

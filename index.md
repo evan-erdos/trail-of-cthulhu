@@ -3,7 +3,7 @@ layout: story
 title: Red Tide Rising
 ---
 
-<img src="/trail-of-cthulhu/assets/logo.png" style="margin-left:auto; margin-right:auto; display:block;">
+<img src="{{site.baseurl}}/assets/logo.png" style="margin-left:auto; margin-right:auto; display:block;">
 
 
 A Lovecraftian horror story, written for the Trail of Cthulhu Game System.
@@ -22,7 +22,7 @@ A Lovecraftian horror story, written for the Trail of Cthulhu Game System.
           {% if scene.layout == 'scene' and scene.url contains sequence.url %}
             <li><a href="{{ site.baseurl }}{{ scene.url }}">
             <span class="beat">
-            {% if scene.beat %}{% include trail/beat/{{ scene.beat }}.html %}{% endif %}
+            {% if scene.beat %}{% include beat/{{ scene.beat }}.html %}{% endif %}
             </span>
             {% if scene.scene %}Scene {{ scene.scene | plus:1 }} : {% endif %}<i>{{ scene.title }}</i></a></li>
           {% endif %}

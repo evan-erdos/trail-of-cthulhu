@@ -11,4 +11,4 @@ Player Characters
 - **[Lee Runge Hammarburg][lee]**
 - **[Acheron Erevnitis][acheron]**
 
-{% include trail/refs.md %}
+{% include refs.md %}

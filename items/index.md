@@ -15,4 +15,4 @@ Items
 </ul>
 
 
-{% include trail/refs.md %}
+{% include refs.md %}

@@ -24,7 +24,7 @@ If they play along, he will be more willing to help them later.
 [^0]: Their necklaces are actually *[Talismans of the Yellow Sign][talisman]*.
 [^1]: Later, it will be "misplaced" in storage, but they'll be on the professor's good side.
 
-{% include trail/refs.md %}
+{% include refs.md %}
 
 
 

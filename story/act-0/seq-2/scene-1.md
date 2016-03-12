@@ -40,7 +40,7 @@ Once they have their own *[talisman][]*, they can enter the inner circles.
 [^1]: This is the same image that is depicted on the *[Tendril Medallion][]*.
 
 
-{% include trail/refs.md %}
+{% include refs.md %}
 
 
 

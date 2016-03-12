@@ -34,7 +34,7 @@ The **[Professor][]** gives up, and departs, giving them a final warning:
 [^0]: It was also an insane attempt to drive Cthuhu out of his mind .
 
 
-{% include trail/refs.md %}
+{% include refs.md %}
 
 
 

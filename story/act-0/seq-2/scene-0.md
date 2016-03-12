@@ -91,7 +91,7 @@ and learn that the ritual is to be held in the ruins themselves.
 They are warned, however, that the cultists don't like "interlopers".
 
 
-{% include trail/refs.md %}
+{% include refs.md %}
 
 
 

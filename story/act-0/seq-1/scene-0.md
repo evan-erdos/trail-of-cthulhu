@@ -70,7 +70,7 @@ Some students put it out, and the students disperse.
 [^2]: She tells him that **[Ilya Zolnerowich][]** is unhappy with him about his progress.
 [^3]: **[Professor Birchwell][]** is beginning to lose his grip on reality.
 
-{% include trail/refs.md %}
+{% include refs.md %}
 
 
 

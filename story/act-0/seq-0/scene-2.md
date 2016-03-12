@@ -139,7 +139,7 @@ it doesn't fit any particular sickness that they've ever learned about.
 [^4]: If there's enough wind, bugs can't fly well enough to land on people and bite them.
 [^5]: It hasn't been particularly hot, and they seem to have no shortage of water or shade.
 
-{% include trail/refs.md %}
+{% include refs.md %}
 
 
 

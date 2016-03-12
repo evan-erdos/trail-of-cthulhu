@@ -12,4 +12,4 @@ They travel to a hidden Observatory in the jungle,
 and then must find the Soviet base to avert catastrophe.
 
 
-{% include trail/refs.md %}
+{% include refs.md %}

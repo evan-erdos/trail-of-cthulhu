@@ -33,7 +33,7 @@ Her wounds are not extensive, and she no longer wishes to serve the Soviets.
 They wait until evening, and then set out to find the Observatory.
 
 
-{% include trail/refs.md %}
+{% include refs.md %}
 
 
 

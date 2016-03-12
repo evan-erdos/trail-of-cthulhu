@@ -25,7 +25,7 @@ or the Soviet troops they saw the professor with.
 
 [^0]: He's also going to try to determine if it was the **[Players][]** he saw in the woods.
 
-{% include trail/refs.md %}
+{% include refs.md %}
 
 
 

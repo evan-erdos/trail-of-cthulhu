@@ -49,7 +49,7 @@ with a pretty steep set of stone stairs leading down.
 [^0]: His handmade version of the *[Tendril Medallion][]* doesn't reflect light.
 
 
-{% include trail/refs.md %}
+{% include refs.md %}
 
 
 

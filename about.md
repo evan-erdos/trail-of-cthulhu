@@ -223,46 +223,46 @@ Some examples:
 
 ---
 
-{% include trail/beat/procedural.html %}
-{% include trail/beat/obj-up.html %}
-{% include trail/beat/subj-down.html %}
+{% include beat/procedural.html %}
+{% include beat/obj-up.html %}
+{% include beat/subj-down.html %}
 
 This is a procedural beat, objective up, and subjective down.
 
 ---
 
-{% include trail/beat/dramatic.html %}
-{% include trail/beat/obj-up.html %}
-{% include trail/beat/subj-up.html %}
+{% include beat/dramatic.html %}
+{% include beat/obj-up.html %}
+{% include beat/subj-up.html %}
 
 This is a dramatic beat, objective up, and subjective up.
 
 ---
 
-{% include trail/beat/question.html %}
+{% include beat/question.html %}
 
 This is a question beat, objective neutral, subjective neutral.
 
 ---
 
-{% include trail/beat/bringdown.html %}
-{% include trail/beat/obj-up.html %}
-{% include trail/beat/subj-down.html %}
+{% include beat/bringdown.html %}
+{% include beat/obj-up.html %}
+{% include beat/subj-down.html %}
 
 This is a bringdown beat, objective up, subjective down.
 
 ---
 
-{% include trail/beat/gratification.html %}
-{% include trail/beat/subj-up.html %}
+{% include beat/gratification.html %}
+{% include beat/subj-up.html %}
 
 This is a gratification beat, objective neutral, subjective up.
 
 ---
 
-{% include trail/beat/pipe.html %}
-{% include trail/beat/obj-down.html %}
-{% include trail/beat/subj-down.html %}
+{% include beat/pipe.html %}
+{% include beat/obj-down.html %}
+{% include beat/subj-down.html %}
 
 This is a pipe beat, objective down, subjective down.
 

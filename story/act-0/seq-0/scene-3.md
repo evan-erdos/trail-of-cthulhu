@@ -58,7 +58,7 @@ The **[Players][]** gather samples from the village, and return to the lab to an
 [^2]: His hatred for this other tribe has clouded his judgement.
 [^3]: This doesn't fit the pattern because the chief's son left on his own accord.
 
-{% include trail/refs.md %}
+{% include refs.md %}
 
 
 

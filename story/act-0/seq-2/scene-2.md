@@ -49,7 +49,7 @@ At this point, the **[Players][]** can:
 [^0]: This is what's depicted on the *[Tendril Medallion][]*.
 
 
-{% include trail/refs.md %}
+{% include refs.md %}
 
 
 

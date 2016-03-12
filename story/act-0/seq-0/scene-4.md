@@ -20,7 +20,7 @@ They test against many common diseases and afflictions, but none of the tests co
 [^1]: There are no matches because they're not sick, they're just being altered by Cthulhu.
 [^2]: He knows what's going on, but won't tell the **[Players][]**.
 
-{% include trail/refs.md %}
+{% include refs.md %}
 
 
 

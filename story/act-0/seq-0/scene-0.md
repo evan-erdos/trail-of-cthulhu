@@ -46,7 +46,7 @@ The caravan continues on, and they make camp just outside the ruins.
 [^0]: The professor's outburst is quite out of character.
 
 
-{% include trail/refs.md %}
+{% include refs.md %}
 
 
 
