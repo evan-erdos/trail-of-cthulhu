@@ -18,8 +18,3 @@ Thumbs.db
 # sublime text project files
 *.sublime-workspace
 *.sublime-project
-
-# jekyll
-_site/
-_drafts/
-
