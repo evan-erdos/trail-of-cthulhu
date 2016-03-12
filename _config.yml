@@ -1,0 +1,13 @@
+
+trail_title: "Trail of Cthulhu : Red Tide Rising"
+email: bescott@andrew.cmu.edu
+url: "bescott.org/"
+baseurl: ""
+permalink: /:title/
+trail_desc: >
+  A Lovecraftian horror story,
+  written for the Trail of Cthulhu Game System.
+
+#gems:
+#  - jekyll-redirect-from
+
