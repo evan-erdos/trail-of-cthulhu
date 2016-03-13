@@ -4,7 +4,6 @@ title:   Sleuthing the Soviets
 seq:     2
 ---
 
-**[Players][]**
 
 At the Soviet camp, **[Ilya][]** takes the journal to his quarters.
 The **[Players][]** sabotage **[Omari][]**'s supply chain to create a distraction.
