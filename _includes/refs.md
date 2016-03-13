@@ -14,6 +14,7 @@
 [borst]: <{{site.baseurl}}/characters/borst/>
 [borst chekov]: <{{site.baseurl}}/characters/borst/>
 [ukrit]: <{{site.baseurl}}/characters/omari/>
+[omari]: <{{site.baseurl}}/characters/omari/>
 [ukrit omari]: <{{site.baseurl}}/characters/omari/>
 [chieftain]: <{{site.baseurl}}/characters/chieftain/>
 [high acolyte]: <{{site.baseurl}}/characters/acolyte/>

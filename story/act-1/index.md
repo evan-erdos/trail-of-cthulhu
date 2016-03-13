@@ -1,6 +1,6 @@
 ---
 layout:  act
-title:   Act II
+title:   The Awakening
 act:     1
 ---
 
