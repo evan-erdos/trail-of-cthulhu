@@ -8,6 +8,16 @@ dl, dd, ol, ul, figure {
     padding: 0;
 }
 
+section {
+    -webkit-column-break-inside:avoid;
+    -moz-column-break-inside:avoid;
+    -o-column-break-inside:avoid;
+    -ms-column-break-inside:avoid;
+    column-break-inside:avoid;
+}
+
+
+
 .beat {
     font-size: 75%;
     vertical-align: 2px;
