@@ -15,7 +15,9 @@ title:    Alexandra Hayes
 
 
 ### Wants ###
-Reassurance
+She needs to rid herself of these horrible preemonitions.
+The very process of exploring and learning about the Mythos is actively harmful to her,
+but she needs to do it, so that she can attach new meaning and understanding to things that she experienced as a child.
 
 
 ### Tools ###
