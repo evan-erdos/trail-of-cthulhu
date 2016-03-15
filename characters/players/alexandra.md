@@ -20,6 +20,7 @@ Reassurance
 
 ### Tools ###
 Biologist (student):
+
 - Refresh one pool point in Biology, Geology, Pharmacy or Forensics (Max 4)
 - use one Cthulhu Mythos or Occult pool point to either:
   - refresh one sanity point
