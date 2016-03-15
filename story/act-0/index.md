@@ -7,7 +7,8 @@ act:     0
 
 The **[Players][]** are studying late antiquity Roman ruins in Northern Africa,
 under the tutelage of **[Professor Cameron Trenton Birchwell][birchwell]**,
-an academic doctor, sent to the area to diagnose a rash of sleep disturbances,
+purported to be more of an academic than a doctor,
+who was sent to the area to diagnose a rash of sleep disturbances,
 reported by many local tribes.
 Shortly into the expedition, the **[Professor][]** begins to act erratically.
 A fire breaks out at their lab, and the **[Players][]** are left to pick up the pieces.
