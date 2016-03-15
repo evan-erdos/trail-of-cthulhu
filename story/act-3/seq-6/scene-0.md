@@ -1,6 +1,6 @@
 ---
 layout:      scene
-title:       Kill Your Television
+title:       Left at the Altar
 scene:       0
 beat:        gratification
 objective:   up

@@ -1,6 +1,6 @@
 ---
 layout:      scene
-title:       I Have No Mouth, and I Must Scream
+title:       I Have No Mouth and I Must Scream
 story:       0
 act:         3
 seq:         5

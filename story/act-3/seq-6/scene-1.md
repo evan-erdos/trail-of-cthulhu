@@ -1,6 +1,6 @@
 ---
 layout:      scene
-title:       Firearms Training
+title:       Kill Your Darlings
 scene:       1
 beat:        procedural
 objective:   down

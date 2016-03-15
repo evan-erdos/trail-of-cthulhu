@@ -1,6 +1,6 @@
 ---
 layout:  sequence
-title:   An Enemy Of My Enemy is a Friend
+title:   An Enemy Of My Enemy
 seq:     3
 ---
 

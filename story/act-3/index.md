@@ -1,6 +1,6 @@
 ---
 layout:  act
-title:   Act IV
+title:   Where Are Monsters in Dreams?
 story:   0
 act:     3
 ---

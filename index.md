@@ -8,11 +8,12 @@ title: Red Tide Rising
 
 A Lovecraftian horror story, written for the Trail of Cthulhu Game System.
 
+<div>
+
 {% assign acts = (site.pages | sort:'url') %}
-<ul>
 {% for act in acts %}
   {% if act.layout == 'act' %}
-    <li><a href="{{ site.baseurl }}{{ act.url }}">{{ act.title }}</a></li>
+    <h2><a href="{{ site.baseurl }}{{ act.url }}">Act {{act.act |plus:1 }} : <strong>{{ act.title }}</strong></a></h2>
     <ul>
     {% for sequence in acts %}
       {% if sequence.layout == 'sequence' and sequence.url contains act.url %}
@@ -33,11 +34,8 @@ A Lovecraftian horror story, written for the Trail of Cthulhu Game System.
     </ul>
   {% endif %}
 {% endfor %}
-</ul>
 
-
-
-
+</div>
 
 
 

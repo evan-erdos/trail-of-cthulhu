@@ -1,6 +1,6 @@
 ---
 layout:      scene
-title:       "...which is a building, which is on fire..."
+title:       My Old School
 scene:       3
 beat:        bringdown
 objective:   down
