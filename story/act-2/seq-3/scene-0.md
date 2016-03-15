@@ -1,23 +1,22 @@
 ---
 layout:      scene
-title:       Another Scene
+title:       Changes
 scene:       0
-beat:        procedural
-objective:   up
-subjective:  up
+beat:        bringdown
+objective:   down
+subjective:  down
 ---
 
 
-**[Players][]**, you'd better strap in for this one.[^0]
+The knowledge that the **[Players][]** have gained from the vision has changed them.[^0]
+The lab now looks more like a homestead and appears to have doubled in size.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The **[Professor][]** is muttering:
 
-[^0]: It's going to be a bumpy ride!
+> That which is seen is not alone...
+> that which is heard is not alone.
 
+
+[^0]: **Sanity > 2** and must talk about their pillars of stability
 
 {% include refs.md %}

@@ -1,23 +1,26 @@
 ---
 layout:      scene
-title:       Another Scene
+title:       The Two Pillars
 scene:       1
 beat:        procedural
 objective:   up
-subjective:  up
 ---
 
+The **[Players][]** are now able to access various parts of the underground temple.
+There are two pillars on the other side of the camp opposite the temple.
 
-**[Players][]**, you'd better strap in for this one.[^0]
+One is a pillar of space that has inscribed on it various hieroglyphs,
+which depict people using portals to teleport.[^0]
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The other is a pillar of time that also has hieroglyphs.[^1]
+They show the dead coming back to life as their youthful selves.
+Both seem to be connected to a singular entity.
 
-[^0]: It's going to be a bumpy ride!
+Having looked at both of the pillars,
+the **[Players][]** also notice a pond just beyond the two.
 
+
+[^0]: Egyptian hieroglyphs, to be precise.
+[^1]: Greek in origin.
 
 {% include refs.md %}

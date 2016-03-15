@@ -1,25 +1,22 @@
 ---
 layout:      scene
-title:       Another Scene
+title:       An Irrefusable Offer
 act:         2
 seq:         5
 scene:       3
-beat:        procedural
-objective:   up
-subjective:  up
+beat:        dramatic
+objective:   down
 ---
 
 
-**[Players][]**, you'd better strap in for this one.[^0]
+During the travel, they have a claustrophobic vision of being drowned in a well,
+by pure yellow sand surrounded by 70 banners of a mermaid.
+They awake to find themselves caught by **[Omari][]** and his personal bodyguards.
+**[Omari][]** offers them a deal,
+to help him gain power through a ritual,
+by choosing for him as he is not sure if the ritual is completed through a sacrifice of 70 children or by some other means.
+He gives them time to consider what needs to be done and sends to be locked away in a prison ship.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-[^0]: It's going to be a bumpy ride!
 
 
 {% include refs.md %}

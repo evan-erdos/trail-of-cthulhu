@@ -4,12 +4,16 @@ title:   Strange Æons
 act:     0
 ---
 
-A village in North Africa reports strange sleep problems.
-**[Professor Birchwell][]** begins to act erratically.
-The **[Players][]** take part in a strange ritual,
-and become trapped in strange ruins.
-They travel to a hidden Observatory in the jungle,
-and then must find the Soviet base to avert catastrophe.
+
+The **[Players][]** are studying late antiquity Roman ruins in Northern Africa,
+under the tutelage of **[Professor Cameron Trenton Birchwell][birchwell]**,
+an academic doctor, sent to the area to diagnose a rash of sleep disturbances,
+reported by many local tribes.
+Shortly into the expedition, the **[Professor][]** begins to act erratically.
+A fire breaks out at their lab, and the **[Players][]** are left to pick up the pieces.
+They take part in a strange ritual, and are trapped in strange ruins.
+After they escape, they travel to a hidden Observatory in the jungle,
+and learn a horrible secret about the Soviet presence in North Africa.
 
 
 {% include refs.md %}

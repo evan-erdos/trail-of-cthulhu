@@ -1,23 +1,32 @@
 ---
 layout:      scene
-title:       Another Scene
+title:       Bounded In Chains of Iron
 scene:       0
-beat:        procedural
-objective:   up
-subjective:  up
+beat:        pipe
 ---
 
+In order to investigate the tablet further,
+the **[Players][]** bring it back to the hidden Soviet camp.
+Using academic abilities to study it allows them to see a vision.
+They see a Moon, Sea, Priestess, Storm, Yellow-Masked King,
+and a warrior with a bull horned helmet.
 
-**[Players][]**, you'd better strap in for this one.[^0]
+They also see a vision of **[Professor Birchwell][]** and **[Ilya][]** talking about a bull,
+which has been killed and stored somewhere in the hidden facility.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+When they investigate the dead bull stored in the hidden camp,[^0]
+it teaches the **[Players][]** that the bull was killed in a very specific way.
+It was chained with iron, hammered into stone,
+and slowly dehydrated with over-salted food.
 
-[^0]: It's going to be a bumpy ride!
+They can test various theories of what the tablet visions meant with the **[Professor][]**.
+He reacts to things about Moon, Dream, Sea and Storm,
+each with a tale about ancient gods and priestesses.
+
+
+
+
+[^0]: **Stability > 3**
 
 
 {% include refs.md %}

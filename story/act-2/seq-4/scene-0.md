@@ -1,23 +1,22 @@
 ---
 layout:      scene
-title:       Another Scene
+title:       Book Burning
 scene:       0
-beat:        procedural
-objective:   up
-subjective:  up
+beat:        bringdown
+objective:   down
 ---
 
+The **[Players][]** hear a huge explosion coming from above.
+They wander out of the hidden area to see the entire area of fire.
+The Soviets are hell bent on ending the insanity that **[Professor Birchwell][]** and **[Ilya][]** started.
 
-**[Players][]**, you'd better strap in for this one.[^0]
+As the **[Players][]** escape, they hear that **[Borst][]** has taken over the remnants of the Soviets,
+and is slowly closing down the borders and preventing anyone or thing from escaping an intended purge.
+As they leave the area a widespread broadcast is made;
+**[Borst][]** calls for the death of all of those who follow the old gods.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-[^0]: It's going to be a bumpy ride!
+The Soviets also want to destroy all evidence of such insanity,
+and come after the **[Players][]** to destroy their notes and the spell book.
 
 
 {% include refs.md %}

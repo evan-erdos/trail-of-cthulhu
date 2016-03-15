@@ -1,23 +1,25 @@
 ---
 layout:      scene
-title:       Another Scene
+title:       The God of No Name
 scene:       1
-beat:        procedural
+beat:        pipe
 objective:   up
-subjective:  up
 ---
 
 
-**[Players][]**, you'd better strap in for this one.[^0]
+The **[Players][]** must pinpoint the location of Ilya’s whereabouts,
+and figure out why the mask was more important than the monster.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+They discover that the camp was setup on the ruins.[^0]
+The village worshipped not the God they had been led to believe, but rather a God of No Name.[^1]
+Further investigation shows that they also worshipped several other gods,
+all considered the sons of the God of No Name.
 
-[^0]: It's going to be a bumpy ride!
+Dolya mentions hearing similar stories from the tribes in the regions.
+
+
+[^0]: **Architecture** / **Archaeology** / **History**
+[^1]: **Oral History** / **Anthropology**
 
 
 {% include refs.md %}

@@ -1,23 +1,18 @@
 ---
 layout:      scene
-title:       Another Scene
+title:       Eternal Fires of Chimæra
 scene:       2
 beat:        procedural
 objective:   up
-subjective:  up
 ---
 
 
-**[Players][]**, you'd better strap in for this one.[^0]
+The **[Players][]** end up at the camp site (chosen for this path of the story),
+where Borst is burning idols and people in the name of the Orthodox Church.
+The flame gets out of hand, and destroys much of the campsite.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-[^0]: It's going to be a bumpy ride!
+He then takes the rest of the Russian contingency to the docks,
+where they began preparation to sail back to Russia.
 
 
 {% include refs.md %}

@@ -1,23 +1,25 @@
 ---
 layout:      scene
-title:       Another Scene
+title:       Wanted Men
 scene:       0
 beat:        procedural
-objective:   up
-subjective:  up
+objective:   down
 ---
 
 
-**[Players][]**, you'd better strap in for this one.[^0]
+The **[Players][]** began looking for the whereabouts of **[Omari][]**.
+As it turns out **[Omari][]** is not very happy that his supply chain was destroyed,
+or that because of the **[Players][]** meddling he had lost a valuable customer,
+and this can be found out through any bartender, ruffian or ex-pirate in town.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+He has apparently sent his men out to search for the **[Players][]**,
+but due to the insanity of **[Borst][]** these men have mostly kept away from the known Soviet camps,
+as they too have slowly turned to worship the old gods.
 
-[^0]: It's going to be a bumpy ride!
+Upon further investigation the pirates are worshipping the Drowned God.
+
+The **[Players][]** also realize that the fastest way to get to **[Omari][]** is to get captured,
+even though they will be stripped of all of their belongings.
 
 
 {% include refs.md %}

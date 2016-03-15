@@ -1,24 +1,28 @@
 ---
 layout:      scene
-title:       Another Scene
+title:       Cognitive Surgery
 seq:         0
 scene:       3
-beat:        procedural
+beat:        dramatic
 objective:   up
-subjective:  up
 ---
 
 
-**[Players][]**, you'd better strap in for this one.[^0]
+They discover a well-hidden Soviet Base in a temple, which they didn't notice before.
+In the base, they find **[Professor Birchwell][]**, who seems to have been experimented on.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Interrogating him with his *[grimoire][]* is inconsistent:
+he's sometimes coherent and sometimes not,
+depending on the overall sanity of the Party.
+He does mention the King with the Yellow Mask may be the same as the God of No Name.
+He also mentions the Yellow One could not find his other half,
+and that it angered him to no end.
+Investigating the manuscripts reveals the true nature of the village's sickness.
+It was not a biological sleep disturbing sickness,
+it was the influence of a dream-based hypnosis.
+This is why **[Professor Birchwell][]** and **[Ilya][]** were interested in this village.
 
-[^0]: It's going to be a bumpy ride!
+At this point the **[Players][]** are ambushed by the natives.
 
 
 {% include refs.md %}

@@ -1,23 +1,18 @@
 ---
 layout:      scene
-title:       Another Scene
+title:       And on the Third Day...
 scene:       0
-beat:        procedural
+beat:        question
 objective:   up
-subjective:  up
 ---
 
 
-**[Players][]**, you'd better strap in for this one.[^0]
+Having lost the Yellow Mask to Ilya, the **[Players][]** must now leave the cave.
+When they return to the area surrounding the cave,
+they discover that the Soviets have left leaving behind a half-burned campsite.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-[^0]: It's going to be a bumpy ride!
-
+Sense Trouble shows that they were in a hurry to leave.
+The **[Players][]** can use their abilities to investigate the half burned camp,
+which is no longer as secure as before.
 
 {% include refs.md %}

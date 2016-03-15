@@ -1,23 +1,16 @@
 ---
 layout:      scene
-title:       Another Scene
+title:       Getting Better all the Time
 scene:       1
-beat:        procedural
+beat:        gratification
 objective:   up
 subjective:  up
 ---
 
-
-**[Players][]**, you'd better strap in for this one.[^0]
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-[^0]: It's going to be a bumpy ride!
+As he talks about these things in particular he slowly regains of some sense of sanity.
+He provides clues to a ruin that had been underneath the school,
+that has to do with the medallions that the **[Players][]** are wearing.
+After this, however, he completely loses it again.
 
 
 {% include refs.md %}

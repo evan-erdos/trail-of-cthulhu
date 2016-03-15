@@ -1,24 +1,35 @@
 ---
 layout:      scene
-title:       Another Scene
+title:       Avatars of Hastur
 seq:         3
 scene:       3
 beat:        procedural
-objective:   up
-subjective:  up
+objective:   down
+subjective:  down
 ---
 
 
-**[Players][]**, you'd better strap in for this one.[^0]
+They are broken from this vision and **[Dolya][]** collapses into a heap,
+she then begins to float, her body tinged yellow, and says:
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+> Bow to me for I am Hastur.
+> You who possess my sigil and have protected my tomb have done well.
 
-[^0]: It's going to be a bumpy ride!
+At this point the **[Professor][]** regains a certain amount of sanity,
+only enough to use a spell to stop the possession.
+
+At this point the pond becomes a real physical pond.
+The **[Players][]** and **[Dolya][]** regain consciousness with no memory of the incident.
+
+The **[Professor][]** can be questioned but he has gone back to his rambling.
+The pond has a temple in the middle of it and the **[Players][]** can investigate this temple.
+In it, they find various allusions to Hastur,
+and how he had once ruled the land before turning into a god.
+
+Tales of his ability to appear to people in dreams and control people through dreams are also shown.
+It is depicted as many of the tribes worshipping him as a god.
+However, the last piece of evidence is half destroyed:
+it is a painting with a half done god and half done man with huge blur in the middle.
 
 
 {% include refs.md %}

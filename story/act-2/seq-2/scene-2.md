@@ -1,23 +1,26 @@
 ---
 layout:      scene
-title:       Another Scene
+title:       The Ruined School
 scene:       2
-beat:        procedural
+beat:        bringdown
 objective:   up
-subjective:  up
+subjective:  down
 ---
 
 
-**[Players][]**, you'd better strap in for this one.[^0]
+Returning to the school and searching for the hidden passage to the ancient ruins,
+the **[Players][]** find a lab built into a ruin.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**[Borst][]** sees a picture at the lab which causes him to run away in fear.
+**[Dolya][]** too looks at and starts to take deep breaths.
 
-[^0]: It's going to be a bumpy ride!
+It depicts **[Ilya][]**, destroying a pillar of sanity of the **[Player][]**.
+If the **[Professor][]** is shown this,
+his reaction is such:
+
+> How has he met the Yellow Sign, hidden on the dark side of the moon?
+
+**[Dolya][]** also wonder out loud what could have frightened **[Borst][]** so much that he ditched the party and ran away.
 
 
 {% include refs.md %}

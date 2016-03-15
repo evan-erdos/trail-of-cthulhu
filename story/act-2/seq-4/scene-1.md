@@ -1,23 +1,22 @@
 ---
 layout:      scene
-title:       Another Scene
+title:       Apéritif
 scene:       1
-beat:        procedural
-objective:   up
-subjective:  up
+beat:        bringdown
+objective:   down
 ---
 
 
-**[Players][]**, you'd better strap in for this one.[^0]
+Escaping the Soviets, the **[Players][]** end up at a tribal village,
+each of which supports the "Drowned God" and make sacrifices in his name.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The **[Players][]** are treated well,
+and the elder speaks to them about the seeing the Yellow sign medallion.
 
-[^0]: It's going to be a bumpy ride!
+The tribe however turn out to be a Cannibalistic tribe and attack.[^0]
+The **[Players][]** flee and sneak through the jungle to a safe area,
+from where they can choose to go to the city or back to a camp to recuperate.
 
+[^0]: While they can fight, they would flee for this.
 
 {% include refs.md %}

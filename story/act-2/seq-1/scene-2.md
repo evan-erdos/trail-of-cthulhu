@@ -1,23 +1,25 @@
 ---
 layout:      scene
-title:       Another Scene
+title:       The Pillars
 scene:       2
-beat:        procedural
+beat:        pipe
 objective:   up
-subjective:  up
 ---
 
+They side with **[Dolya][]**.
+The tribal lord explains to the **[Players][]** that for ages,
+the tribe has protected the world from the sealed God of No Name.
+The God of No Name seeks to rule as King once more.
+He does not have clarity as to where **[Ilya][]** could be taking the mask,
+but does say that to awaken the God to his full power,
+the 3 pillars of space (3 dimensions) and the 3 pillars of time
+(past, present and future) must be erected.
 
-**[Players][]**, you'd better strap in for this one.[^0]
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-[^0]: It's going to be a bumpy ride!
+He also provides the **[Players][]** with *[Medallions of the Yellow Sign][medallion]*,
+saying that the following and learning from the sign will teach them the truths of the world.
+He leaves them with a statement of the sign,
+saying that it will save the world of others and change the world of theirs,
+what this means is left open and the tribal chief will not answer any further.
 
 
 {% include refs.md %}

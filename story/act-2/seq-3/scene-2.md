@@ -1,23 +1,24 @@
 ---
 layout:      scene
-title:       Another Scene
+title:       The Pond and the King
 scene:       2
 beat:        procedural
 objective:   up
-subjective:  up
 ---
 
+They will not be able to reach it,
+and by spending their abilities they realize that it's not real:
+it's a phenomena similar to a mirage but is not being caused by heat and light.
 
-**[Players][]**, you'd better strap in for this one.[^0]
+The shimmer is caused by darkness, but they can see past the shadow,
+and they observe that it has a yellow outline to it.[^0]
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This triggers a vision of an ancient period where people move around like zombies.
 
-[^0]: It's going to be a bumpy ride!
+They bow to a king wearing a mask, and the **[Players][]** are drawn closer to this being.
+Suddenly, it looks at them.
 
+
+[^0]: **Cthulhu Mythos**
 
 {% include refs.md %}

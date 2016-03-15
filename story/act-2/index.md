@@ -1,6 +1,6 @@
 ---
 layout:  act
-title:   Act III
+title:   Chasing the King in Yellow
 act:     2
 ---
 

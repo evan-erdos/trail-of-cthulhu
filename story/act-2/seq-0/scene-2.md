@@ -1,23 +1,26 @@
 ---
 layout:      scene
-title:       Another Scene
+title:       Temple of Hastur
 scene:       2
 beat:        procedural
 objective:   up
-subjective:  up
 ---
 
 
-**[Players][]**, you'd better strap in for this one.[^0]
+They discover documents of a hidden camp site near the tribal village.[^0]
+It seems to be a temple to this God with No Name they had been excavating.
+To get there they must commandeer a damaged car.[^1]
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The **[Players][]** stumble upon some ruins,
+which indicate the existence of other gods in the region that have been sealed away.
+They are then chased by Soviets who are attempting to destroy what is left of the other bases.
+These Soviets can be dealt with or tracked to a different base.
+The base contains artifacts which point to a War between a Sea God and Storm God,
+as well as Lore about the God of No Name and his priestess on Earth.
 
-[^0]: It's going to be a bumpy ride!
+
+[^0]: **Literature** / **Language**
+[^1]: If Borst is alive then he can drive the car.
 
 
 {% include refs.md %}

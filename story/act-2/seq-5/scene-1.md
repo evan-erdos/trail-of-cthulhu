@@ -1,23 +1,21 @@
 ---
 layout:      scene
-title:       Another Scene
+title:       Unquenchable Thirst
 scene:       1
-beat:        procedural
-objective:   up
-subjective:  up
+beat:        pipe
 ---
 
 
-**[Players][]**, you'd better strap in for this one.[^0]
+They hear that **[Omari][]** prides himself on being hidden,
+and so far has only been found once,
+by Ilya for whom he has done a favor in exchange for telling him why he was found.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The **[Players][]** realize that by finding **[Omari][]** they will be able to ask of a favor from him.
+Further investigating **[Omari][]**,
+the **[Players][]** hear the rumors of him being part of a Sheiks harem as a young boy.
 
-[^0]: It's going to be a bumpy ride!
+They also hear of his unquenchable thirst for power,
+and how he has slowly been turning towards the old gods as a solution for that thirst.
 
 
 {% include refs.md %}
