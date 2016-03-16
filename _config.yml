@@ -8,6 +8,6 @@ description: >
   A Lovecraftian horror story,
   written for the Trail of Cthulhu Game System.
 
-#gems:
-#  - jekyll-redirect-from
-
+gems:
+#- jekyll-redirect-from
+- jekyll-coffeescript

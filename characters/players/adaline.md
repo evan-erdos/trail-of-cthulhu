@@ -10,13 +10,16 @@ Adaline seeks power, strength, and political influence via manipulation.
 However, she uses her capacity for the benefit of herself and others,
 more often seeking to do good than evil.
 
+She was drawn to the Professor's program because of his relative fame on campus.
+She views Professor Birchwell as influential, and wants to learn more.
+
 
 ### Tools ###
 Adaline has a cutting perception of the human condition,
 and is capable of bending social interactions to her will.
 She can instantly determine a person's flaws and weaknesses,
-and can twist and deflect the insecurities of men towards themselves,
-or, perhaps more devastatingly, towards each other.
+and can twist and deflect people's insecurities towards themselves,
+or perhaps more devastatingly, towards each other.
 
 
 ### Flaws ###

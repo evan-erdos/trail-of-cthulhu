@@ -10,34 +10,33 @@ title:    Alexandra Hayes
 
 
 ### Sources of Stability ###
-- your yellow topaz necklace, a gift from your parents and your only remaining connection to them
-- George Henderson, your former boss and confidant at the “Bear and Bowler” pub
+- her yellow topaz necklace, a gift from her parents and her only remaining connection to them
+- George Henderson, her former boss and confidant at the “Bear and Bowler” pub
 
 
 ### Wants ###
-She needs to rid herself of these horrible preemonitions.
-The very process of exploring and learning about the Mythos is actively harmful to her,
-but she needs to do it, so that she can attach new meaning and understanding to things that she experienced as a child.
-
+She needs to rid herself of these unassailable feelings of ennui and dread, however,
+the very process of exploring and learning about the Mythos is actively harmful to her.
+She needs to learn about her past, but being so logical, she cannot accept the Mythos as truth.
+The only way she can grow is by accepting it,
+so that she can gain new insights and understanding into her childhood experiences.
 
 ### Tools ###
-Biologist (student):
-
-- Refresh one pool point in Biology, Geology, Pharmacy or Forensics (Max 4)
-- use one Cthulhu Mythos or Occult pool point to either:
-  - refresh one sanity point
-  - two stability points for another player
+- Biologist (student):
+  - Refresh one pool point in Biology, Geology, Pharmacy or Forensics (Max 4)
+  - use one Cthulhu Mythos or Occult pool point to either:
+      - refresh one sanity point
+      - two stability points for another player
 
 
 ### Common Knowledge ###
 Originally from a rural farming community in Kansas,
-your parents sent you away aboard a Greyhound bus after a Hastur-worshiping cult
-(which you parents had joined) tried to sacrifice you to save their crops from the Dust Bowl.
-You got a job as barkeep in Arkham, and enrolled in Miskatonic University’s biology program,
-mostly to rid yourself of your unassailable feelings of ennui and dread.
-Then, in your final semester,
-you found an advert calling for applications to an academic program in North Africa,
-just south of Cairo...
+Alexandra Hayes' parents sent her away aboard a Greyhound bus after a Hastur-worshiping cult
+(which her parents had joined) tried to sacrifice her to save their crops from the Dust Bowl.
+She got a job as a barkeep in Arkham and enrolled in Miskatonic University’s Biology program,
+mostly to rid herself of the unassailable feelings of ennui and dread she has about her past.
+In her final semester, she learns that the revered Professor Birchwell is seeking assistance,
+and is calling for applications to his research program in North Africa, just south of Cairo.
 
 
 
