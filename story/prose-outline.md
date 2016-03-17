@@ -74,11 +74,11 @@ He's sweating, and fumbling with the controls of the slide projector.
 The PCs hear glass shattering, somewhere on the other side of the lab.
 A small fire breaks out below a fume hood.
 Professor Birchwell watches the fire spread for a moment, and giggles.
-Some students put it out, and the students disperse.
+Some students put it out, and the audience begins to disperse.
 
 They return to the village to present the chief with their findings.
 Professor Birchwell tells the Chieftain that the village has *trypanosomiasis*
-(or African Sleeping Sickness), however,
+(African Sleeping Sickness), however,
 none of the samples the PCs analyzed corroborate this.
 The Chieftain characteristically suggests that they kill the whole neighboring tribe.
 As they conclude with the Chieftain, they notice Professor Birchwell slip away again.
@@ -91,7 +91,7 @@ Professor Birchwell begins to leave, and the PCs run through the woods to arrive
 The PCs confront Professor Birchwell about what he did,
 and he erupts with anger, almost incoherently babbling about trust and secrets, and his research.
 He accuses them of spying on him, and trying to kill him.
-After a thorough accosting, he lets them go, with a firm warning.
+After a thorough accosting, he lets them go.
 
 The PCs awake to the sound of sirens, and flee their rooms.
 It smells like smoke, and sections of the Laboratory are crumbling.
@@ -126,7 +126,7 @@ They learn that there will be a sacrifice,
 and that another student has volunteered to be "awakened".
 
 In their attempts to learn more about the ritual,
-the PCs are eventually caught by none other than the High Acolyte.
+the PCs are caught by none other than the High Acolyte.
 
 They are told that if they perform his *coup de grâce*,
 then they'll be "awakened", and in good standing with the cult.
@@ -141,14 +141,14 @@ A player wields the *Ceremonial Knife*, and approaches the altar.
 The Sacrificial Student lies comatose on the altar,
 eyes wide open, but completely unresponsive to his surroundings.
 
-
 As the player brings the *Ceremonial Knife* down,
 the Sacrificial Student begins to say their name.
 His voice trails off after his heart is perforated by the knife.
 
-Satisfied with their work, the High Acolyte tells them about a tribesman,
+Satisfied with their work, the High Acolyte tells them about a tribesman named only "The Dreaming One",
 who claims to be able to communicate with gods.
 
+The PCs set out to find him.
 
 
 
@@ -169,13 +169,13 @@ twisting his shattered frame against the rocky outcrop.
 They also find that he's still clutching a little stone carving.
 It's round, with short tendrils around its edge.
 
-Recalling what the High Acolyte told them,
+Recalling what the High Acolyte told them about the Dreaming One's visions,
 the PCs return to the ruins at high-noon.
-In proper daylight, they observe that there's a hole,
+In proper daylight, they observe that there's a small notch,
 cut through the top of one of the pillars.
 With proper alignment, they emulate how the medallion would reflect light,
 and the aplite pillar begins to sink into the ground, revealing a passageway,
-with a pretty steep set of stone stairs leading down.
+with a steep set of stone stairs leading down.
 
 As the PCs walk down the stairs of entrance, they hear rumbling.
 The entrance begins to collapse, and stone begins to roll down the stairs.
@@ -186,6 +186,7 @@ It's slimy, it has tentacles, and it doesn't appear to be touching the ground.
 
 Once they defeat the creature, they assess their surroundings.
 They're in a damp, underground grotto, and they can faintly hear running water.
+They explore for some time, but cannot find any other exits.
 
 As they approach the underground river, the PCs begin to have a strange sensation.
 It's like they're dreaming awake, and they feel compelled to swim in the water.
@@ -209,7 +210,7 @@ They appear to have crawled out of the water in their sleep,
 and put one hand back in the water.
 
 They find themselves in a different cavern, and can now see a way out.
-However, it's nighttime, but the water is still glowing.
+Even though it's nighttime, the water is still glowing.
 
 They gather themselves, and notice a glint shining from the shallows.
 When they pull it out of the water, they realize it’s part of the *Tendril Medallion*.
@@ -224,8 +225,8 @@ They exit the cavern, and find themselves along the shore.
 
 ### I.5 ###
 They return to the Lab, which has been rebuilt slightly since the fire.
-They clean themselves up, and they learn that Professor Birchwell is missing.
-Nobody has seen him since the fire.
+They clean themselves up, and they learn that Professor Birchwell is missing,
+and that nobody has seen him since the fire.
 They return to the ruins and the village to look for him.
 When they arrive at the village, it looks like a warzone.
 There are bullet holes everywhere, and villagers are bleeding out in the streets.
@@ -290,12 +291,21 @@ Now that they know where the Soviet Encampment is,
 the PCs are free to return to the lab.
 Salvaging tools, they work on decoding what they saw in the Observatory.
 
-After many hours of codebreaking, they learn a horrible truth.
+After many hours of codebreaking,
+they realize that they don't have enough information to break the code.
 
-The blinking object they noticed through the telescope was sending coordinates.
-Plotting them, they realize that although the coordinates are very imprecise,
-they roughly correlate to the capitals of every major country in the world.
+However, they are able to decrypt small snippets of information.
+Even though they can only make out bits and pieces,
+they deduce that the Soviets are in North Africa looking for an artefact.
+It's apparently very powerful, and they plan to weaponize it.
 
+If it is as powerful as the communications indicate,
+and if the Soviets do intend to weaponize it,
+it could give them a critical advantage over the United States,
+rendering the US policy of brinksmanship useless.
+
+If the PCs do not act, and soon,
+the Soviet Union might become the world's *only* superpower.
 
 
 Act II : **The Awakening**
@@ -305,7 +315,7 @@ Act II : **The Awakening**
 The party has regrouped in the ruins surrounding the burned school.
 They survey the land to scavenge whatever resources available.
 The PCs run into Borst and he has a dagger on him.
-Using the resources they heal him and find out that the soviets have caused the fire in the school.
+Using the resources they heal him and find out that the Soviets have caused the fire in the school.
 He needs additional healing herbs from the local tribes.
 
 Depending on how the PCs have interacted with the tribes in Act I they will have an easier or more difficult time obtaining the herbs.
