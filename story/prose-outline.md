@@ -13,7 +13,7 @@ Professor Birchwell has been sent to diagnose a rash of sleep disturbances,
 reported by villagers who live near a cluster of late-Antiquity Roman ruins in Northern Africa.
 He has assembled a team of students and doctors to assist him on this expedition.
 
-Early one morning, each of the Players receive a note under their door,
+Early one morning, each of the PCs receive a note under their door,
 instructing them to gather their things in preparation for the first expedition.
 
 With packs full, they arrive at the staging ground.
@@ -27,7 +27,7 @@ Professor Birchwell becomes irate with the driver,
 and begins to lambaste him about coolant fluids.
 
 Late at night, they are ambushed by tribesmen.
-The Players witness Professor Birchwell being cornered by a tribesman.
+The PCs witness Professor Birchwell being cornered by a tribesman.
 He draws his pistol and fires, and the other attackers disperse.
 
 When the caravan arrives, they are met with the sight a dying village.
@@ -35,7 +35,7 @@ Villagers, clad in rags, are seen roaming the streets, or sleeping in alleyways.
 Nearly everyone appears to be sleep deprived, and some even have physical wounds.
 
 Professor Birchwell delegates assignments to the group.
-The Players are to question the more salient locals,
+The PCs are to question the more salient locals,
 to determine what they think the cause of their sickness is.
 They are also tasked with finding the village leader, and getting his opinion.
 
@@ -49,7 +49,7 @@ and he blames their disappearance on the neighboring "demon worshippers".
 His son disappeared without warning, a month before the village began to have problems.
 All the other missing villagers showed signs of this "curse" before disappearing.
 
-The Players gather samples from the village, and return to the lab to analyze the data.
+The PCs gather samples from the village, and return to the lab to analyze the data.
 Professor Birchwell appears as they leave the village, and the group returns to the lab.
 
 The caravan returns to the lab, and they begin analysis on the samples immediately.
@@ -58,7 +58,7 @@ They test against many common diseases and afflictions, but none of the tests co
 
 
 ### I.2 ###
-The next day, the Players are summoned to the main lab, again via note.
+The next day, the PCs are summoned to the main lab, again via note.
 Upon their arrival, they find that Professor Birchwell has begun well ahead of schedule.
 The players notice a girl they've never seen before, watching him from the back of the lab.
 The professor's in a cheerful mood, and is telling "doctor jokes" to a group of students.
@@ -71,7 +71,7 @@ He stutters through a few slides, then skips a bunch,
 and begins to talk about ethics, and the difference between right and wrong.
 He's sweating, and fumbling with the controls of the slide projector.
 
-The Players hear glass shattering, somewhere on the other side of the lab.
+The PCs hear glass shattering, somewhere on the other side of the lab.
 A small fire breaks out below a fume hood.
 Professor Birchwell watches the fire spread for a moment, and giggles.
 Some students put it out, and the students disperse.
@@ -79,30 +79,30 @@ Some students put it out, and the students disperse.
 They return to the village to present the chief with their findings.
 Professor Birchwell tells the Chieftain that the village has *trypanosomiasis*
 (or African Sleeping Sickness), however,
-none of the samples the Players analyzed corroborate this.
+none of the samples the PCs analyzed corroborate this.
 The Chieftain characteristically suggests that they kill the whole neighboring tribe.
 As they conclude with the Chieftain, they notice Professor Birchwell slip away again.
 They trail him as he weaves his way through the village, to the edge of town.
-He stops at a bridge in the woods, and the Players observe him at a distance.
+He stops at a bridge in the woods, and the PCs observe him at a distance.
 They realize he's speaking in Russian to someone they can't see, on the other side of the bridge.
-A twig breaks, and the professor looks directly at the Players, but says nothing to the man.
-Professor Birchwell begins to leave, and the Players run through the woods to arrive before him.
+A twig breaks, and the professor looks directly at the PCs, but says nothing to the man.
+Professor Birchwell begins to leave, and the PCs run through the woods to arrive before him.
 
-The Players confront Professor Birchwell about what he did,
+The PCs confront Professor Birchwell about what he did,
 and he erupts with anger, almost incoherently babbling about trust and secrets, and his research.
 He accuses them of spying on him, and trying to kill him.
 After a thorough accosting, he lets them go, with a firm warning.
 
-The Players awake to the sound of sirens, and flee their rooms.
+The PCs awake to the sound of sirens, and flee their rooms.
 It smells like smoke, and sections of the Laboratory are crumbling.
 They observe some of their peers doing very strange things.
-After they escape the lab, the Players pore over the notes they found.
+After they escape the lab, the PCs pore over the notes they found.
 It's slightly helpful, but now they need to learn more.
 
 
 
 ### I.3 ###
-The Players return to the ruins, and overhear chatter about a new ritual.
+The PCs return to the ruins, and overhear chatter about a new ritual.
 They learn that the ritual is to be held in the ruins themselves, however,
 They are warned that the cultists don't like "interlopers".
 
@@ -114,7 +114,7 @@ which has inscribed on it a strange glyph, which they initially percieve to be t
 The center of what they thought was the sun is actually a twisted face,
 whose horrified expression is immortalized in the red stone.
 
-The Players lie in wait, to observe another student gaining entry to the ritual.
+The PCs lie in wait, to observe another student gaining entry to the ritual.
 When this occurs, they realize that everyone in the ritual is wearing a talisman,
 just like the ones worn by the tribesmen who ambushed them on the first night.
 They show their talisman to the cultists, and they are welcomed into the main crowd.
@@ -126,7 +126,7 @@ They learn that there will be a sacrifice,
 and that another student has volunteered to be "awakened".
 
 In their attempts to learn more about the ritual,
-the Players are eventually caught by none other than the High Acolyte.
+the PCs are eventually caught by none other than the High Acolyte.
 
 They are told that if they perform his *coup de grâce*,
 then they'll be "awakened", and in good standing with the cult.
@@ -136,7 +136,7 @@ They are all taught a chant, and are each given a *Ceremonial Knife*.
 The High Acolyte instructs them to strike at the student's heart,
 and sends them out to the altar.
 
-The Players decide to carry out the ritual.
+The PCs decide to carry out the ritual.
 A player wields the *Ceremonial Knife*, and approaches the altar.
 The Sacrificial Student lies comatose on the altar,
 eyes wide open, but completely unresponsive to his surroundings.
@@ -154,10 +154,10 @@ who claims to be able to communicate with gods.
 
 ### I.4 ###
 They arrive at the tent of the so-called Dreaming One, only to find it empty.
-Looking closer, the Players notice a hole in the side of the tent,
+Looking closer, the PCs notice a hole in the side of the tent,
 and a bunch of strange, slithering markings leading downhill.
 
-Following the tracks, the Players find themselves in a small ocean inlet.
+Following the tracks, the PCs find themselves in a small ocean inlet.
 They observe a man, prostrate on a large boulder at the water's edge.
 Suddenly, the waterline recesses, nearly draining the inlet.
 
@@ -170,14 +170,14 @@ They also find that he's still clutching a little stone carving.
 It's round, with short tendrils around its edge.
 
 Recalling what the High Acolyte told them,
-the Players return to the ruins at high-noon.
+the PCs return to the ruins at high-noon.
 In proper daylight, they observe that there's a hole,
 cut through the top of one of the pillars.
 With proper alignment, they emulate how the medallion would reflect light,
 and the aplite pillar begins to sink into the ground, revealing a passageway,
 with a pretty steep set of stone stairs leading down.
 
-As the Players walk down the stairs of entrance, they hear rumbling.
+As the PCs walk down the stairs of entrance, they hear rumbling.
 The entrance begins to collapse, and stone begins to roll down the stairs.
 
 Now, they're a dozen feet underground, and possibly wounded.
@@ -187,10 +187,10 @@ It's slimy, it has tentacles, and it doesn't appear to be touching the ground.
 Once they defeat the creature, they assess their surroundings.
 They're in a damp, underground grotto, and they can faintly hear running water.
 
-As they approach the underground river, the Players begin to have a strange sensation.
+As they approach the underground river, the PCs begin to have a strange sensation.
 It's like they're dreaming awake, and they feel compelled to swim in the water.
 
-Having no other recourse, the Players gather their things, and take the plunge.
+Having no other recourse, the PCs gather their things, and take the plunge.
 Strange shapes flit in and out of their minds, and they begin to fall asleep.
 Their dreams are more lucid than life, and they dream of strange oceanscapes,
 where the seemingly flat ocean is bent and twirled in strange directions,
@@ -228,24 +228,24 @@ When they arrive at the village, it looks like a warzone.
 There are bullet holes everywhere, and villagers are bleeding out in the streets.
 
 Among the wounded they find the girl they saw approach the professor in lecture.
-The Players learn that she is Dolya Petrovna,
+The PCs learn that she is Dolya Petrovna,
 a Russian Journalist working for a Soviet media machine.
 She reveals that the Soviets were the ones who destroyed the village,
 and that they have a hidden Observatory, deep in the jungle.
 
-The Players set out into the jungle at night to find the Observatory.
+The PCs set out into the jungle at night to find the Observatory.
 After hearing a string of inexplicably horrifying noises coming from the jungle,
 they are attacked by another strange, tentacled creature.
 This time, however, a Soviet jeep appears down the road,
-and as the Players flee, the jeep gunner kills the beast.
+and as the PCs flee, the jeep gunner kills the beast.
 
 Dolya's leg is still wounded, and she can't move very quickly.
 She's taken by the Soviets, who drive off in a different direction.
 
-The Players follow the tire tracks in the dirt,
+The PCs follow the tire tracks in the dirt,
 and find themselves in a clearing, where an enormous Observatory has been built.
 
-Having found a way in, the Players begin to gather information.
+Having found a way in, the PCs begin to gather information.
 They rife through desks and drawers, read documents, and find some instructions.
 
 They follow the instructions, and see a blinking object through the telescope.
@@ -254,24 +254,24 @@ they decode and record what the blinking object is sending for later evaluation.
 
 Ilya Zolnerowich and the Professor enter the Observatory.
 Ilya has his men take the grimoire and the medallion from them.
-Ilya orders his troops to kill the Players,
+Ilya orders his troops to kill the PCs,
 but the professor bargains for their lives.
 He concedes, and departs with his troops, taking the artefacts with them.
 
-Professor Birchwell is furious with the Players, and is armed.
+Professor Birchwell is furious with the PCs, and is armed.
 He accosts them for meddling, but doesn't seem like he's going to kill them.
 He explains that he started the fire at the Lab to destroy his research.
 He's not very coherent, but asks them to join him in his research.
 
 When they ask him about the Soviets, he becomes furious.
 He reveals as little as he can about what he's doing,
-and tries to learn everything he can about what the Players know.
+and tries to learn everything he can about what the PCs know.
 
 
 
 
 ### I.6 ###
-The Players now know that their professor is working with the Soviets,
+The PCs now know that their professor is working with the Soviets,
 that the Soviets have kidnapped Dolya, who is wounded,
 and that the Soviets have destroyed a whole village looking for something.
 
@@ -279,12 +279,12 @@ They return to the lab, but when they arrive, it's no longer recognizable.
 The Soviets have given it the same treatment they gave the village,
 and there's still an attaché of Soviet troops, looking for survivors.
 
-The Players hide in the brush until the Soviets are through.
+The PCs hide in the brush until the Soviets are through.
 Trailing the soliders, they find a hidden Soviet encampment,
 but cannot approach the base until it's dark.
 
 Now that they know where the Soviet Encampment is,
-the Players are free to return to the lab.
+the PCs are free to return to the lab.
 Salvaging tools, they work on decoding what they saw in the Observatory.
 
 After many hours of codebreaking, they learn a horrible truth.
@@ -322,7 +322,7 @@ The players see Ilya talking to Omari while waving the journal around. He is iss
 Omari has left the shipyard and several workers are moving valuable artifacts around the camp. The PCs have to create a distraction so that they can get the guards away from the doorway to Ilya’s quarters. Overhearing a conversation they decide that obstructing the supply chain will take heat away from them, and cause Ilya problems allowing them to escape with the journal. Through either planting explosives, stealing guard uniforms and altering orders etc. The PCs cause a disturbance. When they do a Omari runs out of the medical facility. The players see soldiers dragging the professor off.
 The PCs sneak through the facility. They see Birchwell talking to Ilya. They steal Ilya’s keys and attempt to enter his quarters. They are confronted by a guard outside. Through questioning they find out that Ilya has been unable to get inside the cave and it has put him in a terrible mood.
 The party grabs the journal. They also see Dolya chained to a metal radiator on the corner of the room, unable to escape. Questioning her and then convincing her to join the party, she tells them that they must first go into her room and get an artifact she took out of Ilya’s pocket… half a Medallion the players leave the room.
-Players can search around and learn more about Dolya and her intentions. Find the Medallion, and return to Ilya’s Quarters.
+PCs can search around and learn more about Dolya and her intentions. Find the Medallion, and return to Ilya’s Quarters.
 The players release Dolya and leave the building.
 
 
