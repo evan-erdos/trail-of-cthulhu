@@ -302,24 +302,48 @@ Act II : **The Awakening**
 --------------------------
 
 ### II.1 ###
-The party has regrouped in the ruins surrounding the burned school. They survey the land to scavenge whatever resources available. The PCs run into Borst and he has a dagger on him. Using the resources they heal him and find out that the soviets have caused the fire in the school. He needs additional healing herbs from the local tribes.
+The party has regrouped in the ruins surrounding the burned school.
+They survey the land to scavenge whatever resources available.
+The PCs run into Borst and he has a dagger on him.
+Using the resources they heal him and find out that the soviets have caused the fire in the school.
+He needs additional healing herbs from the local tribes.
 
-Depending on how the PCs have interacted with the tribes in Act I they will have an easier or more difficult time obtaining the herbs. The PCs might have to trade the dagger or can convince the tribes to give them herbs. But to win their favor they will have to destroy invasive Soviet Radio Equipment.
+Depending on how the PCs have interacted with the tribes in Act I they will have an easier or more difficult time obtaining the herbs.
+The PCs might have to trade the dagger or can convince the tribes to give them herbs.
+But to win their favor they will have to destroy invasive Soviet Radio Equipment.
 
-The PCs must destroy the radio tower by using knowledge of electrical and mechanical repair. Here they obtain a soviet radio that allows them to hear russian military chatter.
+The PCs must destroy the radio tower by using knowledge of electrical and mechanical repair.
+Here they obtain a soviet radio that allows them to hear russian military chatter.
 
-The players return to the tribe and receive the healing herbs. The shaman tells them that the russians have sent parties to their temples and ransacked them looking for information about a mask. He warns the PCs not to enter any of the nearby caves as they are cursed.
+The players return to the tribe and receive the healing herbs.
+The shaman tells them that the russians have sent parties to their temples and ransacked them looking for information about a mask.
+He warns the PCs not to enter any of the nearby caves as they are cursed.
 
-The PCs make it back to Borst and give him the herbs and the radio. Borst uses the radio to tell them that the soviets have used the journal to find the location of an important underground temple. Deep inside a cave. Borst convinces them that Ilya will have brought Birchwell to the temple, and must have tortured him into revealing the secrets in the journal.
+The PCs make it back to Borst and give him the herbs and the radio.
+Borst uses the radio to tell them that the soviets have used the journal to find the location of an important underground temple.
+Deep inside a cave.
+Borst convinces them that Ilya will have brought Birchwell to the temple,
+and must have tortured him into revealing the secrets in the journal.
 
 
 
 ### II.2 ###
-The party follows the coordinates towards the coordinates they hear about on the radio but are caught in a sandstorm that blinds them. They hear the sound of water and are drawn into a cavern with a hidden waterfall oasis.
+The party follows the coordinates towards the coordinates they hear about on the radio but are caught in a sandstorm that blinds them.
+They hear the sound of water and are drawn into a cavern with a hidden waterfall oasis.
 
-PCs see a glimmer in the water. Upon approaching it a figure comes out of the shadows. It’s the shaman from the tribes. He curses the PCs for entering a cave after they were told not to. He warns them to leave immediately. The players kill him and then go explore the pool of water. They find have of an ancient medallion. The first player who tries to grab it is pulled into the oasis by a tentacle, but when he surfaces can’t see anything. The sandstorm dies out.
+PCs see a glimmer in the water. Upon approaching it a figure comes out of the shadows.
+It’s the shaman from the tribes.
+He curses the PCs for entering a cave after they were told not to.
+He warns them to leave immediately.
+The players kill him and then go explore the pool of water.
+They find have of an ancient medallion. The first player who tries to grab it is pulled into the oasis by a tentacle,
+but when he surfaces can’t see anything.
+The sandstorm dies out.
 
-After leaving the cave a solid slab of rock closes behind them. Revealing a keyhole and occult writing. Radio chatter catches the voice of the Professor in the background. The PCs head to the Soviet Base, as a reluctant Borst joins them.
+After leaving the cave a solid slab of rock closes behind them.
+Revealing a keyhole and occult writing.
+Radio chatter catches the voice of the Professor in the background.
+The PCs head to the Soviet Base, as a reluctant Borst joins them.
 
 
 
@@ -335,7 +359,8 @@ Ilya walks into his quarters and through a window the PCs see him put the journa
 
 Omari has left the shipyard and several workers are moving valuable artifacts around the camp.
 The PCs have to create a distraction so that they can get the guards away from the doorway to Ilya’s quarters.
-Overhearing a conversation they decide that obstructing the supply chain will take heat away from them, and cause Ilya problems allowing them to escape with the journal.
+Overhearing a conversation they decide that obstructing the supply chain will take heat away from them,
+and cause Ilya problems allowing them to escape with the journal.
 Through either planting explosives, stealing guard uniforms and altering orders etc.
 The PCs cause a disturbance.
 When they do a Omari runs out of the medical facility.
@@ -349,7 +374,9 @@ Through questioning they find out that Ilya has been unable to get inside the ca
 
 The party grabs the journal.
 They also see Dolya chained to a metal radiator on the corner of the room, unable to escape.
-Questioning her and then convincing her to join the party, she tells them that they must first go into her room and get an artifact she took out of Ilya’s pocket… half a Medallion the players leave the room.
+Questioning her and then convincing her to join the party,
+she tells them that they must first go into her room and get an artifact she took out of Ilya’s pocket...
+half a Medallion the players leave the room.
 
 PCs can search around and learn more about Dolya and her intentions.
 Find the Medallion, and return to Ilya’s Quarters.
@@ -357,13 +384,29 @@ Find the Medallion, and return to Ilya’s Quarters.
 The players release Dolya and leave the building.
 
 
-
-
-
 ### II.4 ###
 Omari pulls up in a truck and is convinced that the PCs are the reinforcements that Ilya ordered.
-Omari tells them that they are headed to the cave to carry new goods to the Docks.
+Omari tells them that they are headed to the cave to carry new goods to the docks.
 But first must get supplies from his ship.
+
+The player characters arrive on the docks and see children hauling boxes of goods while others guard over them with weapons.
+Omari calls them his children, and explains that they deserve better than the lives they have- and that he provides for them.
+
+On the docks a child slips and drops a precious vase.
+Omari flies into a fit of anger and tells the PCs they must punish this child while he secures military escort.
+Omari points at his boat and tells them to take the child to the Crew's Quarters.
+
+The child obediently leads the party into the crews quarters where several children are sitting around looking exhausted.
+A guard stands at the ready eyeing the group.
+The PCs must decide whether or not to beat the child or overpower the guard and question the children locked down there.
+Either way they will learn about Omari’s Food Storage, a place of leverage he uses to keep children working for him.
+The children say that Omari keeps his most important maps inside and that all the Soviet documents are inside.
+
+The PCs leave the boat and head to the Food Storage aiming to rescue the papers or feed the children so they might turn on Omari.
+The food shortage is closed with a special lock requiring a key.
+While there Omari shows up and begins to question their reason for being at the Food Storage.
+The players can use this as a way to learn more about Omari and the child labor camp he runs.
+
 
 
 ### II.5 ###
@@ -393,7 +436,9 @@ Omari then takes the party to the cave.
 
 ### II.6 ###
 The party rolls up to the cave and instantly Ilya recognizes them.
-He pulls the pendant off of Dolya’s neck, and searches the PCs taking the other half of the medallion Ilya’s soldier place the completed Medallion in the keyhole and a yellow gas leaks out causing serious burns, blisters and popping warts.
+He pulls the pendant off of Dolya’s neck and searches the PCs,
+taking the other half of the medallion.
+Ilya’s soldier place the completed Medallion in the keyhole and a yellow gas leaks out causing serious burns, blisters and popping warts.
 One soldier runs into the caves.
 Ilya forces the PC into the cave after him by gunpoint.
 He tells them that if they make it out alive he will let them and Birchwell leave.
