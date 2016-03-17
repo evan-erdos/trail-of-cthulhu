@@ -157,7 +157,7 @@ They arrive at the tent of the so-called Dreaming One, only to find it empty.
 Looking closer, the Players notice a hole in the side of the tent,
 and a bunch of strange, slithering markings leading downhill.
 
-Following the tracks, the Players find themselves in a small ocean inlet. 
+Following the tracks, the Players find themselves in a small ocean inlet.
 They observe a man, prostrate on a large boulder at the water's edge.
 Suddenly, the waterline recesses, nearly draining the inlet.
 
@@ -299,18 +299,18 @@ Act II : **The Awakening**
 --------------------------
 
 ### II.1 ###
-The party has regrouped in the ruins surrounding the burned school. They survey the land to scavenge whatever RESOURCES available. The PCs run into BORST and he has a dagger on him. Using the RESOURCES they heal him and find out that the soviets have caused the fire in the school. He needs additional healing HERBS from the local TRIBES.
-Depending on how the PCs have interacted with the TRIBES in Act I they will have an easier or more difficult time obtaining the HERBS. The PCs might have to trade the dagger or can convince the TRIBES to give them HERBS. But to win their favor they will have to destroy invasive Soviet Radio Equipment.
-The PCs must destroy the radio tower by using knowledge of electrical and mechanical repair. Here they obtain a soviet RADIO that allows them to hear russian military chatter.
-The players return to the tribe and receive the healing HERBS. The shaman tells them that the russians have sent parties to their temples and ransacked them looking for information about a mask. HE warns the PCs not to enter any of the nearby caves as they are cursed.
-The PCs make it back to BORST and give him the HERBS and the RADIO. BORST uses the radio to tell them that the soviets have used the JOURNAL to find the location of an important underground TEMPLE. Deep inside a CAVE. Borst convinces them that ILYA will have brought BIRCHWELL to the TEMPLE, and must have tortured him into revealing the secrets in the journal.
+The party has regrouped in the ruins surrounding the burned school. They survey the land to scavenge whatever resources available. The PCs run into Borst and he has a dagger on him. Using the resources they heal him and find out that the soviets have caused the fire in the school. He needs additional healing herbs from the local tribes.
+Depending on how the PCs have interacted with the tribes in Act I they will have an easier or more difficult time obtaining the herbs. The PCs might have to trade the dagger or can convince the tribes to give them herbs. But to win their favor they will have to destroy invasive Soviet Radio Equipment.
+The PCs must destroy the radio tower by using knowledge of electrical and mechanical repair. Here they obtain a soviet radio that allows them to hear russian military chatter.
+The players return to the tribe and receive the healing herbs. The shaman tells them that the russians have sent parties to their temples and ransacked them looking for information about a mask. He warns the PCs not to enter any of the nearby caves as they are cursed.
+The PCs make it back to Borst and give him the herbs and the radio. Borst uses the radio to tell them that the soviets have used the journal to find the location of an important underground temple. Deep inside a cave. Borst convinces them that Ilya will have brought Birchwell to the temple, and must have tortured him into revealing the secrets in the journal.
 
 
 
 ### II.2 ###
 The party follows the coordinates towards the coordinates they hear about on the radio but are caught in a sandstorm that blinds them. They hear the sound of water and are drawn into a cavern with a hidden waterfall oasis.
-PCs see a glimmer in the water. Upon approaching it a figure comes out of the shadows. It’s the shaman from the TRIBES. He curses the PCs for entering a cave after they were told not to. He warns them to leave immediately. The players kill him and then go explore the pool of water. They find have of an ancient medallion. The first player who tries to grab it is pulled into the oasis by a tentacle, but when he surfaces can’t see anything. The sandstorm dies out.
-After leaving the cave a solid slab of rock closes behind them. Revealing a keyhole and occult writing. Radio chatter catches the voice of the Professor in the background. The PCs head to the SOVIET BASE, as a reluctant BORST joins them.
+PCs see a glimmer in the water. Upon approaching it a figure comes out of the shadows. It’s the shaman from the tribes. He curses the PCs for entering a cave after they were told not to. He warns them to leave immediately. The players kill him and then go explore the pool of water. They find have of an ancient medallion. The first player who tries to grab it is pulled into the oasis by a tentacle, but when he surfaces can’t see anything. The sandstorm dies out.
+After leaving the cave a solid slab of rock closes behind them. Revealing a keyhole and occult writing. Radio chatter catches the voice of the Professor in the background. The PCs head to the Soviet Base, as a reluctant Borst joins them.
 
 
 
@@ -318,35 +318,35 @@ After leaving the cave a solid slab of rock closes behind them. Revealing a keyh
 
 
 ### II.3 ###
-The players see ILYA talking to OMARI while waving the JOURNAL around. He is issuing orders to men around him getting frustrated. BORST tells us that he wants OMARI to start shipping things now. However, OMARI refuses because he wants a military escort if he is entering Russian waters. ILYA walks into his quarters and through a window the PCs see him put the JOURNAL down.
-OMARI has left the shipyard and several workers are moving valuable artifacts around the camp. The PCs have to create a distraction so that they can get the guards away from the doorway to ILYA’s quarters. Overhearing a conversation they decide that obstructing the supply chain will take heat away from them, and cause ILYA problems allowing them to escape with the journal. Through either planting explosives, stealing guard uniforms and altering orders etc. The PCs cause a disturbance. When they do a OMARI runs out of the medical facility. The players see soldiers dragging the professor off.
-The PCs sneak through the facility. They see BIRCHWELL talking to ILYA. They steal ILYA’s keys and attempt to enter his quarters. They are confronted by a guard outside. Through questioning they find out that ILYA has been unable to get inside the CAVE and it has put him in a terrible mood.
-The party grabs the JOURNAL. They also see DOYLA chained to the bedpost, unable to escape. Questioning her and then convincing her to join the party, she tells them that they must first go into her room and get an artifact she took out of ILYA’s pocket… half a MEDALLION the players leave the room.
-Players can search around and learn more about DOYLA and her intentions. Find the MEDALLION, and return to ILYA’S QUARTERS.
-The players release DOYLA and leave the building.
+The players see Ilya talking to Omari while waving the journal around. He is issuing orders to men around him getting frustrated. Borst tells us that he wants Omari to start shipping things now. However, Omari refuses because he wants a military escort if he is entering Russian waters. Ilya walks into his quarters and through a window the PCs see him put the journal down.
+Omari has left the shipyard and several workers are moving valuable artifacts around the camp. The PCs have to create a distraction so that they can get the guards away from the doorway to Ilya’s quarters. Overhearing a conversation they decide that obstructing the supply chain will take heat away from them, and cause Ilya problems allowing them to escape with the journal. Through either planting explosives, stealing guard uniforms and altering orders etc. The PCs cause a disturbance. When they do a Omari runs out of the medical facility. The players see soldiers dragging the professor off.
+The PCs sneak through the facility. They see Birchwell talking to Ilya. They steal Ilya’s keys and attempt to enter his quarters. They are confronted by a guard outside. Through questioning they find out that Ilya has been unable to get inside the cave and it has put him in a terrible mood.
+The party grabs the journal. They also see Dolya chained to a metal radiator on the corner of the room, unable to escape. Questioning her and then convincing her to join the party, she tells them that they must first go into her room and get an artifact she took out of Ilya’s pocket… half a Medallion the players leave the room.
+Players can search around and learn more about Dolya and her intentions. Find the Medallion, and return to Ilya’s Quarters.
+The players release Dolya and leave the building.
 
 
 
 
 
 ### II.4 ###
-OMARI pulls up in a truck and is convinced that the PCs are the reinforcements that ILYA ordered. OMARI tells them that they are headed to the CAVE to carry new goods to the DOCKS.
+Omari pulls up in a truck and is convinced that the PCs are the reinforcements that Ilya ordered. Omari tells them that they are headed to the cave to carry new goods to the Docks.
 But first must get supplies from his ship.
 
 
 ### II.5 ###
-The truck comes to a halt amidst a massive ship blocking it’s path. The ship is covered in rust and wet to the touch. Barnacles and strange slime ooze from it’s pores. OMARI tells the PCs that the truck has stalled and that they need to find some parts to get it working. The PCs pan out and look around. Upon closer inspection they see that the ship is OMARI’s but seems to be it from a different time. The graveyard of T-34 tanks hides some gears and engine parts OMARI can use to fix the truck.
-Horrible rituals have been performed inside the SHIP. Further exploration finds that the Captain’s Quarters are filled with the bodies of sacrificed children. Inside they find a letter written by OMARI to ILYA about a shipment. It is dated 3 weeks in the future. It mentions a holding cell full of lockers in the CREW’S QUARTERS.
+The truck comes to a halt amidst a massive ship blocking it’s path. The ship is covered in rust and wet to the touch. Barnacles and strange slime ooze from it’s pores. Omari tells the PCs that the truck has stalled and that they need to find some parts to get it working. The PCs pan out and look around. Upon closer inspection they see that the ship is Omari’s but seems to be it from a different time. The graveyard of T-34 tanks hides some gears and engine parts Omari can use to fix the truck.
+Horrible rituals have been performed inside the ship. Further exploration finds that the Captain’s Quarters are filled with the bodies of sacrificed children. Inside they find a letter written by Omari to Ilya about a shipment. It is dated 3 weeks in the future. It mentions a holding cell full of lockers in the Crew’s Quarters.
 Inside lockers the PCs find skeletons wearing their same attire, their bodies from another dimension. They also find a rust key.
-After returning from the ship OMARI asks them what they found. OMARI then takes the party to the cave.
+After returning from the ship Omari asks them what they found. Omari then takes the party to the cave.
 
 
 
 
 
 ### II.6 ###
-The party rolls up to the cave and instantly ILYA recognizes them. HE pulls the pendant off of DOYLA’S neck, and searches the PCs taking the other half of the medallion ILYA’s soldier place the completed MEDALLION in the keyhole and a yellow gas leaks out causing serious burns, blisters and popping warts. ONE soldier runs into the caves. ILYA forces the PC into the cave after him by gunpoint. He tells them that if they make it out alive he will let them and BIRCHWELL leave.
-The party searches for clues as to where the soldier went. They find his arm decapitated and covered in barnacles. They also find his gun. After picking it up ILYA sends two soldiers after them. Through dialogue or force the PCs deal with them and go deeper inside to find the soldier.
+The party rolls up to the cave and instantly Ilya recognizes them. He pulls the pendant off of Dolya’s neck, and searches the PCs taking the other half of the medallion Ilya’s soldier place the completed Medallion in the keyhole and a yellow gas leaks out causing serious burns, blisters and popping warts. One soldier runs into the caves. Ilya forces the PC into the cave after him by gunpoint. He tells them that if they make it out alive he will let them and Birchwell leave.
+The party searches for clues as to where the soldier went. They find his arm decapitated and covered in barnacles. They also find his gun. After picking it up Ilya sends two soldiers after them. Through dialogue or force the PCs deal with them and go deeper inside to find the soldier.
 The soldier is inside the main chamber hiding behind a pillar. A strange contraption lies dormant. Using dialogue the players must coerce the dying soldier to giving them the handle to this contraption, which he is using as a temporary arm in his disillusioned state. There are other ways to get to the bottom floor involving a giant statue puzzle.
 The lower level has a pool of water that reflects a version of the sky. It is missing the ‘cancer’ constellation. In the next room the party finds 3 statues including a crab, a bull, and a warped version of a child suckling it’s mother’s teet. The players use the crab statue (which fires projectiles) to destroy the other statues and gain access to a throne in the center of a void. On the ceiling in an intricate mosaic is a mask.
 
@@ -355,9 +355,9 @@ The lower level has a pool of water that reflects a version of the sky. It is mi
 
 
 ### II.7 ###
-The sound of the destroyed statues causes the russians to attack from above and enter the cave. There entrance through the ceiling causes the mask to fall and drop down. ILYA gets the mask and puts it on transforming himself as yellow mist fills the room. The mist kills the soldiers combining them into a giant flesh monster. The players fight the monster killing it, but causing the ceiling to collapse. They escape through a hidden chamber underneath the throne.
-The hidden chamber has a timeline of Hastur that shows even into the future. It also has references to an ancient god named CTHULHU. The party analyzes this and exits into the chamber where ILYA found the first half of the MEDALLION and left BORST for dead.
-The party regroups and decides how they are going to follow ILYA and get the mask and their professor back.
+The sound of the destroyed statues causes the russians to attack from above and enter the cave. There entrance through the ceiling causes the mask to fall and drop down. Ilya gets the mask and puts it on transforming himself as yellow mist fills the room. The mist kills the soldiers combining them into a giant flesh monster. The players fight the monster killing it, but causing the ceiling to collapse. They escape through a hidden chamber underneath the throne.
+The hidden chamber has a timeline of Hastur that shows even into the future. It also has references to an ancient god named Cthulhu. The party analyzes this and exits into the chamber where Ilya found the first half of the Medallion and left Borst for dead.
+The party regroups and decides how they are going to follow Ilya and get the mask and their professor back.
 
 
 
@@ -563,8 +563,7 @@ This leads to realization that they are on a submerged castle that is actually a
 
 One entering the ship they can find in the Colonels quarters a painting that tells the story of Asherah, her Child and Ba’al , they also find a dagger of Ba’al, they can also find notes talking about the spell to summon Asherah to have full control the sunken castle, which is actually a teleportation spell and can be used to do any kind of teleportation, not just summoning beings from other worlds or times, but a portal that  can be connected to another point in the intersections of the fabrics of space and time.
 The PCs confront Omari and hijack the summoning/defeat Asherah to take control of the portal.
-
- The portal leads them to Ilya’s location but due to the nature of the connection between the tablet that the party possess (If none of them picked it up Dolya has leading to the same result), the party has not only been separated in shifting to Moscow but also have jumped forward in time by a week, by which time Ilya has gained more power than expected.
+ The portal leads them to Ilya’s location, but just as the shimmering space-time hole in front of them begins to forcefully suck them in, the PCs realize that, while they are all holding hands to ensure that they do not get separated as they travel, Dolya is not.
 
 
 
@@ -750,8 +749,6 @@ The longer they debate the situation, the more of them succumb to Hastur's influ
 Soon, there is one PC left.
 If they take too long to kill themselves, Hastur possesses them and the game is lost,
 but if they do, then the game is ostensibly won; Hastur has been sealed away for at least another millennium...or two.
-
-
 
 
 
