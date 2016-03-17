@@ -212,7 +212,10 @@ They find themselves in a different cavern, and can now see a way out.
 However, it's nighttime, but the water is still glowing.
 
 They gather themselves, and notice a glint shining from the shallows.
-When they pull it out of the water, they realize it's the *Tendril Medallion*.
+When they pull it out of the water, they realize it’s part of the *Tendril Medallion*.
+Intricate symbols mark the back and the front,
+however, there are no symbols in a depression along the top.
+The face has notches indicating that something could be fit into it.
 
 They exit the cavern, and find themselves along the shore.
 
@@ -324,15 +327,33 @@ After leaving the cave a solid slab of rock closes behind them. Revealing a keyh
 
 
 ### II.3 ###
-The players see Ilya talking to Omari while waving the journal around. He is issuing orders to men around him getting frustrated. Borst tells us that he wants Omari to start shipping things now. However, Omari refuses because he wants a military escort if he is entering Russian waters. Ilya walks into his quarters and through a window the PCs see him put the journal down.
+The players see Ilya talking to Omari while waving the journal around.
+He is issuing orders to men around him getting frustrated.
+Borst tells us that he wants Omari to start shipping things now.
+However, Omari refuses because he wants a military escort if he is entering Russian waters.
+Ilya walks into his quarters and through a window the PCs see him put the journal down.
 
-Omari has left the shipyard and several workers are moving valuable artifacts around the camp. The PCs have to create a distraction so that they can get the guards away from the doorway to Ilya’s quarters. Overhearing a conversation they decide that obstructing the supply chain will take heat away from them, and cause Ilya problems allowing them to escape with the journal. Through either planting explosives, stealing guard uniforms and altering orders etc. The PCs cause a disturbance. When they do a Omari runs out of the medical facility. The players see soldiers dragging the professor off.
+Omari has left the shipyard and several workers are moving valuable artifacts around the camp.
+The PCs have to create a distraction so that they can get the guards away from the doorway to Ilya’s quarters.
+Overhearing a conversation they decide that obstructing the supply chain will take heat away from them, and cause Ilya problems allowing them to escape with the journal.
+Through either planting explosives, stealing guard uniforms and altering orders etc.
+The PCs cause a disturbance.
+When they do a Omari runs out of the medical facility.
+The players see soldiers dragging the professor off.
 
-The PCs sneak through the facility. They see Birchwell talking to Ilya. They steal Ilya’s keys and attempt to enter his quarters. They are confronted by a guard outside. Through questioning they find out that Ilya has been unable to get inside the cave and it has put him in a terrible mood.
+The PCs sneak through the facility.
+They see Birchwell talking to Ilya.
+They steal Ilya’s keys and attempt to enter his quarters.
+They are confronted by a guard outside.
+Through questioning they find out that Ilya has been unable to get inside the cave and it has put him in a terrible mood.
 
-The party grabs the journal. They also see Dolya chained to a metal radiator on the corner of the room, unable to escape. Questioning her and then convincing her to join the party, she tells them that they must first go into her room and get an artifact she took out of Ilya’s pocket… half a Medallion the players leave the room.
+The party grabs the journal.
+They also see Dolya chained to a metal radiator on the corner of the room, unable to escape.
+Questioning her and then convincing her to join the party, she tells them that they must first go into her room and get an artifact she took out of Ilya’s pocket… half a Medallion the players leave the room.
 
-PCs can search around and learn more about Dolya and her intentions. Find the Medallion, and return to Ilya’s Quarters.
+PCs can search around and learn more about Dolya and her intentions.
+Find the Medallion, and return to Ilya’s Quarters.
+
 The players release Dolya and leave the building.
 
 
@@ -340,40 +361,75 @@ The players release Dolya and leave the building.
 
 
 ### II.4 ###
-Omari pulls up in a truck and is convinced that the PCs are the reinforcements that Ilya ordered. Omari tells them that they are headed to the cave to carry new goods to the Docks.
+Omari pulls up in a truck and is convinced that the PCs are the reinforcements that Ilya ordered.
+Omari tells them that they are headed to the cave to carry new goods to the Docks.
 But first must get supplies from his ship.
 
 
 ### II.5 ###
-The truck comes to a halt amidst a massive ship blocking it’s path. The ship is covered in rust and wet to the touch. Barnacles and strange slime ooze from it’s pores. Omari tells the PCs that the truck has stalled and that they need to find some parts to get it working. The PCs pan out and look around. Upon closer inspection they see that the ship is Omari’s but seems to be it from a different time. The graveyard of T-34 tanks hides some gears and engine parts Omari can use to fix the truck.
+The truck comes to a halt amidst a massive ship blocking it’s path.
+The ship is covered in rust and wet to the touch.
+Barnacles and strange slime ooze from it’s pores.
+Omari tells the PCs that the truck has stalled and that they need to find some parts to get it working.
+The PCs pan out and look around.
+Upon closer inspection they see that the ship is Omari’s but seems to be it from a different time.
+The graveyard of T-34 tanks hides some gears and engine parts Omari can use to fix the truck.
 
-Horrible rituals have been performed inside the ship. Further exploration finds that the Captain’s Quarters are filled with the bodies of sacrificed children. Inside they find a letter written by Omari to Ilya about a shipment. It is dated 3 weeks in the future. It mentions a holding cell full of lockers in the Crew’s Quarters.
+Horrible rituals have been performed inside the ship.
+Further exploration finds that the Captain’s Quarters are filled with the bodies of sacrificed children.
+Inside they find a letter written by Omari to Ilya about a shipment.
+It is dated 3 weeks in the future.
+It mentions a holding cell full of lockers in the Crew’s Quarters.
 
-Inside lockers the PCs find skeletons wearing their same attire, their bodies from another dimension. They also find a rust key.
+Inside lockers the PCs find skeletons wearing their same attire, their bodies from another dimension.
+They also find a rusty key.
 
-After returning from the ship Omari asks them what they found. Omari then takes the party to the cave.
+After returning from the ship Omari asks them what they found.
+Omari then takes the party to the cave.
 
 
 
 
 
 ### II.6 ###
-The party rolls up to the cave and instantly Ilya recognizes them. He pulls the pendant off of Dolya’s neck, and searches the PCs taking the other half of the medallion Ilya’s soldier place the completed Medallion in the keyhole and a yellow gas leaks out causing serious burns, blisters and popping warts. One soldier runs into the caves. Ilya forces the PC into the cave after him by gunpoint. He tells them that if they make it out alive he will let them and Birchwell leave.
+The party rolls up to the cave and instantly Ilya recognizes them.
+He pulls the pendant off of Dolya’s neck, and searches the PCs taking the other half of the medallion Ilya’s soldier place the completed Medallion in the keyhole and a yellow gas leaks out causing serious burns, blisters and popping warts.
+One soldier runs into the caves.
+Ilya forces the PC into the cave after him by gunpoint.
+He tells them that if they make it out alive he will let them and Birchwell leave.
 
-The party searches for clues as to where the soldier went. They find his arm decapitated and covered in barnacles. They also find his gun. After picking it up Ilya sends two soldiers after them. Through dialogue or force the PCs deal with them and go deeper inside to find the soldier.
+The party searches for clues as to where the soldier went.
+They find his arm decapitated and covered in barnacles.
+They also find his gun.
+After picking it up Ilya sends two soldiers after them.
+Through dialogue or force the PCs deal with them and go deeper inside to find the soldier.
 
-The soldier is inside the main chamber hiding behind a pillar. A strange contraption lies dormant. Using dialogue the players must coerce the dying soldier to giving them the handle to this contraption, which he is using as a temporary arm in his disillusioned state. There are other ways to get to the bottom floor involving a giant statue puzzle.
+The soldier is inside the main chamber hiding behind a pillar.
+A strange contraption lies dormant.
+Using dialogue the players must coerce the dying soldier to giving them the handle to this contraption, which he is using as a temporary arm in his disillusioned state.
+There are other ways to get to the bottom floor involving a giant statue puzzle.
 
-The lower level has a pool of water that reflects a version of the sky. It is missing the ‘cancer’ constellation. In the next room the party finds 3 statues including a crab, a bull, and a warped version of a child suckling it’s mother’s teet. The players use the crab statue (which fires projectiles) to destroy the other statues and gain access to a throne in the center of a void. On the ceiling in an intricate mosaic is a mask.
+The lower level has a pool of water that reflects a version of the sky.
+It is missing the ‘cancer’ constellation.
+In the next room the party finds 3 statues including a crab, a bull, and a warped version of a child suckling it’s mother’s teet.
+The players use the crab statue (which fires projectiles) to destroy the other statues and gain access to a throne in the center of a void.
+On the ceiling in an intricate mosaic is a mask.
 
 
 
 
 
 ### II.7 ###
-The sound of the destroyed statues causes the russians to attack from above and enter the cave. There entrance through the ceiling causes the mask to fall and drop down. Ilya gets the mask and puts it on transforming himself as yellow mist fills the room. The mist kills the soldiers combining them into a giant flesh monster. The players fight the monster killing it, but causing the ceiling to collapse. They escape through a hidden chamber underneath the throne.
+The sound of the destroyed statues causes the russians to attack from above and enter the cave.
+There entrance through the ceiling causes the mask to fall and drop down.
+Ilya gets the mask and puts it on transforming himself as yellow mist fills the room.
+The mist kills the soldiers combining them into a giant flesh monster.
+The players fight the monster killing it, but causing the ceiling to collapse.
+They escape through a hidden chamber underneath the throne.
 
-The hidden chamber has a timeline of Hastur that shows even into the future. It also has references to an ancient god named Cthulhu. The party analyzes this and exits into the chamber where Ilya found the first half of the Medallion and left Borst for dead.
+The hidden chamber has a timeline of Hastur that shows even into the future.
+It also has references to an ancient god named Cthulhu.
+The party analyzes this and exits into the chamber where Ilya found the first half of the Medallion and left Borst for dead.
 
 The party regroups and decides how they are going to follow Ilya and get the mask and their professor back.
 
@@ -387,7 +443,8 @@ Act III : **Chasing the Yellow King**
 ### III.1 ###
 Having lost the Yellow mask to Ilya the PCs must now leave the cave and come back out into the area surrounding the cave where the soviets have left leaving behind a half burned campsite.
 
-Sense Trouble shows that they were in a hurry to leave. PCs can use their abilities to investigate the half burned camp which is no longer as secure as before.
+Sense Trouble shows that they were in a hurry to leave.
+PCs can use their abilities to investigate the half burned camp which is no longer as secure as before.
 
 The PCs must spend time here to try to pinpoint the location of Ilya’s whereabouts and why the mask was more important than the monster Architecture/Archaeology/History can be used to discover that the camp was setup on the ruins.
 
