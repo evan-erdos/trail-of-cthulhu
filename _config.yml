@@ -4,6 +4,9 @@ email: bescott@andrew.cmu.edu
 url: "bescott.org/"
 baseurl: "/trail-of-cthulhu"
 permalink: /:title/
+
+incremental: true
+
 description: >
   A Lovecraftian horror story,
   written for the Trail of Cthulhu Game System.

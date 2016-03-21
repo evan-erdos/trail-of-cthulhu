@@ -12,58 +12,47 @@ They return to the village to present the chief with their findings.
 The **[Players][]** are the only ones present who also went on the initial expedition.
 **[Professor Birchwell][]** begins the conversation with the **[Chieftain][]**.
 
-<div class="screenplay">
-<div class="page-break"></div>
 
-<h2 class="full-slugline">INT. CHIEFTAIN'S HUT, MORNING</h2>
+{% include inkwell-begin.html %}
 
-<p class="action">The STUDENTS and PROFESSOR BIRCHWELL return to the CHIEFTAIN's hut.
-He's still in bed, and appears to be even more insane.</p>
+INT. CHIEFTAIN'S HUT, MORNING
 
-<dl>
-<dt class="character">PROFESSOR BIRCHWELL</dt>
-<dd class="dialogue">Greetings, Chieftain.</dd>
-</dl>
+The STUDENTS and PROFESSOR BIRCHWELL return to the CHIEFTAIN's hut.
+He's still in bed, and appears to be even more insane.
 
-<dl>
-<dt class="character">CHIEFTAIN</dt>
-<dd class="dialogue">Ah, the good doctor has returned!
-He will rid us of these spirits.</dd>
-</dl>
+PROFESSOR BIRCHWELL
+Greetings, Chieftain.
 
-<dl>
-<dt class="character">PROFESSOR BIRCHWELL</dt>
-<dd class="dialogue">Not spirits, but rather African trypanosomiasis,
+CHIEFTAIN
+Ah, the good doctor has returned!
+He will rid us of these spirits.
+
+PROFESSOR BIRCHWELL
+Not spirits, but rather African trypanosomiasis,
 the dreaded sleeping sickness.
 As it has been roughly a month,
-we have brough a supply of melarsoprol, and...</dd>
-</dl>
+we have brough a supply of melarsoprol, and...
 
-<dl>
-<dt class="character">STUDENTS</dt>
-<dd class="dialogue">Uh, professor, aren't we supposed to use a combination of nifurtimox and eflornithine?
-I thought melarsoprol was only for cases of T.b.r. because of the side effect profile.</dd>
-</dl>
+STUDENTS
+Uh, professor, aren't we supposed to use a combination of nifurtimox and eflornithine?
+I thought melarsoprol was only for cases of T.b.r. because of the side effect profile.
 
-<dl>
-<dt class="character">PROFESSOR BIRCHWELL</dt>
-<dd class="dialogue">What you fail to understand is that melarsoprol is effective against both paricites,
+PROFESSOR BIRCHWELL
+What you fail to understand is that melarsoprol is effective against both paricites,
 and since we have no way of telling if this is a case of T.b.g. or T.b.r.,
-the only logical course of action is to use the more effective treatment, now may I&#8209;&#8209;</dd>
-</dl>
+the only logical course of action is to use the more effective treatment, now may I--
 
-<dl>
-<dt class="character">STUDENTS</dt>
-<dd class="dialogue">&#8209;&#8209;Aren't cases of T.b.g. about 50 times more frequent?
-Also, I don't think tsetse flies live this far north.</dd>
-</dl>
+STUDENTS
+--Aren't cases of T.b.g. about 50 times more frequent?
+Also, I don't think tsetse flies live this far north.
 
-<dl>
-<dt class="character">PROFESSOR BIRCHWELL</dt>
-<dd class="dialogue">ENOUGH. Need I remind you how long I've worked in this area?
-You will hold your tongue until we return to the lab.</dd>
-</dl>
-</div>
+PROFESSOR BIRCHWELL
+ENOUGH. Need I remind you how long I've worked in this area?
+You will hold your tongue until we return to the lab.
+
+{% include inkwell-end.html %}
+
+
 
 [#]: # (contest findings => MEDICINE > 2)
 [#]: # (argue => MEDICINE > 3)

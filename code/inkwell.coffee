@@ -1,32 +1,50 @@
 ---
 ---
 
+
+### `Inkwell`
+#
+# A little script which embeds screenplays in websites.
+#
 # Ben Scott
 # <bescott@andrew.cmu.edu>
-# 2016-03-15
-
-### Inkwell
-#
-# A web parser for the Fountain markup language
+# 2016-03-19
 ###
 
 'use strict' # just like JavaScript
 
 
+### const ###
+url_regex = /^((ftp|https?):\/\/)?([\d\w\.-]+)\.([\w\.]{2,6})([\/\w \.-]*)*\/?$/
+
+
 ### DOM ###
-site = "localhost:4000"
-baseurl = "/trail-of-cthulhu"
+site = "http://bescott.org" # domain name
+#site = "http://localhost:4000" # domain name
+baseurl = "/inkwell" # subdomain
+
+
+### Helper Functions ###
+String::startsWith ?= (s) -> @slice(0,s.length)==s
+String::endsWith   ?= (s) -> s=='' || @slice(-s.length)==s
+
 
 
 ### `Inkwell`
 #
-# Main class for Inkwell snippets
+# main class for Inkwell screenplay includes
 ###
 class Inkwell
     constructor: ->
-        inputs = document.getElementsByClassName "screenplay"
-        values = (input.id for input in inputs)
-        @load(value) for value in values
+        script = document.scripts[document.scripts.length-1]
+        @parent = script.parentElement
+        id = @parent.id
+        if id==""
+            div = script.previousSibling
+            text = div.innerHTML
+            @parent.removeChild(div)
+            @process(text)
+        else @load(id, @getURL(id))
 
 
     ### `isFountainHead`
@@ -97,39 +115,25 @@ class Inkwell
                 return @createCharacter(lines)
         else return @createAction(lines)
 
-
     ### `process`
     #
     # creates the appropriate fountain block from the input
     ###
-    process: (data, div) ->
+    process: (data) ->
+        data = data.replace(/\n\n+/,"\n\n")
         paragraphs = data.split "\n\n"
         for paragraph in paragraphs
             lines = paragraph.split "\n"
             elem = @createFountain(lines)
-            div.appendChild(elem) if elem?
-
-
-    ### `read`
-    #
-    # call `process` after the `blob` is loaded.
-    ###
-    read: (blob, div) ->
-        reader = new FileReader()
-        reader.addEventListener "loadend", (event) =>
-            data = event.target.result
-            error = event.target.error
-            @process(data,div) if error==null
-        reader.readAsText(blob)
+            @parent.appendChild(elem) if elem?
 
 
     ### `load`
     #
-    # get `blob` from an XMLHttp request
+    # get `blob` from an XMLHttp request,
+    # and `read` it after it loads
     ###
-    load: (id) ->
-        url = "#{baseurl}/scenes/#{id}.fountain"
-        div = document.getElementById(id)
+    load: (id, url) ->
         xhr = new XMLHttpRequest()
         xhr.open('GET',url,true)
         xhr.responseType = 'blob'
@@ -138,8 +142,23 @@ class Inkwell
                 blob = new Blob(
                     [xhr.response]
                     {type: 'text'})
-                @read(blob,div)
+                reader = new FileReader()
+                reader.addEventListener "loadend", (event) =>
+                    data = event.target.result
+                    error = event.target.error
+                    @process(data) if error==null
+                reader.readAsText(blob)
         xhr.send()
+
+    ### `getURL`
+    #
+    # determines if `url` is local in a crude and simple way
+    ###
+    getURL: (url) ->
+        return url if (url.match(url_regex))
+        return "#{site}#{baseurl}/scenes/#{url}.fountain"
+
+
 
 
 inkwell = new Inkwell()

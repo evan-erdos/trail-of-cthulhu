@@ -9,78 +9,57 @@ objective:   up
 
 The **[Players][]** return to the ruins, and overhear chatter about a new ritual.
 
-<div class="screenplay">
-<div class="page-break"></div>
 
-<h2 class="full-slugline">INT. BROKEN STOREFRONT, EVENING</h2>
+{% include inkwell-begin.html %}
 
-<p class="action">
-The group of STUDENTS return to the talkative STOREKEEPER.
-He's made himself quite busy, and has reordered the cans on his shelves.
-</p>
+INT. BROKEN STOREFRONT, EVENING
 
-<dl>
-<dt class="character">STUDENTS</dt>
-<dd class="dialogue">You've reorganized the whole shop!</dd>
-</dl>
+A group of STUDENTS find a STOREKEEPER who is obsessively trying to clean his shop.
+He looks like he's being flung around the room by some external force.
+His movements are sloppy, he looks tired, but his eyes are wide open.
+He repeatedly wets a rag with muddy water, and wipes down the entire counter,
+leaving chunks of dirt and grime after each pass.
 
-<dl>
-<dt class="character">STOREKEEPER</dt>
-<dd class="dialogue">y-Yes! I had to make sure... sure... Sure that people would buy meat!</dd>
-</dl>
+STUDENTS
+You've reorganized the whole shop!
 
-<dl>
-<dt class="character">STUDENTS</dt>
-<dd class="dialogue">They don't seem to be in any particular order.</dd>
-</dl>
+STOREKEEPER
+y-Yes! I had to make sure... sure... Sure that people would buy meat!
 
-<dl>
-<dt class="character">STOREKEEPER</dt>
-<dd class="dialogue">Th-they're ordered by... thing-ness!</dd>
-</dl>
+STUDENTS
+They don't seem to be in any particular order.
 
-<dl>
-<dt class="character">STUDENTS</dt>
-<dd class="dialogue">Thing-ness?</dd>
-</dl>
+STOREKEEPER
+Th-they're ordered by... thing-ness!
 
-<dl>
-<dt class="character">STOREKEEPER</dt>
-<dd class="dialogue">Are you s-sure I can't sell you s-so-some meats?</dd>
-</dl>
+STUDENTS
+Thing-ness?
 
-<dl>
-<dt class="character">STUDENTS</dt>
-<dd class="dialogue">No, thanks. We'd like to know about this ritual.</dd>
-</dl>
+STOREKEEPER
+Are you s-sure I can't sell you s-so-some meats?
 
-<dl>
-<dt class="character">STOREKEEPER</dt>
-<dd class="dialogue">I can't t-t-ell any... non-m-meat buyers about a-any ritua&#8209;&#8209;</dd>
-</dl>
+STUDENTS
+No, thanks. We'd like to know about this ritual.
 
-<dl>
-<dt class="character">STUDENTS</dt>
-<dd class="dialogue">We'll buy some meat if you tell us. Do you know anything about it?</dd>
-</dl>
+STOREKEEPER
+I can't t-t-ell any... non-m-meat buyers about a-any ritua--
 
-<dl>
-<dt class="character">STOREKEEPER</dt>
-<dd class="dialogue">Y-yes! Villagers and some of your p-people, too, take part in it,
-and th-there's another... is being held tonight!</dd>
-</dl>
+STUDENTS
+We'll buy some meat if you tell us. Do you know anything about it?
 
-<dl>
-<dt class="character">STUDENTS</dt>
-<dd class="dialogue">Where do they do this?</dd>
-</dl>
+STOREKEEPER
+Y-yes! Villagers and some of your p-people, too, take part in it,
+and th-there's another... is being held tonight!
 
-<dl>
-<dt class="character">STOREKEEPER</dt>
-<dd class="dialogue">A-are you going to b-buy meats?</dd>
-</dl>
+STUDENTS
+Where do they do this?
 
-</div>
+STOREKEEPER
+A-are you going to b-buy meats?
+
+{% include inkwell-end.html %}
+
+
 
 
 [#]: # (avoid meat => BARTER > 2)

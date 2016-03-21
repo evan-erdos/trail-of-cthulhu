@@ -20,6 +20,7 @@ The **[Players][]** hide in the brush until the Soviets are through.
 Trailing the soliders, they find a hidden Soviet encampment,
 but cannot approach the base until it's dark.
 
+
 {% include refs.md %}
 
 
