@@ -1,4 +1,5 @@
 [players]: <{{site.baseurl}}/characters/players/>
+[pcs]: <{{site.baseurl}}/characters/players/>
 [professor]: <{{site.baseurl}}/characters/birchwell/>
 [birchwell]: <{{site.baseurl}}/characters/birchwell/>
 [professor birchwell]: <{{site.baseurl}}/characters/birchwell/>
