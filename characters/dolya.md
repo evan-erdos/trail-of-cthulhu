@@ -1,7 +1,7 @@
 ---
 layout:   character
 title:    Dolya Petrovna
-#profile:  dolya.png
+profile:  dolya.png
 ---
 
 ### Role ###
@@ -27,16 +27,21 @@ so that not even surprise inspections conducted by the NKVD could uncover it.
 After a few years, she attained the position of editor,
 and now sometimes stays locked up in her office for hours on end; her workers have no real idea why.
 
+
 ### Wants ###
-She wants to alter perceptions
+She needs to find out what happened to Grigori,
+and to bring the person behind his disappearance to some sort of justice
+(this could lead to conflict with her faith in communism).
 
 
 ### Tools ###
-She has
+She is an excellent researcher with a strong grasp of the intricacies of the Russian language.
+She is also proficient with photography and a couple of different types of gun
+(she keeps a pistol in one of her office desk's drawers, just in case...)
 
 
 ### Flaws ###
-She's too curious
+her willingness to jump straight into situations without thinking can often get her in a jam.
 
 
 ### Quote ###
