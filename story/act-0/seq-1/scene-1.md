@@ -68,8 +68,8 @@ The PCs run through the woods to arrive before him, seeking to avoid suspicion.
 
 [^0]: Educated players and medical professionals will notice this diagnosis to be objectively false.
 [^1]: The Professor will try to confuse them with more medical knowledge, or cast doubt on them.
-[^2]: MEDICINE > 2: contest the Professor's findings
-[^3]: MEDICINE > 3 continue to argue
+[^2]: **MEDICINE > 2**: contest the Professor's findings
+[^3]: **MEDICINE > 3**: continue to argue
 [^4]: Professor Birchwell is secretly meeting with Ilya Zolnerowich
 
 

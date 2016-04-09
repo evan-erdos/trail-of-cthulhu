@@ -11,13 +11,8 @@ The next day, the PCs are summoned to the main lab, again via note.[^0]
 
 It reads:
 
->> <tt>OCTOBER 3, 1957</tt>
->>
->> <tt>PROFESSOR BIRCHWELL IS GIVING A LECTURE:</tt>
->>
->> <tt>BEST PRACTICES WHEN DEALING WITH NATIVE PEOPLES</tt>
->>
->> <tt>MAIN LAB, 1100 HOURS, ATTENDANCE MANDATORY</tt>
+![note-0]({{site.baseurl}}/assets/birchwell-note-1.png)
+
 
 
 Upon their arrival, they find that Professor Birchwell has begun well ahead of schedule.

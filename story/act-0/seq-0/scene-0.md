@@ -15,17 +15,7 @@ Early one morning, each of the PCs receive a note under their door.
 
 It reads:
 
-> <tt>OCTOBER 2, 1952</tt>
->
-> <tt>YOU HAVE BEEN SELECTED BY PROFESSOR BIRCHWELL</tt>
->
-> <tt>TO ASSIST HIM ON TODAY'S EXPEDITION.</tt>
->
-> <tt>PACK TWO (2) DAYS WORTH OF SUPPLIES,</tt>
->
-> <tt>AND REPORT TO THE NORTH GROUNDS BY 0800 HOURS.</tt>
->
-> <tt>THE CARAVAN DEPARTS AT 0900 HOURS.</tt>
+![note-0]({{site.baseurl}}/assets/birchwell-note-0.png)
 
 
 With packs full, they arrive at the staging ground.
@@ -42,10 +32,15 @@ EXT. NORTH STAGING GROUNDS, DAY
 
 While preparations are being made, and while the jeeps are being packed,
 a group of STUDENTS hear a scream come from across the staging grounds.
-A peer of theirs has taken a gun, and is waving it around.
+A FRIEND of theirs has taken a gun, and is waving it around.
+
+FRIEND
+It's... the yellow, yellow, yellow...
+It is our saviour! Praise... to, it!
 
 STUDENTS
-Holy shit!
+Jeez, man, seriously?
+
 
 {% include inkwell-end.html %}
 
