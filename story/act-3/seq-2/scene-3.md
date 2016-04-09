@@ -8,8 +8,24 @@ objective:   up
 ---
 
 
-Once out of the river, the **[Players][]** dash into the Radio Moscow building; the tentacle attempts to follow,
+Once out of the river, the PCs dash into the Radio Moscow building; the tentacle attempts to follow,
 but it arrives at the end of its reach.  
 
 
-{% include refs.md %}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

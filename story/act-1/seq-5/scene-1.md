@@ -11,4 +11,8 @@ The Soviets then detonate the door,
 and strange gas melts their faces and kills them.
 
 
-{% include refs.md %}
+
+
+
+
+

@@ -6,6 +6,8 @@ beat:        procedural
 objective:   down
 ---
 
-At the Soviet camp, **[Ilya][]** takes the journal to his quarters.
+At the Soviet camp, Ilya takes the journal to his quarters.
 
-{% include refs.md %}
+
+
+

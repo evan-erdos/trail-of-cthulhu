@@ -9,20 +9,20 @@ subjective:  down
 ---
 
 
-They are broken from this vision and **[Dolya][]** collapses into a heap,
+They are broken from this vision and Dolya collapses into a heap,
 she then begins to float, her body tinged yellow, and says:
 
 > Bow to me for I am Hastur.
 > You who possess my sigil and have protected my tomb have done well.
 
-At this point the **[Professor][]** regains a certain amount of sanity,
+At this point the Professor regains a certain amount of sanity,
 only enough to use a spell to stop the possession.
 
 At this point the pond becomes a real physical pond.
-The **[Players][]** and **[Dolya][]** regain consciousness with no memory of the incident.
+The PCs and Dolya regain consciousness with no memory of the incident.
 
-The **[Professor][]** can be questioned but he has gone back to his rambling.
-The pond has a temple in the middle of it and the **[Players][]** can investigate this temple.
+The Professor can be questioned but he has gone back to his rambling.
+The pond has a temple in the middle of it and the PCs can investigate this temple.
 In it, they find various allusions to Hastur,
 and how he had once ruled the land before turning into a god.
 
@@ -32,4 +32,6 @@ However, the last piece of evidence is half destroyed:
 it is a painting with a half done god and half done man with huge blur in the middle.
 
 
-{% include refs.md %}
+
+
+

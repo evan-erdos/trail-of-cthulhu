@@ -7,7 +7,7 @@ objective:   up
 ---
 
 
-The **[Players][]** return to the ruins, and overhear chatter about a new ritual.
+The PCs return to the ruins, and overhear chatter about a new ritual.
 
 
 {% include inkwell-begin.html %}
@@ -60,17 +60,15 @@ A-are you going to b-buy meats?
 {% include inkwell-end.html %}
 
 
-
-
-[#]: # (avoid meat => BARTER > 2)
-
-The **[Players][]** purchase some weird-smelling meat,
+The PCs purchase some weird-smelling meat,[^0]
 and learn that the ritual is to be held in the ruins themselves.
 
 They are warned, however, that the cultists don't like "interlopers".
 
+[^0]: **BARTER** > 2
 
-{% include refs.md %}
+
+refs.md
 
 
 

@@ -11,7 +11,7 @@ subjective:  down
 ---
 
 
-The remaining **[Players][]** overpower and kill their possessed friend.
+The remaining PCs overpower and kill their possessed friend.
 The only way to stop themselves from turning into Hastur-vessels is to kill themselves.
 The longer they debate the situation,
 the more of them succumb to Hastur's influence and must be killed.
@@ -22,4 +22,20 @@ but if they do, then the game is ostensibly won;
 Hastur has been sealed away for at least another millennium...or two.
 
 
-{% include refs.md %}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

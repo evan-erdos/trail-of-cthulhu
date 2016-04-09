@@ -7,7 +7,16 @@ scene:       2
 beat:        question
 ---
 
-**[Players][]** must regroup after defeating monster.
+PCs must regroup after defeating monster.
 
 
-{% include refs.md %}
+
+
+
+
+
+
+
+
+
+

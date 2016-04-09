@@ -7,7 +7,7 @@ objective:   up
 ---
 
 
-The **[Players][]** must pinpoint the location of Ilya’s whereabouts,
+The PCs must pinpoint the location of Ilya’s whereabouts,
 and figure out why the mask was more important than the monster.
 
 They discover that the camp was setup on the ruins.[^0]
@@ -22,4 +22,14 @@ Dolya mentions hearing similar stories from the tribes in the regions.
 [^1]: **Oral History** / **Anthropology**
 
 
-{% include refs.md %}
+
+
+
+
+
+
+
+
+
+
+

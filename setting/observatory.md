@@ -8,7 +8,7 @@ image:   observatory.png
 A secret Observatory nestled in the jungle, run by the Soviets.
 
 
-{% include refs.md %}
+refs.md
 
 
 

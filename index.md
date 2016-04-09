@@ -5,7 +5,6 @@ title: Red Tide Rising
 
 <img src="{{site.baseurl}}/assets/logo.png" style="margin-left:auto; margin-right:auto; display:block;">
 
-
 A Lovecraftian horror story, written for the Trail of Cthulhu Game System.
 
 <div style="-webkit-column-count:2; -moz-column-count:2; column-count:2;">

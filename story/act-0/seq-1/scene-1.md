@@ -9,8 +9,8 @@ subjective:  up
 
 
 They return to the village to present the chief with their findings.
-The **[Players][]** are the only ones present who also went on the initial expedition.
-**[Professor Birchwell][]** begins the conversation with the **[Chieftain][]**.
+The PCs are the only ones present who also went on the initial expedition.
+Professor Birchwell begins the conversation with the Chieftain.
 
 
 {% include inkwell-begin.html %}
@@ -51,30 +51,26 @@ ENOUGH. Need I remind you how long I've worked in this area?
 You will hold your tongue until we return to the lab.
 
 {% include inkwell-end.html %}
+[^2][^3]
 
 
-
-[#]: # (contest findings => MEDICINE > 2)
-[#]: # (argue => MEDICINE > 3)
-
-The **[Chieftain][]** characteristically suggests that they kill the whole neighboring tribe.
-As they conclude with the **[Chieftain][]**, they notice **[Professor Birchwell][]** slip away again.
+The Chieftain characteristically suggests that they kill the whole neighboring tribe.
+As they conclude with the Chieftain, they notice Professor Birchwell slip away again.
 They trail him as he weaves his way through the village, to the edge of town.
 He walks directly into the woods, and comes to a stop in the middle of a small bridge over a tiny creek.
-The **[Players][]** hide in the brush, slightly downstream.
-The sound of the water prevents **[Professor Birchwell][]** from hearing them approach.
-They realize he's speaking in Russian to someone they can't see, on the other side of the bridge.[^2]
-A twig breaks, and the professor looks directly at the **[Players][]**, but says nothing to the man.
-**[Professor Birchwell][]** departs towards the village.
-The **[Players][]** run through the woods to arrive before him, seeking to avoid suspicion.
+The PCs hide in the brush, slightly downstream.
+The sound of the water prevents Professor Birchwell from hearing them approach.
+They realize he's speaking in Russian to someone they can't see, on the other side of the bridge.[^4]
+A twig breaks, and the professor looks directly at the PCs, but says nothing to the man.
+Professor Birchwell departs towards the village.
+The PCs run through the woods to arrive before him, seeking to avoid suspicion.
 
 
 [^0]: Educated players and medical professionals will notice this diagnosis to be objectively false.
-[^1]: The professor will try to confuse them with more medical knowledge, or cast doubt on them.
-[^2]: **[Professor Birchwell][]** is secretly meeting with **[Ilya Zolnerowich][]**
-
-{% include refs.md %}
-
+[^1]: The Professor will try to confuse them with more medical knowledge, or cast doubt on them.
+[^2]: MEDICINE > 2: contest the Professor's findings
+[^3]: MEDICINE > 3 continue to argue
+[^4]: Professor Birchwell is secretly meeting with Ilya Zolnerowich
 
 
 

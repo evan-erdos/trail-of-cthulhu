@@ -1,24 +1,20 @@
 ---
-layout:  story
+layout:  characters
 title:   Characters
 ---
 
-Characters
-----------
-
-- **[Professor Birchwell][]**
-- **[Borst Chekov][]**
-- **[Dolya Petrovna][]**
-- **[Ukrit Omari][]**
-- **[Ilya Zolnerowich][]**
-- **[Players][]**:
-    - **[Adaline Braun][]**
-	- **[Alexandra Hayes][]**
-	- **[Lee Runge Hammarburg][lee]**
-	- **[Acheron Erevnitís][acheron]**
+- Professor Birchwell
+- Borst Chekov
+- Dolya Petrovna
+- Ukrit Omari
+- Ilya Zolnerowich
+- PCs:
+    - Adaline Braun
+	- Alexandra Hayes
+	- Lee Runge Hammarburg
+	- Acheron Erevnitís
 - Minor Characters:
-    - **[Chieftain][]**
-    - **[High Acolyte][]**
+    - Chieftain
+    - High Acolyte
 
-{% include refs.md %}
 

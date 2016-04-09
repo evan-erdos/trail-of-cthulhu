@@ -9,5 +9,3 @@ objective:   up
 
 They must get a remedy from the tribes.
 
-
-{% include refs.md %}

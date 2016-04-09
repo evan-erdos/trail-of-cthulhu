@@ -4,16 +4,21 @@ title:   Nature's Miracle
 seq:     1
 ---
 
-The **[Players][]** head to the encampment.
-Along the way, a sandstorm comes that forces them into a mysterious cave filled with strange markings and occult stuff.
-They get out of the cave after receiving half of a pendant from a native.
-The cave shuts behind them revealing a keyhole with occult writing.
 
-The **[Players][]** head to the Soviet camp.
+The party follows the coordinates towards the coordinates they hear about on the radio but are caught in a sandstorm that blinds them.
+They hear the sound of water and are drawn into a cavern with a hidden waterfall oasis.
 
+PCs see a glimmer in the water. Upon approaching it a figure comes out of the shadows.
+It’s the shaman from the tribes.
+He curses the PCs for entering a cave after they were told not to.
+He warns them to leave immediately.
+The players kill him and then go explore the pool of water.
+They find have of an ancient medallion. The first player who tries to grab it is pulled into the oasis by a tentacle,
+but when he surfaces can’t see anything.
+The sandstorm dies out.
 
-
-{% include refs.md %}
-
-
+After leaving the cave a solid slab of rock closes behind them.
+Revealing a keyhole and occult writing.
+Radio chatter catches the voice of the Professor in the background.
+The PCs head to the Soviet Base, as a reluctant Borst joins them.
 

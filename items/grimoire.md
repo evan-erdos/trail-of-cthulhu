@@ -1,13 +1,18 @@
 ---
 layout:  item
 title:   Birchwell's Grimoire
+weight:  4
 ---
 
-This is a book full of strange incantations, written by **[Professor Birchwell][]**.
-Initially, they seem to be gibberish, and the only passage legible is this:
+This is a book full of strange incantations, written by Professor Birchwell.
+It is bound in some sort of very fine black leather, and the pages are quite thin.
 
-> The sleeping god must not awaken. It is a danger to the world.
-> The Yellow Demon may be a good force in all of this, and...
+It contains numerous incantations, which the PCs can cast:
 
-{% include refs.md %}
+- Create Fire : **Cthulhu Mythos 1**
+- Siphon Soul : **Cthulhu Mythos 4**
+- whatever else
+
+
+refs.md
 

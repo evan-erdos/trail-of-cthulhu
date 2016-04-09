@@ -9,6 +9,9 @@ subjective:  down
 ---
 
 
-The **[Players][]** unlock the mask of Hastur.
+The PCs unlock the mask of Hastur.
 
-{% include refs.md %}
+
+
+
+

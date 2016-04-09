@@ -7,11 +7,11 @@ objective:   up
 ---
 
 
-**[Professor Birchwell][]** has been sent to diagnose a rash of sleep disturbances,
+Professor Birchwell has been sent to diagnose a rash of sleep disturbances,
 reported by villagers who live near a cluster of late-Antiquity Roman ruins in Northern Africa.
 He has assembled a team of students and doctors to assist him on this expedition.
 
-Early one morning, each of the **[Players][]** receive a note under their door.
+Early one morning, each of the PCs receive a note under their door.
 
 It reads:
 
@@ -29,27 +29,28 @@ It reads:
 
 
 With packs full, they arrive at the staging ground.
-They observe **[Professor Birchwell][]** being instructed in the usage of a firearm.
+They observe Professor Birchwell being instructed in the usage of a firearm.
 He holds it quite awkwardly, and is making jokes with the range safety officer.
-
-After preparations are made, and after the jeeps are packed,
-the caravan begins to move into the jungle.
-
-Along the way, smoke begins to pour out from under the hood of the professor's jeep.
-**[Professor Birchwell][]** becomes irate with the driver,
-and begins to lambaste him about coolant fluids.[^0]
-
-[#]: # (continue => MECHANICAL REPAIR > 2)
-
-The caravan continues on, and they make camp just outside the ruins.
-
-[^0]: The professor's outburst is quite out of character.
+Preparations are made, and while the jeeps are being packed,
+the PCs hear a scream come from across the grounds:
+A peer of theirs has taken a gun, and is waving it around.
 
 
-{% include refs.md %}
+{% include inkwell-begin.html %}
+
+EXT. NORTH STAGING GROUNDS, DAY
+
+While preparations are being made, and while the jeeps are being packed,
+a group of STUDENTS hear a scream come from across the staging grounds.
+A peer of theirs has taken a gun, and is waving it around.
+
+STUDENTS
+Holy shit!
 
 
 
+
+{% include inkwell-end.html %}
 
 
 

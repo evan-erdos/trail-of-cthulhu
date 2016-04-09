@@ -15,4 +15,7 @@ or trap them in Africa with no supplies,
 Borst gives up that Omari whose supply chain had been destroyed in the party’s attempt to stop Ilya,
 who is probably the only one who could help them now.
 
-{% include refs.md %}
+
+
+
+

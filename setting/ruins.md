@@ -8,6 +8,6 @@ title:   Ruins
 Ancient ruins, now used for a strange rituals.
 
 
-{% include refs.md %}
+refs.md
 
 

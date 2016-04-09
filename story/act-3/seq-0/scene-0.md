@@ -6,7 +6,7 @@ beat:        question
 ---
 
 
-As the **[Players][]** walk Moscow's streets, they bump into a citizen.
+As the PCs walk Moscow's streets, they bump into a citizen.
 He has a strangely watery, dangerous look in his eye.[^0]
 The citizen begins to tail the party.
 
@@ -14,4 +14,6 @@ The citizen begins to tail the party.
 [^0]: This is the manifestation of Hastur's possession.
 
 
-{% include refs.md %}
+
+
+

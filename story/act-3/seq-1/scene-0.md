@@ -6,7 +6,23 @@ beat:        procedural
 objective:   up
 ---
 
-The **[Players][]** find Pravda journalist **[Dolya Petrovna][]** holed up in her apartment,
+The PCs find Pravda journalist Dolya Petrovna holed up in her apartment,
 and they help her barricade her door.
 
-{% include refs.md %}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

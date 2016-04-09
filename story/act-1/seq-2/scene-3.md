@@ -7,7 +7,8 @@ beat:        procedural
 objective:   up
 ---
 
-They take **[Ilya][]**'s key, and make it to his quarters.
+They take Ilya's key, and make it to his quarters.
 
 
-{% include refs.md %}
+
+

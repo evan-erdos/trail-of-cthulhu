@@ -7,9 +7,24 @@ objective:   down
 ---
 
 
-After tampering with the device, the **[Players][]** find that it simply refuses to work,
+After tampering with the device, the PCs find that it simply refuses to work,
 despite looking perfectly functional.
 
 
 
-{% include refs.md %}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -7,6 +7,7 @@ objective:   up
 ---
 
 
-The **[Players][]** sabotage **[Omari][]**'s supply chain to create a distraction.
+The PCs sabotage Omari's supply chain to create a distraction.
 
-{% include refs.md %}
+
+

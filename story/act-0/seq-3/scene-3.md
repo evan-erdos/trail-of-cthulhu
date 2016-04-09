@@ -7,7 +7,7 @@ beat:        question
 
 
 Having no other recourse, they go deeper, and find an underground river.
-As they approach the water, the **[Players][]** begin to have a strange sensation.
+As they approach the water, the PCs begin to have a strange sensation.
 It's like they're dreaming awake, and they have a sense of nostalgia.
 The mental noise becomes deafening, and they feel compelled to swim in the water.
 
@@ -25,9 +25,6 @@ Swimming in it might be destabilizing.
 
 If they climb the ledge, they find that it doesn't lead out,
 but it reveals that the underground river opens into a larger cavern downstream.
-
-
-{% include refs.md %}
 
 
 

@@ -7,7 +7,23 @@ objective:   down
 ---
 
 
-This forces **[Dolya][]** and the **[Players][]** to swim across, evading a gigantic tentacle-like being as they near the other side.
+This forces Dolya and the PCs to swim across, evading a gigantic tentacle-like being as they near the other side.
 
 
-{% include refs.md %}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

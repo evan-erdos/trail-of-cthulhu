@@ -8,9 +8,7 @@ objective:   up
 ---
 
 
-The **[Players][]** gather themselves and their things, and take the plunge.
-
-[#]: # (keep sanity => STABILITY > 4)
+The PCs gather themselves and their things, and take the plunge.[^1]
 
 Strange shapes flit in and out of their minds, and they begin to fall asleep.
 Their dreams are more lucid than life, and they dream of strange oceanscapes,
@@ -34,12 +32,11 @@ They find themselves in a different cavern, and can now see a way out.
 However, it's nighttime, but the water is still glowing.
 
 They gather themselves, and notice a glint shining from the shallows.
-When they pull it out of the water, they realize it's the *[Tendril Medallion][]*.
+When they pull it out of the water, they realize it's the Tendril Medallion.
 
 They exit the cavern, and find themselves along the shore.
 
-
-{% include refs.md %}
+[^0]: **STABILITY** > 4
 
 
 

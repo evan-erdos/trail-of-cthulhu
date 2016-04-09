@@ -8,7 +8,10 @@ objective:   down
 
 
 
-**[Ilya][]** forces the **[Players][]** inside at gunpoint.
+Ilya forces the PCs inside at gunpoint.
 
 
-{% include refs.md %}
+
+
+
+

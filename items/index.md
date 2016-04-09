@@ -13,6 +13,3 @@ Items
   {% endif %}
 {% endfor %}
 </ul>
-
-
-{% include refs.md %}

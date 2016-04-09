@@ -7,7 +7,7 @@ objective:   up
 ---
 
 
-The next day, the **[Players][]** are summoned to the main lab, again via note.[^0]
+The next day, the PCs are summoned to the main lab, again via note.[^0]
 
 It reads:
 
@@ -19,7 +19,8 @@ It reads:
 >>
 >> <tt>MAIN LAB, 1100 HOURS, ATTENDANCE MANDATORY</tt>
 
-Upon their arrival, they find that **[Professor Birchwell][]** has begun well ahead of schedule.
+
+Upon their arrival, they find that Professor Birchwell has begun well ahead of schedule.
 The players notice a girl they've never seen before, watching him from the back of the lab.[^1]
 The professor's in a cheerful mood, and is telling "doctor jokes" to a group of students.
 
@@ -46,10 +47,10 @@ Right before 11:00AM, the girl in the corner walks up to the professor,
 says something to him, and quickly leaves the room.[^2]
 
 Ever punctual, the professor begins his lecture, but he's stammering.
-If the **[Players][]** attempt to leave the room at this point,
+If the PCs attempt to leave the room at this point,
 the professor will single them out, and tell them to stay.
 
-**[Professor Birchwell][]** stutters through a few slides, then skips a bunch,
+Professor Birchwell stutters through a few slides, then skips a bunch,
 and begins to talk about ethics, and the difference between right and wrong.
 He's sweating, and fumbling with the controls of the slide projector.
 He concludes with a very strange assignment:
@@ -59,21 +60,16 @@ He concludes with a very strange assignment:
 >
 > Or... don't. It's all... pointless... class is...
 
-Before he says "dismissed", the **[Players][]** hear glass shattering,
+Before he says "dismissed", the PCs hear glass shattering,
 somewhere on the other side of the lab. A small fire breaks out below a fume hood.
-**[Professor Birchwell][]** watches the fire spread for a moment, and giggles.[^3]
+Professor Birchwell watches the fire spread for a moment, and giggles.[^3]
 Some students put it out, and the students disperse.
 
 
 [^0]: A note under the door is not the usual channel for events in the lab.
-[^1]: Enter **[Dolya Petrovna][]**, a Soviet Journalist.
-[^2]: She tells him that **[Ilya Zolnerowich][]** is unhappy with him about his progress.
-[^3]: **[Professor Birchwell][]** is beginning to lose his grip on reality.
-
-{% include refs.md %}
-
-
-
+[^1]: Enter Dolya Petrovna, a Soviet Journalist.
+[^2]: She tells him that Ilya Zolnerowich is unhappy with him about his progress.
+[^3]: Professor Birchwell is beginning to lose his grip on reality.
 
 
 

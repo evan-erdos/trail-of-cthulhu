@@ -6,7 +6,7 @@ beat:        procedural
 objective:   up
 ---
 
-The **[Players][]** are now able to access various parts of the underground temple.
+The PCs are now able to access various parts of the underground temple.
 There are two pillars on the other side of the camp opposite the temple.
 
 One is a pillar of space that has inscribed on it various hieroglyphs,
@@ -17,10 +17,14 @@ They show the dead coming back to life as their youthful selves.
 Both seem to be connected to a singular entity.
 
 Having looked at both of the pillars,
-the **[Players][]** also notice a pond just beyond the two.
+the PCs also notice a pond just beyond the two.
 
 
 [^0]: Egyptian hieroglyphs, to be precise.
 [^1]: Greek in origin.
 
-{% include refs.md %}
+
+
+
+
+

@@ -10,4 +10,6 @@ objective:   down
 They grab the journal, but Dolya catches them.
 
 
-{% include refs.md %}
+
+
+

@@ -8,8 +8,6 @@ objective:   up
 ---
 
 
-They bring the remedy to **[Borst][]**.
+They bring the remedy to Borst.
 Then, they find out about Soviet encampment.
 
-
-{% include refs.md %}

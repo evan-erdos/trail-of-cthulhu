@@ -7,7 +7,5 @@ objective:   down
 ---
 
 
-The **[Players][]** head to the encampment.
+The PCs head to the encampment.
 Along the way, a sandstorm comes that forces them into a mysterious cave filled with strange markings and occult stuff.
-
-{% include refs.md %}

@@ -9,7 +9,23 @@ objective:   up
 
 
 They quickly scan its passages while simultaneously evading their foe.
-They then find a spell that will allow the **[Players][]** to siphon the god from **[Zolnerowich][]**'s body into theirs'.
+They then find a spell that will allow the PCs to siphon the god from Zolnerowich's body into theirs'.
 
 
-{% include refs.md %}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

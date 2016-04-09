@@ -8,7 +8,6 @@ objective:   up
 
 
 Then, they sneak through the medical facility,
-and see the **[Professor][]** talking to **[Ilya][]**.
+and see the Professor talking to Ilya.
 
 
-{% include refs.md %}

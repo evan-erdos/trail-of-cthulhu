@@ -15,10 +15,15 @@ and they observe that it has a yellow outline to it.[^0]
 
 This triggers a vision of an ancient period where people move around like zombies.
 
-They bow to a king wearing a mask, and the **[Players][]** are drawn closer to this being.
+They bow to a king wearing a mask, and the PCs are drawn closer to this being.
 Suddenly, it looks at them.
 
 
 [^0]: **Cthulhu Mythos**
 
-{% include refs.md %}
+
+
+
+
+
+

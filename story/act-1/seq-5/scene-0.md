@@ -7,9 +7,12 @@ objective:   down
 ---
 
 
-At the caves, **[Ilya][]** sees the **[Players][]**,
+At the caves, Ilya sees the PCs,
 and gives them his half of the medallion,
 telling them to unlock the secrets of the cave.
 
 
-{% include refs.md %}
+
+
+
+

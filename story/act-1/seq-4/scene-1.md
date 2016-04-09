@@ -9,8 +9,11 @@ objective:   down
 
 
 They look for pendant half but no avail.
-**[Omari][]** needs their help researching a treasure **[Ilya][]** wants.
+Omari needs their help researching a treasure Ilya wants.
 Then, he takes them to the caves.
 
 
-{% include refs.md %}
+
+
+
+

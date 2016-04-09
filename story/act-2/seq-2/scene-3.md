@@ -10,11 +10,11 @@ Investigating the lab shows research being done on sleeping agents and drugs.
 Their research goes so far as using electrical impulses to stimulate dreams.
 
 They realize that the system was rigged to affect the whole region near the Lab and the Village.
-The **[Players][]** can question the **[Professor][]**,
+The PCs can question the Professor,
 who reveals much about the decisions they made earlier,
 leading to the release of the Mask was under the influence of this system.
 
-Looking into the temple ruins the **[Players][]** discover hieroglyphs,
+Looking into the temple ruins the PCs discover hieroglyphs,
 which speak of the God of No Name and the Masked King;
 all of which indicates a single thing.
 Under the rule of both the God and the King,
@@ -30,4 +30,5 @@ sometimes a robed figure akin to a human,
 trapped in an area of void on the dark side of the moon.
 
 
-{% include refs.md %}
+
+

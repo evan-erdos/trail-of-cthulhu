@@ -6,11 +6,25 @@ beat:        question
 ---
 
 
-In the ring's middle, the **[Players][]** can barely make out the figure of a man.
+In the ring's middle, the PCs can barely make out the figure of a man.
 At this point, they can choose to either make the probably suicidal trek to Centre 13,
-or sneak their way to the center of Moscow to somehow subdue **[Zolnerowich][]**.
+or sneak their way to the center of Moscow to somehow subdue Zolnerowich.
 
 
-{% include refs.md %}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 

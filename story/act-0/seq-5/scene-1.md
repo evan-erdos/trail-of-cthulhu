@@ -11,7 +11,7 @@ subjective:  down
 
 
 Now that they know where the Soviet Encampment is,
-the **[Players][]** are free to return to the lab.
+the PCs are free to return to the lab.
 Salvaging tools, they work on decoding what they saw in the Observatory.
 
 After many hours of codebreaking,
@@ -28,15 +28,13 @@ and if the Soviets do intend to weaponize it,
 it could give them a critical advantage over the United States,
 rendering the US policy of brinksmanship useless.
 
+
 If the PCs do not act, and soon,
 the Soviet Union might become the world's *only* superpower.
 
 
 [^0]: Also known as Sputnik.
 [^1]: They don't need to be, as the rockets will rely on Organic Control.
-
-
-{% include refs.md %}
 
 
 

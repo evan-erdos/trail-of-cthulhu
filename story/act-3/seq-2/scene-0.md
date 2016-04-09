@@ -8,6 +8,22 @@ objective:   down
 
 
 Upon escaping from the apartment,
-the **[Players][]** find that Moscow's streets are starting to flood with the waters of the river Moskva.
+the PCs find that Moscow's streets are starting to flood with the waters of the river Moskva.
 
-{% include refs.md %}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

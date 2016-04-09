@@ -6,6 +6,5 @@ beat:        question
 ---
 
 
-The **[Players][]** find **[Borst][]** wounded/delirious from mysterious knife.
+The PCs find Borst wounded/delirious from mysterious knife.
 
-{% include refs.md %}
