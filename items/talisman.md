@@ -13,5 +13,6 @@ Inscribed on it is a strange, golden symbol, depicted below:
 ![Yellow Sign]({{site.baseurl}}/assets/yellow-sign.png)
 
 
-refs.md
+
+
 

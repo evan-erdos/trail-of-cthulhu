@@ -10,5 +10,3 @@ Player Characters
 - **[Alexandra Hayes][]**
 - **[Lee Runge Hammarburg][lee]**
 - **[Acheron Erevnitis][acheron]**
-
-refs.md

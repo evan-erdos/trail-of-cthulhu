@@ -15,17 +15,17 @@ Early one morning, each of the PCs receive a note under their door.
 
 It reads:
 
->> <tt>OCTOBER 2, 1957</tt>
->>
->> <tt>YOU HAVE BEEN SELECTED BY PROFESSOR BIRCHWELL</tt>
->>
->> <tt>TO ASSIST HIM ON TODAY'S EXPEDITION.</tt>
->>
->> <tt>PACK TWO (2) DAYS WORTH OF SUPPLIES,</tt>
->>
->> <tt>AND REPORT TO THE NORTH GROUNDS BY 0800 HOURS.</tt>
->>
->> <tt>THE CARAVAN DEPARTS AT 0900 HOURS.</tt>
+> <tt>OCTOBER 2, 1952</tt>
+>
+> <tt>YOU HAVE BEEN SELECTED BY PROFESSOR BIRCHWELL</tt>
+>
+> <tt>TO ASSIST HIM ON TODAY'S EXPEDITION.</tt>
+>
+> <tt>PACK TWO (2) DAYS WORTH OF SUPPLIES,</tt>
+>
+> <tt>AND REPORT TO THE NORTH GROUNDS BY 0800 HOURS.</tt>
+>
+> <tt>THE CARAVAN DEPARTS AT 0900 HOURS.</tt>
 
 
 With packs full, they arrive at the staging ground.
@@ -46,9 +46,6 @@ A peer of theirs has taken a gun, and is waving it around.
 
 STUDENTS
 Holy shit!
-
-
-
 
 {% include inkwell-end.html %}
 

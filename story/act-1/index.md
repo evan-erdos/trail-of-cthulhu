@@ -29,6 +29,34 @@ They take Ilya's key, and make it to his quarters.
 They grab the journal, but Dolya catches them.
 They convince her to join them, but only after they complete a task for her.
 
+Omari pulls up in truck, angry his stuff has been sabotaged.
+He takes players to the docks where they can find secrets.
+They look for pendant half but no avail.
+Omari needs their help researching a treasure Ilya wants.
+Then, he takes them to the caves.
+
+
+At the caves, Ilya sees the PCs,
+and gives them his half of the medallion,
+telling them to unlock the secrets of the cave.
+The Soviets then detonate the door,
+and strange gas melts their faces and kills them.
+Ilya forces the PCs inside at gunpoint.
+The PCs unlock the mask of Hastur.
+
+The cave comes alive with the body monster.
+PCs must give Ilya mask so he’ll detonate the entrance.
+He escapes with mask.
+PCs must regroup after defeating monster.
+
+
+
+
+
+
+
+
+
 
 
 

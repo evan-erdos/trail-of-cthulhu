@@ -43,7 +43,6 @@ No, thank you. Do people buy much food?
 STOREKEEPER
 Oh yes, much much-ch more now. The s-sickness makes... very hungry!
 
-
 {% include inkwell-end.html %}
 
 

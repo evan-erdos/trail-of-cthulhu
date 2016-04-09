@@ -6,7 +6,6 @@ beat:        procedural
 ---
 
 
-
 The caravan begins to move into the jungle.
 
 Along the way, smoke begins to pour out from under the hood of the professor's jeep.

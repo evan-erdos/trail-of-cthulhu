@@ -5,9 +5,5 @@ title:   Undersea Grottoes
 ---
 
 
-These are the warrens under the [Ruins][].
-
-
-refs.md
-
+These are the warrens under the Ruins.
 
