@@ -43,14 +43,14 @@ and that he must make it back to his wife in Russia after exacting his revenge o
 
 The PCs will cause Borst to breakdown into tears.[^info]
 
-
-
-~~~
 He will tell of his soon to be baby, and his innate need to see his child born.
 He curses ILYA for his betrayal, and vows vengeance.
 Promising that he can help the PCs if they aid him.
-Using Interrogation, Borst will close up and begin praying in Russian.
+If they press him, Borst will close up and begin praying in Russian.[^1]
 Tears stream down his face but he does not crack.
+
+~~~
+EXT. RUINS - DAY
 
 BORST
 (lauging in the PCs faces)
@@ -77,11 +77,12 @@ Lines lead up the dune from the ruins of the school, some of them have blood dri
 The trails lead over the dune to the MEDICAL TRUCK.
 
 
-[^healing]: **First Aid** > 2: heal Borst's wounds
-[^info]: **Intimidation** > 3: get more information out of Borst
-[^health]: **Health** + 3: LUNCH MEATS and WATER BOTTLES
-[^question]: **Reassurance** > 3: get information out of Borst
-[^assess]: **Assess Honesty** > 1: call out Borst's lie
+[^healing]: **First Aid > 2**: heal Borst's wounds
+[^info]: **Intimidation > 3**: get more information out of Borst
+[^health]: **Health + 3**: LUNCH MEATS and WATER BOTTLES
+[^question]: **Reassurance > 3**: get information out of Borst
+[^assess]: **Assess Honesty > 1**: call out Borst's lie
+[^pray]: **Interrogation < 2**: Borst catches on
 
 
 

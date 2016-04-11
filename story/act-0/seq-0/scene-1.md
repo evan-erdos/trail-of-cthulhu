@@ -21,13 +21,16 @@ If the PCs fixed their jeep in time, they will be defended by the caravan.
 
 ---
 
-| Ambushing Tribesman |   |
-|---------------------|---|
-| Health              | 5 |
-| Athletics           | 8 |
-| Hit Threshold       | 0 |
-| Occult              | 2 |
-| Scuffling           | 3 |
+| Ambushing Tribesman |    |
+|---------------------|----|
+| Health              | 5  |
+| Athletics           | 8  |
+| Hit Threshold       | 0  |
+| Alertness Modifier  | +1 |
+| Stealth Modifier    | +0 |
+| Weapon              | +1 |
+| Occult              | 2  |
+| Scuffling           | 3  |
 
 ---
 

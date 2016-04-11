@@ -22,7 +22,7 @@ She is whimpering and shaking despite the hot stuffy interior of the truck.
 The room smells fetid, a different more vulgar smell than the burning bodies.
 ~~~
 
-The student raises her face, and everyone must take a Stability check.
+The student raises her face.[^face]
 The bottom half of her face is raw with the jawbone protruding through the little muscle left.
 Her tongue is intact but is covered with barnacles.
 Her eyes on the other hand are nowhere to be seen.
@@ -37,8 +37,6 @@ When the PCs approach her she raises her head uttering in guttural sounds,
 
 STUDENT
 ya vulgtlagln -nyth n'ghft...
-
-The PC’s can use Occult, Cthulhu Mythos, or Languages to interpret her words as “I pray to servant of Darkness”.
 
 The girl tries to get up, but her body has rusted to the metal floor of the MEDICAL TRUCK.
 Blood mixes with seawater as the seams of her skin stay cemented to the floor but tears from soft muscle underneath.
@@ -57,12 +55,15 @@ Strange movements begin to occur underneath her skin as if bugs are crawling ben
 She starts spitting steaming yellow liquid randomly, and it gets dangerously close to the PCs.
 ~~~
 
+
 Many area of the trucks have already disintegrated giving it the appearance of a skeleton.
 Through the holes you see figures with spears moving outside.
 
+The PCs later determine that she's saying "I pray to servant of Darkness".[^words]
 
 
-
+[^face]: **Stability > 2**: averted gaze / dealt with psychological trauma
+[^words]: **Occult / Cthulhu Mythos / Languages**: interpret her words
 
 
 

@@ -7,7 +7,7 @@ objective:   up
 ---
 
 
-Depending on how the PCs have interacted with the TRIBES in Act I,
+Depending on how the PCs have interacted with the TRIBES,
 they will have an easier or more difficult time obtaining the MEDICAL SUPPLIES.
 
 Surveying the other side of the Dunes the PCs see a Soviet MEDICAL TRUCK as BORST described.
@@ -20,10 +20,11 @@ A rifle lays on the ground with its bolt open, it is empty.
 Approaching the MEDICAL TRUCK It is visible that the soldier in the front seat is alive but not mentally present.
 He is shaking violently and looking off into space mumbling to himself in a language you have never heard.
 On the rearview mirror a KEYRING swings in the air.
-The back of the MEDICAL TRUCK is locked but can be opened using the LOCKPICK ability.
+The back of the MEDICAL TRUCK is locked.[^1]
 Upon closer inspection it is apparent that the pit is full of the bodies of whatever students survived the fire.
 
-If the PCs use Interrogate, Intimidate, or Sneak to try and talk to the soldier he reacts violently.
+The Soldier reacts violently if the PCs attempt to question him.
+
 Swinging the door of the MEDICAL TRUCK quickly he knocks the PC to the floor taking a point off of Health.
 
 
@@ -47,18 +48,19 @@ He turns and sprints to the pit leaping into the fire.
 
 Checking the inside of the MEDICAL TRUCK players find a very 12-gauge flare pistol (1882). A 750ml of Vodka, and a broken radio.
 
-Using EVIDENCE COLLECTION the PCs find shells around the side of the truck,
-it is evident that some of the students were executed before being thrown into the pit.
+The PCs find shells around the side of the truck.
 However, the amount of shells and signs of struggle make it seem like there wasn’t enough bullets to execute all the students...
-leading you to believe that many must have been tossed into the fire alive.
+leading the PCs to believe that many must have been tossed into the fire alive.
 
-Using FORENSICS the players find that the fire is composed of students, natives, and gasoline.
-If PCs use FORENSICS take -1 Health.
+The PCs find that the fire is composed of students, natives, and gasoline.
 
-The back of the truck can be unlocked with the KEYRING or with the Lockpick ability.
-
+The back of the truck can be unlocked with the KEYRING.[^0]
 
 
+[^0]: **Locksmithing > 1**: unlock the truck
+[^1]: **Interrogate / Intimidate / Sneak**: cause violent reaction
+[^2]: **Evidence Collection > 1**: determine that execution occured before they were thrown
+[^3]: **Forensics**: learn about fire, **Health -1**
 
 
 
