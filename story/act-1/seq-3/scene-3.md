@@ -31,7 +31,7 @@ Using Mechanical Repair, or Craft the PCs can sabotage the AIR CONDITIONER.
 ~~~
 After doing so the doors will burst open and ILYA will enter the room.
 
-ILYA
+ILYA ZOLNEROWICH
 Damn these machines!
 Bring him in here, now!
 
@@ -42,7 +42,7 @@ He is sweating profusely and caked with dried blood.
 ILYA walks over to the AIR CONDITIONER and gives it a pound.
 The machine remains dormant.
 
-ILYA
+ILYA ZOLNEROWICH
 All the resources of STALIN and I can’t get a damn thing working.
 First it’s that new ELECTRONIC LOCK password,
 now this confounded AIR CONDITIONER. Where is that engineer?
@@ -50,7 +50,7 @@ now this confounded AIR CONDITIONER. Where is that engineer?
 Reaching into his left pocket ILYA pulls out a PAPER,
 he then without hesitating reaches into his right and pulls out a RADIO.
 
-ILYA
+ILYA ZOLNEROWICH
 Get me the ENGINEER...
 I don’t care what the problem is, that is a direct order!
 
@@ -60,7 +60,7 @@ The soldier besides BIRCHWELL looks worried.
 With one final jump ILYA slips on the bloody floor falling down getting blood all over his coat.
 He breaks his fall with the PAPER and the RADIO.
 
-ILYA
+ILYA ZOLNEROWICH
 grebanyy suka !
 
 The PAPER is covered in blood, as it the radio.
@@ -68,14 +68,14 @@ ILYA presses the RADIO and it fizzles and die.
 In a rage ILYA throws the RADIO with all his might past the soldier and it shatters against the wall of the MEDICAL LAB.
 He puts the PAPER back into his jacket pocket.
 
-ILYA
+ILYA ZOLNEROWICH
 Now I need a new RADIO and a new COAT!
 
 Stomping towards the COAT RACK,
 ILYA removes his coat and places it on the COAT RACK,
 replacing it with another one.
 
-ILYA
+ILYA ZOLNEROWICH
 The ENGINEER should be here soon.
 Bring BIRCHWELL with me.
 If this ENGINEER can’t figure out the AIR CONDITIONER I will have him executed!

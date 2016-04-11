@@ -9,7 +9,7 @@ objective:   up
 The PCs return to the main square, to learn about this other tribe.
 
 ~~~
-INT. BROKEN STOREFRONT, AFTERNOON
+INT. BROKEN STOREFRONT - AFTERNOON
 
 The PCs return to the STOREKEEPER, who is still working frantically.
 He looks like he's being flung around the room by some external force.

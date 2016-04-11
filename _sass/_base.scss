@@ -27,7 +27,18 @@ h2 {
 }
 
 
-/* end temp */
+/ * end temp */
+
+/* don't print */
+
+@media print {
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+
+
+
 
 h1,h2,h3 { /* p */
     page-break-after: avoid;
@@ -52,6 +63,7 @@ section,p {
 }
 
 .screenplay {
+    page-break-inside: avoid !important;
     font-size: 16px;
     font-family: courier;
     margin-left: 1em;
@@ -323,6 +335,7 @@ code {
 }
 
 pre {
+    page-break-inside: avoid !important;
     padding: 8px 12px;
     overflow-x: hidden;
 
@@ -331,6 +344,10 @@ pre {
         padding-right: 0;
         padding-left: 0;
     }
+}
+
+.highlighter-rouge {
+    page-break-inside: avoid !important;
 }
 
 

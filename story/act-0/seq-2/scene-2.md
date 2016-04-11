@@ -1,54 +1,88 @@
 ---
 layout:      scene
-title:       Diplomacy with Necromancers
-scene:       2
-beat:        dramatic
+title:       Silencing Lambs
+seq:         2
+scene:       3
+beat:        procedural
+objective:   up
 subjective:  down
 ---
 
 
-As they move closer, they discover a horrific scene.
-There are a mix of tribespeople and students around a bloody altar,
-all chanting in unison about a demon saviour.
-They learn that there will be a sacrifice,
-and that another student has volunteered to be "awakened".
+The PCs resolve to carry out the ritual,
+but remain ready to strike at the High Acolyte if the opportunity presents itself.
+A player wields the *Ceremonial Knife*, and approaches the altar.
+The High Acolyte presides over the bloody altar,
+appearing to be pleased with what's about to happen.
+The **Sacrificial Student** lies comatose on the altar,
+eyes wide open, but completely unresponsive to his surroundings.
 
-They begin to sneak around, trying to both learn about the ritual,
-and find a way to prevent the sacrifice of their fellow student.
+If the PCs are able to keep their heads,
+then the High Acolyte will trust them, and let his guard down.[^0]
+If he doesn't believe they're genuine, he will keep his distance,
+and the PCs will have no opportunity to strike him.
 
-They can search the altar room, stand in the crowd, or enter the catacombs.
-Being in the crowd doesn't yield much,
-and increases their chances of being caught.
-Entering the catacombs, they find piles of corpses.
-As they leave, if they're observant, they notice a symbol over the archway.[^0]
+As the player brings the *Ceremonial Knife* down,
+the **Sacrificial Student** begins to say their name.
+His voice trails off after his heart is perforated by the knife.
 
-In their attempts to learn more about the ritual,
-the PCs are eventually caught by none other than the High Acolyte.
+Satisfied with their work, the High Acolyte tells them about a tribesman,
+who claims to be able to communicate with gods.
 
-The PCs determine that his goal is to bring others into the faith,[^1]
-and bargain with him to allow them to perform the ritual,
-in exchange for their safety, and more information.
+~~~
+EXT. CENTERSTAGE, RUINS AMPITHEATER
 
-They are told that if they perform his *coup de grâce*,
-then they'll be "awakened", and in good standing with the cult.
-They must decide if they want to kill him, or plead for his life.
+A STUDENT wields the CEREMONIAL KNIFE, standing somewhat offstage.
+The HIGH ACOLYTE presides over the bloody altar,
+appearing pleased with what's about to happen.
+He raises his hands, and the CROWD begins to chant twice as loudly.
+The SACRIFICIAL STUDENT lies comatose on the altar,
+eyes wide open, but completely unresponsive to his surroundings.
 
-They are all taught a chant, and are each given a *Ceremonial Knife*.
-The High Acolyte instructs them to strike at the student's heart,
-and sends them out to the altar.
-
-At this point, the PCs can:
-
-- carry out the ritual, killing the **Sacrificial Student**
-- negotiate with the High Acolyte
-- kill the **Sacrificial Student**, and then swing at the High Acolyte
-- go straight for the High Acolyte
-
-[^0]: This is what's depicted on the Tendril Medallion
-[^1]: **PSYCHOANALYSIS** / **BARGAINING** > 3
+HIGH ACOLYTE
+Approach the altar.
+~~~
 
 
+If the PCs are able to keep their heads,
+then the High Acolyte will trust them, and let his guard down.[^guard]
+If he doesn't believe they're genuine, he will keep his distance,
+and the PCs will have no opportunity to strike him.
 
 
+~~~
+EXT. CENTERSTAGE, RUINS AMPITHEATER
+
+The STUDENT approaches the bloody altar, knife in hand.
+As the STUDENT brings the CEREMONIAL KNIFE down,
+the SACRIFICIAL STUDENT begins to say their name.
+His voice trails off after his heart is perforated by the knife.
+
+The CROWD becomes instantly silent as the SACRIFICIAL STUDENT writhes.
+For just a moment, the sound of waves breaking on rock can be heard in the distance.
+The HIGH ACOLYTE moves towards the altar.
+
+HIGH ACOLYTE
+The Yellow King smiles upon you.
+You have taken your first step towards becoming awakened.
+
+The HIGH ACOLYTE pauses for a moment to disarm the STUDENT,
+and continues to speak while he wipes the blood off of the CEREMONIAL KNIFE.
+
+HIGH ACOLYTE
+(cont'd)
+Your awakening must continue.
+The Yellow King instructs you to find the Dreaming One.
+He told me of a sacred dream realm, larger than anyplace on earth,
+which was watched over by a golden disc.
+He told me of its wonder, how it filled the sky with wisps of gold.
+You will find this dreamer, he can achieve your awakening.
+~~~
+
+The PCs set off to find him.[^1]
+
+
+[^guard]: **Reassurance > 2**: catch the acolyte off-guard
+[^1]: This is a dream representation of the Tendril Medallion.
 
 

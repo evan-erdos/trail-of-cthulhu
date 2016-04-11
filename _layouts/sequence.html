@@ -9,9 +9,9 @@ layout: story
     <h1 class="sequence-title">{% if page.seq %}Sequence {{ page.seq | plus:1 }} : {% endif %}{{ page.title }}</h1>
   </header>
   <ul class="fa-ul">
-  {% assign acts = (site.pages | sort:'url') %}
-  {% for scene in acts %}
-    {% if scene.layout == 'scene' and (scene.url contains page.url) %}
+  {% assign sequences = (site.pages | contains:'page.url' | sort:'url') %}
+  {% for scene in sequences %}
+    {% if (scene.url contains page.url) and scene.layout == 'scene' %}
       <li><a href="{{site.baseurl}}{{ scene.url }}">
       <span class="beat">
       {% if scene.beat %}{% include beat/{{ scene.beat }}.html %}{% endif %}

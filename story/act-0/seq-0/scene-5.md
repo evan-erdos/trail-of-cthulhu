@@ -22,7 +22,7 @@ While they have learned a few things, they can't learn more until the ritual occ
 
 
 ~~~
-EXT. RUINS, AFTERNOON
+EXT. RUINS - AFTERNOON
 
 The Professor walks up behind the STUDENTS, with a solemn look on his face.
 

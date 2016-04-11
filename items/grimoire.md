@@ -11,4 +11,3 @@ It contains numerous incantations, which the PCs can cast:
 
 - Create Fire : **Cthulhu Mythos 1**
 - Siphon Soul : **Cthulhu Mythos 4**
-- whatever else

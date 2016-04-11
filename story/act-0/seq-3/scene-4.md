@@ -8,7 +8,7 @@ objective:   up
 ---
 
 
-The PCs gather themselves and their things, and take the plunge.[^1]
+The PCs gather themselves, pack up their things, and take the plunge.[^1]
 
 Strange shapes flit in and out of their minds, and they begin to fall asleep.
 Their dreams are more lucid than life, and they dream of strange oceanscapes,
@@ -29,14 +29,14 @@ They appear to have crawled out of the water in their sleep,
 and put one hand back in the water.
 
 They find themselves in a different cavern, and can now see a way out.
-However, it's nighttime, but the water is still glowing.
+Even though it's nighttime, the water is still glowing.
 
 They gather themselves, and notice a glint shining from the shallows.
 When they pull it out of the water, they realize it's the Tendril Medallion.
 
 They exit the cavern, and find themselves along the shore.
 
-[^0]: **STABILITY** > 4
+[^0]: **Stability > 4**: remain sane while in the water
 
 
 

@@ -1,6 +1,6 @@
 ---
 layout:  sequence
-title:   The Mask
+title:   The King of Africa
 seq:     5
 ---
 

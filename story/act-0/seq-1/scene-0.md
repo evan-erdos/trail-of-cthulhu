@@ -19,7 +19,7 @@ They also notice a girl that they've never seen before, watching from the back o
 
 
 ~~~
-INT. MAIN LABORATORY, MORNING
+INT. MAIN LABORATORY - MORNING
 
 The Professor is at the center of the main lab,
 and appears to be in a cheerful mood. a
@@ -46,7 +46,6 @@ The professor violently pantomimes raising his hand, and the students giggle.
 GROUP OF STUDENTS
 What did you do then, Professor?
 
-
 PROFESSOR
 Well, I said to him rather plainly, "Ok, Harold. Don't do that."
 Then he raises his hand again, and says, "Thanks doc!"
@@ -62,7 +61,7 @@ The three have a short conversation, and then Borst and the girl quickly leave t
 Ever punctual, the Professor begins his lecture, but he's stammering.
 
 ~~~
-INT. MAIN LABORATORY, MORNING
+INT. MAIN LABORATORY - MORNING
 
 PROFESSOR BIRCHWELL stutters through a few slides, then skips a bunch.
 He's sweating, and fumbling with the controls of the slide projector.

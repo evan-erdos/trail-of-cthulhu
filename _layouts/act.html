@@ -11,13 +11,13 @@ layout: story
   <ul>
   {% assign acts = (site.pages | sort:'url') %}
   {% for sequence in acts %}
-    {% if sequence.layout == 'sequence' and sequence.url contains page.url %}
+    {% if sequence.url contains page.url and sequence.layout == 'sequence' %}
     <li>
       <article class="sequence">
         <a href="{{site.baseurl}}{{ sequence.url }}">{% if sequence.seq %}Sequence {{ sequence.seq | plus:1 }} : {% endif %}{{ sequence.title }}</a>
         <ul class="fa-ul">
         {% for scene in acts %}
-          {% if scene.layout == 'scene' and (scene.url contains sequence.url) %}
+          {% if (scene.url contains sequence.url) and scene.layout == 'scene' %}
           <li>
             <a href="{{site.baseurl}}{{ scene.url }}">
             <article class="scene">

@@ -19,7 +19,7 @@ the more of them succumb to Hastur's influence and must be killed.
 Soon, there is one PC left.
 If they take too long to kill themselves, Hastur possesses them and the game is lost,
 but if they do, then the game is ostensibly won;
-Hastur has been sealed away for at least another millennium...or two.
+Hastur has been sealed away for at least another millennium... or two.
 
 
 

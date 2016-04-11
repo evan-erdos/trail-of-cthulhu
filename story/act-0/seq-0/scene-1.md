@@ -19,6 +19,19 @@ The caravan continues towards their destination, driving late into the night.
 Right before they arrive at the ruins, they are ambushed by tribesmen.
 If the PCs fixed their jeep in time, they will be defended by the caravan.
 
+---
+
+| Ambushing Tribesman |   |
+|---------------------|---|
+| Health              | 5 |
+| Athletics           | 8 |
+| Hit Threshold       | 0 |
+| Occult              | 2 |
+| Scuffling           | 3 |
+
+---
+
+
 In the melee, the PCs see Professor Birchwell, cornered by a tribesman.
 He draws his pistol and fires, and shortly thereafter, the tribesmen disperse.
 

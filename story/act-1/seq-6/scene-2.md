@@ -1,22 +1,4 @@
 ---
-layout:      scene
-title:       By Committee
-act:         1
-seq:         6
-scene:       2
-beat:        question
+layout:  redirect
+redirect: "../../../act-2/seq-0/scene-0/"
 ---
-
-PCs must regroup after defeating monster.
-
-
-
-
-
-
-
-
-
-
-
-

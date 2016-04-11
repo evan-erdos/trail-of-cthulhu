@@ -20,7 +20,7 @@ After this, Professor Birchwell wanders off into the village.[^1]
 If the PCs attempt to trail him, they lose sight of him in the crowd.
 
 ~~~
-INT. BROKEN STOREFRONT, DAY
+INT. BROKEN STOREFRONT - DAY
 
 The PCs find a STOREKEEPER who is obsessively trying to clean his shop.
 He looks like he's being flung around the room by some external force.

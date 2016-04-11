@@ -1,4 +1,4 @@
 ---
 layout:  redirect
-redirect: "../scene-3/"
+redirect: "../scene-2/"
 ---

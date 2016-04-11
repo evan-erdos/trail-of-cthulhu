@@ -12,7 +12,7 @@ he's going to do everything he can to not explain it.[^0]
 
 
 ~~~
-INT. LABORATORY, AFTERNOON
+INT. LABORATORY - AFTERNOON
 
 The caravan returns to the lab,
 and the STUDENTS begin to question PROFESSOR BIRCHWELL.

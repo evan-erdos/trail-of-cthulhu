@@ -23,7 +23,7 @@ He holds it quite awkwardly, and is making jokes with the range safety officer.
 
 
 ~~~
-EXT. NORTH STAGING GROUNDS, DAY
+EXT. NORTH STAGING GROUNDS - DAY
 
 While preparations are being made, and while the jeeps are being packed,
 the PCs hear a scream come from across the staging grounds.
@@ -64,7 +64,7 @@ Otherwise he attempts to shoot himself.
 
 
 ~~~
-EXT. NORTH STAGING GROUNDS, DAY
+EXT. NORTH STAGING GROUNDS - DAY
 
 OSCAR raises the gun to his head, smiling.
 Suddenly, a member of the security detail tackles him.

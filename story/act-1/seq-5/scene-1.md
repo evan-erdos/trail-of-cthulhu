@@ -3,6 +3,7 @@ layout:      scene
 title:       Fireboat
 seq:         5
 scene:       1
+beat:        procedural
 ---
 
 ~~~

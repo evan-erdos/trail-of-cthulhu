@@ -6,11 +6,26 @@ beat:        procedural
 objective:   up
 ---
 
+The PCs return to the Ruins.
 
-The PCs return to the ruins, and overhear chatter about a new ritual.
+At a distance, it looks like it's just a carving of the sun,
+but fine details are hard to make out, as the whole area is lit only by a fire.
+When the PCs get closer, it becomes apparent that it's more:
+The center of what they thought was the sun is actually a twisted face.[^1]
+Its horrified expression immortalized in the red stone, painted over in blood.
+They also observe that some of the tendrils around the edge are pointing inwards,
+and the face appears to be recoiling from them.
 
+The PCs lie in wait, to observe another student gaining entry to the ritual.
+When this occurs, they realize that everyone in the ritual is wearing a Talisman,
+just like the ones worn by the tribesmen who ambushed them on the first night.
 
+If the PCs gave their Talisman to the Professor,
+they can search the area around the ruins for another body.
+Once they have their own Talisman, they can enter the inner circles.[^2]
 
+[^1]: This is the same image that is depicted on the Tendril Medallion.
+[^2]: This is plausible, as there are other students at the ritual.
 
 
 

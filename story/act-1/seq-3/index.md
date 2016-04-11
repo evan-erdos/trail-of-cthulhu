@@ -1,6 +1,6 @@
 ---
 layout:  sequence
-title:   An Enemy Of My Enemy
+title:   Sleuthing the Soviets
 seq:     3
 ---
 

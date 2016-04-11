@@ -14,7 +14,7 @@ Professor Birchwell begins the conversation with the Chieftain.
 
 
 ~~~
-INT. CHIEFTAIN'S HUT, MORNING
+INT. CHIEFTAIN'S HUT - MORNING
 
 The STUDENTS and PROFESSOR BIRCHWELL return to the CHIEFTAIN's hut.
 He's still in bed, and appears to be even more insane.
@@ -37,7 +37,7 @@ If they notice the discrepancy, the PCs can ask the Professor about it.[^med]
 
 
 ~~~
-INT. CHIEFTAIN'S HUT, MORNING
+INT. CHIEFTAIN'S HUT - MORNING
 
 STUDENTS
 Uh, professor, aren't we supposed to use a combination of nifurtimox and eflornithine?
@@ -53,7 +53,7 @@ The PCs can continue to argue with Birchwell if they're sure they're correct.[^a
 
 
 ~~~
-INT. CHIEFTAIN'S HUT, MORNING
+INT. CHIEFTAIN'S HUT - MORNING
 
 STUDENTS
 --Aren't cases of T.b.g. about 50 times more frequent?

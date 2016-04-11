@@ -1,6 +1,6 @@
 ---
 layout:  sequence
-title:   The King of Africa
+title:   The Rusted Graveyard
 seq:     4
 ---
 

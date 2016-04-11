@@ -10,7 +10,7 @@ Having spoken to many of the villagers, the PCs decide to find the chieftain.
 
 
 ~~~
-INT. CHIEFTAIN'S HUT, MORNING
+INT. CHIEFTAIN'S HUT - MORNING
 
 The STUDENTS enter CHIEFTAIN AMBALO's bedchambers.
 He's confined to bed, and it's plain that he's nearly lost his mind.

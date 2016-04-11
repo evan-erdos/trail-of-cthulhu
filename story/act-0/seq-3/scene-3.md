@@ -26,9 +26,7 @@ Swimming in it might be destabilizing.
 If they climb the ledge, they find that it doesn't lead out,
 but it reveals that the underground river opens into a larger cavern downstream.
 
-
-
-
+The only egress appears to be through the water.
 
 
 

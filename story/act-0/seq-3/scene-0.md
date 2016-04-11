@@ -20,12 +20,10 @@ He falls hard, as if he was aiming for the ground.
 He impacts head-first as the water swells back in,
 twisting his shattered frame against the rocky outcrop.
 
-If the PCs know what to look for,
-they realize the horrible wound was self-inflicted.[^1]
+The PCs approach the body.[^1]
 
 They also find that he's still clutching a little stone carving.[^2]
-This would imply that *rigor mortis* had already taken hold,
-but they witnessed him stand up, and throw himself into the sea.
+Despite the waves and the impact, his hand still firmly grasps the carving.[^3]
 
 Wrenching his hand open, they take a closer look at the carving.
 He clearly spent all his time making it, as it bears countless tool marks.
@@ -33,8 +31,10 @@ It's round, with short tendrils around its edge.
 
 
 [^0]: Possession by Hastur causes the yellow sign to appear somewhere on the body.
-[^1]: **FORENSICS** > 2: He was attempting to purge himself of his possession.
+[^1]: **Forensics > 2**: determine that the wound was self-inflicted.
 [^2]: This is his attempt to create his own Tendril Medallion.
+[^3]: This would imply that *rigor mortis* had already taken hold,
+	  but they witnessed him stand up, and throw himself into the sea.
 
 
 
