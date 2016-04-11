@@ -4,13 +4,10 @@ layout: story
 
 <article class="act">
   {% include nav/act.html %}
+  <!-- autonav.html %} -->
   <header class="act-header">
     <h1 class="act-title">{{ page.title }}</h1>
   </header>
-  <!--<div class="act-content"> -->
-  <div class="content">
-    {{ content }}
-  </div>
   <ul>
   {% assign acts = (site.pages | sort:'url') %}
   {% for sequence in acts %}
@@ -42,7 +39,12 @@ layout: story
     {% endif %}
   {% endfor %}
   </ul>
+  <div class="content"><!-- act-content -->
+    {{ content }}
+  </div>
+  <!--{% include autonav.html %}-->
   {% include nav/act.html %}
+  <script type="text/javascript" src="{{site.baseurl}}/code/autonav.js"></script>
 </article>
 
 

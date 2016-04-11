@@ -1,6 +1,6 @@
 ---
 layout:  sequence
-title:   Sleuthing the Soviets
+title:   Slaves of the Past
 seq:     2
 ---
 
@@ -20,8 +20,7 @@ The PCs cause a disturbance.
 When they do a Omari runs out of the medical facility.
 The players see soldiers dragging the professor off.
 
-The PCs sneak through the facility.
-They see Birchwell talking to Ilya.
+The PCs sneak through the facility. They see Birchwell talking to Ilya.
 They steal Ilya’s keys and attempt to enter his quarters.
 They are confronted by a guard outside.
 Through questioning they find out that Ilya has been unable to get inside the cave and it has put him in a terrible mood.

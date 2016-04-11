@@ -7,8 +7,7 @@ objective:   up
 ---
 
 
-{% include inkwell-begin.html %}
-
+~~~
 EXT. AMBALO’S TRIBE - NIGHT
 
 Entering the village you notice that everyone is very sad.
@@ -24,15 +23,12 @@ The tribe’s SHAMAN also passes around a broth that smells very pungent.
 Those who drink it become jovial and dance in memory of their fallen tribesman.
 If the PCs decide to drink the broth -1 Sanity,
 but they can choose to put a single point on any Interpersonal Ability.
-
-
-{% include inkwell-end.html %}
+~~~
 
 Have the PCs explain how they spend the night.
 
 
-{% include inkwell-begin.html %}
-
+~~~
 INT. AMBALO’S HUT - MORNING
 
 The PCs groggily shuffle into AMBALO’S HUT in the morning to meet with him.
@@ -42,8 +38,7 @@ She smiles and welcomes you, promising that her father will be out of bed soon.
 She is young and easily manipulated,
 and many tribesman boast of having coerced her into spending the night with them.
 AMBALO doesn’t seem to mind so long as they respect her.
-
-{% include inkwell-end.html %}
+~~~
 
 
 

@@ -4,7 +4,7 @@ title:   Characters
 ---
 
 - Professor Birchwell
-- Borst Chekov
+- Borst Chekhov
 - Dolya Petrovna
 - Ukrit Omari
 - Ilya Zolnerowich

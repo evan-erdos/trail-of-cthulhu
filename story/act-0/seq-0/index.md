@@ -51,3 +51,31 @@ Professor Birchwell appears as they leave the village, and the group returns to 
 The caravan returns to the lab, and they begin analysis on the samples immediately.
 They test against many common diseases and afflictions, but none of the tests come back positive.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

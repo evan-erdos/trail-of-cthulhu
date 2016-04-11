@@ -3,12 +3,14 @@
   {% include head.html %}
   <body>
     {% include header.html %}
+
     <div class="page-content">
       <div class="wrapper">
         {{ content }}
       </div>
+      {% include inkwell.html %}
       {% include autolinker.html %}
     </div>
-    {% include footer.html %}
+    <!-- { % include footer.html % } -->
   </body>
 </html>

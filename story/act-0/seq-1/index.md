@@ -30,12 +30,12 @@ The Chieftain characteristically suggests that they kill the whole neighboring t
 As they conclude with the Chieftain, they notice Professor Birchwell slip away again.
 They trail him as he weaves his way through the village, to the edge of town.
 He stops at a bridge in the woods, and the PCs observe him at a distance.
-They realize he's speaking in Russian to someone they can't see, on the other side of the bridge.
+They realize he's speaking in Russian to someone on the other side of the bridge.
 A twig breaks, and the professor looks directly at the PCs, but says nothing to the man.
 Professor Birchwell begins to leave, and the PCs run through the woods to arrive before him.
 
 The PCs confront Professor Birchwell about what he did,
-and he erupts with anger, almost incoherently babbling about trust and secrets, and his research.
+and he erupts with anger, almost incoherently babbling about trust and secrets.
 He accuses them of spying on him, and trying to kill him.
 After a thorough accosting, he lets them go.
 

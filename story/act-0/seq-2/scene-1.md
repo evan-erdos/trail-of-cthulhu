@@ -6,21 +6,13 @@ beat:        procedural
 objective:   up
 ---
 
-
-The PCs are now aware of the ritual,
-but will have difficulty gaining entry.
-
-The ruins are comprised of concentric hemispheres of rough stone pillars,
-the designs of which become more complex as one moves inwards,
-towards the centerpiece: a bloody, stone altar.
-
-Directly behind the altar is a solitary pillar of rough-hewn aplite.[^0]
+The PCs return to the Ruins.
 
 At a distance, it looks like it's just a carving of the sun,
 but fine details are hard to make out, as the whole area is lit only by a fire.
 When the PCs get closer, it becomes apparent that it's more:
 The center of what they thought was the sun is actually a twisted face.[^1]
-Its horrified expression immortalized in the red stone.
+Its horrified expression immortalized in the red stone, painted over in blood.
 They also observe that some of the tendrils around the edge are pointing inwards,
 and the face appears to be recoiling from them.
 
@@ -32,7 +24,6 @@ If the PCs gave their Talisman to the Professor,
 they can search the area around the ruins for another body.
 Once they have their own Talisman, they can enter the inner circles.[^2]
 
-[^0]: **GEOLOGY** > 2 Geologists will immediately recognize it's not native to the area.
 [^1]: This is the same image that is depicted on the Tendril Medallion.
 [^2]: This is plausible, as there are other students at the ritual.
 

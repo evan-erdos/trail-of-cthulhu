@@ -7,8 +7,7 @@ objective:   up
 ---
 
 
-{% include inkwell-begin.html %}
-
+~~~
 EXT. DUNES - DAY
 
 AMBALO and five of his best warriors stand around the truck,
@@ -42,8 +41,7 @@ AMBALO
 (yelling at the PCs)
 We need your help, the sand is thick here.
 Move the truck into the pit! Only fire can cleanse these demons!
-
-{% include inkwell-end.html %}
+~~~
 
 
 PC’s have several choices here:
@@ -97,7 +95,7 @@ From the fire and smoldering metal emerges the WRETCHED BARNACLE.
 | Alertness Modifier | +0 |
 | Stealth Modifier   | +0 |
 | Weapon             | +0 |
-| Putrid Vomit       | Creates a noxious yellow projectile.       |
+| **Putrid Vomit**   | Creates a noxious yellow projectile.       |
 |                    | Damages on movement or when taking action. |
 |                    | Lasts 2 attack turns.                      |
 

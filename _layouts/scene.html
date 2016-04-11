@@ -3,6 +3,7 @@ layout: story
 ---
 
 <article class="scene" itemprop="articleBody">
+  <!--{% include autonav.html %} -->
   {% include nav/scene.html %}
   <header class="scene-header">
     <h1 class="scene-title">
@@ -18,4 +19,5 @@ layout: story
     {{ content }}
   </div>
   {% include nav/scene.html %}
+  <script type="text/javascript" src="{{site.baseurl}}/code/autonav.js"></script>
 </article>

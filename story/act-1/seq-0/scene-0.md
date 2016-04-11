@@ -12,8 +12,7 @@ About a mile away a pillar of black smoke smears the air.
 They survey the land using to scavenge whatever resources available.[^health]
 
 
-{% include inkwell-begin.html %}
-
+~~~
 EXT. RUINS - DAY
 
 The PCs hear moaning coming from behind a pillar.
@@ -23,8 +22,7 @@ BORST calls out for his wife ADELA, before seeing the PCs... He then falls silen
 BORST
 The students of Birchwell, I thought they had killed you all...
 Birchwell will be pleased when I tell him.
-
-{% include inkwell-end.html %}
+~~~
 
 
 The PCs have several options here:
@@ -47,8 +45,7 @@ The PCs will cause Borst to breakdown into tears.[^info]
 
 
 
-{% include inkwell-begin.html %}
-
+~~~
 He will tell of his soon to be baby, and his innate need to see his child born.
 He curses ILYA for his betrayal, and vows vengeance.
 Promising that he can help the PCs if they aid him.
@@ -60,8 +57,7 @@ BORST
 You don’t think that I’ve endured worse?
 You aren’t very creative...
 I guess that’s why you are just sheep studying under Birchwell. Suchas!
-
-{% include inkwell-end.html %}
+~~~
 
 
 Further questioning Borst about Birchwell he will tell you of his involvement in the fire,
@@ -81,11 +77,11 @@ Lines lead up the dune from the ruins of the school, some of them have blood dri
 The trails lead over the dune to the MEDICAL TRUCK.
 
 
-[^healing]: **FIRST AID** > 2: heal Borst's wounds
-[^info]: **INTIMIDATION** > 3: get more information out of Borst
-[^health]: **HEALTH** + 3: LUNCH MEATS and WATER BOTTLES
-[^question]: **REASSURANCE** > 3: get information out of Borst
-[^assess]: **ASSESS HONESTY** > 1: call out Borst's lie
+[^healing]: **First Aid** > 2: heal Borst's wounds
+[^info]: **Intimidation** > 3: get more information out of Borst
+[^health]: **Health** + 3: LUNCH MEATS and WATER BOTTLES
+[^question]: **Reassurance** > 3: get information out of Borst
+[^assess]: **Assess Honesty** > 1: call out Borst's lie
 
 
 

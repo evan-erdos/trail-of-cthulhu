@@ -1,24 +1,80 @@
 ---
 layout:      scene
-title:       Without A Cure
-seq:         0
+title:       Rumors
 scene:       4
 beat:        question
+objective:   up
 ---
 
+The PCs return to the main square, to learn about this other tribe.
 
-On the way back to the laboratory, the PCs walk past their broken-down jeep.
-Careful examination reveals that it's damaged in places it wasn't before.[^0]
-As the expedition continues to the laboratory, they hear strange things in the woods.
-Professor Birchwell instructs them to ignore it, and they arrive back at the lab.
+~~~
+INT. BROKEN STOREFRONT, AFTERNOON
 
-The caravan returns to the lab, and they begin analysis on the samples immediately.
-They test against many common diseases and afflictions, but none of the tests come back positive.[^1]
+The PCs return to the STOREKEEPER, who is still working frantically.
+He looks like he's being flung around the room by some external force.
+His movements are sloppy, he looks tired, but his eyes are wide open.
+He repeatedly wets a rag with muddy water, and wipes down the entire counter,
+leaving chunks of dirt and grime after each pass.
+
+STUDENTS
+You've reorganized the whole shop!
+
+STOREKEEPER
+y-Yes! I had to make sure... sure... Sure that people would buy meat!
+
+STUDENTS
+They don't seem to be in any particular order.
+
+STOREKEEPER
+Th-they're ordered by... thing-ness!
+
+STUDENTS
+Thing-ness?
+
+STOREKEEPER
+Are you s-sure I can't sell you s-so-some meats?
+
+STUDENTS
+No, thanks. We'd like to know about the other tribe.
+
+STOREKEEPER
+I can't t-t-ell any... non-m-meat buyers about a-any ritual if they don't buy so--
+
+STUDENTS
+We'll buy some meat if you tell us. Do you know anything about it?
+
+STOREKEEPER
+Y-yes! Villagers and some of your p-people, too, take part in it,
+and th-there's another... is being held tomorrow!
+
+STUDENTS
+Where do they do this?
+
+STOREKEEPER
+A-are you going to b-buy meats?
+~~~
 
 
-[^0]: Closer examination reveals bullet holes, which would implicate Soviets, not tribesmen.
-[^1]: There are no matches because they're not sick, they're just being altered by Cthulhu.
-[^2]: He knows what's going on, but won't tell the PCs.
+The PCs purchase some weird-smelling meat,[^barter]
+and learn that the ritual is to be held in the ruins themselves.
+
+They are warned, however, that the cultists don't like "interlopers".
+
+[^barter]: **Barter > 2**: learn about the rituals in more depth
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

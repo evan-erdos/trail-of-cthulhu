@@ -10,8 +10,7 @@ objective:   down
 Inside a student you have never seen is sitting in the corner of the truck.
 She hugs her knees to her chest rocking back and forth.
 
-{% include inkwell-begin.html %}
-
+~~~
 INT. SOVIET MEDICAL TRUCK - DAY
 
 The truck is clean and filled with supplies.
@@ -21,8 +20,7 @@ As the PCs get closer to the STUDENT, they see that her clothes are soaking wet,
 and she is covered with sea foam and chunks of flesh.
 She is whimpering and shaking despite the hot stuffy interior of the truck.
 The room smells fetid, a different more vulgar smell than the burning bodies.
-
-{% include inkwell-end.html %}
+~~~
 
 The student raises her face, and everyone must take a Stability check.
 The bottom half of her face is raw with the jawbone protruding through the little muscle left.
@@ -32,7 +30,8 @@ Instead two strange sea cucumbers grow from her eye sockets,
 they have long antennas which whisk around the air feeling around the walls and floor.
 
 
-{% include inkwell-begin.html %}
+~~~
+INT. SOVIET MEDICAL TRUCK - DAY
 
 When the PCs approach her she raises her head uttering in guttural sounds,
 
@@ -56,8 +55,7 @@ Please, help me.. Save me.
 Strange movements begin to occur underneath her skin as if bugs are crawling beneath the flesh trying to burst out.
 
 She starts spitting steaming yellow liquid randomly, and it gets dangerously close to the PCs.
-
-{% include inkwell-end.html %}
+~~~
 
 Many area of the trucks have already disintegrated giving it the appearance of a skeleton.
 Through the holes you see figures with spears moving outside.

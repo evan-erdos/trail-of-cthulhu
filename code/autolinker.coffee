@@ -18,22 +18,47 @@
 
 
 ### DOM ###
-site = "http://bescott.org/" # domain name
+site = "http://bescott.org/" # domain name, localhost:4000
 baseurl = "trail-of-cthulhu/" # subdomain
+
 
 ### Helper Functions ###
 String::startsWith ?= (s) -> @slice(0,s.length)==s
 String::endsWith   ?= (s) -> s=='' || @slice(-s.length)==s
+toItalic = (s) => applyStyle(s,"i")
+toStrong = (s) => applyStyle(s,"strong")
+applyStyle = (s,style) => "<#{style}>#{s}</#{style}>"
 
 
 ### Linkable Patterns ###
-
 links = [
+    base: "items/"
+    styles: [toItalic]
+    patterns: [
+        link: "talisman/"
+        regex:
+            /// \bTalismans? \s+ of \s+ the \s+ Yellow \s+ Sign
+            |   (Yellow \s+)? Talisman\b
+            ///g
+    ,
+        link: "medallion/"
+        regex: ///\b (Tendril \s+)? Medallion \b///g
+    ,
+        link: "grimoire/"
+        regex:
+            /// (Birchwell's \s+)? Grimoire
+            |   (Birchwell's \s+)? Strange \s+ Notes
+            ///g
+    ,
+        link: "glyph/"
+        regex: /// (Tendril(-Like)? \s+)? Glyph ///g
+    ],
+,
     base: "characters/players/"
-    styles: ["strong"]
+    styles: [toStrong]
     patterns: [
         link: ""
-        regex: /Players?|PCs?/g
+        regex: /\bPlayers?|PCs?\b/g
     ,
         link: "adaline/"
         regex: /Ada(line)?(\s+Braun)?|Braun/g
@@ -46,25 +71,25 @@ links = [
     ,
         link: "acheron/"
         regex: /Acheron(\s+Erevnit[iíî]s)|Erevnit[iîí]s/g
-    ,
-        link: "acheron/"
-        regex: /Acheron(\s+Erevnit[iíî]s)|Erevnit[iîí]s/g
     ],
 ,
     base: "characters/"
-    styles: ["strong"]#,"toUpper"]
+    styles: [toStrong]
     patterns: [
         link: "birchwell/"
         regex:
-            ///\b Professor \s+ Cameron \s+ 'T'\. \s+ Birchwell
+            /// Professor \s+ Cameron \s+ 'T'\. \s+ Birchwell
             |   Professor \s+ Cameron \s+ Trenton \s+ Birchwell
             |   Professor (\s+Birchwell)?
-            |   Cameron
+            |   Cameron (\s+Birchwell)?
             |   Birchwell\b
             ///g
     ,
         link: "dolya/"
-        regex: /Dolya(\s+Petronva)?/g
+        regex:
+            /// Dolya (\s+ Petrovna)?
+            |   Petrovna
+            ///g
     ,
         link: "ilya/"
         regex:
@@ -75,10 +100,10 @@ links = [
     ,
         link: "borst/"
         regex:
-            /// Sergeant \s+ Borst \s+ Chekov
-            |   Sgt\.\s+ Borst \s+ Chekov
-            |   Ilya(\s+Zolnerowich)?
-            |   Zolnerowich
+            /// Sergeant \s+ Borst \s+ Chekhov
+            |   Sgt\.\s+ Borst \s+ Chekhov
+            |   Borst (\s+ Chekhov)?
+            |   Chekhov
             ///g
     ,
         link: "omari/"
@@ -104,7 +129,8 @@ links = [
             ///g
     ],
 ,
-    base: "settings/"
+    base: "setting/"
+    styles: [(s) => s] #.toUpperCase()
     patterns: [
         link: "grotto/"
         regex: /\bGrotto(es)?/g
@@ -120,53 +146,8 @@ links = [
     ,
         link: "village/"
         regex: /\bVillage\b/g
-    ],
-,
-    base: "items/"
-    styles: ["i"]
-    patterns: [
-        link: "talisman/"
-        regex:
-            /// \bTalisman \s+ of \s+ the \s+ Yellow \s+ Sign
-            |   (Yellow \s+)? Talisman\b
-            ///g
-    ,
-        link: "medallion/"
-        regex: ///\b (Tendril \s+)? Medallion \b///g
-    ,
-        link: "grimoire/"
-        regex:
-            /// (Birchwell's \s+)? Grimoire
-            |   (Birchwell's \s+)? Strange \s+ Notes
-            ///g
-    ,
-        link: "glyph/"
-        regex: /// (Tendril(-Like)? \s+)? Glyph ///g
     ]
 ]
-###
-,
-    base: "skills/"
-    styles: ["i"]
-    patterns: [
-        link: ""
-        regex: /// ///g
-    ,
-        link: ""
-        regex: ///\b (Tendril \s+)? Medallion \b///g
-    ,
-        link: ""
-        regex:
-            /// (Birchwell's \s+)? Grimoire
-            |   (Birchwell's \s+)? Strange \s+ Notes
-            ///g
-    ,
-        link: ""
-        regex: /// (Tendril(-Like)? \s+)? Glyph ///g
-    ]
-]
-###
-
 
 
 ### `AutoLinker`
@@ -178,22 +159,14 @@ class AutoLinker
         divs = document.getElementsByClassName("content")
         @createLink(div) for div in divs
 
-
     createLink: (div) ->
         for group in links
             base = group.base
-            styles = group.styles
             for pattern in group.patterns
                 link = pattern.link
-                regex = pattern.regex
-                text = div.innerHTML
-                div.innerHTML = text.replace regex, (match) ->
-                    if (styles)
-                        for style in styles
-                            match = if (style=="toUpper") then match.toUpperCase() else "<#{style}>#{match}</#{style}>"
+                div.innerHTML = div.innerHTML.replace pattern.regex, (match) ->
+                    match = style(match) for style in group.styles
                     match = """<a href="#{site}#{baseurl}#{base}#{link}">#{match}</a>"""
-
-
 
 
 autoLinker = new AutoLinker()

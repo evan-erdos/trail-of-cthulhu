@@ -15,41 +15,75 @@
 
 
 ### const ###
-url_regex = /^((ftp|https?):\/\/)?([\d\w\.-]+)\.([\w\.]{2,6})([\/\w \.-]*)*\/?$/
-
+url_regex =
+    ///
+    \b((?:[a-z][\w-]+:
+        (?:/{1,3}|[a-z0-9%])
+        | www\d{0,3}[.]
+        |[a-z0-9.\-]+[.][a-z]{2,4}/)
+    (?: [^\s()<>]+
+    |\(([^\s()<>]+|(\([^\s()<>]+\)))*\))+
+        (?:\(([^\s()<>]+|(\([^\s()<>]+\)))*\)
+    | [^\s`!()\[\]{};:'".,<>?«»“”‘’]))
+    ///i
 
 ### DOM ###
-site = "http://bescott.org" # domain name
-#site = "http://localhost:4000" # domain name
+site = "http://bescott.org" # domain name, http://localhost:4000
 baseurl = "/inkwell" # subdomain
 
 
 ### Helper Functions ###
 String::startsWith ?= (s) -> @slice(0,s.length)==s
 String::endsWith   ?= (s) -> s=='' || @slice(-s.length)==s
+zip = () ->
+  lengthArray = (arr.length for arr in arguments)
+  length = Math.min(lengthArray...)
+  for i in [0...length]
+    arr[i] for arr in arguments
 
+### Options ###
+localFountain = false
 
 
 ### `Inkwell`
 #
-# main class for full-page Inkwell screenplays
+# Finds to-be-formatted elements on the page, and renders them.
 ###
 class Inkwell
     constructor: ->
-        script = document.scripts[document.scripts.length-1]
-        @parent = script.parentElement
-        id = @parent.id
-        if id==""
-            div = script.previousSibling
-            text = div.innerHTML
-            @parent.removeChild(div)
+        @parent = null
+        if (localFountain)
+            script = document.scripts[document.scripts.length-1]
+            @parent = script.parentElement
+            id = @parent.id
+            if id==""
+                div = script.previousSibling
+                text = div.innerHTML
+                @parent.removeChild(div)
+                @process(text)
+            else @load(id, @getURL(id))
+        else @processAll(document.getElementsByTagName("pre"))
+
+
+    ### `processAll`
+    #
+    # finds all pre tags in the document, and renders them
+    ###
+    processAll: (elements) ->
+        pres = []
+        for pre in elements
+            text = pre.innerHTML
+            @parent = document.createElement 'div'
+            @parent.className = "screenplay"
+            pres.push pre
+            pre.parentElement.appendChild(@parent)
             @process(text)
-        else @load(id, @getURL(id))
+        pre.parentElement.removeChild(pre) for pre in pres
 
 
     ### `isFountainHead`
     #
-    # Determine if a given line is a fountain block
+    # determine if a given line is a fountain block
     ###
     isFountainHead: (line) ->
         return unless (line? && line.length>0)
@@ -61,7 +95,7 @@ class Inkwell
     # create a scene header / slugline, return it
     ###
     createHeader: (lines) ->
-        h2 = document.createElement('h2')
+        h2 = document.createElement 'h2'
         h2.className = "full-slugline"
         h2.appendChild(document.createTextNode(lines))
         return h2
@@ -72,16 +106,23 @@ class Inkwell
     # creates a dl for character / dialogue blocks
     ###
     createCharacter: (lines) ->
-        dl = document.createElement('dl')
-        dt = document.createElement('dt')
+        dl = document.createElement 'dl'
+        dt = document.createElement 'dt'
         dt.className = "character"
         dt.appendChild(
             document.createTextNode(lines.shift()))
         dd = document.createElement('dd')
         dd.className = "dialogue"
         for line in lines
-            dd.appendChild(
-                document.createTextNode(line+"\n"))
+            text = document.createTextNode(line+" ")
+            if (line.startsWith('(') && line.endsWith(')'))
+                italic = document.createElement('i')
+                italic.className = "parenthetical"
+                italic.appendChild(
+                    document.createElement("br"))
+                italic.appendChild(text)
+                dt.appendChild(italic)
+            else dd.appendChild(text)
         dl.appendChild(dt)
         dl.appendChild(dd)
         return dl
@@ -92,7 +133,7 @@ class Inkwell
     # creates a paragraph for action blocks
     ###
     createAction: (lines) ->
-        p = document.createElement('p')
+        p = document.createElement 'p'
         p.className = "action"
         for line in lines
             text = document.createTextNode("#{line} ")
@@ -122,6 +163,7 @@ class Inkwell
     ###
     process: (data) ->
         return unless data?
+        data = data.replace /<\/?code>/g, ""
         data = data.replace /<\/?p>/g, "\n"
         data = data.replace /\n\n+/g, "\n\n"
         paragraphs = data.split "\n\n"

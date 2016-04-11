@@ -27,8 +27,7 @@ If the PCs use Interrogate, Intimidate, or Sneak to try and talk to the soldier 
 Swinging the door of the MEDICAL TRUCK quickly he knocks the PC to the floor taking a point off of Health.
 
 
-{% include inkwell-begin.html %}
-
+~~~
 EXT. DUNES - DAY
 
 The PCs approach the truck, and find a SOLDIER in the front seat, alive but not mentally present.
@@ -43,8 +42,7 @@ With that the soldier begins projectile vomiting.
 Chunks of blood and bile mix with seaweed and yellow saltwater spill onto the sand.
 The SOLDIER staggers and then his eyes turn completely black.
 He turns and sprints to the pit leaping into the fire.
-
-{% include inkwell-end.html %}
+~~~
 
 
 Checking the inside of the MEDICAL TRUCK players find a very 12-gauge flare pistol (1882). A 750ml of Vodka, and a broken radio.

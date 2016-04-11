@@ -6,60 +6,89 @@ beat:        dramatic
 objective:   up
 ---
 
-
-They find the Chieftain, and ask him about the symbol they found.
-He's confined to bed, and it's plain that he's nearly lost his mind.
+Having spoken to many of the villagers, the PCs decide to find the chieftain.
 
 
-{% include inkwell-begin.html %}
+~~~
+INT. CHIEFTAIN'S HUT, MORNING
 
-INT. CHIEFTAIN'S HUT, DAY
-
-A group of STUDENTS enter the the CHIEFTAIN's bedchambers,
-and ask him about the symbol they found.
+The STUDENTS enter CHIEFTAIN AMBALO's bedchambers.
 He's confined to bed, and it's plain that he's nearly lost his mind.
 
 STUDENTS
 What do you think is going on with your village?
 
-CHIEFTAIN
-It's those demon worshipers, they are the cause of our plight.
+CHIEFTAIN AMBALO
+It's those demon worshipers,
+they are the cause of our plight.
 
 STUDENTS
 What have they done to cause this to happen?
 
-CHIEFTAIN
-They have made deals with a devil, and have brought this curse to all of us.
+CHIEFTAIN AMBALO
+They have made deals with a devil,
+and have brought this curse to all of us.
 
 STUDENTS
 Has anything else out of the ordinary happened?
 
-CHIEFTAIN
-There were white men in suits, like yours, who came here from the east.
+CHIEFTAIN AMBALO
+Oh, many things! One thing, there were white men in suits,
+like yours, who came here from the east.
 
-{% include inkwell-end.html %}
+Light floods the tent as the PROFESSOR enters through the canvas door.
+
+PROFESSOR
+Hello, my pupils. Greetings, Chieftain.
+Students, our work here is concluded. Let's be off now.
+
+STUDENTS
+We haven't asked the Chieftian about--
+
+PROFESSOR
+There will be time for that later. Come on, now!
+Let's not leave the caravan waiting.
+
+CHIEFTAIN AMBALO
+You, you must end our curse! Find the demon worshippers!
+They have caused the tide to change...
+...and they wander into our village at night,
+putting ants in our... our grain stores!
+
+PROFESSOR
+I'm sure. Come now, my students.
+
+STUDENTS
+Let's hear the Chieftain out, Professor.
+This could be very valuable information.
+
+PROFESSOR
+(sighing)
+I will have the caravan wait.
+~~~
 
 
-Moreover, he says that some of the villagers most afflicted by the "curse" are missing,
-and he blames their disappearance on the neighboring "demon worshippers".[^0]
-He goes on to claim that this other tribe has caused the tides to change,
-and that they wander into the village at night, and put ants in his food.[^2]
-If the PCs press him[^3], he reveals that his only son was taken.
-His son disappeared without warning,
-a month before the village began to have problems.[^4]
+The Professor concedes, and the PCs continue to listen to the Chieftain's rambling.[^0]
+He tells them that the strange men he saw come to the village periodically,
+waiting at the jungle's edge, and watching them.[^1]
+With some effort, the PCs convince Ambalo to reveal that his only son was taken.[^spill]
+His son disappeared without warning, a month before the village began to have problems.[^2]
 All the other missing villagers showed signs of this "curse" before disappearing.
-The PCs gather samples from the village,
-and return to the lab to analyze the data.
-Professor Birchwell appears as they leave the village,
-and the group returns to the lab.
+
+He pleads to the PCs to find the missing villagers, and his son,
+claiming that they are in the lair of the so-called "Demon Worshippers".[^3]
+
+Even if the PCs have no interest in saving the villagers,
+they decide that going to investigate the other tribe could prove to be helpful,
+as it might provide them with new insights into the nature of the Ambalo Tribe's plight.
 
 
-[^0]: The "demon" is Hastur, and the "demon worshippers" are trying to summon him.
+[^0]: His hatred for this other tribe has clouded his judgement.
 [^1]: The uniformed men are Soviet troops who have taken an interest in the tribe.
-[^2]: His hatred for this other tribe has clouded his judgement.
-[^3]: Intimidation / Psychoanalysis
-[^4]: This doesn't fit the pattern because the chief's son left on his own accord.
+[^2]: This doesn't fit the pattern because the chief's son left on his own accord.
+[^3]: The "Demon" is Hastur, and his "worshippers" are members of the other tribe.
 
+[^spill]: **Intimidation / Psychoanalysis > 2**: get the Chief to talk
 
 
 

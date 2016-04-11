@@ -1,6 +1,6 @@
 ---
 layout:   character
-title:    Chieftain
+title:    Chieftain Ambalo
 ---
 
 

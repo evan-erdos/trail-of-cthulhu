@@ -8,8 +8,7 @@ objective:   up
 ---
 
 
-{% include inkwell-begin.html %}
-
+~~~
 EXT. SOVIET RADIO TOWER - NIGHT
 
 Upon entering the RADIO TOWER it becomes evident that the Soviets are building much more than just one tower.
@@ -19,16 +18,14 @@ A SHED sits in the corner of the compound.
 The base of the tower seems to be working,
 a light flashes on the top as a rotating blade cuts through the night air.
 The area is relatively quiet besides the one generator powering the rig.
-
-{% include inkwell-end.html %}
+~~~
 
 
 Parked in the center is a massive EARTH HAULER that has been outfitted with a diamond drill.
 The cab is locked, but through the window you can see a set of pickaxes and a .600 Elephant Rifle.
 
 
-{% include inkwell-begin.html %}
-
+~~~
 INT. RADIO TOWER SHED - NIGHT
 
 Generators are lined up to provide power, with barrels of gasoline to power them.
@@ -39,9 +36,9 @@ The inside of the tower is clearly finished.
 Computer monitors flicker with soviet symbols, and advanced radio equipment.
 The radios don’t seem to be working yet.
 There is a PERSONAL RADIO sitting next to the sleeping TOWER GUARD.
-The TOWER GUARD seems fast asleep, and unaware of the russian banter on the other side of the radio.
-
-{% include inkwell-end.html %}
+The TOWER GUARD seems fast asleep,
+and unaware of the russian banter on the other side of the radio.
+~~~
 
 
 Using Language, the PCs hear the coordinates of a cave system in question which they mark on the map.
@@ -60,8 +57,7 @@ The PCs must destroy the radio tower by using knowledge of electrical and mechan
 Here they obtain a soviet RADIO that allows them to hear russian military chatter.
 
 
-{% include inkwell-begin.html %}
-
+~~~
 EXT. TRIBES - DAY
 
 The players return to the tribe and give the SHAMAN the PURPLE ROOT.
@@ -74,8 +70,7 @@ That it should be done before removing the blade from the victim.
 The PCs can question the SHAMAN further about his recent behavior.
 If they do the SHAMAN will lie to them saying that he has been present the whole time,
 just that the tribes people have become less observant with the stress of the Soviets and disappearance of AMBALO’S son EFUA. 
-
-{% include inkwell-end.html %}
+~~~
 
 
 
@@ -88,13 +83,11 @@ The SHAMAN tells them that the russians have sent parties to their temples and r
 HE warns the PCs not to enter any of the nearby caves as they are cursed.
 
 
-{% include inkwell-begin.html %}
-
+~~~
 EXT. RUINS - DAY
 The PCs make it back to BORST and give him the MEDICINAL TONIC and the Personal RADIO.
 Using Medicine, the PCs apply the tonic and it seals the wound so not a single drop of blood remains on the dagger as they slowly remove it from BORST.
-
-{% include inkwell-end.html %}
+~~~
 
 
 Thankful, BORST uses the radio to contact the soviet base.
