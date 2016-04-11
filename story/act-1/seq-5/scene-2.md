@@ -1,17 +1,4 @@
 ---
-layout:      scene
-title:       Coerced Archaeology
-scene:       2
-beat:        procedural
-objective:   down
+layout:  redirect
+redirect: "../../seq-6/scene-0/"
 ---
-
-
-
-Ilya forces the PCs inside at gunpoint.
-
-
-
-
-
-
