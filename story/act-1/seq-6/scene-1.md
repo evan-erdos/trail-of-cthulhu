@@ -1,6 +1,7 @@
 ---
 layout:      scene
 title:       Eloping with Hastur
+act:         1
 seq:         6
 scene:       1
 beat:        bringdown

@@ -24,6 +24,7 @@ But it is quite large and would make a great hiding spot.
 The tile floor is smeared with blood and quite slippery.
 A trail leads to the doorway, which is fastened shut.
 On the other side you can hear screaming.
+~~~
 
 Using Mechanical Repair, or Craft the PCs can sabotage the AIR CONDITIONER.
 
