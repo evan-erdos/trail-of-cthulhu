@@ -1,6 +1,7 @@
 ---
 layout:  item
 title:   Tendril Medallion
+image:   medallion.png
 ---
 
 This is a medallion, found amongst ruins in Northern Africa.

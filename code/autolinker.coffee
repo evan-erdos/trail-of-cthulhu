@@ -179,7 +179,7 @@ links = [
             ///g
     ,
         link: "dolya/"
-        styles: [toSoviet]
+        #styles: [toSoviet]
         regex:
             /// Dolya (\s+ Petrovna)?
             |   Petrovna

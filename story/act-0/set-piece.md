@@ -32,11 +32,11 @@ While the **Gate Guard** cannot be reasoned with, he can be overpowered and impe
 
 To achieve this, the Players need:
 
-- (**Scuffling 3** / **Athletics 5**) to overpower the **Gate Guard**
+- (**Scuffling 3 / Athletics 5**) to overpower the **Gate Guard**
     - **+1** to each roll if:
         - they took the vines from the fence to tie him up with
 - (**Disguise 2** & **Languages 2**) to impersonate the **Gate Guard**
-- (**Firearms 2** / **Weapons 3**) to hijack an incoming vehicle
+- (**Firearms 2 / Weapons 3**) to hijack an incoming vehicle
 - **-1** to each roll if:
     - they fail a **Sense Trouble > 2** roll as a vehicle is approaching
     - **Stealth < 2** for any Player involved in the above actions
@@ -47,21 +47,9 @@ allowing them the time to interrogate the **Gate Guard**.
 To get information out of him, they need:
 
 - (**Languages 1**) to understand him
-- (**Interrogation 2** / **Intimidation 2**) to convince him to talk
+- (**Interrogation 2 / Intimidation 2**) to convince him to talk
 
 This yields basic information about the Observatory, and its layout.
-
-> It is Observatory, with refractor telescope in the middle.
-> There are metal path around inside edge,
-> and stairs from the paths to entrance, and up to Control Room.
-
-> In Control Room, there are lot of office... and papers, things.
-> I not... I lack clearance to go in Control Room, I am apologize.
-
-They can ask about guard movements:
-
-> Three guards patrol outside base, 5 minute interval.
-> Inside? no guards. The scientist, he does not allow these things.
 
 However, if they ask about anything more, he claims to know nothing:
 
@@ -70,23 +58,49 @@ However, if they ask about anything more, he claims to know nothing:
 To get more out of him, they need:
 
 - (**Languages 1**) to understand him
-- (**Intimidation 3** / **Psychoanalysis 4**) to get him to talk more
-- (**Assess Honesty 3** / **Psychoanalysis 4**) to verify he believes what he says
+- (**Intimidation 3 / Psychoanalysis 4**) to get him to talk more
+- (**Assess Honesty 3 / Psychoanalysis 4**) to verify he believes what he says
+
+~~~
+EXT. GUARD BOOTH - NIGHT
+
+The Party has kidnapped a guard, and is questioning him.
+
+STUDENTS
+Tell us about the OBSERVATORY.
+
+GATE GUARD
+It is OBSERVATORY, with refractor telescope in the middle.
+There are metal path around inside edge,
+and stairs from the paths to entrance, and up to Control Room.
+
+In Control Room, there are lot of office... and papers, things.
+I not... I lack clearance to go in Control Room, I am apologize.
+
+STUDENTS
+Are there guards?
+
+GATE GUARD
+Three guards patrol outside base, 5 minute interval.
+Inside? no guards. The scientist, he does not allow these things.
+
+STUDENTS
+The Scientist?
 
 
-They can ask him about the "scientist":
+GATE GUARD
+Scientist? He is British. I have not spoken to him personal.
 
-> Scientist? He is British. I have not spoken to him personal.
+STUDENTS
+Who is you C.O.?
 
-They can ask him about the chain of command:
-
-> I report to Ilya Zolnerowich. I do not know of where he is.
-
-Eventually, he will refuse to betray his people any further:
-
-> Enough, American dogs. You kill me now, for Mother Russia!
+GATE GUARD
+I report to Ilya Zolnerowich. I do not know of where he is.
+Enough, American dogs. You kill me now, for Mother Russia!
+~~~
 
 ---
+
 
 If they gain entry, but aren't able to hijack a vehicle,
 the Players must sneak into the main Observatory on their own.
@@ -97,10 +111,10 @@ On the opposite side of the Observatory, there's plenty of foliage.
 
 To get inside, they need:
 
-- (**Stealth 2** / **Athletics 4**) to get across unseen
+- (**Stealth 2 / Athletics 4**) to get across unseen
     - **+1** to each roll if:
         - they interrogated the **Gate Guard**
-- (**Lockpicking 3** / **Architecture 2**) to open the door / find another way in
+- (**Lockpicking 3 / Architecture 2**) to open the door / find another way in
 - **-1** to each roll if:
     - they run at the wrong time
     - they don't use the foliage as cover
@@ -114,7 +128,7 @@ which contain horrifying descriptions of secret military tests.
 
 To read these, they need:
 
-- (**Physics 3** / **Astronomy 3**) to make sense of the technical diagrams
+- (**Physics 3 / Astronomy 3**) to make sense of the technical diagrams
 - (**Evidence Collection 2**) to figure out which documents are important to steal
 
 They learn that the Soviets have attempted to use live humans as guidance systems for ICBMs.
@@ -127,7 +141,7 @@ Believing the Observatory to be empty, they begin the process of syncing the tel
 
 To attempt this, they need:
 
-- (**Physics 3** / **Astronomy 3**) to operate the telescope
+- (**Physics 3 / Astronomy 3**) to operate the telescope
 - (**Cryptography 2**) to figure out what the blinking means
 
 If they have these skills, they are able to figure it out while they're here.
@@ -169,7 +183,7 @@ Ilya concedes, but they are questioned rigorously about what they know.
 
 To stay alive, and make sure they don't reveal that they know anything:
 
-- (**Reassurance 2** / **Flattery 4**) to assuage the Soviet's fears
+- (**Reassurance 2 / Flattery 4**) to assuage the Soviet's fears
 - (**Conceal 3**) to ensure that the Soviets don't find the documents they stole
 - **+1** to each roll if:
 	- (**Languages 1**) to ensure they don't miscommunicate anything
@@ -185,103 +199,11 @@ and the odds of a successful escape go up after Ilya loses interest and leaves.
 
 To escape, they need:
 
-- (**Fleeing 3** / **Stealth 4**) for each Player
+- (**Fleeing 3 / Stealth 4**) for each Player
 - **-1** to every Player's roll if:
     - (**Fleeing < 3**) for any Player
 
 ---
-
-NPC Reactions
--------------
-
-~~~
-Jungle (Dusty Path)
-The dusty trail leads northeast, into a clearing, and south,
-back to the Run-Down Checkpoint.
-A warm wind rustles the foliage around you.
-
->northeast
-
-Jungle (Outside the Observatory)
-You're standing in a clearing, outside the Observatory.
-
->in
-(first opening the door)
-
-Observatory (Entrance)
-The canopy of the Observatory looms over you.
-This is the main entrance to the Observatory.
-There's a door leading out, and a door which leads in, to the Atrium.
-The wrought iron trusses of the Observatory's canopy creak in the wind.
-
-You close the exterior door behind you as you enter.
-
->in
-(first opening the Door to the Observatory.)
-
-Observatory (Atrium)
-The canopy of the Observatory looms over you.
-You stand underneath a grand optical telescope,
-aimed up into the night sky.
-The wind whistles quietly as it blows into the open aperture.
-
-As you enter, you notice Professor Birchwell, sitting alone at a desk.
-You stand quietly in the doorway, he hasn't noticed you yet.
-
-You close the metal door very quietly as you enter.
-
->talk to the professor
-
-"Professor..." you say.
-
-He puts down his pen, and turns to you.
-
-"What are you doing here?" he intones.
-
-
-(You could ask him about the soviet troops you saw him with,
-tell him you're researching, or leave, very quickly.)
-
->ask him about the soviets
-
-"We saw you speaking to some Soviet troops earlier." you say.
-
-The professor becomes visibly angry with you.
-
-"Since you know so much already,
-I take it you won't have any questions for them when they arrive?"
-
-"What?  You-"
-
-"-Yes.  I have called them.  They will very likely kill you if you stay.
-I have warned you before, but you don't seem to get it.
-Stay far away from here, do not get involved,
-or the consequences will be dire."
-
-"Professor, what you're doing is wrong.  You can't help-"
-
-"-What is it that you think you know about these matters?"
-
->tell him about documents
-
-"Have you seen what they're researching?"
-
-"What do you mean?"
-
-"Organic control nukes?"
-
-The professor's eyes become very wide.
-
-"You must leave, and you must leave now."
-
-"Why, Professor?"
-
-"Because, Adaline, if they catch you with those papers, they will--"
-
-At this moment, a group of Soviet Troops enters the Atrium.
-
->
-~~~
 
 
 Observatory Layout

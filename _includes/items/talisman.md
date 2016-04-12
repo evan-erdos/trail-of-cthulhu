@@ -1,7 +1,7 @@
 
 ---
 
-<img src="/trail-of-cthulhu/assets/talisman.png" style="float: left; max-width: 25%">
+<img src="/trail-of-cthulhu/assets/talisman.png" style="float: left; max-width: 25%; max-height: 4em">
 
 This is a necklace, worn by members of a hostile tribe.
 It’s quite simple, made of only wood and string.
