@@ -25,6 +25,7 @@ soviet = "#{site}#{baseurl}assets/soviet.svg"
 usa = "#{site}#{baseurl}assets/usa.svg"
 cthulhu = "#{site}#{baseurl}assets/cthulhu.svg"
 hastur = "#{site}#{baseurl}assets/hastur.svg"
+
 image_style =
     """
     display: inline-block;
@@ -32,6 +33,7 @@ image_style =
     width: 1em;
     margin: auto;
     """
+
 
 ### Helper Functions ###
 String::startsWith ?= (s) -> @slice(0,s.length)==s
@@ -51,6 +53,74 @@ applyColor = (s,color) => "<font color='#{color}'>#{s}</font>"
 
 ### Linkable Patterns ###
 links = [
+    base: "characters/skills/"
+    styles: [toStrong,(s) => applyColor(s,"#111111")]
+    patterns: [
+        link: ""
+        regex: ///
+                 Athletics
+               | Accounting
+               | Conceal
+               | Anthropology
+               | Disguise
+               | Archaeology
+               | Driving
+               | Architecture
+               | Electrical Repair
+               | Art History
+               | Explosives
+               | Biology
+               | Filch
+               | Cthulhu Mythos
+               | Firearms
+               | Cryptography
+               | First Aid
+               | Geology
+               | Fleeing
+               | History
+               | Hypnosis
+               | Languages
+               | Mechanical Repair
+               | Law
+               | Piloting
+               | Library Use
+               | Preparedness
+               | Medicine
+               | Psychoanalysis
+               | Occult
+               | Riding
+               | Physics
+               | Sanity
+               | Theology
+               | Stability
+               | Scuffling
+               | Sense Trouble
+               | Shadowing
+               | Stealth
+               | Weapons
+               | Art
+               | Astronomy
+               | Chemistry
+               | Craft
+               | Evidence Collection
+               | Forensics
+               | Locksmith
+               | Outdoorsman
+               | Pharmacy
+               | Assess Honesty
+               | Bargain
+               | Bureaucracy
+               | Cop Talk
+               | Credit Rating
+               | Flattery
+               | Interrogation
+               | Intimidation
+               | Oral History
+               | Photography
+               ///g
+    ],
+,
+
     base: "items/"
     styles: [toItalic]
     patterns: [
@@ -159,7 +229,6 @@ links = [
     ],
 ,
     base: "setting/"
-    styles: [(s) => s] #.toUpperCase()
     patterns: [
         link: "grotto/"
         styles: [toCthulhu]
@@ -199,7 +268,8 @@ class AutoLinker
             for pattern in group.patterns
                 link = pattern.link
                 div.innerHTML = div.innerHTML.replace pattern.regex, (match) ->
-                    match = style(match) for style in group.styles
+                    if (group.styles)
+                        match = style(match) for style in group.styles
                     if (pattern.styles)
                         match = style(match) for style in pattern.styles
                     match = """<a href="#{site}#{baseurl}#{base}#{link}">#{match}</a>"""
