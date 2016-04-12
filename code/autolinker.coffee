@@ -193,6 +193,20 @@ links = [
             |   Zolnerowich
             ///g
     ,
+        link: "stalin/"
+        styles: [toSoviet]
+        regex:
+            /// Joseph \s+ Stalin
+            |   (Joe|Joseph \s+)? Stalin
+            ///g
+    ,
+        link: "rasputin/"
+        styles: [toSoviet]
+        regex:
+            /// Grigori (\s+ Rasputin)?
+            |   (Grigori \s+) Rasputin
+            ///g
+    ,
         link: "borst/"
         styles: [toSoviet]
         regex:
@@ -247,7 +261,6 @@ links = [
         regex: /\bRuins\b/g
     ,
         link: "village/"
-        #styles: [toCthulhu]
         regex: /\bVillage\b/g
     ]
 ]
