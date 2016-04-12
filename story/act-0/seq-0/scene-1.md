@@ -47,6 +47,12 @@ They find that the tribesman is unarmed, but is wearing a strange necklace.[^bod
 Professor Birchwell approaches them, and asks them to give him the necklace.
 The Professor's reaction to their choice will be either clearly positive or negative.
 
+---
+
+{% include items/talisman.html %}
+
+---
+
 
 [^prof]:
 	This reaction is quite out of character for the Professor,
@@ -57,8 +63,9 @@ The Professor's reaction to their choice will be either clearly positive or nega
 	If they repair the jeep in time, they won't have to fight the tribesmen alone.
 	If they don't make this roll, the caravan continues on without them.
 
-[^body]: **Forensics / Evidence Collection > 1**: find the Talisman of the Yellow Sign
-
+[^body]:
+	**Forensics / Evidence Collection > 1**:
+	find the Talisman of the Yellow Sign
 
 
 
