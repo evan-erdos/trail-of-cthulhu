@@ -93,6 +93,7 @@ Everyone, let this be an example of true bravery!
 If everyone follows in his example, we will accomplish great things!
 ~~~
 
+
 Oscar is taken back into the lab by the security detail, and preparations continue.
 
 
@@ -127,6 +128,7 @@ BORST boards the jeep, and turns around to face the STUDENTS.
 BORST
 Hello, I am BORST. You are all student here?
 ~~~
+
 
 Borst asks them about who they are, and their backgrounds.
 They make small talk, but he says nothing about himself.[^jeep]

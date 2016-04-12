@@ -12,12 +12,12 @@ Smoke begins to pour out from under the hood of the Professor's jeep.
 Professor Birchwell becomes irate with the driver,
 and begins to lambaste him about coolant fluids.[^prof]
 
-The caravan continues on without them.
-If the PCs fix the engine,[^repair] they catch up with the others.
+If the PCs fix the engine, they catch up with the others.[^repair]
 
 The caravan continues towards their destination, driving late into the night.
 Right before they arrive at the ruins, they are ambushed by tribesmen.
 If the PCs fixed their jeep in time, they will be defended by the caravan.
+
 
 ---
 
@@ -35,18 +35,28 @@ If the PCs fixed their jeep in time, they will be defended by the caravan.
 ---
 
 
+After the PCs defend themselves they begin to assess their surroundings.
+The fight is rather easy, given that Borst was in their jeep, heavily armed.
+
+
 In the melee, the PCs see Professor Birchwell, cornered by a tribesman.
-He draws his pistol and fires, and shortly thereafter, the tribesmen disperse.
+He draws his pistol and awkwardly fires, and shortly thereafter, the tribesmen disperse.
 
 They find that the tribesman is unarmed, but is wearing a strange necklace.[^body]
 
 Professor Birchwell approaches them, and asks them to give him the necklace.
 The Professor's reaction to their choice will be either clearly positive or negative.
-If they refuse, or point out that the tribesman was unarmed, he will become angry with them.
-If they play along, he will be more willing to help them later.
 
-[^prof]: This is quite out of character for the Professor.
-[^repair]: **Mechanical Repair > 2**: fix the jeep
+
+[^prof]:
+	This reaction is quite out of character for the Professor,
+	but the PCs don't know that yet.
+
+[^repair]:
+	**Mechanical Repair > 2**:
+	If they repair the jeep in time, they won't have to fight the tribesmen alone.
+	If they don't make this roll, the caravan continues on without them.
+
 [^body]: **Forensics / Evidence Collection > 1**: find the Talisman of the Yellow Sign
 
 

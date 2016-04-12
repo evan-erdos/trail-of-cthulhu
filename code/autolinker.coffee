@@ -36,21 +36,17 @@ image_style =
 ### Helper Functions ###
 String::startsWith ?= (s) -> @slice(0,s.length)==s
 String::endsWith   ?= (s) -> s=='' || @slice(-s.length)==s
-toItalic = (s) => applyStyle(s,"i")
-toStrong = (s) => applyStyle(s,"strong")
-applyStyle = (s,style) => "<#{style}>#{s}</#{style}>"
-applyColor = (s,color) => "<font color='#{color}'>#{s}</font>"
-
-
-nationStyle = ""
 toHastur = (s) => toNation(s,hastur,image_style,"#87480E")
 toCthulhu = (s) => toNation(s,cthulhu,image_style,"#44058E")
 toSoviet = (s) => toNation(s,soviet,image_style,"#9A070D")
 toUSA = (s) => applyColor(s,"#072C66")
-
 toNation = (s,src,style,color) =>
     style += "fill: #{color} !important; color: #{color};"
     applyColor("#{s}<img src='#{src}' style='#{style}'></img>",color)
+toItalic = (s) => applyStyle(s,"i")
+toStrong = (s) => applyStyle(s,"strong")
+applyStyle = (s,style) => "<#{style}>#{s}</#{style}>"
+applyColor = (s,color) => "<font color='#{color}'>#{s}</font>"
 
 
 ### Linkable Patterns ###
