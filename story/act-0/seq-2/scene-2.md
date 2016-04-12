@@ -13,7 +13,7 @@ The PCs resolve to carry out the ritual,
 but remain ready to strike at the High Acolyte if the opportunity presents itself.
 
 ~~~
-EXT. CENTERSTAGE, RUINS AMPITHEATER
+EXT. CENTERSTAGE, RUINS AMPITHEATER - NIGHT
 
 A STUDENT wields the CEREMONIAL KNIFE, standing somewhat offstage.
 The HIGH ACOLYTE presides over the bloody altar,
@@ -34,7 +34,7 @@ and the PCs will have no opportunity to strike him.
 
 
 ~~~
-EXT. CENTERSTAGE, RUINS AMPITHEATER
+EXT. CENTERSTAGE, RUINS AMPITHEATER - NIGHT
 
 The STUDENT approaches the bloody altar, knife in hand.
 As the STUDENT brings the CEREMONIAL KNIFE down,

@@ -6,7 +6,7 @@ beat:        procedural
 ---
 
 
-The caravan begins to move into the jungle.
+The caravan continues through the jungle.
 
 Smoke begins to pour out from under the hood of the Professor's jeep.
 Professor Birchwell becomes irate with the driver,

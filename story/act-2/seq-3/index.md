@@ -5,20 +5,68 @@ seq:     3
 ---
 
 
-The knowledge that the PCs have gained from the vision has changed them.
+The PCs not wanting to be used by the ‘enemy’, decide to go to the main base of operations.
+On the way there Borst starts becoming both nervous and excited.
+Dolya mentions that she questioned the town’s folk and they mentioned that whoever the leader of the forces was he seemed heavily protected and also that the soldiers became slightly more edgy and nervous due to the presence of this leader and his entourage.
+As they make their way to the village the PCs notice small shacks and cabins spaced out evenly.
+While these seem empty they also seem to be related to each other somehow.
 
-The PCs are now able to access various parts of the underground temple.
-There are two pillars on the other side of the camp opposite the temple.
-They have a vision of an ancient period where people move around like zombies.
-They bow to a king wearing a mask, and the PCs are drawn closer to this being.
+The team reaches the main base which has been heavily fortified.
+As they enter the base they find multiple points of interest.
+Before they can do anything a large entourage greets them. With Borst clearly ecstatic with these developments, he asks the team to follow the entourage. Dolya slips away in the crowd, leaving a note behind telling the party she will get back into contact with them once she learns more about the Rasputin clue.
 
-Dolya is possessed by Hastur.
-At this point the Professor uses a spell to stop the possession.
+The party is taken to a small tent house setup by the soviet forces, and are asked to wait. Borst leaves with the officers again but soon comes back. Borst tells the team that the leader is not ready to meet them as he is currently in a strategic planning session. However in a show of faith, Borst gives the team some soviet insignia to wear saying the camp is now open to the PCs to wander. He introduces the team to a young soldier who came to him with a problem that he believed the PCs could solve. The young soldier explains while he has been here a while, a captain who was recently posted here with the latest retinue and working on a deciphering an old soviet journal found in the sack of the Tsar’s palace had gone missing and asks the PCs to investigate as they explore the camp. The missing captain was what the leader and his retinue were in discussion about. He says that in exchange for the help he could give the players information about the transportation in and out of the region.
 
-At this point the pond becomes a real physical pond.
+The PCs can gain information from a variety of different sources. As they explore the camp they come across a supplies depot where a few guards are playing cards. If asked properly the guards give up information that the Captain was a young Serbian, believed in the Lady of Kazan mysticism and idealized the philosophy of the Ahnenerbe. They knew this because everyone considered him weird and anti-social by the rest of his squadron, only able to rise the ranks due to his family name. Which is also the reason why the task of deciphering the journal was given to him {Streetwise/Bargain/Cop Talk}. If not asked properly the guards will gruffly tell the party to shove off pointing in the direction of the Captains quarters (due to the insignia).
 
-The Professor can be questioned but he has gone back to his rambling.
-The pond has a temple in the middle of it and the PCs can investigate this temple.
+At the Captains quarters the party finds books on the Orthodox Church and its various medical practices. If investigated further the book contains knowledge of the various parts of the human anatomy and how to modify them biologically {Biology/Medicine, the book can be kept using evidence collection}. Further investigation of the rooms show secret rooms underneath buildings nearby the Captain’s quarters marked with a toxic sign {Cartography}. A journal with notes from the Captain sits on the bed. The journal seems to constantly talk about trial and error and how there is not enough of sample data to complete what the muzhik started and of the spiritual revival of Russia and its connections to its military power. The last readable page is not that says ‘Maybe it is not I who is insane and blind to reality, but those around me who aren’t sane enough to understand the path to the future’.
+
+Approaching the buildings marked in the map the PCs instantly feel nauseated similar to the way they did with the flesh monster. Guards tell the players not to go near the buildings because they are used as a factory to recycle waste through compost. The players can go through with it though due to the fact that with their sanities low enough they can see through the veil at the compost buildings true use, a dumping yard for experimented bodies. {Biology/Occult/Sense Trouble/Forensics}. Upon entering the dump the players see that the latest body in the dump is none other than the young soldier {Stability and Sanity checks}. Upon investigating him {Biology/Forensics} they realize that his skin has been weirdly re-grafted onto him along with flesh from other bodies. On his person all he has is a history book about Rasputin from the soviet base’s record tent.
+
+The players use the book to trace the young soldiers past location to the soviet base’s record tent where they keep some books on the soviet history and greatness along with Pravda puff pieces.
+Here the PCs run into Dolya who has been investigating the records in the hope of learning what has happened in the time between defeating the flesh monster and there exit of the cavern into the Black Sea Russian base territory.
+The party tells her of what has transpired since she left them, upon asking her if she had seen the young soldier she will honestly say she hasn’t but will disclose that this wouldn’t be the first person to have disappeared on the base, people had been disappearing since the food shortage started.
+She also says that most of those who have disappeared have been among noble blood families who got larger portion of the rations.
+Also none of this seem to perturb the soviets as whenever deaths due to food shortage occur they assume those too weak to survive either walk out and commit suicide, or it’s due to black magic which the rational soviets laugh at.
+The last time this happened in soviet history though was during the Balkan War and all the nobles blamed Rasputin for the occurrence. {Flattery/ Interrogation/ Reassurance/ Bureaucracy + Details about the captain, dead soldier and Rasputin book}.
+
+At this point Borst bursts into the room and announces that the compost pit had been set on fire. Hurrying back will reveal no clue and the body of the young soldier will be charred beyond recognition.
+
+Borst tells the party that a vigil for the dead soldier will be held later but only members who have high credit rating (4-5 + Disguise) will be able to get in as party goers, those with lesser rating (1-2 + Disguise) can go as waiters and the mid credit rating (3) go as members of the militia. Each tier has stories about the murder and the leader of the base who has not shown himself to anyone but those in the retinue who all are high ranking officials in the military.
+
+The upper class military society eat extravagantly with no care for how much food they are wasting. They all talk about matters with an air of pompousness and riddles. If questioned about the history of the location they talk about Rasputin’s goals of conquering the great historic religious centers of power to declare the royal family as descendant of God, and the setup of the base was one of the initial goals however for some reason the cavern on the hill overlooking the Black Sea had a mysterious disappearance every once in a while. {Flattery/ Bureaucracy}
+
+The middle class soldiers will talk about the rations and how Omari has not been that helpful for several weeks since the Black Sea fleet had been docked. They also talk about how more cottages need to be built for better control of the region and transition of the goods. {Reassurance/ Interrogation}
+
+The waiters talk about how nobles are being killed off, and how a young boy who had grown up in the village had had his farm taken from his family because of the resource dearth here. While serving food for the guests the waiters can intermingle and ask about the Captain and the dead soldier. All the upper class knew the captain as boisterous and gullible but not the moody and weird person that the PCs describe him as. On the other hand none of them cared about the dead soldier.  {Streetwise/ Bargain}
+
+No matter what the party learns that the fire at the compost farm was not much of a cause of concern and that the party was being thrown in order to calm down the forces.
+They are told that there is another compost farm on the edge of the encampment that had used to be a farm.
+The PCs investigate {Outdoorsman/Athletics/Geology} the farm to realize that the young soldier was actually alive along and had been grafting the flesh of the various nobility on to himself.
+The Captain had been dead for a while but people had started to ask too many questions and so he made the captain disappear and faked his own death before attempting to graft a new face onto himself.
+In a way the soldier has tried to recreate a flesh monster similar to the one summoned in the temple.
+Investigation {Interrogate with the Rasputin book} reveals that the soldier was the owner of the farm turned compost.
+He was a muzhik and was out to get revenge for what had been done to him and his family.
+He readies to attack the PCs by exclaiming
+‘I hail thee, my Yellow King, make me that which is the haunt, the nightmare, the deadly dream’
+And turns into a Nightghaunt.
+Just before any sort of fight begins, soviet soldiers rush in and immediately kill the murderer.
+
+The PCs turn to the entrance of the building and find themselves looking at Joseph Stalin.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

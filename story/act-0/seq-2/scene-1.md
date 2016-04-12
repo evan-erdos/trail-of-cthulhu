@@ -28,7 +28,7 @@ the PCs are eventually caught by none other than the High Acolyte.
 ~~~
 INT. ALTAR ROOM, INSIDE RUINS - DUSK
 
-A group of STUDENTS snoop around some storerooms in a cluster of ancient Ruins.
+A group of STUDENTS snoop around some storerooms in a cluster of ancient RUINS.
 A horrific sacrifice is beginning in the Ampitheater.
 When they enter the Altar Room, they are suprised by the HIGH ACOLYTE.
 He moves lightly, like he's floating around in his flowing robes.

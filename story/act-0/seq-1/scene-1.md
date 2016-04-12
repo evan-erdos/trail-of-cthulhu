@@ -20,7 +20,7 @@ The STUDENTS and PROFESSOR BIRCHWELL return to the CHIEFTAIN's hut.
 He's still in bed, and appears to be even more insane.
 
 PROFESSOR BIRCHWELL
-Greetings, Chieftain.
+Greetings, CHIEFTAIN.
 
 CHIEFTAIN AMBALO
 Ah, the good doctor has returned!

@@ -45,7 +45,7 @@ This is strange, as everyone in the village appears to be malnourished.
 They thank him, and depart to the village well.
 
 ~~~
-EXT. RUINED VILLAGE, DAY
+EXT. RUINED VILLAGE - DAY
 
 The STUDENTS find a VILLAGER, drowsily cranking the pulley on the village's well.
 They notice that the rope is not attached to a bucket,

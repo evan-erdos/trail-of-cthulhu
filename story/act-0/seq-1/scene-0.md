@@ -21,7 +21,7 @@ They also notice a girl that they've never seen before, watching from the back o
 ~~~
 INT. MAIN LABORATORY - MORNING
 
-The Professor is at the center of the main lab,
+The PROFESSOR is at the center of the main lab,
 and appears to be in a cheerful mood. a
 He's telling telling "doctor jokes" to a GROUP OF STUDENTS.
 
@@ -29,7 +29,7 @@ PROFESSOR
 The psyche ward is... quite an experience, especially your first shift.
 
 GROUP OF STUDENTS
-What do you mean, Professor?
+What do you mean, PROFESSOR?
 
 PROFESSOR
 Well, I had this one patient, Harold.
@@ -44,7 +44,7 @@ Well, he'd say, "What do I do, Doctor? It hurts when I do *this*!"
 The professor violently pantomimes raising his hand, and the students giggle.
 
 GROUP OF STUDENTS
-What did you do then, Professor?
+What did you do then, PROFESSOR?
 
 PROFESSOR
 Well, I said to him rather plainly, "Ok, Harold. Don't do that."
