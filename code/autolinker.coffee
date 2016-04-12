@@ -21,6 +21,17 @@
 site = "http://bescott.org/" # domain name, localhost:4000
 baseurl = "trail-of-cthulhu/" # subdomain
 
+soviet = "#{site}#{baseurl}assets/soviet.svg"
+usa = "#{site}#{baseurl}assets/usa.svg"
+cthulhu = "#{site}#{baseurl}assets/cthulhu-2.svg"
+hastur = "#{site}#{baseurl}assets/hastur.svg"
+image_style =
+    """
+    display: inline-block;
+    height: 1em;
+    width: 1em;
+    margin: auto;
+    """
 
 ### Helper Functions ###
 String::startsWith ?= (s) -> @slice(0,s.length)==s
@@ -28,6 +39,17 @@ String::endsWith   ?= (s) -> s=='' || @slice(-s.length)==s
 toItalic = (s) => applyStyle(s,"i")
 toStrong = (s) => applyStyle(s,"strong")
 applyStyle = (s,style) => "<#{style}>#{s}</#{style}>"
+applyColor = (s,color) => "<font color='#{color}'>#{s}</font>"
+
+
+nationStyle = ""
+toHastur = (s) => toNation(s,hastur,image_style,"#87480E")
+toCthulhu = (s) => toNation(s,cthulhu,image_style,"#44058E")
+toSoviet = (s) => toNation(s,soviet,image_style,"#9A070D")
+toUSA = (s) => applyColor(s,"#072C66")
+
+toNation = (s,src,style,color) =>
+    applyColor("#{s}<img src='#{src}' style='#{style} fill: #{color} !important; color: #{color};'></img>",color)
 
 
 ### Linkable Patterns ###
@@ -55,7 +77,7 @@ links = [
     ],
 ,
     base: "characters/players/"
-    styles: [toStrong]
+    styles: [toStrong,toUSA]
     patterns: [
         link: ""
         regex: /\bPlayers?|PCs?\b/g
@@ -77,6 +99,7 @@ links = [
     styles: [toStrong]
     patterns: [
         link: "birchwell/"
+        styles: [toUSA]
         regex:
             /// Professor \s+ Cameron \s+ 'T'\. \s+ Birchwell
             |   Professor \s+ Cameron \s+ Trenton \s+ Birchwell
@@ -86,12 +109,14 @@ links = [
             ///g
     ,
         link: "dolya/"
+        styles: [toSoviet]
         regex:
             /// Dolya (\s+ Petrovna)?
             |   Petrovna
             ///g
     ,
         link: "ilya/"
+        styles: [toSoviet]
         regex:
             /// Commander\s+Ilya\s+Zolnerowich
             |   Ilya(\s+Zolnerowich)?
@@ -99,6 +124,7 @@ links = [
             ///g
     ,
         link: "borst/"
+        styles: [toSoviet]
         regex:
             /// Sergeant \s+ Borst \s+ Chekhov
             |   Sgt\.\s+ Borst \s+ Chekhov
@@ -107,6 +133,7 @@ links = [
             ///g
     ,
         link: "omari/"
+        styles: [toHastur]
         regex:
             /// Colonel \s+ Ukrit \s+ Omari
             |   Col\.\s+ Ukrit \s+ Omari
@@ -115,6 +142,7 @@ links = [
             ///g
     ,
         link: "chieftain/"
+        styles: [toCthulhu]
         regex:
             /// Chieftain \s+ Ambalo
             |   Chieftain (\s+Ambalo)?
@@ -122,6 +150,7 @@ links = [
             ///g
     ,
         link: "acolyte/"
+        styles: [toHastur]
         regex:
             /// High \s+ Acolyte \s+ Ambalo \s+ Jr\.
             |   (High \s+)? Acolyte
@@ -166,6 +195,8 @@ class AutoLinker
                 link = pattern.link
                 div.innerHTML = div.innerHTML.replace pattern.regex, (match) ->
                     match = style(match) for style in group.styles
+                    if (pattern.styles)
+                        match = style(match) for style in pattern.styles
                     match = """<a href="#{site}#{baseurl}#{base}#{link}">#{match}</a>"""
 
 

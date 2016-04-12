@@ -37,8 +37,9 @@ h2 {
     }
 }
 
-
-
+svg {
+    fill: currentColor !important;
+}
 
 h1,h2,h3 { /* p */
     page-break-after: avoid;

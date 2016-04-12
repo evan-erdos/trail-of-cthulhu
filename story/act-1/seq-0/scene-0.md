@@ -46,7 +46,7 @@ The PCs will cause Borst to breakdown into tears.[^info]
 He will tell of his soon to be baby, and his innate need to see his child born.
 He curses ILYA for his betrayal, and vows vengeance.
 Promising that he can help the PCs if they aid him.
-If they press him, Borst will close up and begin praying in Russian.[^1]
+If they press him, Borst will close up and begin praying in Russian.[^pray]
 Tears stream down his face but he does not crack.
 
 ~~~

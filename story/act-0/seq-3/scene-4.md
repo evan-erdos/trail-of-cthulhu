@@ -8,7 +8,7 @@ objective:   up
 ---
 
 
-The PCs gather themselves, pack up their things, and take the plunge.[^1]
+The PCs gather themselves, pack up their things, and take the plunge.[^0]
 
 Strange shapes flit in and out of their minds, and they begin to fall asleep.
 Their dreams are more lucid than life, and they dream of strange oceanscapes,

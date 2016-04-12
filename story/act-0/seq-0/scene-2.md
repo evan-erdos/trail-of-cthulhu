@@ -22,7 +22,7 @@ If the PCs attempt to trail him, they lose sight of him in the crowd.
 ~~~
 INT. BROKEN STOREFRONT - DAY
 
-The PCs find a STOREKEEPER who is obsessively trying to clean his shop.
+The STUDENTS find a STOREKEEPER who is obsessively trying to clean his shop.
 He looks like he's being flung around the room by some external force.
 His movements are sloppy, he looks tired, but his eyes are wide open.
 He repeatedly wets a rag with muddy water, and wipes down the entire counter,
@@ -47,7 +47,7 @@ They thank him, and depart to the village well.
 ~~~
 EXT. RUINED VILLAGE, DAY
 
-The PCs find a VILLAGER, drowsily cranking the pulley on the village's well.
+The STUDENTS find a VILLAGER, drowsily cranking the pulley on the village's well.
 They notice that the rope is not attached to a bucket,
 he's just coiling and uncoiling the rope.
 
