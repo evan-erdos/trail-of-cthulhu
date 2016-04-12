@@ -1,6 +1,6 @@
 ---
 layout:  sequence
-title:   Divine Retribution
+title:   And Outstretched Palms
 story:   0
 act:     3
 seq:     6
