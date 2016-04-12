@@ -1,13 +1,13 @@
 ---
 layout:  sequence
-title:   Morse in Moscow
+title:   Cosmic Shores
 seq:     0
 ---
 
 The train rumbles onwards for what seems like months,
 with only brief flashes of pale gold light denoting the passage of time in regular illuminated slits.
 Then, just as a stomach or two is beginning to audibly rumble, the cold,
-musty air of the underground tunnel breaks into an equally cold crispness with a resounding whoosh:
+musty air of the underground tunnel breaks into an equally cold crispness with a resounding *whoosh*:
 the train has emerged into the great outdoors.
 The PCs cluster around the slats in the car’s wooden side panels to take a look. In the distance, they can just make out a billowing, colorful structure that wouldn’t look out of place in Constantinople, and surrounding it is a sea of twinkling lights.
 **Architecture / History** reveals that this building is none other than the world-famous St. Basil’s Cathedral.
