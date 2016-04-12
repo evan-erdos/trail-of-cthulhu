@@ -26,7 +26,7 @@ He holds it quite awkwardly, and is making jokes with the range safety officer.
 EXT. NORTH STAGING GROUNDS - DAY
 
 While preparations are being made, and while the jeeps are being packed,
-the PCs hear a scream come from across the staging grounds.
+the STUDENTS hear a scream come from across the staging grounds.
 A friend of theirs, OSCAR, has taken a gun, and is waving it around.
 The PROFESSOR rushes towards the commotion.
 
@@ -82,10 +82,10 @@ PROFESSOR
 This is... what's your name, son?
 
 BORST
-Borst Chekhov, at your service, Professor.
+BORST CHEKHOV, at your service, PROFESSOR.
 
 PROFESSOR
-Yes, Borst! A member of our security detail!
+Yes, BORST! A member of our security detail!
 Everyone, let this be an example of true bravery!
 If everyone follows in his example, we will accomplish great things!
 ~~~

@@ -23,7 +23,7 @@ baseurl = "trail-of-cthulhu/" # subdomain
 
 soviet = "#{site}#{baseurl}assets/soviet.svg"
 usa = "#{site}#{baseurl}assets/usa.svg"
-cthulhu = "#{site}#{baseurl}assets/cthulhu-2.svg"
+cthulhu = "#{site}#{baseurl}assets/cthulhu.svg"
 hastur = "#{site}#{baseurl}assets/hastur.svg"
 image_style =
     """
@@ -49,7 +49,8 @@ toSoviet = (s) => toNation(s,soviet,image_style,"#9A070D")
 toUSA = (s) => applyColor(s,"#072C66")
 
 toNation = (s,src,style,color) =>
-    applyColor("#{s}<img src='#{src}' style='#{style} fill: #{color} !important; color: #{color};'></img>",color)
+    style += "fill: #{color} !important; color: #{color};"
+    applyColor("#{s}<img src='#{src}' style='#{style}'></img>",color)
 
 
 ### Linkable Patterns ###
@@ -58,12 +59,14 @@ links = [
     styles: [toItalic]
     patterns: [
         link: "talisman/"
+        styles: [toHastur]
         regex:
             /// \bTalismans? \s+ of \s+ the \s+ Yellow \s+ Sign
             |   (Yellow \s+)? Talisman\b
             ///g
     ,
         link: "medallion/"
+        styles: [toCthulhu]
         regex: ///\b (Tendril \s+)? Medallion \b///g
     ,
         link: "grimoire/"
@@ -73,6 +76,7 @@ links = [
             ///g
     ,
         link: "glyph/"
+        styles: [toCthulhu]
         regex: /// (Tendril(-Like)? \s+)? Glyph ///g
     ],
 ,
@@ -162,18 +166,23 @@ links = [
     styles: [(s) => s] #.toUpperCase()
     patterns: [
         link: "grotto/"
+        styles: [toCthulhu]
         regex: /\bGrotto(es)?/g
     ,
         link: "lab/"
+        styles: [toUSA]
         regex: /\bLab(oratory)?\b/g
     ,
         link: "observatory/"
+        styles: [toSoviet]
         regex: /\bObservatory\b/g
     ,
         link: "ruins/"
+        styles: [toCthulhu]
         regex: /\bRuins\b/g
     ,
         link: "village/"
+        #styles: [toCthulhu]
         regex: /\bVillage\b/g
     ]
 ]

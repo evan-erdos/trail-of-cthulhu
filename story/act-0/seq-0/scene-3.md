@@ -39,11 +39,11 @@ like yours, who came here from the east.
 Light floods the tent as the PROFESSOR enters through the canvas door.
 
 PROFESSOR
-Hello, my pupils. Greetings, Chieftain.
+Hello, my pupils. Greetings, Chief.
 Students, our work here is concluded. Let's be off now.
 
 STUDENTS
-We haven't asked the Chieftian about--
+We haven't asked the CHIEFTAIN about--
 
 PROFESSOR
 There will be time for that later. Come on, now!
@@ -59,7 +59,7 @@ PROFESSOR
 I'm sure. Come now, my students.
 
 STUDENTS
-Let's hear the Chieftain out, Professor.
+Let's hear the CHIEFTAIN out, PROFESSOR.
 This could be very valuable information.
 
 PROFESSOR

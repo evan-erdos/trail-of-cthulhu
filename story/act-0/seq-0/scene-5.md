@@ -24,18 +24,13 @@ While they have learned a few things, they can't learn more until the ritual occ
 ~~~
 EXT. RUINS - AFTERNOON
 
-The Professor walks up behind the STUDENTS, with a solemn look on his face.
+The PROFESSOR walks up behind the STUDENTS, with a solemn look on his face.
 
 PROFESSOR
 Are you quite finished?
 
 STUDENTS
-Yes, Professor. We're mostly done here.
-
-PROFESSOR
-You wandered off from the group, so I had Borst follow you.
-
-BORST appears from behind a pillar.
+Yes, PROFESSOR. We're mostly done here.
 
 PROFESSOR
 I suppose you haven't heard the news then, having been out here?
