@@ -4,96 +4,22 @@ title:   Shelter From the Storm
 seq:     1
 ---
 
-The soviets who have ambushed the PCs can either be fought or negotiated with.
-Noting that these are heavily armed soviet guards (Chosen for the path of this outline),
-the PCs decide to negotiate with the soviets.
-The soviet soldiers accept the negotiation and will depending on the abilities used during the negotiation will take them to a nearby town where they have set up a base for rations collection and distribution, either as captives or as usable assets.
-At the base Borst begins to feel at home and starts to return to his previous persona as a member of the soviet army.
-Dolya who has become disenchanted with the Soviets and the notion of the communist propaganda is doubtful of everything going on.
-They both express the feelings to the PCs who must decide between them as to whether approach these soldiers with the notion of forming a mistrustful alliance or friendly hostiles to extract themselves from the current predicament.
-Borst is taken away separately and the players are placed in a room in the town under guard.
-The guards are heavily armed and very vigilant.
-The room they are placed in has 2 tables one large, one small.
-The large one has some slightly old bread {Biology, Chemistry, Eating it} on it, and on the smaller table there seems to be some liquor and cigars.
-The cigars are of slightly higher society {Chemistry, Streetwise, Smoking one} and the liquor {Chemistry, Biology, Actually asking to drink it} is very potent.
-The room seems to belong to someone important but not very high ranking due to its minimalistic look.
-Dolya asks whether the party could discern anything from the state of the bread, cigars, liquor {which point to a beleaguered camp surviving the cold with cigars and alcohol, but the party may form its own opinions…}.
-Dolya again re-iterates her notion that the soviets may be planning something large, and mentions that she might be able to get around the soviet forces easier to find clues if they could win some trust with the soviets.
 
-Borst returns at this point and mentions that the leader of the local soviet military will meet with the party at their main base, if they can prove themselves by investigating the town as this region was the main connection point to the African base Ilya was running.
-When questioned about the town, Borst doesn’t seem to know the particulars but does seem to be holding back.
-If questioned further due to doubt {Assess Honesty} the party realizes that while the soviets do not buy Borst’s stories or trust the party, Borst seems to have a high ranking official on his side leading to this current situation.
-The Team must commandeer a vehicle with Borst and the guards from before who now listen to Borst as a commanding officer although clearly unhappy with it.
-Dolya tags along because she wants to learn who the high ranking official is who gave Borst such power.
-
-The team makes its way into the village that is clearly oppressed by the Soviet soldiers who have set up base nearby.
-Borst has the guards stay back at the vehicle and out of earshot of them re-iterates that they must prove themselves if they are ever to leave this place alive.
-At this point the PCs can go around questioning the local townsfolk by visiting the mayor, a bar, the local church.
-Dolya helps and acts as a guide helping ease the tensions between the party and the townsfolk.
-At the Mayor house the PCs find a picture of Ilya and the mayor together.
-The mayor will answer questions about Ilya.
- He will tell them that the village has always been connected heavily with the Orthodox Church’s militaristic plan to control the holy cities of Antioch and Jerusalem and there are ruins that connect to the same.
- If shown a medallion he will say
-“Many have come hearing the words of a king who bends men will.
-All have craved to inherit his will, none have been able to maintain their own.
-It is only through division shall the truly advanced small conquer the truly powerful large.
-It is with these principles that the Byzantine Empire grew from small to large, and England never had the sun set on its empire.
-It is true throughout history, my forefathers would always say.”
- At the bar the team learns that the soviet base camp was a recent addition initially set up as a naval dock to control the black sea at the time but has since then turned itself into more of a supply base for the African ambitions.
- The barman when questioned will have ancient tales of sea gods and storm gods fighting, and of soldiers who return from the African expedition believing in a Drowned God.
- If pressed on about what he heard as rumors from the soviet soldiers he will give more about the events.
- If asked
-Apparently the whole reason a forward base was set up was because Stalin had lost faith in the Jewish Nationalists and had decided that in order to control them he needed to take the religious centers of power.
-Following in the footsteps of the militarized Orthodoxy he decided that the Black Sea base would be the answer.
-He also decided that religion could only be opposed by science and so he sent Ilya to form an advanced weaponry system based on the theory that if delved deeply enough the ancient religions pointed to an older science that could be weaponized.
-Ilya who had till then been embedded in the Sputnik team had already began turning towards a darker fascination for rituals and ancient religion happily took up the task.
-Most soldiers called him both genius and insane with the same the same breath.
-The only reason for moving to Africa was the discovery of something at the older local church that while abandoned due to the construction of a new one, was not demolished due to religious regions.
-{Credit Rating, Reassurance}.
-At the local church, the clergy man does not know much of the previous soviets led by Ilya, except that they had asked about the older church.
-When questioned about the older church, he nods and says that it has been ages since that church had last been opened and the cemetery of the current church had been built on top of the previous church’s cemetery.
-If questioned how to get into the older church, the clergyman says that the only way into the cave had collapsed due to a previous incident, he blames the older soviet party but states that he never actually saw them enter the church, all they did was go to the cemetery and hour later the old church entrance collapsed.
-He didn’t ask too many questions though or pay too much attention, out of pure fear.
-The party enters the graveyard full of crypts and notices a crypt {Archaeology/History/Languages/Geology} that is older than the others.
- Opening the crypt reveals an underground pathway to the old abandoned church.
-At the old abandoned church, something immediately feels off.
-A red mist seems to be rising up from the floor boards.
-{Sense Trouble}.
-There are clear signs that this place had been excavated as some areas feel untouched for far longer than others.
-There also seems to be a part of the altar where clearly a cross once stood.
-Remnants of the cross are left but the cross seems to have been forcefully plied from it.
-Investigating the altar further {Geology, Chemistry, Theology} will show that the cross was made of metal encased wood.
-AS they investigate it they discover that the cross was actually a part of an intricate trap door system.
-Jerry rigging the system {Craft} will open the altar up disclosing a stairwell that leads to a crypt system under the temple.
-The crypt clearly has not been opened for quite a while, a couple centuries in fact, proving that the church is a more recent addition, probably having been created to lock this crypt up {Archaeology}.The crypt has symbols all over it pertaining to a language that is more Greek than Russian and also has symbols close to Egyptian involved in it.
-Languages can be used to discover that this crypt was in fact a temple that was turned into a burial ground for the clergymen and the synod.
-However further examination {Forensics, Chemistry, Biology} will show that these holy man were preserved using embalming technics rather than following orthodoxy’s preaching.
-There is a small room at the end of the underground crypt where an epithet stands.
-There is also red mist reaching the height of a grown person’s ankles swirling at the bottom of the room.
-Upon entering the room the players can investigate the epithet with {Languages/History/Archaeology}.
-Investigating the red mist shows that it is leaking from the corpses {Sanity and Stability checks as needed}.
-Upon entering the room the caskets in which the Holy Synod have been buried began to pour out blood.
-The PCs can start to try everything {If they are overwhelmed the professor can began mumbling ‘journal’}, eventually using/reading the journal to attempt to save themselves.
-
-The professor who till then had been delirious, regains an amount of his sanity and tells them, he will always be with them through the journals they have.
-He also mentions that there are 4 journals and the PCs have possession of 1.
-The other two were special journals that had an odd yellow covering.
-Dolya mentions that she remembers seeing Ilya or Omari (depending on what is considered a driving force) with one of those.
-The professor smiles and says the way to the moon is in its reflection and the way to stop it may be causing ripples to divide it, before shooting himself.
-(Sanity and Stability).
-With his death the blood and red mist dissipate all that is left behind is a message in red saying ‘In dreams, you are only what you know, seek knowledge to empower yourself’’.
-With the floor now no longer covered in mist, the PCs see a large sigil of a bull and a kraken facing off with a star and a crescent moon above them.
-They can record this image {Photography, Evidence Collection, Art} As the PCs leave the room they notice that the shape of the room was that of a bull.
-They also note another scribble in the center of the sigil, when examined it says ‘Rasputin’
-As the PCs exit the tunnel with this new information, they find Borst’s troops waiting for them.
-They want to hear everything and tell the players that they now can either commandeer a vehicle {with Borst’s help or Driving} to get to the main base to talk to their head to figure out what is wanted of the team and how to get out or to a lab that the soviet team has locked up which they need investigated which the team has the skills to do.
+The soviets who have ambushed the PCs can either be fought or negotiated with. Noting that these are heavily armed soviet guards (Chosen for the path of this outline), the PCs decide to negotiate with the soviets. The soviet soldiers accept the negotiation and will depending on the abilities used during the negotiation will take them to a nearby town where they have set up a base for rations collection and distribution, either as captives or as usable assets. At the base Borst begins to feel at home and starts to return to his previous persona as a member of the soviet army. Dolya who has become disenchanted with the Soviets and the notion of the communist propaganda is doubtful of everything going on. They both express the feelings to the PCs who must decide between them as to whether approach these soldiers with the notion of forming a mistrustful alliance or friendly hostiles to extract themselves from the current predicament. Borst is taken away separately and the players are placed in a room in the town under guard. The guards are heavily armed and very vigilant. The room they are placed in has 2 tables one large, one small. The large one has some slightly old bread {Biology, Chemistry, Eating it} on it, and on the smaller table there seems to be some liquor and cigars. The cigars are of slightly higher society {Chemistry, Streetwise, Smoking one} and the liquor {Chemistry, Biology, Actually asking to drink it} is very potent. The room seems to belong to someone important but not very high ranking due to its minimalistic look. Dolya asks whether the party could discern anything from the state of the bread, cigars, liquor {which point to a beleaguered camp surviving the cold with cigars and alcohol, but the party may form its own opinions…}. Dolya again re-iterates her notion that the soviets may be planning something large, and mentions that she might be able to get around the soviet forces easier to find clues if they could win some trust with the soviets.
+Borst returns at this point and mentions that the leader of the local soviet military will meet with the party at their main base, if they can prove themselves by investigating the town as this region was the main connection point to the African base Ilya was running. When questioned about the town, Borst doesn’t seem to know the particulars but does seem to be holding back. If questioned further due to doubt {Assess Honesty} the party realizes that while the soviets do not buy Borst’s stories or trust the party, Borst seems to have a high ranking official on his side leading to this current situation.
+The Team must commandeer a vehicle with Borst and the guards from before who now listen to Borst as a commanding officer although clearly unhappy with it. Dolya tags along because she wants to learn who the high ranking official is who gave Borst such power.
+The team makes its way into the village that is clearly oppressed by the Soviet soldiers who have set up base nearby. Borst has the guards stay back at the vehicle and out of earshot of them re-iterates that they must prove themselves if they are ever to leave this place alive. At this point the PCs can go around questioning the local townsfolk by visiting the mayor, a bar, the local church. Dolya helps and acts as a guide helping ease the tensions between the party and the townsfolk.
+At the Mayor house the PCs find a picture of Ilya and the mayor together. The mayor will answer questions about Ilya.  He will tell them that the village has always been connected heavily with the Orthodox Church’s militaristic plan to control the holy cities of Antioch and Jerusalem and there are ruins that connect to the same. If shown a medallion he will say
+“Many have come hearing the words of a king who bends men will. All have craved to inherit his will, none have been able to maintain their own. It is only through division shall the truly advanced small conquer the truly powerful large. It is with these principles that the Byzantine Empire grew from small to large, and England never had the sun set on its empire. It is true throughout history, my forefathers would always say.”
+ At the bar the team learns that the soviet base camp was a recent addition initially set up as a naval dock to control the black sea at the time but has since then turned itself into more of a supply base for the African ambitions. The barman when questioned will have ancient tales of sea gods and storm gods fighting, and of soldiers who return from the African expedition believing in a Drowned God. If pressed on about what he heard as rumors from the soviet soldiers he will give more about the events. If asked
+Apparently the whole reason a forward base was set up was because Stalin had lost faith in the Jewish Nationalists and had decided that in order to control them he needed to take the religious centers of power. Following in the footsteps of the militarized Orthodoxy he decided that the Black Sea base would be the answer. He also decided that religion could only be opposed by science and so he sent Ilya to form an advanced weaponry system based on the theory that if delved deeply enough the ancient religions pointed to an older science that could be weaponized. Ilya who had till then been embedded in the Sputnik team had already began turning towards a darker fascination for rituals and ancient religion happily took up the task. Most soldiers called him both genius and insane with the same the same breath. The only reason for moving to Africa was the discovery of something at the older local church that while abandoned due to the construction of a new one, was not demolished due to religious regions. {Credit Rating, Reassurance}.
+At the local church, the clergy man does not know much of the previous soviets led by Ilya, except that they had asked about the older church. When questioned about the older church, he nods and says that it has been ages since that church had last been opened and the cemetery of the current church had been built on top of the previous church’s cemetery. If questioned how to get into the older church, the clergyman says that the only way into the cave had collapsed due to a previous incident, he blames the older soviet party but states that he never actually saw them enter the church, all they did was go to the cemetery and hour later the old church entrance collapsed. He didn’t ask too many questions though or pay too much attention, out of pure fear.
+The party enters the graveyard full of crypts and notices a crypt {Archaeology/History/Languages/Geology} that is older than the others.  Opening the crypt reveals an underground pathway to the old abandoned church.
+At the old abandoned church, something immediately feels off. A red mist seems to be rising up from the floor boards. {Sense Trouble}. There are clear signs that this place had been excavated as some areas feel untouched for far longer than others. There also seems to be a part of the altar where clearly a cross once stood. Remnants of the cross are left but the cross seems to have been forcefully plied from it. Investigating the altar further {Geology, Chemistry, Theology} will show that the cross was made of metal encased wood. AS they investigate it they discover that the cross was actually a part of an intricate trap door system. Jerry rigging the system {Craft} will open the altar up disclosing a stairwell that leads to a crypt system under the temple. The crypt clearly has not been opened for quite a while, a couple centuries in fact, proving that the church is a more recent addition, probably having been created to lock this crypt up {Archaeology}.The crypt has symbols all over it pertaining to a language that is more Greek than Russian and also has symbols close to Egyptian involved in it. Languages can be used to discover that this crypt was in fact a temple that was turned into a burial ground for the clergymen and the synod. However further examination {Forensics, Chemistry, Biology} will show that these holy man were preserved using embalming technics rather than following orthodoxy’s preaching. There is a small room at the end of the underground crypt where an epithet stands. There is also red mist reaching the height of a grown person’s ankles swirling at the bottom of the room. Upon entering the room the players can investigate the epithet with {Languages/History/Archaeology}. Investigating the red mist shows that it is leaking from the corpses {Sanity and Stability checks as needed}. Upon entering the room the caskets in which the Holy Synod have been buried began to pour out blood. The PCs can start to try everything {If they are overwhelmed the professor can began mumbling ‘journal’}, eventually using/reading the journal to attempt to save themselves.
+The professor who till then had been delirious, regains an amount of his sanity and tells them, he will always be with them through the journals they have. He also mentions that there are 4 journals and the PCs have possession of 1. The other two were special journals that had an odd yellow covering. Dolya mentions that she remembers seeing Ilya or Omari (depending on what is considered a driving force) with one of those. The professor smiles and says the way to the moon is in its reflection and the way to stop it may be causing ripples to divide it, before shooting himself. (Sanity and Stability).
+With his death the blood and red mist dissipate all that is left behind is a message in red saying ‘In dreams, you are only what you know, seek knowledge to empower yourself’’. With the floor now no longer covered in mist, the PCs see a large sigil of a bull and a kraken facing off with a star and a crescent moon above them. They can record this image {Photography, Evidence Collection, Art} As the PCs leave the room they notice that the shape of the room was that of a bull. They also note another scribble in the center of the sigil, when examined it says ‘Rasputin’
+As the PCs exit the tunnel with this new information, they find Borst’s troops waiting for them. They want to hear everything and tell the players that they now can either commandeer a vehicle {with Borst’s help or Driving} to get to the main base to talk to their head to figure out what is wanted of the team and how to get out or to a lab that the soviet team has locked up which they need investigated which the team has the skills to do.
 They seem to be more trusting of the PCs skills not of the PCs themselves though.
-
-
-
-
-
-
 
 
 

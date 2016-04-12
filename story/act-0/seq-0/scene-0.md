@@ -129,7 +129,6 @@ BORST
 Hello, I am BORST. You are all student here?
 ~~~
 
-
 Borst asks them about who they are, and their backgrounds.
 They make small talk, but he says nothing about himself.[^jeep]
 

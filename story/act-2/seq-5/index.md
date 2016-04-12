@@ -4,20 +4,13 @@ title:   Dancing with the Devil
 seq:     5
 ---
 
-
-The PCs began looking for the whereabouts of Omari.
-The PCs also realize that the fastest way to get to Omari is to get captured,
-even though they will be stripped of all of their belongings.
-
-The PCs realize that by finding Omari they will be able to ask of a favor from him.
-They learn of a dock surrounded by red mist which is where Omari makes his home.
-They also learn of a conspicuous shipment of alcohol,
-going to an eerie red dock and smuggle themselves into the containers.
-
-They awake to find themselves caught by Omari and his personal bodyguards,
-and Omari offers them a deal.
-
-
+Dolya realizing that the base camp may have the information she needs to understand what she had learned from the lab and the tablet, leaves. Borst who still believes that through science and military might can victory over Ilya be achieved urges the party to continue the quest to remove Omari from the picture. Borst states that if they could investigate the situation and help formulate a plan of attack for him he would do the dirty work himself. The players can sense a great sense of remorse in Borst’s tone. Assess Honesty/ Psychoanalysis will show that Borst regrets getting the PCs into the position they currently are in as pawns of a greater game and that he feels he could have killed Ilya early on and did not do it because he thought they were all in service of Mother Russia.
+At the docks they over, hear that Omari prides himself on being hidden and so far has only been found once, by Ilya for whom he has done a favor in exchange for telling him why he was found. The PCs realize that by finding Omari they may be able to ask of a favor from him.
+Further snooping around the docks allow the PCs hear the rumors of him being part of a Sheiks harem as a young boy. They also hear of his unquenchable thirst for power and how he has slowly been turning towards the old gods as a solution for that thirst. They learn of a secondary dock surrounded by red mist which is where Omari makes his home. They also learn of a conspicuous shipment of alcohol going to an eerie red dock and smuggle themselves into the containers. The PCs also realize that while the fastest way to Omari may as well be to get captured by his men, although they will be stripped of all of their belongings.  No one seems to know why Omari holed up here, but the sailors agree that he is waiting for something to happen and has holed himself up on his captain’s ship figuring out how to bring that something about.  {All of these provide ways by which the players can smuggle their way to Omari}
+During the travel they have a claustrophobic vision of being drowned in a well by pure yellow sand surrounded by 70 banners of a mermaid. They awake to find themselves caught by Omari and his personal bodyguards. Omari offers them a deal, to help him gain power through a ritual by choosing for him as he is not sure if the ritual is completed through a sacrifice of 70 children or by some other means. He gives them time to consider what needs to be done and sends to be locked away in a prison ship that sails off. Having been captured by Omari the PCs are locked up on a prison ship. While the colonel has taken any and all weapons away he has left them with their notes and documents so they can use the time to figure out a solution.
+The PCs manipulate the guards to get some information about the Drowned God ritual Omari is interested in.
+The PCS make their way to docks with 3 boathouses. Each boat house has a significant clue to the supernatural that Omari has begun to believe in. A green boatshed has Greek and Phoenician notes inside of it with burned bodies that were made into salt. The red boathouse has blooded body husks and the blood from the husks in containers wither Egyptian and Phoenician notes inside of it. The last one is a Stone boatshed which turns out to be a temple to a Phoenician Goddess. At this point they may consult the professor’s notes to find out that the goddess may have been a priestess who had been the mother of Hastur’s children. This leads to realization that they are on a submerged castle that is actually alive
+One entering the ship they can find in the Colonels quarters a painting that tells the story of Asherah, her Child and Ba’al , they also find a dagger of Ba’al, they can also find notes talking about the spell to summon Asherah to have full control her child, the sunken castle which is actually alive. They also learn through the logs that the ships of the Black Fleet are beyond repair and are now a part of this living submerged vessel. The PCs confront Omari and hijack the summoning/defeat Asherah in an attempt to learn as to how to stop Ilya, and in the hopes of subverting the summoning spell to get them back to shore and safe ground. As they fight the priestess Borst who has lost hope in the plans of his soviet leader and having come to terms over the course of the expedition that magic may be a part of our reality that we choose to ignore sacrifices himself to get the PCs out of the living vessel and back to the main base.
 
 
 

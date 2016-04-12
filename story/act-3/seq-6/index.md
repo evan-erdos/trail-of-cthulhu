@@ -6,6 +6,7 @@ act:     3
 seq:     6
 ---
 
+
 Once each of the PCs pull off the spell successfully, Ilya freezes in his tracks.
 With an unearthly scream, he clutches desperately at his face and melts into a mound of sulfurous ash.
 With a clank, the Mask of Hastur falls down onto the church’s brick floor.
