@@ -17,7 +17,7 @@ Underlying suggestions are laid with regards to the clash of religions and old g
 The act ends with the players boarding an underground train to Moscow following the clues left behind by the orthodox healer Grigori Rasputin protected by the remnants of his heretic cult.
 
 
-
+![cthulhu]({{site.baseurl}}/assets/cthulhu.jpg)
 
 
 
