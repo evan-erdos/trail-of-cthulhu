@@ -1,6 +1,6 @@
 ---
 layout:  sequence
-title:   Morse in Moscow
+title:   Cosmic Shores
 seq:     0
 ---
 
