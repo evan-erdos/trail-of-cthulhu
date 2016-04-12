@@ -1,6 +1,6 @@
 ---
 layout:  sequence
-title:   Crossing a River
+title:   Of Dark and Deep
 seq:     2
 ---
 

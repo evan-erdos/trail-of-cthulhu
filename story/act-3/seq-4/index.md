@@ -1,6 +1,6 @@
 ---
 layout:  sequence
-title:   At the Edge of Red Square
+title:   "Daisy, Daisy"
 seq:     4
 ---
 
