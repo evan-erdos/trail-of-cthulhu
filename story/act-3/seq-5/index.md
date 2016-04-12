@@ -1,6 +1,6 @@
 ---
 layout:  sequence
-title:   Clouds Around St. Basil's
+title:   With Open Arms
 seq:     5
 ---
 
