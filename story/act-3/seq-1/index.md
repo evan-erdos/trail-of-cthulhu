@@ -1,6 +1,6 @@
 ---
 layout:  sequence
-title:   Dolya Revisited
+title:   Faces Come Out of the Rain
 seq:     1
 ---
 
