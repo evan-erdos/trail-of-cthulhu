@@ -737,141 +737,61 @@ Suddenly, the group of possessed citizens that has been slowly gathering outside
 
 
 ### IV.3 ###
-Once they make their may to street-level, the group finds that Moscow is starting to flood with the waters of the river Moskva.
-As they slosh through the water-filled streets, dodging around corners and behind mounds of detritus to avoid groups of citizens at every turn,
-Dolya suggests that the group get to Radio Moscow in order to make a call for at least some sort of aid.
-Unfortunately, this means that they must cross the river,
-a prospect that is made all the more horrifying the moment that they trace their way to its overflowing banks.
+Once they make their may to street-level, the group finds that Moscow is starting to flood with the waters of the river Moskva. As they slosh through the water-filled streets, dodging around corners and behind mounds of detritus to avoid groups of citizens at every turn (Stealth / Conceal / Fleeing / Streetwise), DOLYA suggests that the group get to Radio Moscow in order to make a call for at least some sort of aid. 
 
-Upon arriving at the side of the river, the PCs witness a shadowy,
-slippery form burst from the depths and flail about with a screaming man in its clutches before quickly descending back to whence it came.
+Unfortunately, this means that they must cross the river, a prospect that is made all the more horrifying the moment that they trace their way to its overflowing banks. Upon arriving at the side of the river, the PCs witness a shadowy, slippery form burst from the depths and flail about with a screaming man in its clutches before quickly descending back to whence it came. 
 
-The PCs attempt to investigate alternate routes to the radio station,
-but they find that both of the major bridges that are still above water are either teeming with nightghaunts or smashed to pieces.
-This forces Dolya and the rest of the party to plunge into the Moskva and make a break for the other side,
-during which they must dodge the gigantic tentacle-like being that they saw earlier.
-
-Luckily, they reach the other side, clamber their way out of the river,
-dash up to the Radio Moscow building, lock-pick their way through the brutish cast-iron door and slam it shut behind them.
-The tentacle, nearing the end of its reach, pounds on the door and pulls at the building’s concrete façade, but to no avail.
+The PCs attempt to investigate alternate routes to the radio station, but they find that both of the major bridges that are still above water are either teeming with nightghaunts or smashed to pieces. This forces DOLYA and the rest of the party to plunge into the Moskva and make a break for the other side, during which they must dodge the gigantic tentacle-like being that they saw earlier. Luckily, they reach the other side, clamber their way out of the river, dash up to the Radio Moscow building, lock-pick their way through the brutish cast-iron door and slam it shut behind them (Athletics / Fleeing). The tentacle, nearing the end of its reach, pounds on the door and pulls at the building’s concrete façade, but to no avail.
 
 
 
 
 ### IV.4 ###
-The party creeps through the darkened, bunker-like halls of the radio station,
-discovering a number of rooms piled to the brim with black, monolithic amplifiers with dimmed lights and silent cooling fans,
-and soundboards that are absolutely riddled with all sorts of mysterious buttons and knobs.
-The floors are covered in a thick tangle of electrical cables, some of them bursting at the seams,
-revealing the bloom of coppery-gold filaments stuffed within them.
+The party creeps through the darkened, bunker-like halls of the radio station (Stealth), discovering a number of rooms piled to the brim with black, monolithic amplifiers with dimmed lights and silent cooling fans, and soundboards that are absolutely riddled with all sorts of mysterious buttons and knobs. The floors are covered in a thick tangle of electrical cables, some of them bursting at the seams, revealing the bloom of coppery-gold filaments stuffed within them. 
 
-One of the rooms that the PCs explore also contains a couple of microphones,
-their puffy coverings chafing, the swiveling metal arms that once held them proudly aloft now drooping.
-Mounted on one of the room’s walls is a plastic panel with a series of lights spread across it;
-a closer look determines that this is the station’s “on air” sign, denoting which rooms are currently in operation.
-Only one of the panel’s lights glows, casting out a distinctly orange hue that mulls into panic-room red around its periphery:
-the tiny black letters at the center of the light matter-of-factly state “Studio 1.”
+One of the rooms that the PCs explore also contains a couple of microphones, their puffy coverings chafing, the swiveling metal arms that once held them proudly aloft now drooping. Mounted on one of the room’s walls is a plastic panel with a series of lights spread across it; a closer look determines that this is the station’s “on air” sign, denoting which rooms are currently in operation (Mechanical Repair / Electrical Repair). Only one of the panel’s lights glows, casting out a distinctly orange hue that mulls into panic-room red around its periphery: the tiny black letters at the center of the light matter-of-factly state “Studio 1” (Languages: Russian).
 
-Dolya surmises that this may be the only room in the building from which the party may send a distress signal.
-In a nearby hallway, they discover a moderately large slab of steel bolted to the wall,
-a series of meticulous engravings spanning its surface: it’s a map of Radio Moscow.
-The PCs use it to their advantage, fumbling their way to Studio 1,
-which (lo and behold) contains a transmitter, its lights still flashing and cooling fans still whirring.
+The PCs surmises that this may be the only room in the building from which the party may send a distress signal. In a nearby hallway, they discover a moderately large slab of steel bolted to the wall, a series of meticulous engravings spanning its surface: it’s a map of Radio Moscow (Architecture / Languages: Russian). 
 
-However, when Dolya attempts to shout out into the plastic headset, she is answered with an empty, gut-wrenching static.
-The party leaves the room in a huff, and just as Dolya is mentioning trekking to Moscow Radio Centre 13 to see if someone is jamming the signal,
-the group encounters a dark, flowing shape standing in the middle of the hallway, its base wriggling with formless shadows.
-Zolnerowich’s voice echoes out from the shade, and Dolya tries to shoot him with her trusty rifle,
-but the bullet spring from his body and falls to the floor with a solitary clink.
+The party uses it to their advantage, fumbling their way to Studio 1, which (lo and behold) contains a transmitter, its lights still flashing and cooling fans still whirring. However, when they attempt to shout into the plastic headset, they are only answered with an empty, gut-wrenching static. 
 
-A tentacle shoots out from behind him, impaling Dolya through the head and writhing about in a weird burst of yellow light;
-it’s as if her very essence is being sucked out.
-She drops to the floor, and the PCs hightail it as the sound of maniacal laughter echoes through their brains.
+The party leaves the room in a huff, and just as DOLYA is mentioning trekking to Moscow Radio Centre 13 to see if someone is jamming the signal, the group encounters a dark, flowing shape standing in the middle of the hallway, its base wriggling with formless shadows. ILYA’s voice echoes out from the shade, and DOLYA tries to shoot him with her trusty rifle, but the bullet springs from his body and falls to the floor with a solitary clink. A tentacle shoots out from behind him, impaling DOLYA through the head and writhing about in a weird burst of yellow light; it’s as if her very essence is being sucked out. She drops to the floor, and the PCs hightail it as the sound of maniacal laughter echoes through their brains. 
 
 
 
 
 ### IV.5 ###
-The PCs race out of the Moscow Radio building, alternately dodging the copious electrical wires that are now slithering to life,
-glowing with the same yellow light that accompanied Dolya’s demise,
-and hiding from the whispering figure that has just killed one of their most valuable team members.
+The PCs race out of the Moscow Radio building, alternately dodging the copious electrical wires that are now slithering to life, glowing with the same yellow light that accompanied DOLYA’s demise, and hiding from the whispering figure that has just killed one of their most valuable team members (Athletics / Stealth / Conceal / Fleeing). 
 
-As they approach the front door of the building and begin to pry it open,
-it suddenly slams shut with yet another yellow flash, and no amount of pulling and pleading will force it to heave to.
-The PCs can hear Zolnerowich’s rasping voice, telling them over and over again to surrender their minds,
-that no one is coming to save them, but before he can strike them down as he did with Dolya,
-the PCs realize that they only have one option left: Professor Birchwell’s spell book.
+As they approach the front door of the building and begin to pry it open, it suddenly slams shut with yet another yellow flash, and no amount of pulling and pleading will force it to heave to. The PCs can hear ILYA’s rasping voice, telling them over and over again to surrender their minds, that no one is coming to save them, but before he can strike them down as he did with DOLYA, the PCs realize that they only have one option left: “Soul Siphon.” The tablet mentions nothing about moving a soul from an object to a body, but with ILYA almost breathing down their necks, the PCs decides that they have nothing to lose. The group executes the spell, and the door grudgingly groans open, allowing just enough space for a human-sized body to squeeze through (Occult / Cthulhu Mythos). The PCs do just that, and as the last PC lifts their hands from the door’s iron face, the spell immediately breaks; with a shudder and another groan, Moscow Radio’s door reseals itself. 
 
-They leaf through it, discovering a spell dubbed “Spirit Siphon” with the ability to move souls from one body to another body through physical contact;
-the book mentions nothing about moving a soul from an object to a body,
-but with Zolnerowich almost breathing down their necks, the PCs decides that they have nothing to lose.
-
-The group executes the spell, and the door grudgingly groans open,
-allowing just enough space for a human-sized body to squeeze through.
-The PCs do just that, and as the last PC lifts their hands from the door’s iron face,
-the spell immediately breaks; with a shudder and another groan, Moscow Radio’s door reseals itself.
-
-At this point, Moscow is utterly crawling with possessed citizens and nightghaunts,
-and in the sky, the PCs see a ring of cloud forming around the city's center.
-In the ring's middle, they can barely make out the robed figure of Zolnerowich.
-The party can choose to either undertake a most likely suicidal journey to Centre 13,
-or sneak its way to the center of Moscow to somehow subdue Zolnerowich’s power with the spell that they just learned.
-
-The PCs decide to go with the latter, and they sneak their way down street after street,
-avoiding the gaze of nightghaunt and citizen alike,
-until they find themselves standing at the edge of the Red Square itself.
+At this point, Moscow is utterly crawling with possessed citizens and nightghaunts, and in the sky, the PCs see a ring of cloud forming around the city's center. In the ring's middle, they can barely make out the robed figure of ILYA. The party can choose to either undertake a most likely suicidal journey to Centre 13, or sneak its way to the center of Moscow to somehow subdue ILYA’s power with the spell they have successfully (barely) executed. The PCs decide to go with the latter, and they sneak their way down street after street (Stealth / Conceal / Fleeing), avoiding the gaze of nightghaunt and citizen alike, until they find themselves standing at the edge of the Red Square itself. 
 
 
 
 
 ### IV.6 ###
-The PCs see that the aforementioned cloud ring is lowering more and more,
-completely encircling the central spire of St. Basil's Cathedral.
-They also see that the Red Square is teeming with possessed citizens,
-enough to totally surround them if they try to make a break for it.
+The PCs see that the aforementioned cloud ring is lowering more and more, completely encircling the central spire of St. Basil's Cathedral (Occult / Cthulhu Mythos). They also see that the Red Square is teeming with possessed citizens, enough to totally surround them if they try to make a break for it. 
 
-However, the moment the party take a step onto the square’s meticulously placed cobblestones,
-the people populating the space begin to drop dead as the area around their stomachs seem to flash with a familiar yellow light,
-which then forms itself into orbs and darts its way towards the cathedral at the other end of the square.
+However, the moment the party take a step onto the square’s meticulously placed cobblestones, the people populating the space begin to drop dead as the area around their stomachs seem to flash with a familiar yellow light, which then forms itself into orbs and darts its way towards the cathedral at the other end of the square. 
 
-The PCs cross to St. Basil’s and attempt to force open the grand wooden door that serves as the cathedral’s front entrance, to no avail.
-Then, a single word slithers into their heads: “manners…” The group knocks politely, and the door creaks open, beckoning them inside.
-They enter St. Basil's and carefully creep their way around its labyrinthine,
-fantastically mural-covered hallways until they cross the threshold of the cathedral’s central chapel: the Church of Intercession.
+The PCs cross to St. Basil’s and attempt to force open the grand wooden door that serves as the cathedral’s front entrance, to no avail. Then, a single word slithers into their heads: “manners…” The group knocks politely, and the door creaks open, beckoning them inside. 
 
-As soon as they go inside, organ music begins to float into their heads, and when they look up towards the domed ceiling of the spire above,
-they see Zolnerowich in the flesh: he floats downward, his body and face completely swathed in a loose yellow robe,
-his arms outstretched in a gesture that seems to say “welcome,”
-a mass of tentacles hanging from where one would expect his feet to be protruding from.
+They enter St. Basil's and carefully creep their way around its labyrinthine, fantastically mural-covered hallways until they cross the threshold of the cathedral’s central chapel: the Church of Intercession. As soon as they go inside, organ music begins to float into their heads, and when they look up towards the domed ceiling of the spire above, they see ILYA in the flesh: he floats downward, his body and face completely swathed in a loose yellow robe, his arms outstretched in a gesture that seems to say “welcome,” a mass of tentacles hanging from where one would expect his feet to be protruding from. 
 
-The party escapes into the cathedral's hallways,
-finding various ways to stun Zolnerowich so that they can each enact “Soul Siphon” on him
-(just two of these options involve either shooting down hanging lamps and chandeliers while he is standing under them,
-or luring him into a bell in St. Basil’s bell tower and ringing it).
+The party escapes into the cathedral's hallways, finding various ways to stun ILYA so that they can each enact “Soul Siphon” on him (just two of these options involve either shooting down hanging lamps and chandeliers while he is standing under them, or luring him into a bell in St. Basil’s bell tower and ringing it).
 
 
 
 
-### IV.6 ###
-Once each of the PCs pull off the spell successfully, Zolnerowich freezes in his tracks.
-With an unearthly scream, he clutches desperately at his face and melts into a mound of sulfurous ash.
-With a clank, the Mask of Hastur falls down onto the church’s brick floor.
-What is more, any nearby nightghaunts that appeared during the course of the battle inside the cathedral emit screams of their own before their bodies violently fold in on each other like collapsing stars and disappear in a puff of black.
+### IV.7 ###
+Once each of the PCs pull off the spell successfully, ILYA freezes in his tracks. With an unearthly scream, he clutches desperately at his face and melts into a mound of sulfurous ash. With a clank, the Mask of Hastur falls down onto the church’s brick floor. What is more, any nearby nightghaunts that appeared during the course of the battle inside the cathedral emit screams of their own before their bodies violently fold in on each other like collapsing stars and disappear in a puff of black. 
 
-On their way out of St. Basil’s, as the group stumbles their way back across the Red Square in an aimless bid to follow the presumably now-clear path to Centre 13,
-one of the PCs stops by the side of a dead citizen's body, pulls a pistol out of its grip and calmly turns it onto their compatriots.
-They reiterate Hastur's words:
-the remaining PCs can either submit their minds to him and possibly regain control of their bodies in the future, or die.
+On their way out of St. Basil’s, as the group stumbles their way back across the Red Square in an aimless bid to follow the presumably now-clear path to Centre 13, one of the PCs stops by the side of a dead citizen's body, pulls a pistol out of its grip and calmly turns it onto their compatriots. They reiterate Hastur's words: the remaining PCs can either submit their minds to him and possibly regain control of their bodies in the future, or die. 
 
-The remaining PCs overpower and kill their possessed friend before realizing that the only way to stop themselves from turning into Hastur-vessels is to kill themselves.
-The longer they debate the situation, the more of them succumb to Hastur's influence and must be killed.
+The remaining PCs overpower and kill their possessed friend (Interrogation / Athletics / Scuffling / Firearms) before realizing that the only way to stop themselves from turning into Hastur-vessels is to kill themselves. The longer they debate the situation, the more of them succumb to Hastur's influence and must be killed. 
 
-Soon, there is one PC left.
-
-If they take too long to kill themselves, Hastur possesses them and the game is lost,
-but if they do, then the game is ostensibly won; Hastur has been sealed away for at least another millennium...or two.
-
-
+Soon, there is one PC left. If they take too long to kill themselves, Hastur possesses them and the game is lost, but if they do (Firearms), then the game is ostensibly won; Hastur has been sealed away for at least another millennium...or two. 
 
 
 
