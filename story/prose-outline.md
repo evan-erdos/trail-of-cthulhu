@@ -704,74 +704,35 @@ Act IV : **Can You Hear the Waves?**
 ------------------------------------
 
 ### IV.1 ###
-The PCs wake up, groggy from their encounter with Omari,
-their bodies splayed out in the middle of a damp cobblestone alleyway.
-As they stumble to their feet, a faintly glowing ectoplasmic substance dripping from their soaked clothing,
-they realized that Dolya is nowhere to be found.
+The train rumbles onwards for what seems like months, with only brief flashes of pale gold light denoting the passage of time in regular illuminated slits. Then, just as a stomach or two is beginning to audibly rumble, the cold, musty air of the underground tunnel breaks into an equally cold crispness with a resounding whoosh: the train has emerged into the great outdoors. The PCs cluster around the slats in the car’s wooden side panels to take a look. In the distance, they can just make out a billowing, colorful structure that wouldn’t look out of place in Constantinople, and surrounding it is a sea of twinkling lights. Architecture / History reveals that this building is none other than the world-famous St. Basil’s Cathedral. A further Astronomy check tells the PCs that the setting sun touching the tip of the cathedral’s greatest spire doesn’t seem to be budging in the slightest. A Sense Trouble check gives the party the tingling impression that all of Moscow’s lights are floating about, reshaping themselves into an amorphous face with a grin so large, it looks like it could swallow the party whole. 
 
-Walking tentatively along the two neat rows of graying brick buildings that squat at the sides of the alley,
-they spot a rectangular wooden sign nailed precisely over one doorway;
-it is slathered liberally and unevenly with white paint and blocky crimson lettering that almost seems to scream out of its knotted surface.
-On closer inspection, the PCs discover that the language on the sign is Russian,
-and that the establishment below that it advertises is some kind of grocery store.
+To the right of Moscow’s grim outline, the PCs spy the dark, crisscrossing pattern of a steel tower, a blinking red light adorning its top. Mechanical Repair / Electrical Repair determines that this is a radio tower of some sort, and further use of History determines that this is likely just one of many towers that the USSR currently employs in order to jam unwanted radio signals. Then, the train ducks back into another tunnel, and the car quickly refills with mustiness. After another hour or so, the train creaks to a halt, and the PCs use Athletics / Scuffling to either pry open or partially break the car door. 
 
-The PCs venture inside, only to find a series of rusted metallic shelves that are loosely arranged into aisles,
-their surfaces populated with only a few loaves of molding bread
-(the sagging plastic labels on these forgone items ironically proclaims them to be “Moscow’s Finest!”).
+The party finds themselves on the platform of what looks like an old subway stop. The tunnel is dimly lit, its concrete walls occasionally shuddering with a far away rumble before settling back down. History lets the PCs recall that the USSR supposedly built a secret subway alongside Moscow’s official lines; it was called “Metro-2,” or “D-6” by the KGB, and was rumored to serve as a quick transport between places of national importance. A brownish green moss appears to grow in dark clumps across the platform, and use of Evidence Collection / Forensics / Outdoorsman reveals a series of shoeprints, at first close together and hesitant, but progressively spread apart and erratic; they seem to disappear off the side of the platform entirely. A breeze seems to emanate from the gaping mouth of the tunnel ahead of the party: Outdoorsman reveals that the air is coming from outside of Metro-2, while Sense Trouble gives them the sensation of a whispered scream carried along with the wind’s haunting overtones. 
 
-An old woman sits on a stool behind a banged up oaken countertop,
-her hands clutched unmoving around the crinkled edges of a newspaper, her eyes unblinking and watery.
-When the party asks her if they could get a look at the newspaper, she quietly complies:
-from the front-page story, and from the date on the paper, they learn that:
+Realizing that the only way out is down the tunnel, they follow the both the breeze and the footprints further in. Soon they reach a junction in the track; one fork is blocked up with a decaying wooden sign covered in blocky lettering: “Closed for Repairs” (Language: Russian). Archaeology / Forensics / Outdoorsman denotes that the sign has been there for around 10 years. Outdoorsman / Sense Trouble lets the party know that the breeze is coming from the unblocked tunnel, but before they can press on, they notice the body: alone in the center of the junction, a human corpse (Core Clue) kneels solemnly, its top half missing. Medicine / Forensics / Outdoorsman reveals that the pour soul’s torso was sloppily bitten off. Forensics / Outdoorsman additionally reveals that the attack came from above and behind the victim’s head. 
 
-- they have landed smack dab in the middle of Moscow,
-- several people have recently spotted a yellow-robed figure rising from the banks of the river Moskva, and
-- they have been shot approximately two weeks into the future.
-
-The PCs duck back into the alleyway, and as they come to an intersection,
-they notice a strange glow emanating from one of the cobblestones before them:
-it’s a heavily smudged handprint, formed from the same gooey material that the PCs originally found themselves covered in.
-
-They spot yet another of these prints on a nearby wall, and as they approach it,
-a flower pot careens downward and smashes to pieces at their feet;
-one of the party members notes nervously that that could have easily killed one of them, had they been just a few steps closer.
-
-The PCs continue onward, going from handprint to handprint on a sort of trail,
-which leads them right past another eerily immobile citizen with a watery, dangerous look in his eye.
-The citizen begins to tail the party and they successfully lose him by hiding themselves up on an old fire escape,
-but once resume their search for the next increasingly faded print,
-they find themselves being followed by even more citizens with a similar aura.
-
-Then, from a window atop a nearby apartment building,
-a light flashes in a strange sequence of patterns: it's a Morse code S.O.S.
+The PCs Sense Trouble again, and the breeze transfigures into a shriek. Evidence Collection / Forensics reveals a rusted crowbar (Core Clue) stuck in a grate on the side of a wall, and the PCs use Athletics pry it out and yank a couple planks from the blocked railway. As they squeeze through, they catch a glimpse of a huge dark shape, its wings pitch black and leathery, its lizard-like muzzle full of sharp black teeth. Cthulhu Mythos deems this to be a Byakhee, one of the space faring servants of Hastur. The PCs book it, coming across a metallic ladder leading upwards to a metal door with a padlock. Forensics / Mechanical Repair reveal that the padlock is heavily rusted, and with a few swings of the crowbar (Athletics), the PCs knock it off of the door and open the contraption wide.
 
 
 
 
 ### IV.2 ###
-The PCs force their way into the apartment building,
-and are greeted with a musty lobby that is absolutely drenched in dark burgundy carpeting and upholstery.
-Quickly, they heave a few faded couches into the doorway to prevent their pursuers from tailing them,
-and make their way to a nearby elevator.
-After pressing the “up” call button and waiting for a few excruciating seconds,
-the paneled doors part and the party squeezes themselves inside.
-The elevator creaks and groans its way up to the top floor, shuddering a few times along the way.
+The party steps into a dark room with tall, salmon-colored walls. To their left, a gigantic wooden boat stands ghostly erect, and to their right is a glass case full of assorted gold pieces. History / Archaeology reveal the boat to be an old longboat excavated from the river Volga, and the gold pieces to be ancient Scythian artifacts; History / Library Use will additionally reveal that these two collections could only have recently crossed paths in one place. This is it: Moscow’s State Historical Museum. 
 
-As the doors open once more and the PCs step out, the elevator emits one final groan before its cable snaps with a thick twang,
-sending the little box shrieking down its rusty supports to the ground floor far below.
-The PCs then begin the process of searching each room to find out who (or what) was sending out that Morse code signal.
+As the PCs study the room’s contents, the doorway leading back down to Metro-2 falls shut with a clattering bang. From far away, footsteps start to clack hurriedly towards the PCs’ position. The party uses Stealth / Conceal / Fleeing to hide themselves in the room, either inside the longboat, or behind the Scythian pieces’ case. A museum guard fumbles his way in, muttering to himself about how there’s no such thing as ghosts (Languages: Russian). As he passes by the PCs’ hiding spot, they use Scuffling / Intimidation to grab the guard, secure his pistol and clamp a hand over his twitching mouth. They then press him to disclose the location of Rasputin’s prayer belt (Interrogation / Intimidation), which ultimately works when supplemented with a pistol pressed to the back of his neck. 
 
-After using the view from at least two of these rooms to pinpoint its source,
-they break in and find Dolya holed up in said apartment, toting a rifle.
-The PCs help her barricade her door with a hefty armchair to buy them some time,
-and as they talk with her, Dolya reveals that she woke up in the same exact alleyway almost a week ago,
-and fled to this miserable little place after she, too, had a fairly unpleasant encounter with Moscow’s glassy-eyed denizens.
-She also adds that their behavior became even more erratic after a radio broadcast featuring Zolnerowich’s voice unexpectedly came on the air.
+The guard guides the party to a cramped hallway at the very back of the museum: the walls are covered in Byzantine-esque portraits of religious figures that almost feel like they’re watching you (Sense Trouble), and at the end of the hall, flanked by two fairly large windows, is another glass case, this one containing a black twist of rope covered in strange and familiar symbols: it’s Rasputin’s prayer belt. Occult / Archaeology reveals that each of the belt’s lines of symbols constitutes a specific alphabet: among them is the strange tongue inscribed on the tablet in the PCs’ possession, and among the numerous others are Phoenician and Ancient Greek. The PCs use the belt to finally translate the mysterious tablet (Cryptography + Languages: Phoenician or Greek) and learn of the Soul Siphon spell, a spells that drains an individual’s souls from their body into the caster’s through physical contact. 
 
-Suddenly, the group of possessed citizens that has been slowly gathering outside her door in a murmuring mass attempts to break in,
-and the PCs, along with Dolya, escape by scaling the apartment building’s façade,
-climbing from window ledge to window ledge, all the while evading the grasping hands of yet more citizens.
+Just then, a screech ripples through the hallway and the Byakhee appears. In a single sweeping motion, it bites the guard’s clean off and swipes at the PCs with its tail, sending them crashing through one of the nearby windows. As they hurtle towards the street below, the Byakhee launches itself after them, and the party only has a few turns to grapple themselves onto the beast’s creased hide (Scuffling / Riding) before they crash to the cobblestoned earth. 
 
+The fall kills the Byakhee, and leaves the players extremely shaken. This is not helped by the fact that a number of passersby are stopping to stare with an eerie, watery look in their eye, as if they are actually somewhere far away; a yellow glow seems to shine from under their clothing, always around the area where their stomach would be (Biology / Medicine). As the citizens begin to inch closer to the party, they quickly beat it, ducking through various crevices between buildings in order to elude their pursuers (Stealth / Conceal / Fleeing). Then, from a window atop a nearby apartment building, a light flashes in a strange sequence of patterns: it's a Morse S.O.S (Cryptography / Outdoorsman). 
+
+The PCs force their way into the apartment building, and are greeted with a musty lobby that is absolutely drenched in dark burgundy carpeting and upholstery. Quickly, they heave a few faded couches into the doorway to prevent their pursuers from tailing them (Athletics / Preparedness), and make their way to a nearby elevator. After pressing the “up” call button and waiting for a few excruciating seconds, the paneled doors part and the party squeezes themselves inside. The elevator creaks and groans its way up to the top floor, shuddering a few times along the way. As the doors open once more and the PCs step out, the elevator emits one final groan before its cable snaps with a thick twang, sending the little box shrieking down its rusty supports to the ground floor far below. 
+
+The PCs then begin the process of searching each room to find out who (or what) was sending out that Morse signal. After using the view from at least two of these rooms to pinpoint its source, they break in and find DOLYA holed up in said apartment, toting a rifle. The PCs help her barricade her door with a hefty armchair to buy them some time (Athletics / Preparedness), and as they talk with her, DOLYA reveals that she arrived here nearly a week ago, and fled to this miserable little place after she, too, had a fairly unpleasant encounter with Moscow’s glassy-eyed denizens (Interrogation). She also adds that their behavior became even more erratic after a radio broadcast featuring ILYA’s voice unexpectedly came on the air. 
+
+Suddenly, the group of possessed citizens that has been slowly gathering outside her door in a murmuring mass attempts to break in, and the PCs, along with DOLYA, escape by scaling the apartment building’s façade, climbing from window ledge to window ledge, all the while evading the grasping hands of yet more citizens (Athletics / Fleeing).
 
 
 
