@@ -9,12 +9,12 @@ Act I : **Strange Æons**
 ------------------------
 
 ### I.1 ###
-Professor Birchwell has been sent to diagnose a rash of sleep disturbances,
+Professor Cameron T. Birchwell, a noted physician, has been sent to diagnose a rash of sleep disturbances,
 reported by villagers who live near a cluster of late-Antiquity Roman ruins in Northern Africa.
 He has assembled a team of students and doctors to assist him on this expedition.
 
 Early one morning, each of the PCs receive a note under their door,
-instructing them to gather their things in preparation for the first expedition.
+instructing them to gather their things in preparation for their first expedition.
 
 With packs full, they arrive at the staging ground.
 They observe Professor Birchwell being instructed in the usage of a firearm.
@@ -28,7 +28,11 @@ and begins to lambaste him about coolant fluids.
 
 Late at night, they are ambushed by tribesmen.
 The PCs witness Professor Birchwell being cornered by a tribesman.
-He draws his pistol and fires, and the other attackers disperse.
+He draws his pistol and fires, hitting one attacker squarely in the chest; the remaining attackers disperse.
+When the PCs and Professor tentatively examines the dead man's body, they find a strange medallion
+around his neck, enscribed with weirdly spiralling shapes, as if some sort of ghost twisted its way
+into the copper-like disc. The Professor sniffs absentmindedly, gets up and sruts hurriedly away. 
+The party takes this opportunity to relieve the corpse of its trinket.
 
 When the caravan arrives, they are met with the sight a dying village.
 Villagers, clad in rags, are seen roaming the streets, or sleeping in alleyways.
@@ -42,15 +46,14 @@ They are also tasked with finding the village leader, and getting his opinion.
 They talk to a number of villagers, and while all of their stories match,
 it doesn't fit any particular sickness that they've ever heard of.
 
-They find the Chieftain, and ask him about the symbol they found.
+They find the Chieftain, and ask him about a symbol they've found emblazened in scars and scabs
+on the stomachs of several particularly ill tribesmen.
+
 He's confined to bed, and it's plain that he's nearly lost his mind.
-Moreover, he says that some of the villagers most afflicted by the "curse" are missing,
+The Chieftain weakly mumbles that some of the villagers most afflicted by the "curse" are missing,
 and he blames their disappearance on the neighboring "demon worshippers".
 His son disappeared without warning, a month before the village began to have problems.
 All the other missing villagers showed signs of this "curse" before disappearing.
-
-The PCs gather samples from the village, and return to the lab to analyze the data.
-Professor Birchwell appears as they leave the village, and the group returns to the lab.
 
 The caravan returns to the lab, and they begin analysis on the samples immediately.
 They test against many common diseases and afflictions, but none of the tests come back positive.
@@ -60,27 +63,26 @@ They test against many common diseases and afflictions, but none of the tests co
 ### I.2 ###
 The next day, the PCs are summoned to the main lab, again via note.
 Upon their arrival, they find that Professor Birchwell has begun well ahead of schedule.
-The players notice a girl they've never seen before, watching him from the back of the lab.
+The players notice a woman they've never seen before, watching him from the back of the lab.
 The professor's in a cheerful mood, and is telling "doctor jokes" to a group of students.
 
-Right before 11:00AM, the girl in the corner walks up to the professor,
-says something to him, and quickly leaves the room.
+Right before 11:00AM, the woman walks up to the professor, says something to him, and bruskly leaves the room.
 
 Ever punctual, the professor begins his lecture, but he's stammering.
 He stutters through a few slides, then skips a bunch,
-and begins to talk about ethics, and the difference between right and wrong.
+then begins to talk about ethics and the difference between right and wrong.
 He's sweating, and fumbling with the controls of the slide projector.
 
 The PCs hear glass shattering, somewhere on the other side of the lab.
 A small fire breaks out below a fume hood.
-Professor Birchwell watches the fire spread for a moment, and giggles.
+Professor Birchwell watches the fire spread for a moment, and chuckles.
 Some students put it out, and the audience begins to disperse.
 
-They return to the village to present the chief with their findings.
-Professor Birchwell tells the Chieftain that the village has *trypanosomiasis*
-(African Sleeping Sickness), however,
+They return to the village to present the Chieftain with their findings.
+Professor Birchwell tells him that the village has *trypanosomiasis*
+(African Sleeping Sickness). However,
 none of the samples the PCs analyzed corroborate this.
-The Chieftain characteristically suggests that they kill the whole neighboring tribe.
+The Chieftain bitterly suggests that they kill the whole neighboring tribe in revenge.
 As they conclude with the Chieftain, they notice Professor Birchwell slip away again.
 They trail him as he weaves his way through the village, to the edge of town.
 He stops at a bridge in the woods, and the PCs observe him at a distance.
@@ -93,28 +95,31 @@ and he erupts with anger, almost incoherently babbling about trust and secrets, 
 He accuses them of spying on him, and trying to kill him.
 After a thorough accosting, he lets them go.
 
-The PCs awake to the sound of sirens, and flee their rooms.
-It smells like smoke, and sections of the Laboratory are crumbling.
-They observe some of their peers doing very strange things.
-After they escape the lab, the PCs pore over the notes they found.
-It's slightly helpful, but now they need to learn more.
+That night, the PCs awake to the sound of sirens, and flee their rooms.
+The air is choked with smoke, and sections of the Laboratory are crumbling.
+During their evacuation, the party notices that their peers are either planted firmly upright
+in an abject stiffness, or madly scratching at any and all surrounding surfaces,
+their fingers bleeding from the effort.
+
+After they escape the lab, the PCs pore over the various papers they have found blowing about the burning
+campus like ember-laden tumbleweeds. This provides them with slightly helpful information, 
+but now they need to learn more.
 
 
 
 ### I.3 ###
-The PCs return to the ruins, and overhear chatter about a new ritual.
-They learn that the ritual is to be held in the ruins themselves, however,
-They are warned that the cultists don't like "interlopers".
+The PCs return to the Roman ruins, and overhear chatter about a new ritual.
+They learn that the ritual is to be held in the ruins themselves, but they also hear that the cultists don't like "interlopers".
 
-They arrive to find that the ruins are comprised of concentric hemispheres of rough stone pillars,
+As they delve deeper into the ruins, the party finds that they are comprised of concentric hemispheres of rough stone pillars,
 the designs of which become more complex as one moves inwards,
 towards the centerpiece: a bloody, stone altar.
-Directly behind the altar is a solitary pillar of rough-hewn aplite,
-which has inscribed on it a strange glyph, which they initially percieve to be the sun.
-The center of what they thought was the sun is actually a twisted face,
+Directly behind the altar is a solitary pillar of rough-hewn aplite; 
+inscribed on it is a strange glyph, which they initially percieve to be the sun.
+The center of this glyph is , in actuality, comprised of a twisted face,
 whose horrified expression is immortalized in the red stone.
 
-The PCs lie in wait, to observe another student gaining entry to the ritual.
+The PCs lie in wait, observing another student gaining entry to the ritual.
 When this occurs, they realize that everyone in the ritual is wearing a talisman,
 just like the ones worn by the tribesmen who ambushed them on the first night.
 They show their talisman to the cultists, and they are welcomed into the main crowd.
@@ -126,7 +131,7 @@ They learn that there will be a sacrifice,
 and that another student has volunteered to be "awakened".
 
 In their attempts to learn more about the ritual,
-the PCs are caught by none other than the High Acolyte.
+the PCs are caught by none other than the High Acolyte, the individual in charge of this particular ceremony.
 
 They are told that if they perform his *coup de grâce*,
 then they'll be "awakened", and in good standing with the cult.
@@ -177,24 +182,21 @@ With proper alignment, they emulate how the medallion would reflect light,
 and the aplite pillar begins to sink into the ground, revealing a passageway,
 with a steep set of stone stairs leading down.
 
-As the PCs walk down the stairs of entrance, they hear rumbling.
-The entrance begins to collapse, and stone begins to roll down the stairs.
+As the PCs walk down the stairs of entrance, they hear rumbling; the entrance collapses.
+While in the dark, they're attacked by something. It's slimy, it has tentacles, and it doesn't
+appear to be touching the ground.
 
-Now, they're a dozen feet underground, and possibly wounded.
-While they're still in the dark, they're attacked by something.
-It's slimy, it has tentacles, and it doesn't appear to be touching the ground.
-
-Once they defeat the creature, they assess their surroundings.
+Once they defeat the creature, the PCs assess their surroundings.
 They're in a damp, underground grotto, and they can faintly hear running water.
 They explore for some time, but cannot find any other exits.
 
 As they approach the underground river, the PCs begin to have a strange sensation.
-It's like they're dreaming awake, and they feel compelled to swim in the water.
+It's like they're dreaming while awake, and they feel compelled to swim in the water.
 
 Having no other recourse, the PCs gather their things, and take the plunge.
 Strange shapes flit in and out of their minds, and they begin to fall asleep.
-Their dreams are more lucid than life, and they dream of strange oceanscapes,
-where the seemingly flat ocean is bent and twirled in strange directions,
+Their dreams are more lucid than life: they see strange oceanscapes,
+where the seemingly flat disc of the water is bent and twirled in strange directions,
 as if the dimensions themselves were deforming.
 
 They find themselves in an enormous city, shaped from solid stone.
@@ -205,11 +207,11 @@ They become attuned to it, and they notice a specific phrase being repeated:
 
 > ...ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl ftagn...
 
-Their vision fades, and they wake up on the shore, with their bodies rearranged.
+Their vision fades, and they wake up with their bodies rearranged.
 They appear to have crawled out of the water in their sleep,
 and put one hand back in the water.
 
-They find themselves in a different cavern, and can now see a way out.
+They now realize that they are in a different cavern, and can now see a way out.
 Even though it's nighttime, the water is still glowing.
 
 They gather themselves, and notice a glint shining from the shallows.
@@ -225,19 +227,20 @@ They exit the cavern, and find themselves along the shore.
 
 ### I.5 ###
 They return to the Lab, which has been rebuilt slightly since the fire.
-They clean themselves up, and they learn that Professor Birchwell is missing,
+They are in the middle of cleaning themselves up, when they learn that Professor Birchwell is missing,
 and that nobody has seen him since the fire.
-They return to the ruins and the village to look for him.
-When they arrive at the village, it looks like a warzone.
-There are bullet holes everywhere, and villagers are bleeding out in the streets.
 
-Among the wounded they find the girl they saw approach the professor in lecture.
+They return to the Roman ruins and the village to look for him.
+When they arrive at the village, it looks like a warzone.
+There are bullet holes everywhere, and many are lying in the streets, bleeding profusely.
+
+Among the wounded, they find the woman they saw approach the professor in lecture.
 The PCs learn that she is Dolya Petrovna,
-a Russian Journalist working for a Soviet media machine.
+a Russian Journalist working for a Soviet propaganda publication known as "Pravda."
 She reveals that the Soviets were the ones who destroyed the village,
 and that they have a hidden Observatory, deep in the jungle.
 
-The PCs set out into the jungle at night to find the Observatory.
+The PCs, along with Dolya, set out into the jungle at night to find this Observatory.
 After hearing a string of inexplicably horrifying noises coming from the jungle,
 they are attacked by another strange, tentacled creature.
 This time, however, a Soviet jeep appears down the road,
@@ -250,17 +253,19 @@ The PCs follow the tire tracks in the dirt,
 and find themselves in a clearing, where an enormous Observatory has been built.
 
 Having found a way in, the PCs begin to gather information.
-They rife through desks and drawers, read documents, and find some instructions.
+They rife through desks and drawers, read documents, and find both
+a frayed, black leather bound book filled with incomprehensible writing and
+a scrap piece of graph paper covered in hastily scribbled coordinates.
 
-They follow the instructions, and see a blinking object through the telescope.
+They follow these coordinates, and see a blinking object through the telescope.
 Using the charts and telemetry they find in the desks,
-they decode and record what the blinking object is sending for later evaluation.
+they decode and record the signal that the blinking object appears to be sending for later evaluation.
 
 Ilya Zolnerowich and the Professor enter the Observatory.
-Ilya has his men take the grimoire and the medallion from them.
+Ilya has his men take their recently discovered grimoire and the medallion from them.
 Ilya orders his troops to kill the PCs,
 but the professor bargains for their lives.
-He concedes, and departs with his troops, taking the artefacts with them.
+He concedes, and departs with his troops, taking the artifacts with them.
 
 Professor Birchwell is furious with the PCs, and is armed.
 He accosts them for meddling, but doesn't seem like he's going to kill them.
@@ -285,7 +290,7 @@ and there's still an attaché of Soviet troops, looking for survivors.
 
 The PCs hide in the brush until the Soviets are through.
 Trailing the soliders, they find a hidden Soviet encampment,
-but cannot approach the base until it's dark.
+which is postively teeming with guards.
 
 Now that they know where the Soviet Encampment is,
 the PCs are free to return to the lab.
@@ -296,10 +301,10 @@ they realize that they don't have enough information to break the code.
 
 However, they are able to decrypt small snippets of information.
 Even though they can only make out bits and pieces,
-they deduce that the Soviets are in North Africa looking for an artefact.
+they deduce that the Soviets are in North Africa looking for an artifact.
 It's apparently very powerful, and they plan to weaponize it.
 
-If it is as powerful as the communications indicate,
+If it is as powerful as the communications from above indicate,
 and if the Soviets do intend to weaponize it,
 it could give them a critical advantage over the United States,
 rendering the US policy of brinksmanship useless.
