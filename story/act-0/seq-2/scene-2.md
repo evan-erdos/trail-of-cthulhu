@@ -2,7 +2,7 @@
 layout:      scene
 title:       Silencing Lambs
 seq:         2
-scene:       3
+scene:       2
 beat:        procedural
 objective:   up
 subjective:  down

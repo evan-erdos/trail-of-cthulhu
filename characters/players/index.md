@@ -1,5 +1,5 @@
 ---
-layout:   story
+layout:   characters
 title:    Player Characters
 ---
 

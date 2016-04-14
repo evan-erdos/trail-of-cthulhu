@@ -35,8 +35,7 @@ and if the Soviets do intend to weaponize it,
 it could give them a critical advantage over the United States,
 rendering the US policy of brinksmanship useless.
 
-If the PCs do not act, and soon,
-the Soviet Union might become the world's *only* superpower.
+If the PCs do not act, and soon, the Soviet Union might become the world's *only* superpower.
 
 
 

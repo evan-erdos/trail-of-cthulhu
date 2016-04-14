@@ -12,13 +12,13 @@ EXT. DUNES - DAY
 
 AMBALO and five of his best warriors stand around the truck,
 they are well equipped and appear healthy and strong.
-Ambalo carries his ceremonial spear.
+AMBALO carries his ceremonial spear.
 A Jagged weapon made with the sharpened teeth of the wild beasts he has slain.
 On his waist is a TT-3 Tokarev 7.62mm automatic pistol (1933).
 Two soldiers are armed with Soviet Mosin Nagant M10 7.62mm combat carbines.
 Three have machetes and shields.
 
-Ambalo approaches you with urgency in his voice.
+AMBALO approaches you with urgency in his voice.
 
 AMBALO
 Drop your weapons. We are not here for you.
@@ -38,7 +38,7 @@ Help me! Oh please… I need you...
 Putrid yellow fluid drips through the wall and slides onto the tires causing them to light.
 
 AMBALO
-(yelling at the PCs)
+(yelling at the STUDENTS)
 We need your help, the sand is thick here.
 Move the truck into the pit! Only fire can cleanse these demons!
 ~~~

@@ -5,8 +5,7 @@ credit: written by
 author: Ben Scott
 ---
 
-====
-
+~~~
 INT. JUNGLE OBSERVATORY, MIDNIGHT
 
 A group of students riffle through desks and cabinets in the main atrium of the Observatory. ADALINE BRAUN watches them from a raised catwalk. She absentmindedly leans on the railing, which emits a quiet squeak. She is startled not by the noise, but by a man's voice, coming from the darkness.
@@ -139,7 +138,7 @@ PROFESSOR BIRCHWELL
 Find the base, return my book. You will see. 
 
 The professor gazes at the stars a final time, and then slowly descends the catwalk stairs, and exits the Observatory. ADALINE lies down on the plate metal floor, and stares into the stars until daybreak washes them away. 
-
+~~~
 
 
 

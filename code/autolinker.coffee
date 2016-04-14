@@ -50,6 +50,10 @@ toStrong = (s) => applyStyle(s,"strong")
 applyStyle = (s,style) => "<#{style}>#{s}</#{style}>"
 applyColor = (s,color) => "<font color='#{color}'>#{s}</font>"
 
+blacklist = [
+  'H1','H2','H3','H4','CODE',
+  'PRE','BLOCKQUOTE','HEADER','FOOTER']
+
 
 ### Linkable Patterns ###
 links = [
@@ -57,67 +61,70 @@ links = [
     styles: [toStrong,(s) => applyColor(s,"#111111")]
     patterns: [
         link: ""
-        regex: ///
-                 Athletics
-               | Accounting
-               | Conceal
-               | Anthropology
-               | Disguise
-               | Archaeology
-               | Driving
-               | Architecture
-               | Electrical Repair
-               | Art History
-               | Explosives
-               | Biology
-               | Filch
-               | Cthulhu Mythos
-               | Firearms
-               | Cryptography
-               | First Aid
-               | Geology
-               | Fleeing
-               | History
-               | Hypnosis
-               | Languages
-               | Mechanical Repair
-               | Law
-               | Piloting
-               | Library Use
-               | Preparedness
-               | Medicine
-               | Psychoanalysis
-               | Occult
-               | Riding
-               | Physics
-               | Sanity
-               | Theology
-               | Stability
-               | Scuffling
-               | Sense Trouble
-               | Shadowing
-               | Stealth
-               | Weapons
-               | Art
-               | Astronomy
-               | Chemistry
-               | Craft
-               | Evidence Collection
-               | Forensics
-               | Locksmith
-               | Outdoorsman
-               | Pharmacy
-               | Assess Honesty
-               | Bargain
-               | Bureaucracy
-               | Cop Talk
-               | Credit Rating
-               | Flattery
-               | Interrogation
-               | Intimidation
-               | Oral History
-               | Photography
-               ///g
+        regex:
+            ///\b
+              Athletics
+            | Accounting
+            | Conceal
+            | Anthropology
+            | Disguise
+            | Archaeology
+            | Driving
+            | Architecture
+            | Electrical \s+ Repair
+            | Art \s+ History
+            | Explosives
+            | Biology
+            | Filch
+            | Cthulhu \s+ Mythos
+            | Firearms
+            | Cryptography
+            | First \s+ Aid
+            | Geology
+            | Fleeing
+            | History
+            | Hypnosis
+            | Languages
+            | Mechanical \s+ Repair
+            | Law
+            | Piloting
+            | Library \s+ Use
+            | Preparedness
+            | Medicine
+            | Psychoanalysis
+            | Occult
+            | Riding
+            | Physics
+            | Sanity
+            | Theology
+            | Stability
+            | Scuffling
+            | Sense \s+ Trouble
+            | Shadowing
+            | Stealth
+            | Weapons
+            | Art
+            | Astronomy
+            | Chemistry
+            | Craft
+            | Evidence \s+ Collection
+            | Forensics
+            | Locksmith
+            | Outdoorsman
+            | Pharmacy
+            | Assess \s+ Honesty
+            | Bargain
+            | Bureaucracy
+            | Cop \s+ Talk
+            | Credit \s+ Rating
+            | Flattery
+            | Interrogation
+            | Intimidation
+            | Oral \s+ History
+            | Reassurance
+            | Streetwise
+            | Photography
+            \b///g
     ],
 ,
 
@@ -127,9 +134,10 @@ links = [
         link: "talisman/"
         styles: [toHastur]
         regex:
-            /// \bTalismans? \s+ of \s+ the \s+ Yellow \s+ Sign
-            |   (Yellow \s+)? Talisman\b
-            ///g
+            ///\b
+              Talismans? \s+ of \s+ the \s+ Yellow \s+ Sign
+            | (Yellow \s+)? Talisman
+            \b///g
     ,
         link: "medallion/"
         styles: [toCthulhu]
@@ -137,32 +145,41 @@ links = [
     ,
         link: "grimoire/"
         regex:
-            /// (Birchwell's \s+)? Grimoire
-            |   (Birchwell's \s+)? Strange \s+ Notes
-            ///g
+            ///\b
+              (Birchwell's \s+)? Grimoire
+            | (Birchwell's \s+)? Strange \s+ Notes
+            \b///g
     ,
         link: "glyph/"
         styles: [toCthulhu]
-        regex: /// (Tendril(-Like)? \s+)? Glyph ///g
+        regex: ///\b (Tendril(-Like)? \s+)? Glyph \b///g
     ],
 ,
     base: "characters/players/"
     styles: [toStrong,toUSA]
     patterns: [
         link: ""
-        regex: /\bPlayers?|PCs?\b/g
+        regex: ///\b Players? | PCs?\b///g
     ,
         link: "adaline/"
-        regex: /Ada(line)?(\s+Braun)?|Braun/g
+        regex: ///\b Ada(line)?(\s+Braun)? | Braun \b///g
     ,
         link: "alexandra/"
-        regex: /Alex(andra)?(\s+Hayes)?|Hayes/g
+        regex: ///\b Alex(andra)? (\s+Hayes)? | Hayes \b///g
     ,
         link: "lee/"
-        regex: /Lee(\s+Runge)?(\s+Hammarburg)?|Hammarburg/g
+        regex:
+          ///\b
+            Lee(\s+Runge)?(\s+Hammarburg)?
+          | Hammarburg
+          \b///g
     ,
         link: "acheron/"
-        regex: /Acheron(\s+Erevnit[iíî]s)|Erevnit[iîí]s/g
+        regex:
+          ///\b
+              Acheron(\s+Erevnit[iíî]s)
+            | Erevnit[iîí]s
+          \b///g
     ],
 ,
     base: "characters/"
@@ -171,97 +188,107 @@ links = [
         link: "birchwell/"
         styles: [toUSA]
         regex:
-            /// Professor \s+ Cameron \s+ 'T'\. \s+ Birchwell
-            |   Professor \s+ Cameron \s+ Trenton \s+ Birchwell
-            |   Professor (\s+Birchwell)?
-            |   Cameron (\s+Birchwell)?
-            |   Birchwell\b
-            ///g
+            ///\b
+              Professor \s+ Cameron \s+ 'T'\. \s+ Birchwell
+            | Professor \s+ Cameron \s+ Trenton \s+ Birchwell
+            | Professor (\s+Birchwell)?
+            | Cameron (\s+Birchwell)?
+            | Birchwell
+            \b///g
     ,
         link: "dolya/"
-        #styles: [toSoviet]
         regex:
-            /// Dolya (\s+ Petrovna)?
-            |   Petrovna
-            ///g
+            ///\b
+              Dolya (\s+ Petrovna)?
+            | Petrovna
+            \b///g
     ,
         link: "ilya/"
         styles: [toSoviet]
         regex:
-            /// Commander\s+Ilya\s+Zolnerowich
-            |   Ilya(\s+Zolnerowich)?
-            |   Zolnerowich
-            ///g
+            ///\b
+              Commander\s+Ilya\s+Zolnerowich
+            | Ilya(\s+Zolnerowich)?
+            | Zolnerowich
+            \b///g
     ,
-        link: "stalin/"
+        url: "https://en.wikipedia.org/wiki/Joseph_Stalin"
+        #link: "stalin/"
         styles: [toSoviet]
         regex:
-            /// Joseph \s+ Stalin
-            |   (Joe|Joseph \s+)? Stalin
-            ///g
+            ///\b
+              Joseph \s+ Stalin
+            | (Joe|Joseph \s+)? Stalin
+            \b///g
     ,
-        link: "rasputin/"
+        url: "https://en.wikipedia.org/wiki/Grigori_Rasputin"
+        #link: "rasputin/"
         styles: [toSoviet]
         regex:
-            /// Grigori (\s+ Rasputin)?
-            |   (Grigori \s+) Rasputin
-            ///g
+            ///\b
+              Grigori (\s+ Rasputin)?
+            | (Grigori \s+) Rasputin
+            \b///g
     ,
         link: "borst/"
         styles: [toSoviet]
         regex:
-            /// Sergeant \s+ Borst \s+ Chekhov
-            |   Sgt\.\s+ Borst \s+ Chekhov
-            |   Borst (\s+ Chekhov)?
-            |   Chekhov
-            ///g
+            ///\b
+              Sergeant \s+ Borst \s+ Chekhov
+            | Sgt\.\s+ Borst \s+ Chekhov
+            | Borst (\s+ Chekhov)?
+            | Chekhov
+            \b///g
     ,
         link: "omari/"
         styles: [toHastur]
         regex:
-            /// Colonel \s+ Ukrit \s+ Omari
-            |   Col\.\s+ Ukrit \s+ Omari
-            |   Ukrit(\s+Omari)?
-            |   Omari
-            ///g
+            ///\b
+              Colonel \s+ Ukrit \s+ Omari
+            | Col\.\s+ Ukrit \s+ Omari
+            | Ukrit(\s+Omari)?
+            | Omari
+            \b///g
     ,
         link: "chieftain/"
         styles: [toCthulhu]
         regex:
-            /// Chieftain \s+ Ambalo
-            |   Chieftain (\s+Ambalo)?
-            |   Ambalo
-            ///g
+            ///\b
+              Chieftain \s+ Ambalo
+            | Chieftain (\s+Ambalo)?
+            | Ambalo
+            \b///g
     ,
         link: "acolyte/"
         styles: [toHastur]
         regex:
-            /// High \s+ Acolyte \s+ Ambalo \s+ Jr\.
-            |   (High \s+)? Acolyte
-            |   Acolyte
-            ///g
+            ///\b
+              High \s+ Acolyte \s+ Ambalo \s+ Jr\.
+            | (High \s+)? Acolyte
+            | Acolyte
+            \b///g
     ],
 ,
     base: "setting/"
     patterns: [
         link: "grotto/"
         styles: [toCthulhu]
-        regex: /\bGrotto(es)?/g
+        regex: ///\b Grotto(es)? ///g
     ,
         link: "lab/"
         styles: [toUSA]
-        regex: /\bLab(oratory)?\b/g
+        regex: ///\b Lab(oratory)? \b///g
     ,
         link: "observatory/"
         styles: [toSoviet]
-        regex: /\bObservatory\b/g
+        regex: ///\b Observatory \b///g
     ,
         link: "ruins/"
         styles: [toCthulhu]
-        regex: /\bRuins\b/g
+        regex: ///\b Ruins \b///g
     ,
         link: "village/"
-        regex: /\bVillage\b/g
+        regex: ///\b Village \b///g
     ]
 ]
 
@@ -273,22 +300,56 @@ links = [
 class AutoLinker
     constructor: ->
         divs = document.getElementsByClassName("content")
-        @createLink(div) for div in divs
+        #@createLink(div)
 
-    createLink: (div) ->
+        for div in divs
+            walker = document.createTreeWalker(
+                div, NodeFilter.SHOW_ELEMENT)
+            i = 0
+            elements = []
+
+            while (i<100)
+                node = walker.nextNode()
+                break if (!node)
+                i += 1
+                continue if node.parentNode?.tagName in blacklist
+                elements.push(node) unless node.tagName in blacklist
+
+            for element in elements
+                console.log element.tagName+(element.tagName in blacklist)
+                @createLink(element)
+
+
+    createLink: (node) ->
         for group in links
             base = group.base
             for pattern in group.patterns
-                link = pattern.link
-                div.innerHTML = div.innerHTML.replace pattern.regex, (match) ->
+                node.innerHTML = node.innerHTML.replace pattern.regex, (match) ->
                     if (group.styles)
                         match = style(match) for style in group.styles
                     if (pattern.styles)
                         match = style(match) for style in pattern.styles
-                    match = """<a href="#{site}#{baseurl}#{base}#{link}">#{match}</a>"""
+                    if (pattern.url)
+                        match = """<a href="#{pattern.url}">#{match}</a>"""
+                    else match = """<a href="#{site}#{baseurl}#{base}#{pattern.link}">#{match}</a>"""
 
 
 autoLinker = new AutoLinker()
+
+
+
+
+                #node.innerHTML = node.innerHTML.replace pattern.regex, (match) ->
+
+
+
+
+
+
+
+
+
+
 
 
 
