@@ -95,7 +95,7 @@ At this point, the PCs can:
 
 
 [^0]: This is what's depicted on the Tendril Medallion
-[^1]: **Psychoanalysis / Bargaining > 3**: figure out the Acolyte's motivation
+[^1]: **{ Psychoanalysis / Bargaining }**: figure out the Acolyte's motivation
 
 
 

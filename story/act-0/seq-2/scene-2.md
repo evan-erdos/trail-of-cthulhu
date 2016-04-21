@@ -66,7 +66,7 @@ You will find this dreamer, he can achieve your awakening.
 The PCs set off to find him.[^1]
 
 
-[^guard]: **Reassurance > 2**: catch the acolyte off-guard
+[^guard]: **{ Reassurance }**: catch the acolyte off-guard
 [^1]: This is a dream representation of the Tendril Medallion.
 
 

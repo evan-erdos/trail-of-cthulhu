@@ -61,7 +61,7 @@ and learn that the ritual is to be held in the ruins themselves.
 
 They are warned, however, that the cultists don't like "interlopers".
 
-[^barter]: **Barter > 2**: learn about the rituals in more depth
+[^barter]: **{ Barter }**: learn about the rituals in more depth
 
 
 

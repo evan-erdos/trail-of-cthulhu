@@ -31,20 +31,14 @@ and put one hand back in the water.
 They find themselves in a different cavern, and can now see a way out.
 Even though it's nighttime, the water is still glowing.
 
----
-
-{% include items/medallion.md %}
-
 They gather themselves, and notice a glint shining from the shallows.
 When they pull it out of the water, they realize it's the Tendril Medallion.
 
----
-
-
+{% include items/medallion.md %}
 
 They exit the cavern, and find themselves along the shore.
 
-[^0]: **Stability > 4**: remain sane while in the water
+[^0]: **{ Stability }**: remain sane while in the water
 
 
 

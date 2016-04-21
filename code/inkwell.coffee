@@ -166,6 +166,8 @@ class Inkwell
         data = data.replace /<\/?code>/g, ""
         data = data.replace /<\/?p>/g, "\n"
         data = data.replace /\n\n+/g, "\n\n"
+        data = data.replace /&nbsp;/g, " "
+        data = data.replace /<\/?br>/g, "\n"
         paragraphs = data.split "\n\n"
         for paragraph in paragraphs
             lines = paragraph.split "\n"

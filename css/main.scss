@@ -2,7 +2,13 @@
 ---
 @charset "utf-8";
 
-$base-font-family: Palatino, Helvetica, Arial, sans-serif;
+@font-face {
+  font-family: Covington;
+  src: url({{site.baseurl}}/assets/covington-0.ttf);
+}
+
+
+$base-font-family: Palatino, Helvetica, Arial, sans-serif; /* Covington almost unreadable */
 $base-font-size:   16px;
 $base-font-weight: 400;
 $small-font-size:  $base-font-size * 0.875;
@@ -39,7 +45,6 @@ $on-laptop:        800px;
         @content;
     }
 }
-
 
 
 // Import partials from `sass_dir` (defaults to `_sass`)

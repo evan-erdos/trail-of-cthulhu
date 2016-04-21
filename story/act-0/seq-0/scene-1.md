@@ -19,11 +19,11 @@ Right before they arrive at the ruins, they are ambushed by tribesmen.
 ---
 
 | Ambushing Tribesman |    |            |    |
-|---------------------|----|------------|    |
+|---------------------|----|------------|----|
 | Health              | 5  | Weapon     | +1 |
 | Athletics           | 8  | Alertness  | +1 |
 | Hit Threshold       | 0  | Stealth    | +2 |
-| Scuffling           | 3  |
+| Scuffling           | 3  |            |    |
 
 ---
 
@@ -36,12 +36,7 @@ He draws his pistol and awkwardly fires, and shortly thereafter, the tribesmen d
 They find that the tribesman is unarmed, but is wearing a strange necklace.[^body]
 Professor Birchwell approaches them, and asks them to give him the necklace.
 
-
----
-
 {% include items/talisman.md %}
-
----
 
 
 [^prof]:
@@ -49,12 +44,12 @@ Professor Birchwell approaches them, and asks them to give him the necklace.
 	but the PCs don't know that yet.
 
 [^repair]:
-	**Mechanical Repair > 2**:
+	**{ Mechanical Repair }**:
 	If they repair the jeep in time, they won't have to fight the tribesmen alone.
 	If they don't make this roll, the caravan continues on without them.
 
 [^body]:
-	**Forensics / Evidence Collection > 1**:
+	**{ Forensics / Evidence Collection }**:
 	find the Talisman of the Yellow Sign
 
 

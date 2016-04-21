@@ -5,20 +5,27 @@ credit: written by
 author: Ben Scott
 ---
 
-~~~
 INT. JUNGLE OBSERVATORY, MIDNIGHT
 
-A group of students riffle through desks and cabinets in the main atrium of the Observatory. ADALINE BRAUN watches them from a raised catwalk. She absentmindedly leans on the railing, which emits a quiet squeak. She is startled not by the noise, but by a man's voice, coming from the darkness.
+A group of students riffle through desks and cabinets in the main atrium of the Observatory. 
+ADALINE BRAUN watches them from a raised catwalk.
+She absentmindedly leans on the railing, which emits a quiet squeak.
+She is startled not by the noise,
+but by a man's voice, coming from the darkness.
 
 VOICE
 They seem so much closer now, don't they?
 
-ADALINE lets out a whimper, and turns to face the strange voice, straining to see him in the dark.
+ADALINE lets out a whimper and turns to face the strange voice.
+She strains her eyes to see him in the dark.
 
 VOICE
 The stars... as if knowledge itself could be made to... reach them.
 
-ADALINE shudders. She's face to face with PROFESSOR CAMERON T. BIRCHWELL. The professor is almost unrecognizable: his cheeks are hollowed now, and his eyes are wide open. He speaks with no inflection, as if his voice were drained of all emotion.
+ADALINE shudders. She's face to face with PROFESSOR CAMERON T. BIRCHWELL.
+The professor is almost unrecognizable:
+his cheeks are hollowed now, and his eyes are wide open.
+He speaks with no inflection, as if his voice were drained of all emotion.
 
 ADALINE
 oh, ahh, professor... you--
@@ -32,7 +39,9 @@ BIRCHWELL gazes at the stars for a moment.
 PROFESSOR BIRCHWELL
 Aeons. 
 
-ADALINE eases off the balcony, and stands up straight, facing the professor. She tries to speak, but no words come out. She begins again, and attempts to adopt his emotionless cadence.
+ADALINE eases off the balcony, and stands up straight, facing the professor.
+She tries to speak, but no words come out.
+She begins again, and attempts to adopt his emotionless cadence.
 
 ADALINE
 Aeons, professor?
@@ -50,9 +59,15 @@ ADALINE
 I concur professor, but--
 
 PROFESSOR BIRCHWELL
---Chosen. Unshackled, unbound by the old knowledge. You are awakened, are you not, Adaline?
+--Chosen. Unshackled, unbound by the old knowledge.
+You are awakened, are you not, Adaline?
 
-A metal door rattles open below them. Uniformed Soviet troops swell in, surrounding the party. ADALINE and BIRCHWELL are invisible to the troops from their vantage point. Muffled shouting can be heard from below. Ilya Zolnerowich walks slowly into view, and wordlessly extends his hand. A soldier emerges and places in his outstretched hand a black book. 
+A metal door rattles open below them.
+Uniformed Soviet troops swell in, surrounding the party.
+ADALINE and BIRCHWELL are invisible to the troops from their vantage point.
+Muffled shouting can be heard from below.
+Ilya Zolnerowich walks slowly into view, and wordlessly extends his hand.
+A soldier emerges and places in his outstretched hand a black book. 
 
 PROFESSOR BIRCHWELL
 You took my book, Adaline? You're with them?
@@ -68,31 +83,43 @@ No, I--
 PROFESSOR BIRCHWELL
 You have! you have betrayed me!
 
-ADALINE's grips the railing so tightly that her palm starts to bleed from squeezing the edge. From below comes the sound of a book closing, followed by footsteps. 
+ADALINE's grips the railing so tightly that her palm starts to bleed from squeezing the edge.
+From below comes the sound of a book closing, followed by footsteps. 
 
 PROFESSOR BIRCHWELL
-You could have been awakened! I trusted you with the sacred knowledge!Below, the Soviet troops take aim at the party. ADALINE grits her teeth, releases the railing, and forms bloody fists. She screams at the professor.ADALINEYOU FOOL! YOU DAMNED, FUCKING FOOL!The troops take notice. Ilya's footsteps stop. 
+You could have been awakened!
+I trusted you with the sacred knowledge!
+
+Below, the Soviet troops take aim at the party. ADALINE grits her teeth, releases the railing, and forms bloody fists. She screams at the professor.
+
+ADALINE
+--You are a fool, professor. 
 
 PROFESSOR BIRCHWELL
-I am a GOD. I have NO equal, among men, among stars, and--
+How dare you, Adaline?
+
+
+
+Ilya walks back into view, and scans the canopy.
 
 ADALINE
---You are a fool, professor. PROFESSOR BIRCHWELL(quietly, to the troops) Kill them all.Ilya walks back into view, and scans the canopy.
-
-ADALINE
-(quietly, to BIRCHWELL) A damned fool, professor. 
+(quietly, to BIRCHWELL) 
+A damned fool, professor. 
 
 PROFESSOR BIRCHWELL
-(slightly louder) All of them.
+(slightly louder)
+All of them.
 
 ADALINE
-(quietly, to BIRCHWELL) I wonder where Ilya is now, with your secrets. 
+(quietly, to BIRCHWELL) 
+I wonder where Ilya is now, with your secrets. 
 
 PROFESSOR BIRCHWELL
 Kill them, all of them.
 
 ADALINE
-(quietly, to BIRCHWELL) He will usurp you, he will be the chosen one, and you will be a footnote.
+(quietly, to BIRCHWELL) 
+He will usurp you, he will be the chosen one, and you will be a footnote.
 
 The professor trembles with rage. A voice comes from below:
 
@@ -115,7 +142,8 @@ PROFESSOR BIRCHWELL
 Spare them. The troops hesitantly lower their guns, and begin to exit the Observatory. 
 
 PROFESSOR BIRCHWELL
-(to ADALINE) You... you'll get my book back, won't you?
+(to ADALINE)
+You... you'll get my book back, won't you?
 
 ADALINE
 Yes, professor, I'll get you your book. 
@@ -138,7 +166,12 @@ PROFESSOR BIRCHWELL
 Find the base, return my book. You will see. 
 
 The professor gazes at the stars a final time, and then slowly descends the catwalk stairs, and exits the Observatory. ADALINE lies down on the plate metal floor, and stares into the stars until daybreak washes them away. 
-~~~
+
+
+
+
+
+
 
 
 

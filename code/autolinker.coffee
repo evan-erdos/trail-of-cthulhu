@@ -300,7 +300,6 @@ links = [
 class AutoLinker
     constructor: ->
         divs = document.getElementsByClassName("content")
-        #@createLink(div)
 
         for div in divs
             walker = document.createTreeWalker(
@@ -308,16 +307,14 @@ class AutoLinker
             i = 0
             elements = []
 
-            while (i<100)
+            while (i<1024)
                 node = walker.nextNode()
                 break if (!node)
                 i += 1
                 continue if node.parentNode?.tagName in blacklist
                 elements.push(node) unless node.tagName in blacklist
 
-            for element in elements
-                console.log element.tagName+(element.tagName in blacklist)
-                @createLink(element)
+            @createLink(element) for element in elements
 
 
     createLink: (node) ->
@@ -335,17 +332,6 @@ class AutoLinker
 
 
 autoLinker = new AutoLinker()
-
-
-
-
-                #node.innerHTML = node.innerHTML.replace pattern.regex, (match) ->
-
-
-
-
-
-
 
 
 

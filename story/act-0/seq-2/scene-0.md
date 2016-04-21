@@ -24,6 +24,10 @@ If the PCs gave their Talisman to the Professor,
 they can search the area around the ruins for another body.
 Once they have their own Talisman, they can enter the inner circles.[^2]
 
+
+{% include items/talisman.md %}
+
+
 [^1]: This is the same image that is depicted on the Tendril Medallion.
 [^2]: This is plausible, as there are other students at the ritual.
 

@@ -42,6 +42,7 @@ Oh yes, much much-ch more now. The s-sickness makes... very hungry!
 ~~~
 
 This is strange, as everyone in the village appears to be malnourished.
+Examining the shelves, they find military rations with Cryllic letters on them.[^hint]
 They thank him, and depart to the village well.
 
 ~~~
@@ -99,6 +100,10 @@ The PCs gather samples from the village, and set off to find the village's chief
 [^1]: Professor Birchwell is off talking with Ilya Zolnerowich.
 [^3]: Being near the ocean means there's probably a constant 10 knot wind.
 [^4]: If there's enough wind, bugs can't fly well enough to land on people and bite them.
+
+[^hint]:
+	**{ Languages }**:
+    These rations are evidence of a Soviet military presence in the area.
 
 
 

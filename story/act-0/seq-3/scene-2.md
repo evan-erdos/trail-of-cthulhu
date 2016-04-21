@@ -37,7 +37,7 @@ They're in a damp, underground grotto, and they can faintly hear running water.
 Exploring the warrens, they find a ledge at the end of one passage.
 They also find another cavern, with an underground river running through it.
 
-[^0]: **Athletics > 3**: avoid falling rocks
+[^0]: **{ Athletics }**: avoid falling rocks
 
 
 

@@ -49,7 +49,7 @@ and since we have no way of telling if this is a case of T.b.g. or T.b.r.,
 the only logical course of action is to use the more effective treatment, now may I--
 ~~~
 
-The PCs can continue to argue with Birchwell if they're sure they're correct.[^argue]
+The PCs can continue to argue with Birchwell if they're sure they're correct.
 
 
 ~~~
@@ -77,8 +77,7 @@ Professor Birchwell departs towards the village.
 The PCs run through the woods to arrive before him, to avoid suspicion.
 
 
-[^med]: **Medicine > 2**: notice that this diagnosis is objectively false
-[^argue]: **Medicine > 5**: remain unconfused by the Professor's jargon
+[^med]: **{ Medicine }**: notice that this diagnosis is objectively false
 [^4]: Professor Birchwell is secretly meeting with Ilya Zolnerowich
 
 

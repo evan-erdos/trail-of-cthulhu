@@ -71,10 +71,16 @@ Professor Birchwell instructs them to ignore it, and they arrive back at the lab
 
 The caravan returns to the lab, and they begin analysis on the samples immediately.
 They test against many common diseases and afflictions,
-but none of the tests come back positive.[^1]
+but none of the tests come back positive.[^test]
 
-[^geo]: **Geology > 2**: recognize it's not native to the area
-[^1]: There are no matches because they're not sick, they're just being altered by Cthulhu.
+[^geo]:
+	**{ Geology }**:
+	Geologists and students with keen eyes will recognize that aplite is not native to the area.
+
+[^test]:
+    There are no matches because they're not sick.
+    All of their ailments are a direct result of being altered by Cthulhu,
+    and their proximity to the ocean.
 
 
 

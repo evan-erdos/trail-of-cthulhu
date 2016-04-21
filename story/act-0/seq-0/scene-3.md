@@ -88,7 +88,9 @@ as it might provide them with new insights into the nature of the Ambalo Tribe's
 [^2]: This doesn't fit the pattern because the chief's son left on his own accord.
 [^3]: The "Demon" is Hastur, and his "worshippers" are members of the other tribe.
 
-[^spill]: **Intimidation / Psychoanalysis > 2**: get the Chief to talk
+[^spill]:
+	**{ Intimidation / Psychoanalysis }**:
+	If they press him, they can get the Chief to talk further about his son.
 
 
 

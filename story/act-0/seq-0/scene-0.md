@@ -136,11 +136,11 @@ The convoy embarks into the jungle.
 
 
 [^talk]:
-	**Bargain / Flattery / Psychoanalysis > 4**:
+	**{ Bargain / Flattery / Psychoanalysis }**:
 	The PCs convince him not to shoot himself or anyone around him.
 
 [^disarm]:
-	**Stealth / Atheltics / Filch > 7**:
+	**{ Stealth / Atheltics / Filch }**:
 	While unlikely, the PCs might roll to disarm him.
 
 [^jeep]:

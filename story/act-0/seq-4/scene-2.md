@@ -16,7 +16,7 @@ They follow the instructions, and see a blinking object[^0] through the telescop
 Using the charts and telemetry they find in the desks,
 they decode and record what the blinking object is sending for later evaluation.
 
-[^0]: **Astronomy > 2**: Sputnik was broadcasting small amounts of information up to a month after launch.
+[^0]: **{ Astronomy }**: Sputnik was broadcasting small amounts of information up to a month after launch.
 
 
 
