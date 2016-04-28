@@ -2,6 +2,7 @@
 redirect_from: "/story/act-0/seq-3/scene-4"
 layout:        scene
 title:         Are You Experienced?
+end:           true
 seq:           3
 scene:         4
 beat:          pipe

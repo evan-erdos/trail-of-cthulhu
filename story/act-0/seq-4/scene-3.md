@@ -2,6 +2,7 @@
 redirect_from: "/story/act-0/seq-4/scene-3"
 layout:        scene
 title:         A Mind Forever Voyaging
+end:           true
 seq:           4
 scene:         3
 beat:          bringdown
