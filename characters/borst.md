@@ -4,6 +4,8 @@ title:    Borst Chekhov
 profile:  borst.png
 ---
 
+**Note:** At the start of the second Act, the PCs might kill Borst.
+
 ### Allies ###
 Soviet Military, Stalin, Adela (Wife)
 

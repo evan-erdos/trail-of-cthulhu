@@ -1,100 +1,33 @@
 ---
 layout:      scene
-title:       Diplomacy with Necromancers
-beat:        dramatic
-subjective:  down
+title:       The Road Not Taken
+scene:       1
+beat:        procedural
+objective:   down
 ---
 
 
-As they move closer, they discover a horrific scene.
-There are a mix of tribespeople and students around a bloody altar,
-all chanting in unison about a demon saviour.
-They learn that there will be a sacrifice,
-and that another student has volunteered to be "awakened".
+The PCs set out into the jungle at night to find the Observatory.
+It's muggy, there's bugs everywhere, and Dolya's wounds still haven't healed.
 
-They begin to sneak around, trying to both learn about the ritual,
-and find a way to prevent the sacrifice of their fellow student.
+After hearing a string of inexplicably horrifying noises coming from the jungle,
+they are attacked by another strange, tentacled creature.
 
-They can search the altar room, stand in the crowd, or enter the catacombs.
-Being in the crowd doesn't yield much,
-and increases their chances of being caught.
-Entering the catacombs, they find piles of corpses.
-As they leave, if they're observant, they notice a symbol over the archway.[^0]
+This time, however, a Soviet jeep appears down the road,
+and as the PCs flee, the jeep gunner kills the beast.
 
-In their attempts to learn more about the ritual,
-the PCs are eventually caught by none other than the High Acolyte.
+Dolya's leg is still wounded, and she can't move very quickly.
+She's taken by the Soviets, who drive off in a different direction.
 
-~~~
-INT. ALTAR ROOM, INSIDE RUINS - DUSK
+The PCs follow the tire tracks in the dirt,
+and find themselves in a clearing, where an enormous Observatory has been built.
 
-A group of STUDENTS snoop around some storerooms in a cluster of ancient RUINS.
-A horrific sacrifice is beginning in the Ampitheater.
-When they enter the Altar Room, they are suprised by the HIGH ACOLYTE.
-He moves lightly, like he's floating around in his flowing robes.
-He sways back and forth in a kind of rhythm.
-Although he appears to be a native, he speaks in monotone, un-accented English.
-
-HIGH ACOLYTE
-The Yellow King consecrated this eisodos.
-You are not of the awakened clergy,
-you are only allowed in the theatron.
-
-STUDENTS
-We have these amulets, we'd like to be awakened.
-Where is the ritual to take place?
-
-HIGH ACOLYTE
-You would lie directly to the gods?
-Do not tempt the gods, I warn...
-
-STUDENTS
-We kneel before your god, we wish to learn more, and join your faith.
-
-The HIGH ACOLYTE is still for a moment, no longer swaying.
-He narrows his gaze on one of the STUDENTS, and he smiles.
-
-HIGH ACOLYTE
-Your... trespasses warrant a punishment, but you may yet be awakened.
-
-LEE RUNGE HAMMARBURG
-What must we do? I am unafraid!
-
-HIGH ACOLYTE
-You would begin with a false belief?
-You do not fear my punishment?
-I will give you cause to fear the great King.
-You will kill for him, or I will kill you on his behalf.
-You will perform the sacrifice.
-
-STUDENTS
-And if we kill for this god, you will educate us about him?
-
-HIGH ACOLYTE
-I will teach you all that I know about the Yellow King.
-~~~
-
-Having determined that his goal is to bring others into the faith,[^1]
-the PCs bargain with him to allow them to perform the ritual,
-in exchange for their safety, and more information.
-
-They are told that if they perform his *coup de grâce*,
-then they'll be "awakened", and in good standing with the cult.
-They must decide if they want to kill him, or plead for his life.
-
-They are all taught a chant, and are each given a *Ceremonial Knife*.
-The High Acolyte instructs them to strike at the student's heart,
-and sends them out to the altar.
-
-At this point, the PCs can:
-
-- carry out the ritual, killing the **Sacrificial Student**
-- negotiate with the High Acolyte
-- kill the **Sacrificial Student**, and then swing at the High Acolyte
-- go straight for the High Acolyte
+They lie in wait until the Soviets leave, and then enter the Observatory.
 
 
-[^0]: This is what's depicted on the Tendril Medallion
-[^1]: **{ Psychoanalysis / Bargaining }**: figure out the Acolyte's motivation
+
+
+
 
 
 

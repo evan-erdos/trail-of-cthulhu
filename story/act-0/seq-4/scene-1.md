@@ -1,31 +1,33 @@
 ---
 layout:      scene
-title:       The Road Not Taken
+title:       The Tendril Medallion
 scene:       1
 beat:        procedural
-objective:   down
+objective:   up
 ---
 
 
-The PCs set out into the jungle at night to find the Observatory.
-It's muggy, there's bugs everywhere, and Dolya's wounds still haven't healed.
+Recalling what the High Acolyte told them, the PCs return to the ruins at high-noon.
+In proper daylight, they observe a hole cut through the top of one of the pillars.
+While the central pillar near the altar is in the shade,
+a small, slot in the central pillar is illuminated by the light.
 
-After hearing a string of inexplicably horrifying noises coming from the jungle,
-they are attacked by another strange, tentacled creature.
+They place The Dreamer's stone carving into the indentation,
+and while it fits perfectly, nothing happens.[^0]
 
-This time, however, a Soviet jeep appears down the road,
-and as the PCs flee, the jeep gunner kills the beast.
+Given the description the High Acolyte gave them of the medallion,
+they rife through their belongings, to see if they have anything similar to a medallion.[^1]
 
-Dolya's leg is still wounded, and she can't move very quickly.
-She's taken by the Soviets, who drive off in a different direction.
+If they put something reflective in the slot, the light from the pillar is reflected.
 
-The PCs follow the tire tracks in the dirt,
-and find themselves in a clearing, where an enormous Observatory has been built.
+With proper alignment, they emulate how the genuine article would reflect light,
+and the pillar begins to sink into the ground, revealing a passageway.
 
-They lie in wait until the Soviets leave, and then enter the Observatory.
-
+A steep set of stone stairs lead down.
 
 
+[^0]: His handmade version of the Tendril Medallion doesn't reflect light.
+[^1]: They need to determine that the medallion would likely be reflective.
 
 
 

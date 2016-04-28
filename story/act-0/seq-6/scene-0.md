@@ -1,7 +1,6 @@
 ---
 layout:      scene
 title:       Warpath
-scene:       0
 beat:        procedural
 objective:   down
 subjective:  down

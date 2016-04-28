@@ -1,37 +1,44 @@
 ---
 layout:  sequence
-title:   Where Are Monsters in Dreams?
-seq:     3
+title:   The Wrong Cult
+seq:     2
 ---
 
+The PCs return to the Ruins, and they lie in wait,
+to observe another student gaining entry to the ritual.
+They show their talisman to the cultists, and they are welcomed into the main crowd.
 
-They arrive at the tent of the so-called Dreaming One, only to find it empty.
-They find tracks that lead to a small ocean inlet.
-They observe a man, prostrate on a large boulder at the water's edge.
-The man rises, and reveals a horrible wound in his stomach.
-He falls hard, as if he was aiming for the ground.
-He impacts head-first as the water swells back in,
-twisting his shattered frame against the rocky outcrop.
+As they move closer, they discover a horrific scene.
+There are a mix of tribespeople and students around the bloody altar,
+all chanting in unison about a demon saviour.
+They learn that there will be a sacrifice,
+and that another student has volunteered to be "awakened".
 
-They also find that he's still clutching a little stone carving.
-It's round, with short tendrils around its edge.
+In their attempts to learn more about the ritual,
+the PCs are caught by none other than the High Acolyte.
 
-The PCs return to the ruins at high-noon, stone carving in-hand,
-and find a secret entrance to some underground caves.
+They are told that if they perform his *coup de grâce*,
+then they'll be "awakened", and in good standing with the cult.
+They must decide if they want to kill him, or plead for his life.
 
-As the PCs walk down the stairs of entrance, they hear rumbling.
-The entrance begins to collapse, and stone begins to roll down the stairs.
+They are all taught a chant, and are each given a *Ceremonial Knife*.
+The High Acolyte instructs them to strike at the student's heart,
+and sends them out to the altar.
 
-Now, they're a dozen feet underground, and possibly wounded.
-While they're still in the dark, they're attacked by something.
-It's slimy, it has tentacles, and it doesn't appear to be touching the ground.
+A player wields the *Ceremonial Knife*, and approaches the altar.
+The Sacrificial Student lies comatose on the altar,
+eyes wide open, but completely unresponsive to his surroundings.
 
-Once they defeat the creature, they assess their surroundings.
-They're in a damp, underground grotto, and they can faintly hear running water.
-They explore for some time, but cannot find any other exits.
+As the player brings the *Ceremonial Knife* down,
+the Sacrificial Student begins to say their name.
+His voice trails off after his heart is perforated by the knife.
 
-As they approach the underground river, the PCs begin to have a strange sensation.
-Very strange things begin to happen to them, and they find their way outside.
+Satisfied with their work, the High Acolyte tells them about a tribesman named only "The Dreaming One",
+who claims to be able to communicate with gods.
 
-They exit the cavern, and find themselves along the shore.
+The PCs set out to find him.
+
+
+
+
 

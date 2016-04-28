@@ -1,4 +1,5 @@
 ---
+redirect_from: "/story/act-0/seq-7/"
 layout:  sequence
 title:   The Turncoat
 seq:     0

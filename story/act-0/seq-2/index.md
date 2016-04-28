@@ -1,44 +1,28 @@
 ---
 layout:  sequence
-title:   The Wrong Cult
-seq:     2
+title:   The Secret Observatory
+seq:     4
 ---
 
-The PCs return to the Ruins, and they lie in wait,
-to observe another student gaining entry to the ritual.
-They show their talisman to the cultists, and they are welcomed into the main crowd.
 
-As they move closer, they discover a horrific scene.
-There are a mix of tribespeople and students around the bloody altar,
-all chanting in unison about a demon saviour.
-They learn that there will be a sacrifice,
-and that another student has volunteered to be "awakened".
+They return to the Lab, which has been rebuilt slightly since the fire.
+They clean themselves up, and they learn that Professor Birchwell is missing,
+and that nobody has seen him since the fire.
 
-In their attempts to learn more about the ritual,
-the PCs are caught by none other than the High Acolyte.
+The PCs set out into the jungle at night to find the Observatory.
+After hearing a string of inexplicably horrifying noises coming from the jungle,
+they are attacked by another strange, tentacled creature.
+This time, however, a Soviet jeep appears down the road,
+and as the PCs flee, the jeep gunner kills the beast.
 
-They are told that if they perform his *coup de grâce*,
-then they'll be "awakened", and in good standing with the cult.
-They must decide if they want to kill him, or plead for his life.
+The PCs follow the tire tracks in the dirt,
+and find themselves in a clearing, where an enormous Observatory has been built.
 
-They are all taught a chant, and are each given a *Ceremonial Knife*.
-The High Acolyte instructs them to strike at the student's heart,
-and sends them out to the altar.
+Having found a way in, the PCs begin to gather information.
+They rife through desks and drawers, read documents, and find some instructions.
 
-A player wields the *Ceremonial Knife*, and approaches the altar.
-The Sacrificial Student lies comatose on the altar,
-eyes wide open, but completely unresponsive to his surroundings.
-
-As the player brings the *Ceremonial Knife* down,
-the Sacrificial Student begins to say their name.
-His voice trails off after his heart is perforated by the knife.
-
-Satisfied with their work, the High Acolyte tells them about a tribesman named only "The Dreaming One",
-who claims to be able to communicate with gods.
-
-The PCs set out to find him.
-
-
-
+They follow the instructions, and see a blinking object through the telescope.
+Using the charts and telemetry they find in the desks,
+they decode and record what the blinking object is sending for later evaluation.
 
 

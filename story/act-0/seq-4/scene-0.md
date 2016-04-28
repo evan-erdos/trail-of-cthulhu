@@ -1,33 +1,42 @@
 ---
 layout:      scene
-title:       Dolya
+title:       Prometheus Bound
 scene:       0
-beat:        dramatic
-objective:   up
+beat:        procedural
+objective:   down
 ---
 
 
-They return to the Lab, which has been rebuilt slightly since the fire.
-They clean themselves up, and they learn that Professor Birchwell is missing.
-Nobody has seen him since the fire.
-They return to the ruins and the village to look for him.
-When they arrive at the village, it looks like a warzone.
-There are bullet holes everywhere, and villagers are bleeding out in the streets.
+They arrive at the tent of the so-called Dreaming One, only to find it empty.
+Looking closer, the PCs notice a hole in the side of the tent,
+and a bunch of strange, slithering markings leading downhill.
 
-Among the wounded they find the girl they saw approach the professor in lecture.
-Assuming she knows what happened to him, they interrogate her.
-She doesn't know, but is willing to help them if they bandage her wounds.
+Following the tracks, the PCs find themselves in a small ocean inlet. 
+They observe a man, prostrate on a large boulder at the water's edge.
+Suddenly, the waterline recesses, nearly draining the inlet.
 
-The PCs learn that she is Dolya Petrovna,
-a Russian Journalist working for a Soviet media machine.
-She reveals that the Soviets were the ones who destroyed the village,
-and that they have a hidden Observatory, deep in the jungle.
+The man rises, and reveals a horrible wound in his stomach.[^0]
+He falls hard, as if he was aiming for the ground.
+He impacts head-first as the water swells back in,
+twisting his shattered frame against the rocky outcrop.
 
-Her wounds are not extensive, and she no longer wishes to serve the Soviets.
+The PCs approach the body.[^1]
 
-(At this point, Dolya joins the party.)
+They also find that he's still clutching a little stone carving.[^2]
+Despite the waves and the impact, his hand still firmly grasps the carving.[^3]
 
-They wait until evening, and then set out to find the Observatory.
+Wrenching his hand open, they take a closer look at the carving.
+He clearly spent all his time making it, as it bears countless tool marks.
+It's round, with short tendrils around its edge.
+
+
+[^0]: Possession by Hastur causes the yellow sign to appear somewhere on the body.
+[^1]: **{ Forensics }**: determine that the wound was self-inflicted.
+[^2]: This is his attempt to create his own Tendril Medallion.
+[^3]:
+    This would imply that *rigor mortis* had already taken hold,
+	but they witnessed him stand up, and throw himself into the sea.
+
 
 
 

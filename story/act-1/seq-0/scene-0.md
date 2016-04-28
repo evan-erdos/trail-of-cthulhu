@@ -1,4 +1,5 @@
 ---
+redirect_from: "/story/act-0/seq-7/scene-0"
 layout:      scene
 title:       Backstabbing
 scene:       0

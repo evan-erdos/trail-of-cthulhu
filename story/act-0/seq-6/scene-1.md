@@ -1,5 +1,5 @@
 ---
-redirect_from: "/story/act-0/seq-end/scene-1/"
+redirect_from: "/story/act-0/seq-end/scene-end/"
 layout:        scene
 title:         Wouldn't You Prefer a Good Game of Chess?
 end:           true

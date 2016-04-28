@@ -16,10 +16,6 @@ however one thing becomes clear:
 The Professor wasn't interested in these costal tribes to cure them:
 he was looking for something, and he seems to have found it.
 
-[^note]:
-  Further examination of his notebook reveals a Tendril-Like Glyph.
-  The notes are slightly helpful, but now they need to learn more.
-
 ~~~
 EXT. SMOULDERING LAB - DAWN
 
@@ -138,6 +134,12 @@ That night, after the fire has been stopped, they see strange lights on the hori
 They find strange auras in the sky near the ruins,
 which appear to be forming the strange glyph they found in the notes.
 
+Not wanting to lose the Professor, the PCs take another jeep, and follow him.
+
+
+[^note]:
+    Further examination of his notebook reveals a Tendril-Like Glyph.
+    The notes are slightly helpful, but now they need to learn more.
 
 
 

@@ -1,9 +1,8 @@
 ---
-redirect_from: "/story/act-0/seq-5/"
+redirect_from: "/story/act-0/seq-end/"
 layout:        sequence
+end:           true
 title:         Brave New Ruins
-act:           0
-seq:           5
 ---
 
 

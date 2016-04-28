@@ -1,49 +1,72 @@
 ---
-layout:      scene
-title:       The Grottoes
-scene:       2
-beat:        procedural
-objective:   down
+redirect_from: "/story/act-0/seq-2/scene-end"
+layout:        scene
+title:         Silencing Lambs
+end:           true
+beat:          procedural
+objective:     up
+subjective:    down
 ---
 
 
-As the PCs walk down the stairs of entrance, they hear rumbling.
-The entrance begins to collapse, and they'd die if they tried to run back.
-Stone begins to roll down the stairs, and if they aren't fast enough,[^0]
-they'll be pretty severely hurt.
+The PCs resolve to carry out the ritual,
+but remain ready to strike at the High Acolyte if the opportunity presents itself.
 
-Now, they're a dozen feet underground, and possibly wounded.
-While they're still in the dark, they're attacked by something.
+~~~
+EXT. CENTERSTAGE, RUINS AMPITHEATER - NIGHT
 
----
+A STUDENT wields the CEREMONIAL KNIFE, standing somewhat offstage.
+The HIGH ACOLYTE presides over the bloody altar,
+appearing pleased with what's about to happen.
+He raises his hands, and the CROWD begins to chant twice as loudly.
+The SACRIFICIAL STUDENT lies comatose on the altar,
+eyes wide open, but completely unresponsive to his surroundings.
 
-| Spawn of Cthulhu |    |
-|------------------|----|
-| Health           | 6  |
-| Athletics        | 6  |
-| Hit Threshold    | 3  |
-| Cthulhu Mythos   | 10 |
-| Scuffling        | 4  |
-
----
-
-Anyone who get close to it or are hit by it gain some insight into what it is.
-If they spend the time to create a bit of light,
-they begin to form an image of what their assailant looks like.
-It's slimy, it has tentacles, and it doesn't appear to be touching the ground.
-
-Once they defeat the creature, they assess their surroundings.
-They're in a damp, underground grotto, and they can faintly hear running water.
-Exploring the warrens, they find a ledge at the end of one passage.
-They also find another cavern, with an underground river running through it.
-
-[^0]: **{ Athletics }**: avoid falling rocks
+HIGH ACOLYTE
+Approach the altar.
+~~~
 
 
+If the PCs are able to keep their heads,
+then the High Acolyte will trust them, and let his guard down.[^guard]
+If he doesn't believe they're genuine, he will keep his distance,
+and the PCs will have no opportunity to strike him.
 
 
+~~~
+EXT. CENTERSTAGE, RUINS AMPITHEATER - NIGHT
+
+The STUDENT approaches the bloody altar, knife in hand.
+As the STUDENT brings the CEREMONIAL KNIFE down,
+the SACRIFICIAL STUDENT begins to say their name.
+His voice trails off after his heart is perforated by the knife.
+
+The CROWD becomes instantly silent as the SACRIFICIAL STUDENT writhes.
+For just a moment, the sound of waves breaking on rock can be heard in the distance.
+The HIGH ACOLYTE moves towards the altar.
+
+HIGH ACOLYTE
+The Yellow King smiles upon you.
+You have taken your first step towards becoming awakened.
+
+The HIGH ACOLYTE pauses for a moment to disarm the STUDENT,
+and continues to speak while he wipes the blood off of the CEREMONIAL KNIFE.
+
+HIGH ACOLYTE
+(cont'd)
+Your awakening must continue.
+The Yellow King instructs you to find the Dreaming One.
+He told me of a sacred dream realm, larger than anyplace on earth,
+which was watched over by a golden disc.
+He told me of its wonder, how it filled the sky with wisps of gold.
+You will find this dreamer, he can achieve your awakening.
+~~~
 
 
+The PCs set off to find him.[^1]
 
+
+[^guard]: **{ Reassurance }**: catch the acolyte off-guard
+[^1]: This is a dream representation of the Tendril Medallion.
 
 

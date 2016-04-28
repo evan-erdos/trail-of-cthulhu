@@ -1,51 +1,34 @@
 ---
 layout:      scene
-title:       Prometheus Bound
-scene:       0
+title:       Joining a Cult
 beat:        procedural
-objective:   down
+objective:   up
 ---
 
+The PCs return to the Ruins.
 
-They arrive at the tent of the so-called Dreaming One, only to find it empty.
-Looking closer, the PCs notice a hole in the side of the tent,
-and a bunch of strange, slithering markings leading downhill.
+At a distance, it looks like it's just a carving of the sun,
+but fine details are hard to make out, as the whole area is lit only by a fire.
+When the PCs get closer, it becomes apparent that it's more:
+The center of what they thought was the sun is actually a twisted face.[^1]
+Its horrified expression immortalized in the red stone, painted over in blood.
+They also observe that some of the tendrils around the edge are pointing inwards,
+and the face appears to be recoiling from them.
 
-Following the tracks, the PCs find themselves in a small ocean inlet. 
-They observe a man, prostrate on a large boulder at the water's edge.
-Suddenly, the waterline recesses, nearly draining the inlet.
+The PCs lie in wait, to observe another student gaining entry to the ritual.
+When this occurs, they realize that everyone in the ritual is wearing a Talisman,
+just like the ones worn by the tribesmen who ambushed them on the first night.
 
-The man rises, and reveals a horrible wound in his stomach.[^0]
-He falls hard, as if he was aiming for the ground.
-He impacts head-first as the water swells back in,
-twisting his shattered frame against the rocky outcrop.
-
-The PCs approach the body.[^1]
-
-They also find that he's still clutching a little stone carving.[^2]
-Despite the waves and the impact, his hand still firmly grasps the carving.[^3]
-
-Wrenching his hand open, they take a closer look at the carving.
-He clearly spent all his time making it, as it bears countless tool marks.
-It's round, with short tendrils around its edge.
+If the PCs gave their Talisman to the Professor,
+they can search the area around the ruins for another body.
+Once they have their own Talisman, they can enter the inner circles.[^2]
 
 
-[^0]: Possession by Hastur causes the yellow sign to appear somewhere on the body.
-[^1]: **{ Forensics }**: determine that the wound was self-inflicted.
-[^2]: This is his attempt to create his own Tendril Medallion.
-[^3]: This would imply that *rigor mortis* had already taken hold,
-	  but they witnessed him stand up, and throw himself into the sea.
+{% include items/talisman.md %}
 
 
-
-
-
-
-
-
-
-
-
+[^1]: This is the same image that is depicted on the Tendril Medallion.
+[^2]: This is plausible, as there are other students at the ritual.
 
 
 

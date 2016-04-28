@@ -1,35 +1,100 @@
 ---
 layout:      scene
-title:       The Tendril Medallion
-scene:       1
-beat:        procedural
-objective:   up
+title:       Diplomacy with Necromancers
+beat:        dramatic
+subjective:  down
 ---
 
 
-Recalling what the High Acolyte told them, the PCs return to the ruins at high-noon.
-In proper daylight, they observe a hole cut through the top of one of the pillars.
-While the central pillar near the altar is in the shade,
-a small, slot in the central pillar is illuminated by the light.
+As they move closer, they discover a horrific scene.
+There are a mix of tribespeople and students around a bloody altar,
+all chanting in unison about a demon saviour.
+They learn that there will be a sacrifice,
+and that another student has volunteered to be "awakened".
 
-They place The Dreamer's stone carving into the indentation,
-and while it fits perfectly, nothing happens.[^0]
+They begin to sneak around, trying to both learn about the ritual,
+and find a way to prevent the sacrifice of their fellow student.
 
-Given the description the High Acolyte gave them of the medallion,
-they rife through their belongings, to see if they have anything similar to a medallion.[^1]
+They can search the altar room, stand in the crowd, or enter the catacombs.
+Being in the crowd doesn't yield much,
+and increases their chances of being caught.
+Entering the catacombs, they find piles of corpses.
+As they leave, if they're observant, they notice a symbol over the archway.[^0]
 
-If they put something reflective in the slot, the light from the pillar is reflected.
+In their attempts to learn more about the ritual,
+the PCs are eventually caught by none other than the High Acolyte.
 
-With proper alignment, they emulate how the genuine article would reflect light,
-and the pillar begins to sink into the ground, revealing a passageway.
+~~~
+INT. ALTAR ROOM, INSIDE RUINS - DUSK
 
-A steep set of stone stairs lead down.
+A group of STUDENTS snoop around some storerooms in a cluster of ancient RUINS.
+A horrific sacrifice is beginning in the Ampitheater.
+When they enter the Altar Room, they are suprised by the HIGH ACOLYTE.
+He moves lightly, like he's floating around in his flowing robes.
+He sways back and forth in a kind of rhythm.
+Although he appears to be a native, he speaks in monotone, un-accented English.
+
+HIGH ACOLYTE
+The Yellow King consecrated this eisodos.
+You are not of the awakened clergy,
+you are only allowed in the theatron.
+
+STUDENTS
+We have these amulets, we'd like to be awakened.
+Where is the ritual to take place?
+
+HIGH ACOLYTE
+You would lie directly to the gods?
+Do not tempt the gods, I warn...
+
+STUDENTS
+We kneel before your god, we wish to learn more, and join your faith.
+
+The HIGH ACOLYTE is still for a moment, no longer swaying.
+He narrows his gaze on one of the STUDENTS, and he smiles.
+
+HIGH ACOLYTE
+Your... trespasses warrant a punishment, but you may yet be awakened.
+
+LEE RUNGE HAMMARBURG
+What must we do? I am unafraid!
+
+HIGH ACOLYTE
+You would begin with a false belief?
+You do not fear my punishment?
+I will give you cause to fear the great King.
+You will kill for him, or I will kill you on his behalf.
+You will perform the sacrifice.
+
+STUDENTS
+And if we kill for this god, you will educate us about him?
+
+HIGH ACOLYTE
+I will teach you all that I know about the Yellow King.
+~~~
+
+Having determined that his goal is to bring others into the faith,[^1]
+the PCs bargain with him to allow them to perform the ritual,
+in exchange for their safety, and more information.
+
+They are told that if they perform his *coup de grâce*,
+then they'll be "awakened", and in good standing with the cult.
+They must decide if they want to kill him, or plead for his life.
+
+They are all taught a chant, and are each given a *Ceremonial Knife*.
+The High Acolyte instructs them to strike at the student's heart,
+and sends them out to the altar.
+
+At this point, the PCs can:
+
+- carry out the ritual, killing the **Sacrificial Student**
+- negotiate with the High Acolyte
+- kill the **Sacrificial Student**, and then swing at the High Acolyte
+- go straight for the High Acolyte
 
 
-[^0]: His handmade version of the Tendril Medallion doesn't reflect light.
-[^1]: They need to determine that the medallion would likely be reflective.
-
-
+[^0]: This is what's depicted on the Tendril Medallion
+[^1]: **{ Psychoanalysis / Bargaining }**: figure out the Acolyte's motivation
 
 
 
