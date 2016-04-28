@@ -1,7 +1,6 @@
 ---
 layout:      scene
 title:       Rumors
-scene:       4
 beat:        question
 objective:   up
 ---
@@ -61,8 +60,9 @@ and learn that the ritual is to be held in the ruins themselves.
 
 They are warned, however, that the cultists don't like "interlopers".
 
-[^barter]: **{ Barter }**: learn about the rituals in more depth
-
+[^barter]:
+    **{ Barter / Interrogate }**
+    If they're clever, they can read into him, and barter with him for information.
 
 
 

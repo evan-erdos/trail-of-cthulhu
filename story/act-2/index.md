@@ -15,11 +15,6 @@ Through this campaign the team learns that the Russians are lost as to what to d
 Underlying suggestions are laid with regards to the clash of religions and old gods, Hastur and his relationship to the region, knowledge of the occult lets you the player see more while others in the world see you as less.
 The act ends with the players boarding an underground train to Moscow following the clues left behind by the orthodox healer Grigori Rasputin protected by the remnants of his heretic cult.
 
-![cthulhu]({{site.baseurl}}/assets/cthulhu.jpg)
-
-
-
-
 
 
 

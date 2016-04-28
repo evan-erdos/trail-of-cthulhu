@@ -1,7 +1,6 @@
 ---
 layout:      scene
 title:       An Outdoor Asylum
-scene:       2
 beat:        question
 objective:   up
 ---
@@ -9,14 +8,14 @@ objective:   up
 
 When the caravan arrives, they are met with the sight a dying village.
 Villagers, clad in rags, are seen roaming the streets, or sleeping in alleyways.
-Nearly everyone appears to be sleep deprived,[^0] and some even have physical wounds.
+Nearly everyone appears to be sleep deprived, and some even have physical wounds.[^ill]
 
 Professor Birchwell delegates assignments to the group.
 The PCs are to question the more salient locals,
 to determine what they think the cause of their sickness is.
 They are also tasked with finding the village leader, and getting his opinion.
 
-After this, Professor Birchwell wanders off into the village.[^1]
+After this, Professor Birchwell wanders off into the village.[^prof]
 If the PCs attempt to trail him, they lose sight of him in the crowd.
 
 ~~~
@@ -96,14 +95,24 @@ They have similar encounters with villagers, and while all of their stories matc
 it doesn't fit any particular sickness that they've ever seen or learned about.
 The PCs gather samples from the village, and set off to find the village's chief.
 
-[^0]: The sleep issues are being caused by the Village's proximity to the ocean.
-[^1]: Professor Birchwell is off talking with Ilya Zolnerowich.
-[^3]: Being near the ocean means there's probably a constant 10 knot wind.
-[^4]: If there's enough wind, bugs can't fly well enough to land on people and bite them.
+[^ill]:
+    The Village's ailments are being caused by a ritual they perform.
+    They travel to a secluded area in the Ruins, and drink from an underwater river there.
+    The river, they say, has magical properties.
+    What they don't realize is that it is being contaminated by a fallen Soviet rocket.
+
+[^prof]:
+    Professor Birchwell is off talking with Ilya Zolnerowich about the artefact.
+
+[^wind]:
+    Being near the ocean means there's probably a constant 10 knot wind.
+    If there's enough wind, bugs can't fly well enough to land on people and bite them,
+    so the village's problem is probably not related to mosquitoes.
 
 [^hint]:
 	**{ Languages }**:
     These rations are evidence of a Soviet military presence in the area.
+    The Soviets are searching for the rocket they lost in the area.
 
 
 

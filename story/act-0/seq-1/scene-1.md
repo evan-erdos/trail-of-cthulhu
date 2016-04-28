@@ -1,7 +1,6 @@
 ---
 layout:      scene
 title:       A Bad Diagnosis
-scene:       1
 beat:        dramatic
 objective:   down
 subjective:  up

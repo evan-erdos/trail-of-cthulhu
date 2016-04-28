@@ -1,7 +1,6 @@
 ---
 layout:  sequence
 title:   Expedition
-seq:     0
 ---
 
 

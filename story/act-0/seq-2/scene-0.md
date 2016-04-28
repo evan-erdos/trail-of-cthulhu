@@ -1,7 +1,6 @@
 ---
 layout:      scene
 title:       Joining a Cult
-scene:       0
 beat:        procedural
 objective:   up
 ---

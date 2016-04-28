@@ -1,5 +1,5 @@
 
-title: "Trail of Cthulhu : Red Tide Rising"
+title: "Trail of Cthulhu - Red Tide Rising"
 email: bescott@andrew.cmu.edu
 url: "bescott.org/"
 baseurl: "/trail-of-cthulhu"
@@ -12,5 +12,11 @@ description: >
   written for the Trail of Cthulhu Game System.
 
 gems:
-#- jekyll-redirect-from
+- jekyll-redirect-from
 - jekyll-coffeescript
+
+whitelist:
+- jekyll-redirect-from
+- jekyll-coffeescript
+
+

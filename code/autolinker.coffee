@@ -269,7 +269,7 @@ links = [
             \b///g
     ],
 ,
-    base: "setting/"
+    base: "locations/"
     patterns: [
         link: "grotto/"
         styles: [toCthulhu]

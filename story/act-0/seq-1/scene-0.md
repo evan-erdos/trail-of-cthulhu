@@ -1,13 +1,12 @@
 ---
 layout:      scene
 title:       Red Journalism
-scene:       0
 beat:        dramatic
 objective:   up
 ---
 
 
-The next day, the PCs are summoned to the main lab, again via note.[^0]
+The next day, the PCs are summoned to the main lab, again via note.[^note]
 
 It reads:
 
@@ -15,14 +14,14 @@ It reads:
 
 
 Upon their arrival, they find that Professor Birchwell has begun well ahead of schedule.
-They also notice a girl that they've never seen before, watching from the back of the lab.[^1]
+They also notice a girl that they've never seen before, watching from the back of the lab.[^girl]
 
 
 ~~~
 INT. MAIN LABORATORY - MORNING
 
 The PROFESSOR is at the center of the main lab,
-and appears to be in a cheerful mood. a
+and appears to be in a cheerful mood.
 He's telling telling "doctor jokes" to a GROUP OF STUDENTS.
 
 PROFESSOR
@@ -53,17 +52,40 @@ Then he raises his hand again, and says, "Thanks doc!"
 The professor makes the gesture a second time, and the room breaks out in laughter.
 ~~~
 
-
-Right before 11:00AM, Borst enters the hall.
-The girl sees him, and walks up to the Professor.
-The three have a short conversation, and then Borst and the girl quickly leave the room.[^2]
-
-Ever punctual, the Professor begins his lecture, but he's stammering.
+As the laughter is dying down, Borst enters the hall.
+He runs up to the Professor, and whispers something to him.[^hint]
+A scared look runs across the Professor's face, but he thanks Borst, and continues to prepare.
 
 ~~~
 INT. MAIN LABORATORY - MORNING
 
-PROFESSOR BIRCHWELL stutters through a few slides, then skips a bunch.
+Right before 11:00AM, a GROUP of men enter the main Laboratory,
+where PROFESSOR BIRCHWELL is preparing to give a presentation.
+Their uniforms bear the insignia of the Soviet Union.
+The GIRL in the back takes notice, and pulls out a notepad.
+The GROUP sits down in the back of the room.
+Ever punctual, the Professor begins his lecture, but he's stammering.
+
+PROFESSOR BIRCHWELL
+Ah, l-l-let's... g-g-get started, h-here! Ok!
+I... I'd, like to introduce, uh, our honored, uh, guests, or...
+Everyone? I'd like to welcome ILYA ZOLNEROWICH, and his te--
+
+ILYA ZOLNEROWICH
+--Zol-NER-owich.
+
+PROFESSOR BIRCHWELL
+Ah, yes, yes, of course! A thousand apologies!
+They're doing some unrelated research in the area.
+We try to stay out of their way, but sometimes we run into eachother.
+Try not to step on their toes if we do see them, as I'm sure they will do for us!
+Now, on to our presen...
+
+The PROFESSOR trails off as ILYA stands, and calmly walks to the front.
+The two speak quietly for a moment, and then ILYA begins to leave the room.
+
+Ever punctual, the PROFESSOR begins his presentation.
+He stutters through a few slides, then skips a bunch.
 He's sweating, and fumbling with the controls of the slide projector.
 
 PROFESSOR
@@ -83,16 +105,23 @@ Class is--
 
 The sound of glass shattering emanates from somewhere on the other side of the lab,
 and a small fire breaks out below a nearby fume hood.
-Professor Birchwell watches the fire spread for a moment, giggling.[^3]
+Professor Birchwell watches the fire spread for a moment, giggling.[^fire]
+At this time, the PCs notice the girl writing feverishly in her book.
 Some students put it out, and the class disperses.
 
-[^0]: A note under the door is not the usual channel for events in the lab.
-[^1]: Enter Dolya Petrovna, a Soviet Journalist.
-[^2]: She tells him that Ilya Zolnerowich is unhappy with him about his progress.
-[^3]: Professor Birchwell is beginning to lose his grip on reality.
-[^4]: He knows what's going on, but won't tell the PCs.
+[^note]:
+    A note under the door is not the usual channel for events in the lab.
+    The Professor seems to be hand selecting the people who he intends to speak to.
 
+[^girl]:
+    Enter Dolya Petrovna, a Soviet Journalist.
 
+[^hint]:
+    He tells him that Ilya Zolnerowich is unhappy with him about his progress,
+    and that Ilya has shown up, unannounced, to check on him.
+
+[^fire]:
+    Professor Birchwell is beginning to lose his grip on reality.
 
 
 

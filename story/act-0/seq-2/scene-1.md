@@ -1,7 +1,6 @@
 ---
 layout:      scene
 title:       Diplomacy with Necromancers
-scene:       1
 beat:        dramatic
 subjective:  down
 ---

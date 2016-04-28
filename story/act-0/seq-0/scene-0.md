@@ -1,7 +1,6 @@
 ---
 layout:      scene
 title:       Meet Interesting People...
-scene:       0
 beat:        pipe
 objective:   up
 ---
@@ -60,9 +59,7 @@ Our saviour?
 ~~~
 
 
-The PCs can attempt to talk Oscar down[^talk] or disarm him.[^disarm]
-If they succeed, he doesn't kill himself, but becomes incurably insane.
-Otherwise he attempts to shoot himself.
+The PCs can attempt to talk Oscar down or disarm him.[^oscar]
 
 
 ~~~
@@ -135,13 +132,13 @@ They make small talk, but he says nothing about himself.[^jeep]
 The convoy embarks into the jungle.
 
 
-[^talk]:
+[^oscar]:
 	**{ Bargain / Flattery / Psychoanalysis }**:
-	The PCs convince him not to shoot himself or anyone around him.
-
-[^disarm]:
+	The PCs can try to convince him not to shoot himself or anyone around him.
 	**{ Stealth / Atheltics / Filch }**:
-	While unlikely, the PCs might roll to disarm him.
+	While unlikely, the PCs also might roll to disarm him.
+	If they succeed, he doesn't kill himself, but becomes incurably insane.
+	Otherwise he attempts to shoot himself.
 
 [^jeep]:
 	Borst has a history with the Soviet military,

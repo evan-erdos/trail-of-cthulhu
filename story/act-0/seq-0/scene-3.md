@@ -1,7 +1,6 @@
 ---
 layout:      scene
 title:       Chieftain's Remorse
-scene:       3
 beat:        dramatic
 objective:   up
 ---
@@ -68,25 +67,35 @@ I will have the caravan wait.
 ~~~
 
 
-The Professor concedes, and the PCs continue to listen to the Chieftain's rambling.[^0]
+The Professor concedes, and the PCs continue to listen to the Chieftain's rambling.[^hate]
 He tells them that the strange men he saw come to the village periodically,
-waiting at the jungle's edge, and watching them.[^1]
+waiting at the jungle's edge, and watching them.[^men]
 With some effort, the PCs convince Ambalo to reveal that his only son was taken.[^spill]
-His son disappeared without warning, a month before the village began to have problems.[^2]
+His son disappeared without warning, a month before the village began to have problems.[^son]
 All the other missing villagers showed signs of this "curse" before disappearing.
 
 He pleads to the PCs to find the missing villagers, and his son,
-claiming that they are in the lair of the so-called "Demon Worshippers".[^3]
+claiming that they are in the lair of the so-called "Demon Worshippers".[^hastur]
 
 Even if the PCs have no interest in saving the villagers,
 they decide that going to investigate the other tribe could prove to be helpful,
 as it might provide them with new insights into the nature of the Ambalo Tribe's plight.
 
 
-[^0]: His hatred for this other tribe has clouded his judgement.
-[^1]: The uniformed men are Soviet troops who have taken an interest in the tribe.
-[^2]: This doesn't fit the pattern because the chief's son left on his own accord.
-[^3]: The "Demon" is Hastur, and his "worshippers" are members of the other tribe.
+[^hate]:
+    His hatred for this other tribe has clouded his judgement.
+    While he may provide some insights, he may misinform the PCs.
+
+[^men]:
+    The uniformed men are Soviet troops who have taken an interest in the tribe.
+    The Soviets sent a rocket into space, but it fell to Earth somewhere nearby.
+
+[^son]:
+    This doesn't fit the pattern because the chief's son left on his own accord.
+    His son actually joined the other tribe, and is a servant of Hastur.
+
+[^hastur]:
+    The "Demon" is Hastur, and his "worshippers" are members of the other tribe.
 
 [^spill]:
 	**{ Intimidation / Psychoanalysis }**:

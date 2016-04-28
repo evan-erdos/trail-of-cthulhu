@@ -1,9 +1,9 @@
 ---
-layout:      scene
-title:       Daytime Cultism
-seq:         0
-scene:       5
-beat:        pipe
+redirect_from: "/story/act-0/seq-0/scene-end/"
+layout:        scene
+end:           true
+title:         Daytime Cultism
+beat:          pipe
 ---
 
 
@@ -16,7 +16,7 @@ The Ruins are comprised of concentric hemispheres of rough stone pillars,
 the designs of which become more complex as one moves inwards,
 towards the centerpiece: a bloody, stone altar.
 
-Directly behind the altar is a solitary pillar of rough-hewn aplite.[^geo]
+Directly behind the altar is a solitary pillar of rough-hewn aplite.[^rock]
 
 While they have learned a few things, they can't learn more until the ritual occurs.
 
@@ -73,7 +73,7 @@ The caravan returns to the lab, and they begin analysis on the samples immediate
 They test against many common diseases and afflictions,
 but none of the tests come back positive.[^test]
 
-[^geo]:
+[^rock]:
 	**{ Geology }**:
 	Geologists and students with keen eyes will recognize that aplite is not native to the area.
 

@@ -13,3 +13,18 @@ Items
   {% endif %}
 {% endfor %}
 </ul>
+
+
+
+Purple Root
+Personal Radio
+Medallion
+Mask
+The Journal
+Tablet
+Doll
+Personal Radio
+
+
+
+

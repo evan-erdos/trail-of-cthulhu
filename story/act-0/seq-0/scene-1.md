@@ -1,8 +1,8 @@
 ---
 layout:      scene
 title:       ...and Kill Them
-scene:       1
 beat:        procedural
+objective:   down
 ---
 
 
@@ -50,7 +50,8 @@ Professor Birchwell approaches them, and asks them to give him the necklace.
 
 [^body]:
 	**{ Forensics / Evidence Collection }**:
-	find the Talisman of the Yellow Sign
+	They can search the body and find the Talisman of the Yellow Sign.
+	They will be able to find a Talisman later, but they will need to have one.
 
 
 

@@ -3,8 +3,7 @@ layout: story
 ---
 
 <article class="act">
-  {% include nav/act.html %}
-  <!-- autonav.html %} -->
+  {% include autonav.html %}
   <header class="act-header">
     <h1 class="act-title">{{ page.title }}</h1>
   </header>
@@ -42,8 +41,7 @@ layout: story
   <div class="content"><!-- act-content -->
     {{ content }}
   </div>
-  <!--{% include autonav.html %}-->
-  {% include nav/act.html %}
+  {% include autonav.html %}
   <script type="text/javascript" src="{{site.baseurl}}/code/autonav.js"></script>
 </article>
 

@@ -1,0 +1,16 @@
+---
+layout: story
+---
+
+<article class="location">
+  <header class="location-header">
+    <h1 class="location-title">{{ page.title }}</h1>
+  </header>
+  {% if page.image %}
+  	<img src="{{site.baseurl}}/assets/{{ page.image }}" alt="{{ page.title }} Profile" width="256" style="float:left">
+  {% endif %}
+  <div class="content">
+    {{ content }}
+  </div>
+</article>
+

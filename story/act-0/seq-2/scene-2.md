@@ -1,11 +1,11 @@
 ---
-layout:      scene
-title:       Silencing Lambs
-seq:         2
-scene:       2
-beat:        procedural
-objective:   up
-subjective:  down
+redirect_from: "/story/act-0/seq-2/scene-end"
+layout:        scene
+title:         Silencing Lambs
+end:           true
+beat:          procedural
+objective:     up
+subjective:    down
 ---
 
 
