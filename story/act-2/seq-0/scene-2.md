@@ -1,9 +1,8 @@
 ---
-layout:      scene
-title:       Temple of Hastur
-scene:       2
-beat:        procedural
-objective:   up
+layout: scene
+title:  Temple of Hastur
+beat:   procedural
+obj:    up
 ---
 
 

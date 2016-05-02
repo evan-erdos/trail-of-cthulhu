@@ -1,10 +1,9 @@
 ---
-layout:      scene
-title:       Strange Blinking
-seq:         0
-scene:       2
-beat:        procedural
-objective:   up
+redirect_from: "/story/act-3/seq-0/scene-end"
+layout: scene
+title:  Strange Blinking
+beat:   procedural
+obj:    up
 ---
 
 

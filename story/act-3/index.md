@@ -1,8 +1,6 @@
 ---
-layout:  act
-title:   Can You Hear the Waves?
-story:   0
-act:     3
+layout: act
+title:  Can You Hear the Waves?
 ---
 
 The PCs walk Moscow's streets, and are trailed by strange citizens.

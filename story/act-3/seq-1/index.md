@@ -1,7 +1,6 @@
 ---
-layout:  sequence
-title:   Faces Come Out of the Rain
-seq:     1
+layout: sequence
+title:  Faces Come Out of the Rain
 ---
 
 The party steps into a dark room with tall, salmon-colored walls.

@@ -1,10 +1,9 @@
 ---
-layout:      scene
-title:       Leaving Home
-seq:         3
-scene:       4
-beat:        procedural
-objective:   up
+redirect_from: "/story/act-1/seq-3/scene-end/"
+layout: scene
+title:  Leaving Home
+beat:   procedural
+obj:    up
 ---
 
 

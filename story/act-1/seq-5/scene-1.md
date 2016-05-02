@@ -1,9 +1,8 @@
 ---
-layout:      scene
-title:       Fireboat
-seq:         5
-scene:       1
-beat:        procedural
+redirect_from: "/story/act-1/seq-5/scene-end/"
+layout: scene
+title:  Fireboat
+beat:   procedural
 ---
 
 ~~~

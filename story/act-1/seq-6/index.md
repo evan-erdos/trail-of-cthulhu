@@ -1,9 +1,7 @@
 ---
-redirect_from: "/story/act-1/seq-6/"
-layout:        sequence
-title:         Horrors of the Yellow Mist
-seq:           6
-act:           1
+redirect_from: "/story/act-1/seq-end/"
+layout: sequence
+title:  Horrors of the Yellow Mist
 ---
 
 

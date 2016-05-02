@@ -1,9 +1,8 @@
 ---
-layout:      scene
-title:       Fording
-scene:       2
-beat:        procedural
-objective:   down
+layout: scene
+title:  Fording
+beat:   procedural
+obj:    down
 ---
 
 

@@ -1,9 +1,8 @@
 ---
-layout:      scene
-title:       Surrender Your Mind
-scene:       0
-beat:        procedural
-objective:   down
+layout: scene
+title:  Surrender Your Mind
+beat:   procedural
+obj:    down
 ---
 
 

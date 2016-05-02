@@ -1,9 +1,8 @@
 ---
-layout:      scene
-title:       Flash Flood
-scene:       0
-beat:        procedural
-objective:   down
+layout: scene
+title:  Flash Flood
+beat:   procedural
+obj:    down
 ---
 
 

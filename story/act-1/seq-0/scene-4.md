@@ -1,9 +1,8 @@
 ---
-layout:      scene
-title:       A Night at the Village
-scene:       4
-beat:        dramatic
-objective:   up
+layout: scene
+title:  A Night at the Village
+beat:   dramatic
+obj:    up
 ---
 
 

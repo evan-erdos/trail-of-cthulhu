@@ -1,11 +1,10 @@
 ---
-layout:      scene
-title:       Dolya
-seq:         3
-scene:       3
-beat:        bringdown
-objective:   down
-subjective:  down
+redirect_from: "/story/act-3/seq-3/scene-end"
+layout: scene
+title:  Dolya
+beat:   bringdown
+obj:    down
+subj:   down
 ---
 
 

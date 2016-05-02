@@ -1,6 +1,6 @@
 ---
-layout:  sequence
-title:   A Burning Laboratory
+layout: sequence
+title:  A Burning Laboratory
 ---
 
 The next day, the PCs are summoned to the main lab, again via note.

@@ -1,8 +1,7 @@
 ---
-layout:      scene
-title:       Charybdis and Scylla
-scene:       1
-beat:        question
+layout: scene
+title:  Charybdis and Scylla
+beat:   question
 ---
 
 

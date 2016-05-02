@@ -1,8 +1,8 @@
 ---
-layout:      scene
-title:       ...and Kill Them
-beat:        procedural
-objective:   down
+layout: scene
+title:  ...and Kill Them
+beat:   procedural
+obj:    down
 ---
 
 

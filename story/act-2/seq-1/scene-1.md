@@ -1,10 +1,9 @@
 ---
-layout:      scene
-title:       Lies
-scene:       1
-beat:        dramatic
-objective:   up
-subjective:  down
+layout: scene
+title:  Lies
+beat:   dramatic
+obj:    up
+subj:   down
 ---
 
 

@@ -1,9 +1,8 @@
 ---
-layout:      scene
-title:       And on the Third Day...
-scene:       0
-beat:        question
-objective:   up
+layout: scene
+title:  And on the Third Day...
+beat:   question
+obj:    up
 ---
 
 

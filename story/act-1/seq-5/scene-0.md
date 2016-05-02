@@ -1,9 +1,8 @@
 ---
-layout:      scene
-title:       Here, Take This
-scene:       0
-beat:        procedural
-objective:   down
+layout: scene
+title:  Here, Take This
+beat:   procedural
+obj:    down
 ---
 
 ~~~

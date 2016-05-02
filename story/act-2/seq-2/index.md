@@ -1,7 +1,6 @@
 ---
 layout:  sequence
 title:   Visions of Sputnik
-seq:     2
 ---
 
 

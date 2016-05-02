@@ -3,18 +3,17 @@ layout: story
 ---
 
 <article class="scene" itemprop="articleBody">
-  {% if page.end == true %}<element id="end" data-end="{{page.end}}">{% endif %}
+  {% if page.redirect_from %}<element id="end" data-end="true">{% endif %}
   {% include autonav.html %}
   <header class="scene-header">
     <h1 class="scene-title">
     <span class="beat">
-    {% if page.beat %}{% include beat/{{ page.beat }}.html %}{% endif %}
-    {% if page.objective %}{% include beat/obj-{{ page.objective }}.html %}{% endif %}
-    {% if page.subjective %}{% include beat/subj-{{ page.subjective }}.html %}{% endif %}
+      {% if page.beat %}{% include beat/{{ page.beat }}.html %}{% endif %}
+      {% if page.obj %}{% include beat/obj-{{ page.obj }}.html %}{% endif %}
+      {% if page.subj %}{% include beat/subj-{{ page.subj }}.html %}{% endif %}
     </span>
-    {% if page.scene %} Scene {{ page.scene | plus:1 }} : {% endif %}<i>{{ page.title }}</i></h1>
+    <i>{{ page.title }}</i></h1>
   </header>
-  <!--<div class="scene-content"> -->
   <div class="content">
     {{ content }}
   </div>

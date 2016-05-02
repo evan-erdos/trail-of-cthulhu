@@ -1,9 +1,8 @@
 ---
-layout:      scene
-title:       Wanted Men
-scene:       0
-beat:        procedural
-objective:   down
+layout: scene
+title:  Wanted Men
+beat:   procedural
+obj:    down
 ---
 
 

@@ -13,7 +13,7 @@ layout: story
     {% if sequence.url contains page.url and sequence.layout == 'sequence' %}
     <li>
       <article class="sequence">
-        <a href="{{site.baseurl}}{{ sequence.url }}">{% if sequence.seq %}Sequence {{ sequence.seq | plus:1 }} : {% endif %}{{ sequence.title }}</a>
+        <a href="{{site.baseurl}}{{ sequence.url }}">{{ sequence.title }}</a>
         <ul class="fa-ul">
         {% for scene in acts %}
           {% if (scene.url contains sequence.url) and scene.layout == 'scene' %}
@@ -23,7 +23,7 @@ layout: story
             <span class="beat">
             {% if scene.beat %}{% include beat/{{ scene.beat }}.html %}{% endif %}
             </span>
-            {% if scene.scene %}Scene {{ scene.scene | plus:1 }} : {% endif %}<i>{{ scene.title }}</i>
+            <i>{{ scene.title }}</i>
             <div class="entry">
               {{ scene.excerpt }}
             </div>
@@ -38,7 +38,7 @@ layout: story
     {% endif %}
   {% endfor %}
   </ul>
-  <div class="content"><!-- act-content -->
+  <div class="content">
     {{ content }}
   </div>
   {% include autonav.html %}

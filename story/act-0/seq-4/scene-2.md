@@ -1,9 +1,8 @@
 ---
-layout:      scene
-title:       The Grottoes
-scene:       2
-beat:        procedural
-objective:   down
+layout: scene
+title:  The Grottoes
+beat:   procedural
+obj:    down
 ---
 
 

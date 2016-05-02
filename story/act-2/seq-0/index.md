@@ -1,7 +1,6 @@
 ---
-layout:  sequence
-title:   The Yellow King
-seq:     0
+layout: sequence
+title:  The Yellow King
 ---
 
 

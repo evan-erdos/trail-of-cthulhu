@@ -1,8 +1,7 @@
 ---
-layout:      scene
-title:       Bounded In Chains of Iron
-scene:       0
-beat:        pipe
+layout: scene
+title:  Bounded In Chains of Iron
+beat:   pipe
 ---
 
 In order to investigate the tablet further,

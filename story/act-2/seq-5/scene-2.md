@@ -1,9 +1,8 @@
 ---
-layout:      scene
-title:       The Red Mist
-scene:       2
-beat:        question
-objective:   up
+layout: scene
+title:  The Red Mist
+beat:   question
+obj:    up
 ---
 
 

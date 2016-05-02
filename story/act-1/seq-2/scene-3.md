@@ -1,10 +1,9 @@
 ---
-layout:      scene
-title:       Breaking and Entering
-seq:         2
-scene:       3
-beat:        procedural
-objective:   up
+redirect_from: "/story/act-1/seq-2/scene-end/"
+layout: scene
+title:  Breaking and Entering
+beat:   procedural
+obj:    up
 ---
 
 ~~~

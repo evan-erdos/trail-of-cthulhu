@@ -1,8 +1,7 @@
 ---
-layout:      scene
-title:       Centre 13
-scene:       2
-beat:        question
+layout: scene
+title:  Centre 13
+beat:   question
 ---
 
 

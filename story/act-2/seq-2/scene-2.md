@@ -1,10 +1,9 @@
 ---
-layout:      scene
-title:       The Ruined School
-scene:       2
-beat:        bringdown
-objective:   up
-subjective:  down
+layout: scene
+title:  The Ruined School
+beat:   bringdown
+obj:    up
+subj:   down
 ---
 
 

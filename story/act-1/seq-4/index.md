@@ -1,7 +1,6 @@
 ---
-layout:  sequence
-title:   The Rusted Graveyard
-seq:     4
+layout: sequence
+title:  The Rusted Graveyard
 ---
 
 

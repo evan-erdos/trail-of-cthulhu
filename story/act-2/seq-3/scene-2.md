@@ -1,9 +1,8 @@
 ---
-layout:      scene
-title:       The Pond and the King
-scene:       2
-beat:        procedural
-objective:   up
+layout: scene
+title:  The Pond and the King
+beat:   procedural
+obj:    up
 ---
 
 They will not be able to reach it,

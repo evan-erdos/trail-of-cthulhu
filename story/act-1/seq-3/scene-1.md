@@ -1,9 +1,8 @@
 ---
-layout:      scene
-title:       Overheard
-scene:       1
-beat:        dramatic
-objective:   up
+layout: scene
+title:  Overheard
+beat:   dramatic
+obj:    up
 ---
 
 

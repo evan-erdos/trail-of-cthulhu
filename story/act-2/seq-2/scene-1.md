@@ -1,10 +1,9 @@
 ---
-layout:      scene
-title:       Getting Better all the Time
-scene:       1
-beat:        gratification
-objective:   up
-subjective:  up
+layout: scene
+title:  Getting Better all the Time
+beat:   gratification
+obj:    up
+subj:   up
 ---
 
 As he talks about these things in particular he slowly regains of some sense of sanity.

@@ -1,9 +1,8 @@
 ---
-layout:      scene
-title:       Take Me to Your Leader
-scene:       0
-beat:        procedural
-objective:   up
+layout: scene
+title:  Take Me to Your Leader
+beat:   procedural
+obj:    up
 ---
 
 The natives who ambush the PCs can either be fought or negotiated with.

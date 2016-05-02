@@ -1,7 +1,6 @@
 ---
-layout:  sequence
-title:   Where Are Monsters in Dreams?
-seq:     3
+layout: sequence
+title:  Where Are Monsters in Dreams?
 ---
 
 

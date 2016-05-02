@@ -1,9 +1,8 @@
 ---
-layout:      scene
-title:       Tablet of the Bull Sigil
-scene:       2
-beat:        dramatic
-objective:   up
+layout: scene
+title:  Tablet of the Bull Sigil
+beat:   dramatic
+obj:    up
 ---
 
 

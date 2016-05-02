@@ -1,6 +1,6 @@
 ---
-layout:  sequence
-title:   Expedition
+layout: sequence
+title:  Expedition
 ---
 
 

@@ -1,7 +1,6 @@
 ---
-layout:  sequence
-title:   Dancing with the Devil
-seq:     5
+layout: sequence
+title:  Dancing with the Devil
 ---
 
 Dolya realizing that the base camp may have the information she needs to understand what she had learned from the lab and the tablet, leaves. Borst who still believes that through science and military might can victory over Ilya be achieved urges the party to continue the quest to remove Omari from the picture. Borst states that if they could investigate the situation and help formulate a plan of attack for him he would do the dirty work himself. The players can sense a great sense of remorse in Borst’s tone. Assess Honesty/ Psychoanalysis will show that Borst regrets getting the PCs into the position they currently are in as pawns of a greater game and that he feels he could have killed Ilya early on and did not do it because he thought they were all in service of Mother Russia.

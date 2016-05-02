@@ -1,9 +1,8 @@
 ---
-layout:      scene
-title:       Change of the Guard
-scene:       2
-beat:        procedural
-objective:   up
+layout: scene
+title:  Change of the Guard
+beat:   procedural
+obj:    up
 ---
 
 

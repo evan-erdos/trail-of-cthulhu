@@ -1,9 +1,8 @@
 ---
-layout:      scene
-title:       Dolya
-scene:       0
-beat:        dramatic
-objective:   up
+layout: scene
+title:  Dolya
+beat:   dramatic
+obj:    up
 ---
 
 They return to the ruins and the village to look for him.

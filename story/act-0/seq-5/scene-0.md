@@ -1,10 +1,9 @@
 ---
-layout:      scene
-title:       Warpath
-scene:       0
-beat:        procedural
-objective:   down
-subjective:  down
+layout: scene
+title:  Warpath
+beat:   procedural
+obj:    down
+subj:   down
 ---
 
 

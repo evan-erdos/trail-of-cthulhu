@@ -1,10 +1,9 @@
 ---
-layout:      scene
-title:       Out of Reach
-seq:         2
-scene:       3
-beat:        procedural
-objective:   up
+redirect_from: "/story/act-3/seq-2/scene-end"
+layout: scene
+title:  Out of Reach
+beat:   procedural
+obj:    up
 ---
 
 

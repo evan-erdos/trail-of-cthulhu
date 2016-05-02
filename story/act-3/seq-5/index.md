@@ -1,7 +1,6 @@
 ---
-layout:  sequence
-title:   With Open Arms
-seq:     5
+layout: sequence
+title:  With Open Arms
 ---
 
 The PCs see that the aforementioned cloud ring is lowering more and more,

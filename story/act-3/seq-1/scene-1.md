@@ -1,9 +1,8 @@
 ---
-layout:      scene
-title:       No One Recieving
-scene:       1
-beat:        dramatic
-objective:   up
+layout: scene
+title:  No One Recieving
+beat:   dramatic
+obj:    up
 ---
 
 She reveals that most of Moscow started acting strangely after a broadcast with a Red Army official.

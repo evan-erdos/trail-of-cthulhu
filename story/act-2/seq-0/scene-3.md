@@ -1,10 +1,9 @@
 ---
-layout:      scene
-title:       Cognitive Surgery
-seq:         0
-scene:       3
-beat:        dramatic
-objective:   up
+redirect_from: "/story/act-2/seq-0/scene-end"
+layout: scene
+title:  Cognitive Surgery
+beat:   dramatic
+obj:    up
 ---
 
 

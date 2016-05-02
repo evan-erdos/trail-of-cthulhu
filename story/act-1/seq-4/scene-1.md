@@ -1,10 +1,9 @@
 ---
-layout:      scene
-title:       Sacrifice
-seq:         4
-scene:       1
-beat:        procedural
-objective:   down
+redirect_from: "/story/act-1/seq-4/scene-end/"
+layout: scene
+title:  Sacrifice
+beat:   procedural
+obj:    down
 ---
 
 ~~~

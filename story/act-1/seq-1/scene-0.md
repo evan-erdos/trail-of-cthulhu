@@ -1,9 +1,8 @@
 ---
-layout:      scene
-title:       Gem of the Desert
-scene:       0
-beat:        procedural
-objective:   up
+layout: scene
+title:  Gem of the Desert
+beat:   procedural
+obj:    up
 ---
 
 ~~~

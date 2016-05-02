@@ -1,7 +1,6 @@
 ---
-layout:  act
-title:   Strange Æons
-act:     0
+layout: act
+title:  Strange Æons
 ---
 
 

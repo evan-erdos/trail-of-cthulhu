@@ -1,11 +1,10 @@
 ---
-redirect_from: "/story/act-0/seq-2/scene-end"
-layout:        scene
-title:         Silencing Lambs
-end:           true
-beat:          procedural
-objective:     up
-subjective:    down
+redirect_from: "/story/act-0/seq-3/scene-end"
+layout: scene
+title:  Silencing Lambs
+beat:   procedural
+obj:    up
+subj:   down
 ---
 
 
@@ -63,10 +62,14 @@ You will find this dreamer, he can achieve your awakening.
 ~~~
 
 
-The PCs set off to find him.[^1]
+The PCs set off to find him.[^dream]
 
 
-[^guard]: **{ Reassurance }**: catch the acolyte off-guard
-[^1]: This is a dream representation of the Tendril Medallion.
+[^guard]:
+	**{ Reassurance }**:
+	If the PCs are smooth enough, the High Acolyte will lower his guard.
+
+[^dream]:
+    This is a dream representation of the Tendril Medallion.
 
 

@@ -1,7 +1,6 @@
 ---
-layout:  sequence
-title:   "Daisy, Daisy"
-seq:     4
+layout: sequence
+title:  Daisy, Daisy
 ---
 
 

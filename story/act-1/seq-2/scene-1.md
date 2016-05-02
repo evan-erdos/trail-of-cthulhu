@@ -1,9 +1,8 @@
 ---
-layout:      scene
-title:       Beg, Borrow, Steal
-scene:       1
-beat:        procedural
-objective:   up
+layout: scene
+title:  Beg, Borrow, Steal
+beat:   procedural
+obj:    up
 ---
 
 ~~~

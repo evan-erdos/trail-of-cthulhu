@@ -1,7 +1,6 @@
 ---
-layout:  sequence
-title:   The Secret Observatory
-seq:     4
+layout: sequence
+title:  The Secret Observatory
 ---
 
 

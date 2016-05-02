@@ -1,10 +1,9 @@
 ---
-layout:      scene
-title:       Smashing Radios
-seq:         0
-scene:       5
-beat:        dramatic
-objective:   up
+redirect_from: "/story/act-1/seq-0/scene-end/"
+layout: scene
+title:  Smashing Radios
+beat:   dramatic
+obj:    up
 ---
 
 

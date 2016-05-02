@@ -1,8 +1,7 @@
 ---
 redirect_from: "/story/act-0/seq-end/"
-layout:        sequence
-end:           true
-title:         Brave New Ruins
+layout: sequence
+title:  Brave New Ruins
 ---
 
 

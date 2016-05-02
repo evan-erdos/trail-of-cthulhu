@@ -1,7 +1,6 @@
 ---
-layout:  sequence
-title:   Is Anybody There?
-seq:     3
+layout: sequence
+title:  Is Anybody There?
 ---
 
 The party creeps through the darkened, bunker-like halls of the radio station **(Stealth)**,

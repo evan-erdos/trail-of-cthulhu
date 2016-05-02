@@ -1,9 +1,9 @@
 ---
-layout:      scene
-title:       A Bad Diagnosis
-beat:        dramatic
-objective:   down
-subjective:  up
+layout: scene
+title:  A Bad Diagnosis
+beat:   dramatic
+obj:    down
+subj:   up
 ---
 
 
@@ -76,7 +76,11 @@ Professor Birchwell departs towards the village.
 The PCs run through the woods to arrive before him, to avoid suspicion.
 
 
-[^med]: **{ Medicine }**: notice that this diagnosis is objectively false
+[^med]:
+    **{ Medicine }**:
+    Medical professionals and cunning PCs alike will recognize that this diagnosis is objectively false.
+    African Sleeping Sickness is almost unheard of in the area.
+
 [^4]: Professor Birchwell is secretly meeting with Ilya Zolnerowich
 
 

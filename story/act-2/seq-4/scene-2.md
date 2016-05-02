@@ -1,9 +1,8 @@
 ---
-layout:      scene
-title:       Eternal Fires of Chimæra
-scene:       2
-beat:        procedural
-objective:   up
+layout: scene
+title:  Eternal Fires of Chimæra
+beat:   procedural
+obj:    up
 ---
 
 

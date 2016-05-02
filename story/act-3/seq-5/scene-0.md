@@ -1,9 +1,8 @@
 ---
-layout:      scene
-title:       Denizens of Moscow
-scene:       0
-beat:        bringdown
-objective:   down
+layout: scene
+title:  Denizens of Moscow
+beat:   bringdown
+obj:    down
 ---
 
 

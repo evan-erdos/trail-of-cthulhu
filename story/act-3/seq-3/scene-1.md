@@ -1,9 +1,8 @@
 ---
-layout:      scene
-title:       Kill Your Television
-scene:       1
-beat:        procedural
-objective:   down
+layout: scene
+title:  Kill Your Television
+beat:   procedural
+obj:    down
 ---
 
 

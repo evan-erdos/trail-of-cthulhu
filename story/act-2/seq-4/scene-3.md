@@ -1,10 +1,9 @@
 ---
-layout:      scene
-title:       On the Boardwalk
-scene:       3
-beat:        procedural
-objective:   up
-subjective:  up
+layout: scene
+title:  On the Boardwalk
+beat:   procedural
+obj:    up
+subj:   up
 ---
 
 

@@ -1,9 +1,8 @@
 ---
-layout:      scene
-title:       The Journal
-seq:         4
-scene:       4
-beat:        question
+redirect_from: "/story/act-2/seq-4/scene-end"
+layout: scene
+title:  The Journal
+beat:   question
 ---
 
 

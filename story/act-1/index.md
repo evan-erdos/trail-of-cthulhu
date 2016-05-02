@@ -1,7 +1,6 @@
 ---
-layout:  act
-title:   The Awakening
-act:     1
+layout: act
+title:  The Awakening
 ---
 
 

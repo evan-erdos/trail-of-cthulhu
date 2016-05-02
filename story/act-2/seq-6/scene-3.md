@@ -1,9 +1,9 @@
 ---
+redirect_from:
+- "/story/act-2/seq-6/scene-end/"
+- "/story/act-2/seq-end/scene-end/"
 layout:  scene
 title:   Part 4
-act:     2
-seq:     6
-scene:   3
 beat:    procedural
 ---
 

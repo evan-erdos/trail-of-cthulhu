@@ -1,7 +1,6 @@
 ---
-layout:  sequence
-title:   Shelter From the Storm
-seq:     1
+layout: sequence
+title:  Shelter From the Storm
 ---
 
 

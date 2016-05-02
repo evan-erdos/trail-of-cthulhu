@@ -1,7 +1,6 @@
 ---
-layout:  sequence
-title:   Sleuthing the Soviets
-seq:     3
+layout: sequence
+title:  Sleuthing the Soviets
 ---
 
 Omari pulls up in a truck and is convinced that the PCs are the reinforcements that Ilya ordered.

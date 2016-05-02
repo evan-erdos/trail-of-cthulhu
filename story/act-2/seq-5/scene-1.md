@@ -1,8 +1,7 @@
 ---
-layout:      scene
-title:       Unquenchable Thirst
-scene:       1
-beat:        pipe
+layout: scene
+title:  Unquenchable Thirst
+beat:   pipe
 ---
 
 

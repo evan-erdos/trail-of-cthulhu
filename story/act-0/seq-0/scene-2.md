@@ -1,8 +1,8 @@
 ---
-layout:      scene
-title:       An Outdoor Asylum
-beat:        question
-objective:   up
+layout: scene
+title:  An Outdoor Asylum
+beat:   question
+obj:    up
 ---
 
 

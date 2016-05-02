@@ -1,9 +1,8 @@
 ---
-layout:      scene
-title:       Left at the Altar
-scene:       0
-beat:        gratification
-objective:   up
+layout: scene
+title:  Left at the Altar
+beat:   gratification
+obj:    up
 ---
 
 The PCs pull off the spell successfully,

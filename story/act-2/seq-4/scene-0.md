@@ -1,9 +1,8 @@
 ---
-layout:      scene
-title:       Book Burning
-scene:       0
-beat:        bringdown
-objective:   down
+layout: scene
+title:  Book Burning
+beat:   bringdown
+obj:    down
 ---
 
 The PCs hear a huge explosion coming from above.

@@ -1,9 +1,8 @@
 ---
-layout:      scene
-title:       The Wretched Barnacle
-scene:       2
-beat:        procedural
-objective:   down
+layout: scene
+title:  The Wretched Barnacle
+beat:   procedural
+obj:    down
 ---
 
 

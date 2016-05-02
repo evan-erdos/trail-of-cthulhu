@@ -1,9 +1,8 @@
 ---
-layout:      scene
-title:       Apartment Complex
-scene:       0
-beat:        procedural
-objective:   up
+layout: scene
+title:  Apartment Complex
+beat:   procedural
+obj:    up
 ---
 
 The PCs find Pravda journalist Dolya Petrovna holed up in her apartment,

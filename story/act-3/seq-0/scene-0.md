@@ -1,8 +1,7 @@
 ---
-layout:      scene
-title:       Being Followed
-scene:       0
-beat:        question
+layout: scene
+title:  Being Followed
+beat:   question
 ---
 
 

@@ -1,8 +1,8 @@
 ---
-layout:      scene
-title:       Rumors
-beat:        question
-objective:   up
+layout: scene
+title:  Rumors
+beat:   question
+obj:    up
 ---
 
 The PCs return to the main square, to learn about this other tribe.

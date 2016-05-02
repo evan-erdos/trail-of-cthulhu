@@ -1,10 +1,9 @@
 ---
-layout:      scene
-title:       Spell of Transferrence
-seq:         5
-scene:       2
-beat:        procedural
-objective:   up
+redirect_from: "/story/act-3/seq-5/scene-end"
+layout: scene
+title:  Spell of Transferrence
+beat:   procedural
+obj:    up
 ---
 
 

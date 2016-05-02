@@ -1,7 +1,6 @@
 ---
-layout:  sequence
-title:   The King of Africa
-seq:     5
+layout: sequence
+title:  The King of Africa
 ---
 
 

@@ -7,38 +7,7 @@ title: Red Tide Rising
 
 A Lovecraftian horror story, written for the Trail of Cthulhu Game System.
 
-
-<div style="-webkit-column-count:2; -moz-column-count:2; column-count:2;">
-
-{% assign acts = (site.pages | sort:'url') %}
-{% for act in acts %}
-  {% if act.layout == 'act' %}
-    <section style="column-break-inside: avoid;">
-    <h2><a href="{{ site.baseurl }}{{ act.url }}"><strong>{{ act.title }}</strong></a></h2>
-    {% for sequence in acts %}
-      {% if sequence.layout == 'sequence' and sequence.url contains act.url %}
-        <h3><a href="{{ site.baseurl }}{{ sequence.url }}">{{ sequence.title }}</a></h3>
-        <ul class="fa-ul">
-        {% for scene in acts %}
-          {% if scene.layout == 'scene' and scene.url contains sequence.url %}
-            <li><a href="{{ site.baseurl }}{{ scene.url }}">
-            <span class="beat">
-            {% if scene.beat %}{% include beat/{{ scene.beat }}.html %}{% endif %}
-            </span>
-            <i>{{ scene.title }}</i></a></li>
-          {% endif %}
-          {% endfor %}
-        </ul>
-      {% endif %}
-      {% endfor %}
-      </section>
-      <br>
-      <br>
-  {% endif %}
-{% endfor %}
-
-</div>
-
+---
 
 A group of students embark on an expedition to Northern Africa,
 at the behest of their revered research professor, Professor Cameron Trenton Birchwell.
@@ -50,6 +19,33 @@ reported by tribes and villages all across the Northern coast.
 Not long into their expedition, a fire breaks out at the lab, and the Professor goes missing.
 The students are left to fend for themselves, and as they struggle to get home,
 they learn a horrible secret about the Soviet presence in North Africa.
+
+
+
+
+<div style="-webkit-column-count:2; -moz-column-count:2; column-count:2;">
+
+{% assign acts = (site.pages | sort:'url') %}
+{% for act in acts %}
+  {% if act.layout == 'act' %}
+    <section style="column-break-inside: avoid;">
+    <h2><a href="{{ site.baseurl }}{{ act.url }}"><strong>{{ act.title }}</strong></a></h2>
+    <ul>
+    {% for sequence in acts %}
+      {% if sequence.layout == 'sequence' and sequence.url contains act.url %}
+        <li>
+          <h3><a href="{{ site.baseurl }}{{ sequence.url }}">{{ sequence.title }}</a></h3>
+        </li>
+      {% endif %}
+      {% endfor %}
+      </ul>
+      </section>
+      <br>
+      <br>
+  {% endif %}
+{% endfor %}
+
+</div>
 
 ---
 

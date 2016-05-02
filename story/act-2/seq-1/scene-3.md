@@ -1,10 +1,9 @@
 ---
-layout:      scene
-title:       Sigil of the Bull
-seq:         1
-scene:       3
-beat:        procedural
-objective:   up
+redirect_from: "/story/act-2/seq-1/scene-end"
+layout: scene
+title:  Sigil of the Bull
+beat:   procedural
+obj:    up
 ---
 
 

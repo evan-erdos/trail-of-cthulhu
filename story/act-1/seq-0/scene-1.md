@@ -1,9 +1,8 @@
 ---
-layout:      scene
-title:       Robbing a Medical Truck
-scene:       1
-beat:        procedural
-objective:   up
+layout: scene
+title:  Robbing a Medical Truck
+beat:   procedural
+obj:    up
 ---
 
 

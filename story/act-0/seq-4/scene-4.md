@@ -1,12 +1,9 @@
 ---
-redirect_from: "/story/act-0/seq-3/scene-4"
-layout:        scene
-title:         Are You Experienced?
-end:           true
-seq:           3
-scene:         4
-beat:          pipe
-objective:     up
+redirect_from: "/story/act-0/seq-4/scene-end"
+layout: scene
+title:  Are You Experienced?
+beat:   pipe
+obj:    up
 ---
 
 

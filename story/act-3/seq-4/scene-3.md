@@ -1,9 +1,8 @@
 ---
-layout:      scene
-title:       Calm Before the Storm
-seq:         4
-scene:       3
-beat:        procedural
+redirect_from: "/story/act-3/seq-4/scene-end"
+layout: scene
+title:  Calm Before the Storm
+beat:   procedural
 ---
 
 

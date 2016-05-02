@@ -1,8 +1,7 @@
 ---
-layout:      scene
-title:       Underwater Cave Diving
-scene:       3
-beat:        question
+layout: scene
+title:  Underwater Cave Diving
+beat:   question
 ---
 
 

@@ -1,9 +1,8 @@
 ---
-layout:      scene
-title:       The Two Pillars
-scene:       1
-beat:        procedural
-objective:   up
+layout: scene
+title:  The Two Pillars
+beat:   procedural
+obj:    up
 ---
 
 The PCs are now able to access various parts of the underground temple.

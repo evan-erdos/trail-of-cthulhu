@@ -1,8 +1,8 @@
 ---
-layout:      scene
-title:       Chieftain's Remorse
-beat:        dramatic
-objective:   up
+layout: scene
+title:  Chieftain's Remorse
+beat:   dramatic
+obj:    up
 ---
 
 Having spoken to many of the villagers, the PCs decide to find the chieftain.

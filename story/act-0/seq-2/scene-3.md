@@ -1,13 +1,10 @@
 ---
-redirect_from: "/story/act-0/seq-4/scene-3"
-layout:        scene
-title:         A Mind Forever Voyaging
-end:           true
-seq:           4
-scene:         3
-beat:          bringdown
-objective:     down
-subjective:    down
+redirect_from: "/story/act-0/seq-2/scene-end"
+layout: scene
+title:  A Mind Forever Voyaging
+beat:   bringdown
+obj:    down
+subj:   down
 ---
 
 
@@ -48,21 +45,14 @@ Just as they figure it out, Professor Birchwell enters the area.
 
 ---
 
-| Professor Birchwell |    |
-|---------------------|----|
-| Health              | 5  |
-| Stability           | 8  |
-| Sanity              | 4  |
-| Athletics           | 3  |
-| Hit Threshold       | 2  |
-| Anthropology        | 10 |
-| Medicine            | 20 |
-| Pharmacy            | 10 |
-| Library Use         | 10 |
-| Biology             | 10 |
-| Cthulhu Mythos      | 4  |
-| Occult              | 10 |
-| Scuffling           | 1  |
+| Professor Birchwell |    |                |    |
+|---------------------|----|----------------|----|
+| Health              | 5  | Weapon         | +1 |
+| Stability           | 8  | Alertness      | +1 |
+| Sanity              | 4  | Stealth        | +2 |
+| Medicine            | 20 | Athletics      | 3  |
+| Cthulhu Mythos      | 4  | Hit Threshold  | 2  |
+| Occult              | 10 | Scuffling      | 1  |
 
 ---
 
@@ -86,30 +76,24 @@ At this moment, Ilya Zolnerowich enters the Atrium with a group of Soviet Soldie
 
 ---
 
-| Ilya Zolnerowich |    |
-|------------------|----|
-| Health           | 7  |
-| Stability        | 10 |
-| Sanity           | 9  |
-| Athletics        | 5  |
-| Hit Threshold    | 6  |
-| Library Use      | 10 |
-| Cthulhu Mythos   | 2  |
-| Occult           | 10 |
-| Scuffling        | 4  |
-
+| Ilya Zolnerowich |    |                |    |
+|------------------|----|----------------|----|
+| Health           |  7 | Weapon         | +1 |
+| Stability        | 10 | Alertness      | +1 |
+| Sanity           |  9 | Stealth        | +2 |
+| Medicine         | 20 | Athletics      |  5 |
+| Cthulhu Mythos   |  2 | Hit Threshold  |  6 |
+| Occult           | 10 | Scuffling      |  4 |
 
 ---
 
-| Soviet Troops  |    |
-|----------------|----|
-| Health         | 10 |
-| Stability      | 7  |
-| Sanity         | 10 |
-| Athletics      | 8  |
-| Hit Threshold  | 5  |
-| Scuffling      | 5  |
-| Firearms       | 6  |
+| Soviet Troops |    |                |    |
+|---------------|----|----------------|----|
+| Health        | 10 | Weapon         | +4 |
+| Stability     |  7 | Alertness      | +2 |
+| Sanity        | 10 | Stealth        | +2 |
+| Athletics     |  8 | Firearms       | 6  |
+| Scuffling     |  5 | Hit Threshold  | 5  |
 
 ---
 

@@ -1,7 +1,6 @@
 ---
-layout:  act
-title:   Chasing the King in Yellow
-act:     2
+layout: act
+title:  Chasing the King in Yellow
 ---
 
 Act 3 attempts to re-teach the PCs about what has actually happened in the two previous acts while getting them deeper into both the threat of Ilya and the Old God that was summoned.

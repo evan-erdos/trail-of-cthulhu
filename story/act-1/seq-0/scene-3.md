@@ -1,9 +1,8 @@
 ---
-layout:      scene
-title:       Ambalo
-scene:       3
-beat:        procedural
-objective:   up
+layout: scene
+title:  Ambalo
+beat:   procedural
+obj:    up
 ---
 
 

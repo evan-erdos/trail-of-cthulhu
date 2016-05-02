@@ -1,9 +1,8 @@
 ---
-layout:      scene
-title:       Dear Diary
-scene:       0
-beat:        procedural
-objective:   down
+layout: scene
+title:  Dear Diary
+beat:   procedural
+obj:    down
 ---
 
 

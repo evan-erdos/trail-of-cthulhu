@@ -1,9 +1,8 @@
 ---
-layout:      scene
-title:       Apéritif
-scene:       1
-beat:        bringdown
-objective:   down
+layout: scene
+title:  Apéritif
+beat:   bringdown
+obj:    down
 ---
 
 

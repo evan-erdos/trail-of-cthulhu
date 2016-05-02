@@ -1,7 +1,6 @@
 ---
 layout:  scene
 title:   Part 3
-scene:   2
 beat:    procedural
 ---
 

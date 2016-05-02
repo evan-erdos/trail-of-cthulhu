@@ -1,8 +1,7 @@
 ---
-layout:      scene
-title:       The Void
-scene:       3
-beat:        question
+layout: scene
+title:  The Void
+beat:   question
 ---
 
 

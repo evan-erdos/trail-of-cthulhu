@@ -1,9 +1,8 @@
 ---
-layout:      scene
-title:       The Road Not Taken
-scene:       1
-beat:        procedural
-objective:   down
+layout: scene
+title:  The Road Not Taken
+beat:   procedural
+obj:    down
 ---
 
 

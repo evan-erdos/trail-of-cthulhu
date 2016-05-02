@@ -1,9 +1,8 @@
 ---
-layout:      scene
-title:       Pandemic
-scene:       1
-beat:        procedural
-objective:   down
+layout: scene
+title:  Pandemic
+beat:   procedural
+obj:    down
 ---
 
 

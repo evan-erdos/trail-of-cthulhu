@@ -1,9 +1,8 @@
 ---
-layout:      scene
-title:       Red Handed
-scene:       0
-beat:        procedural
-objective:   down
+layout: scene
+title:  Red Handed
+beat:   procedural
+obj:    down
 ---
 
 

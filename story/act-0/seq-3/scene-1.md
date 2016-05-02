@@ -1,8 +1,8 @@
 ---
-layout:      scene
-title:       Diplomacy with Necromancers
-beat:        dramatic
-subjective:  down
+layout: scene
+title:  Diplomacy with Necromancers
+beat:   dramatic
+subj:   down
 ---
 
 
@@ -19,7 +19,7 @@ They can search the altar room, stand in the crowd, or enter the catacombs.
 Being in the crowd doesn't yield much,
 and increases their chances of being caught.
 Entering the catacombs, they find piles of corpses.
-As they leave, if they're observant, they notice a symbol over the archway.[^0]
+As they leave, if they're observant, they notice a symbol over the archway.[^face]
 
 In their attempts to learn more about the ritual,
 the PCs are eventually caught by none other than the High Acolyte.
@@ -73,7 +73,7 @@ HIGH ACOLYTE
 I will teach you all that I know about the Yellow King.
 ~~~
 
-Having determined that his goal is to bring others into the faith,[^1]
+Having determined that his goal is to bring others into the faith,[^priest]
 the PCs bargain with him to allow them to perform the ritual,
 in exchange for their safety, and more information.
 
@@ -93,9 +93,12 @@ At this point, the PCs can:
 - go straight for the High Acolyte
 
 
-[^0]: This is what's depicted on the Tendril Medallion
-[^1]: **{ Psychoanalysis / Bargaining }**: figure out the Acolyte's motivation
+[^face]:
+	This is what's depicted on the Tendril Medallion.
 
+[^priest]:
+	**{ Psychoanalysis / Bargaining }**:
+	If the PCs are quick, they can determine what the High Acolyte really wants.
 
 
 

@@ -1,7 +1,6 @@
 ---
-layout:  sequence
-title:   Possession
-seq:     3
+layout: sequence
+title:  Possession
 ---
 
 

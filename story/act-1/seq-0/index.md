@@ -1,8 +1,6 @@
 ---
-redirect_from: "/story/act-0/seq-7/"
-layout:  sequence
-title:   The Turncoat
-seq:     0
+layout: sequence
+title:  The Turncoat
 ---
 
 The party has regrouped in the ruins surrounding the burned school.

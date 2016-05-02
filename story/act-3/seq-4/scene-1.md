@@ -1,8 +1,7 @@
 ---
-layout:      scene
-title:       Rings in the Sky
-scene:       1
-beat:        question
+layout: scene
+title:  Rings in the Sky
+beat:   question
 ---
 
 

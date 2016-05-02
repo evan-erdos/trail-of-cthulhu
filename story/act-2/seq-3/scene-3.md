@@ -1,11 +1,10 @@
 ---
-layout:      scene
-title:       Avatars of Hastur
-seq:         3
-scene:       3
-beat:        procedural
-objective:   down
-subjective:  down
+redirect_from: "/story/act-2/seq-3/scene-end"
+layout: scene
+title:  Avatars of Hastur
+beat:   procedural
+obj:    down
+subj:   down
 ---
 
 

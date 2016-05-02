@@ -1,7 +1,6 @@
 ---
-layout:  sequence
-title:   Cosmic Shores
-seq:     0
+layout: sequence
+title:  Cosmic Shores
 ---
 
 The train rumbles onwards for what seems like months,

@@ -1,9 +1,8 @@
 ---
-layout:      scene
-title:       Colonel Omari
-scene:       0
-beat:        procedural
-objective:   down
+layout: scene
+title:  Colonel Omari
+beat:   procedural
+obj:    down
 ---
 
 

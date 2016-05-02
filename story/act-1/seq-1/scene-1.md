@@ -1,10 +1,9 @@
 ---
-layout:      scene
-title:       Lazarus
-seq:         1
-scene:       1
-beat:        procedural
-objective:   up
+redirect_from: "/story/act-1/seq-1/scene-end/"
+layout: scene
+title:  Lazarus
+beat:   procedural
+obj:    up
 ---
 
 

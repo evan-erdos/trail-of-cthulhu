@@ -1,7 +1,6 @@
 ---
-layout:  sequence
-title:   Of Dark and Deep
-seq:     2
+layout: sequence
+title:  Of Dark and Deep
 ---
 
 Once they make their may to street-level, the group finds that Moscow is starting to flood with the waters of the river Moskva.

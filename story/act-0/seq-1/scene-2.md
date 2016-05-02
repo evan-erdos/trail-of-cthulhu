@@ -1,9 +1,9 @@
 ---
-layout:      scene
-title:       My Old School
-beat:        bringdown
-objective:   down
-subjective:  down
+layout: scene
+title:  My Old School
+beat:   bringdown
+obj:    down
+subj:   down
 ---
 
 The PCs return to their Quarters.

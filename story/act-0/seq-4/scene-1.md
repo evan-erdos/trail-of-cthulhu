@@ -1,9 +1,8 @@
 ---
-layout:      scene
-title:       The Tendril Medallion
-scene:       1
-beat:        procedural
-objective:   up
+layout: scene
+title:  The Tendril Medallion
+beat:   procedural
+obj:    up
 ---
 
 
@@ -27,6 +26,7 @@ A steep set of stone stairs lead down.
 
 
 [^0]: His handmade version of the Tendril Medallion doesn't reflect light.
+
 [^1]: They need to determine that the medallion would likely be reflective.
 
 

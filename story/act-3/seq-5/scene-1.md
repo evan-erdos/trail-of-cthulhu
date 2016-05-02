@@ -1,9 +1,8 @@
 ---
-layout:      scene
-title:       St. Basil's Cathedral
-scene:       1
-beat:        procedural
-objective:   down
+layout: scene
+title:  St. Basil's Cathedral
+beat:   procedural
+obj:    down
 ---
 
 

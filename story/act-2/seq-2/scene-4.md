@@ -1,10 +1,9 @@
 ---
-layout:      scene
-title:       Perpetual Motion
-seq:         2
-scene:       3
-beat:        procedural
-objective:   down
+redirect_from: "/story/act-2/seq-2/scene-end"
+layout: scene
+title:  Perpetual Motion
+beat:   procedural
+obj:    down
 ---
 
 Sputnik is seen approaching this incorporeal being,

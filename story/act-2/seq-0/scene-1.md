@@ -1,9 +1,8 @@
 ---
-layout:      scene
-title:       The God of No Name
-scene:       1
-beat:        pipe
-objective:   up
+layout: scene
+title:  The God of No Name
+beat:   pipe
+obj:    up
 ---
 
 

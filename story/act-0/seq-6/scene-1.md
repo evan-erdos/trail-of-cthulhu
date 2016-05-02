@@ -1,14 +1,12 @@
 ---
-redirect_from: "/story/act-0/seq-end/scene-end/"
-layout:        scene
-title:         Wouldn't You Prefer a Good Game of Chess?
-end:           true
-act:           0
-seq:           5
-scene:         1
-beat:          procedural
-objective:     up
-subjective:    down
+redirect_from:
+- "/story/act-0/seq-6/scene-end/"
+- "/story/act-0/seq-end/scene-end/"
+layout: scene
+title:  Wouldn't You Prefer a Good Game of Chess?
+beat:   procedural
+obj:    up
+subj:   down
 ---
 
 

@@ -1,8 +1,8 @@
 ---
-layout:      scene
-title:       Meet Interesting People...
-beat:        pipe
-objective:   up
+layout: scene
+title:  Meet Interesting People...
+beat:   pipe
+obj:    up
 ---
 
 
@@ -59,7 +59,9 @@ Our saviour?
 ~~~
 
 
-The PCs can attempt to talk Oscar down or disarm him.[^oscar]
+The PCs can attempt to talk Oscar down[^talk] or disarm him.[^gun]
+If they succeed, he doesn't kill himself, but becomes incurably insane.
+Otherwise he attempts to shoot himself.
 
 
 ~~~
@@ -76,7 +78,7 @@ PROFESSOR
 Thank you! Always keeping us safe.
 Everyone, your attention!
 
-The Professor raises his voice, though the crowd is already well at attention.
+The PROFESSOR raises his voice, though the crowd is already well at attention.
 
 PROFESSOR
 This is... what's your name, son?
@@ -132,13 +134,13 @@ They make small talk, but he says nothing about himself.[^jeep]
 The convoy embarks into the jungle.
 
 
-[^oscar]:
+[^talk]:
 	**{ Bargain / Flattery / Psychoanalysis }**:
 	The PCs can try to convince him not to shoot himself or anyone around him.
+
+[^gun]:
 	**{ Stealth / Atheltics / Filch }**:
 	While unlikely, the PCs also might roll to disarm him.
-	If they succeed, he doesn't kill himself, but becomes incurably insane.
-	Otherwise he attempts to shoot himself.
 
 [^jeep]:
 	Borst has a history with the Soviet military,

@@ -1,7 +1,6 @@
 ---
-layout:  sequence
-title:   Shadow of the Hegemon
-seq:     4
+layout: sequence
+title:  Shadow of the Hegemon
 ---
 
 

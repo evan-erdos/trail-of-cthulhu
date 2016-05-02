@@ -1,10 +1,9 @@
 ---
 redirect_from: "/story/act-0/seq-1/scene-end"
-layout:        scene
-title:         Los Paranoias
-end:           true
-beat:          dramatic
-objective:     down
+layout: scene
+title:  Los Paranoias
+beat:   dramatic
+obj:    down
 ---
 
 

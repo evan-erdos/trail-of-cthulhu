@@ -1,9 +1,8 @@
 ---
-layout:      scene
-title:       The Pillars
-scene:       2
-beat:        pipe
-objective:   up
+layout: scene
+title:  The Pillars
+beat:   pipe
+obj:    up
 ---
 
 They side with Dolya.

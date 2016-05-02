@@ -1,9 +1,8 @@
 ---
-layout:      scene
-title:       Secrets Among the Stars
-scene:       2
-beat:        procedural
-objective:   up
+layout: scene
+title:  Secrets Among the Stars
+beat:   procedural
+obj:    up
 ---
 
 The PCs have learned of a strange Jungle Observatory,

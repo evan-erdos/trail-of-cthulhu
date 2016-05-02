@@ -1,7 +1,6 @@
 ---
-layout:  sequence
-title:   The Wrong Cult
-seq:     2
+layout: sequence
+title:  The Wrong Cult
 ---
 
 The PCs return to the Ruins, and they lie in wait,

@@ -1,7 +1,6 @@
 ---
-layout:  sequence
-title:   Nature's Miracle
-seq:     1
+layout: sequence
+title:  Nature's Miracle
 ---
 
 

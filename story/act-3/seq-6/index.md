@@ -1,10 +1,7 @@
 ---
-redirect_from: "/story/act-3/seq-6/"
-layout:        sequence
-title:         And Outstretched Palms
-story:         0
-act:           3
-seq:           6
+redirect_from: "/story/act-3/seq-end/"
+layout: sequence
+title:  And Outstretched Palms
 ---
 
 

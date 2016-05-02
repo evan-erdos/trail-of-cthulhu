@@ -1,9 +1,7 @@
 ---
-redirect_from: "/story/act-2/seq-6/"
-layout:        sequence
-title:         Set Piece
-seq:           6
-act:           2
+redirect_from: "/story/act-2/seq-end/"
+layout: sequence
+title:  Set Piece
 ---
 
 With the soviets original plan all gone bust and Borst having sacrificed himself, the PCs find themselves at the docks that have now been converted into a soviet base. Here they realize that the soviets have not found a suitable use for either the chemical compound from the lab or are able to reconcile the fact that Omari had fed the Black Sea Fleet to his living submersed castle. Slowly the Soviet army begins to unravel with some of its members setting bonfires and burning heretic books and notes. A message from Dolya states that she has intel for them at their room back at the main base.

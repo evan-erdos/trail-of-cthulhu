@@ -1,7 +1,6 @@
 ---
-layout:  sequence
-title:   Slaves of the Past
-seq:     2
+layout: sequence
+title:  Slaves of the Past
 ---
 
 

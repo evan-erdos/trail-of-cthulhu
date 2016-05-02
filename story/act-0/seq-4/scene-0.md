@@ -1,9 +1,8 @@
 ---
-layout:      scene
-title:       Prometheus Bound
-scene:       0
-beat:        procedural
-objective:   down
+layout: scene
+title:  Prometheus Bound
+beat:   procedural
+obj:    down
 ---
 
 
@@ -31,8 +30,11 @@ It's round, with short tendrils around its edge.
 
 
 [^0]: Possession by Hastur causes the yellow sign to appear somewhere on the body.
+
 [^1]: **{ Forensics }**: determine that the wound was self-inflicted.
+
 [^2]: This is his attempt to create his own Tendril Medallion.
+
 [^3]:
     This would imply that *rigor mortis* had already taken hold,
 	but they witnessed him stand up, and throw himself into the sea.

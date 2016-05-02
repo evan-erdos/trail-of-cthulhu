@@ -1,13 +1,13 @@
 ---
-layout:      scene
-title:       I Have No Mouth and I Must Scream
-story:       0
-act:         3
-seq:         5
-scene:       2
-beat:        procedural
-objective:   up
-subjective:  down
+redirect_from:
+- "/story/act-3/seq-6/scene-end"
+- "/story/act-3/seq-end/scene-end"
+- "/story/act-end/seq-end/scene-end"
+layout: scene
+title:  I Have No Mouth and I Must Scream
+beat:   procedural
+obj:    up
+subj:   down
 ---
 
 

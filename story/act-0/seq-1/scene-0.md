@@ -1,8 +1,8 @@
 ---
-layout:      scene
-title:       Red Journalism
-beat:        dramatic
-objective:   up
+layout: scene
+title:  Red Journalism
+beat:   dramatic
+obj:    up
 ---
 
 

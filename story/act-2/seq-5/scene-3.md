@@ -1,11 +1,9 @@
 ---
-layout:      scene
-title:       An Irrefusable Offer
-act:         2
-seq:         5
-scene:       3
-beat:        dramatic
-objective:   down
+redirect_from: "/story/act-2/seq-5/scene-end/"
+layout: scene
+title:  An Irrefusable Offer
+beat:   dramatic
+obj:    down
 ---
 
 

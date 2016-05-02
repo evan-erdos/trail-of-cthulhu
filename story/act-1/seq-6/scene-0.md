@@ -1,10 +1,9 @@
 ---
-layout:      scene
-title:       Awakened
-scene:       0
-beat:        bringdown
-objective:   down
-subjective:  down
+layout: scene
+title:  Awakened
+beat:   bringdown
+obj:    down
+subj:   down
 ---
 
 

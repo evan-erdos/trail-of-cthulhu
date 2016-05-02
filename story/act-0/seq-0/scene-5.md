@@ -1,9 +1,8 @@
 ---
 redirect_from: "/story/act-0/seq-0/scene-end/"
-layout:        scene
-end:           true
-title:         Daytime Cultism
-beat:          pipe
+layout: scene
+title:  Daytime Cultism
+beat:   pipe
 ---
 
 

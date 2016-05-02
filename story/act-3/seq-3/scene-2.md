@@ -1,10 +1,9 @@
 ---
-layout:      scene
-title:       Ilya
-scene:       2
-beat:        procedural
-objective:   down
-subjective:  down
+layout: scene
+title:  Ilya
+beat:   procedural
+obj:    down
+subj:   down
 ---
 
 
