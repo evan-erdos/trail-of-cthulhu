@@ -6,7 +6,7 @@ obj:    up
 ---
 
 
-Having spoken to many of the villagers, the PCs decide to find the chieftain.
+Having spoken to many of the villagers, the PCs decide to find the Chieftain.
 
 ~~~
 INT. CHIEFTAIN'S HUT - MORNING
@@ -81,8 +81,7 @@ waiting at the jungle's edge, and watching them.[^men]
     The Soviets sent a rocket into space, but it fell to Earth somewhere in the area.
 
 With some effort, the PCs convince Ambalo to reveal that his only son was taken.
-His son disappeared without warning,
-a month before the village began to have problems.[^son]
+His son disappeared a month before the village began to have problems.[^son]
 All the other missing villagers showed signs of this "curse" before disappearing.
 
 [^son]:

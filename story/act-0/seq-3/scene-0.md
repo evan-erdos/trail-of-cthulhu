@@ -1,38 +1,88 @@
 ---
 layout: scene
-title:  Joining a Cult
-beat:   procedural
+title:  Daytime Cultism
+beat:   question
 obj:    up
 ---
 
+The PCs return to the main square, to learn about this other tribe.
 
-The PCs return to the Ruins.
+~~~
+INT. BROKEN STOREFRONT - AFTERNOON
 
-At a distance, it looks like it's just a carving of the sun,
-but fine details are hard to make out, as the whole area is lit only by a fire.
-When the PCs get closer, it becomes apparent that it's more:
-The center of what they thought was the sun is actually a twisted face.[^face]
-Its horrified expression immortalized in the red stone, painted over in blood.
-They also observe that some of the tendrils around the edge are pointing inwards,
-and the face appears to be recoiling from them.
+The STUDENTS return to the STOREKEEPER, who is still working frantically.
+He looks like he's being flung around the room by some external force.
+His movements are sloppy, he looks tired, but his eyes are wide open.
+He repeatedly wets a rag with muddy water, and wipes down the entire counter,
+leaving chunks of dirt and grime after each pass.
 
-The PCs lie in wait, to observe another student gaining entry to the ritual.
-When this occurs, they realize that everyone in the ritual is wearing a Talisman,
-just like the ones worn by the tribesmen who ambushed them on the first night.
+STUDENTS
+You've reorganized the whole shop!
 
-If the PCs gave their Talisman to the Professor,
-they can search the area around the ruins for another body.
-Once they have their own Talisman, they can enter the inner circles.[^ruin]
+STOREKEEPER
+y-Yes! I had to make sure... sure... Sure that people would buy meat!
+
+STUDENTS
+They don't seem to be in any particular order.
+
+STOREKEEPER
+Th-they're ordered by... thing-ness!
+
+STUDENTS
+Thing-ness?
+
+STOREKEEPER
+Are you s-sure I can't sell you s-so-some meats?
+
+STUDENTS
+No, thanks. We'd like to know about the other tribe.
+
+STOREKEEPER
+I can't t-t-ell any... non-m-meat buyers about a-any ritual if they don't buy so--
+
+STUDENTS
+We'll buy some meat if you tell us. Do you know anything about it?
+
+STOREKEEPER
+Y-yes! Villagers and some of your p-people, too, take part in it,
+and th-there's another... is being held tomorrow!
+
+STUDENTS
+Where do they do this?
+
+STOREKEEPER
+A-are you going to b-buy meats?
+~~~
 
 
-{% include items/talisman.md %}
+The PCs purchase some weird-smelling meat,[^barter]
+and learn that the ritual is to be held in the ruins themselves.
+
+[^barter]:
+    **{ Barter / Interrogate }**:
+    If they're clever, they can read into him, and barter with him for information.
 
 
-[^face]:
-    This is the same image that is depicted on the Tendril Medallion.
+They are warned, however, that the cultists don't like "interlopers".
 
-[^ruin]:
-	This is plausible, as there are other students at the ritual.
+The PCs are now aware of the ritual (and it's location),
+but will have difficulty gaining entry when it comes time for the ritual.
+
+They travel to the Ruins, and find them empty.
+
+The Ruins are comprised of concentric hemispheres of rough stone pillars,
+the designs of which become more complex as one moves inwards,
+towards the centerpiece: a bloody, stone altar.
+
+Directly behind the altar is a solitary pillar of rough-hewn aplite.[^rock]
+
+[^rock]:
+	**{ Geology }**:
+	Geologists and keen students will recognize that aplite is not native to the area.
+
+While they have learned a few things, they can't learn more until the ritual occurs.
+
+
 
 
 

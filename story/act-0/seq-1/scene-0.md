@@ -56,7 +56,8 @@ PROFESSOR
 Well, I said to him rather plainly, "Ok, Harold. Don't do that."
 Then he raises his hand again, and says, "Thanks doc!"
 
-The professor makes the gesture a second time, and some of the students laugh.
+The professor makes the gesture a second time,
+and a few of the students laugh, possibly out of pity.
 ~~~
 
 
@@ -82,13 +83,11 @@ Ever punctual, he begins his lecture, but he's stammering.
 PROFESSOR BIRCHWELL
 Ah, l-l-let's... g-g-get started, h-here! Ok!
 I... I'd, like to introduce, uh, our honored, uh, guests, or...
-Everyone? I'd like to welcome ILYA ZOLNEROWICH, and his te--
+Everyone? I'd like to welcome ILYA ZOLNEROWICH, and his team.
 
-ILYA ZOLNEROWICH
---Zol-NER-owich.
+ILYA smiles warmly, and turns around in his seat to face the rest of the lab.
 
 PROFESSOR BIRCHWELL
-Ah, yes, yes, of course! A thousand apologies!
 They're doing some unrelated research in the area.
 We try to stay out of their way, but sometimes we run into eachother.
 Try not to step on their toes if we do see them, as I'm sure they will do for us!

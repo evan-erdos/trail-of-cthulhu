@@ -1,128 +1,92 @@
 ---
 layout: scene
-title:  My Old School
-beat:   bringdown
+title:  Decomposed Upon Westminster Bridge
+beat:   pipe
 obj:    down
 subj:   down
 ---
 
 
-The PCs return to their Quarters.
-They may try to look for the Professor or reanalyze their research,
-but the Professor isn't in the lab or in his office, so they eventually retire to bed.
+As they conclude with Chieftain Ambalo, they notice the Professor slip away again.
+They trail him as he weaves his way through the village, to the edge of town.
+He walks directly into the woods, and comes to a stop along a small bridge.
 
-Late at night they awake to find Cindy screaming and clawing at the door.
-Their ears are ringing, and while it *sounds* like a fire alarm, something's off.[^fire]
+The PCs hide in the brush, slightly downstream.
+The sound of the water prevents Professor Birchwell from hearing them.
+They realize he's speaking in Russian to a group of Soviet Troops.
+They also recognize Ilya, who is standing at the other end of the bridge.[^safe]
 
-[^fire]:
-    Professor Birchwell started the fire to destroy his research.
-    He was working with the Soviets, but now he wants to find the rocket himself.
-    If they found his research, they wouldn't need him anymore, and might kill him.
-    While burning the lab was somewhat sensible, the Professor is losing his grip.
+[^safe]:
+    Ilya knows that he's taking a risk with the Professor.
+    He still hasn't perfected the mask's mind control ability,
+    and what's more, the Professor is armed.
 
-~~~
-INT. BURNING LABORATORY - MORNING
+All of a sudden, the Professor pulls out a gun.
+He shoots one of the Soviet Officers, and then takes aim at Ilya.
+At a distance, Ilya appears to be thourougly scandalized.
+His precise reaction, however, is harder to gauge.
+His face seems to shimmer as he looks around, albeit subtly.[^mask]
 
-A group of STUDENTS are frantically gathering their things,
-while CINDY claws at the door so vigorously that her fingers are bleeding.
-
-STUDENTS
-(to CINDY)
-There's a door, right next to you!
-
-CINDY
-(yelling)
-No! You can't! Don't leave!
-I have to get through! No! NO!
-The door! The door! The ringing! AHH!
-If I don't get through, they'll kill me!
-~~~
-
-If they do anything but leave her alone after this, she attacks.
-
----
-
-| Cindy         |    |               |    |
-|---------------|----|---------------|----|
-| Health        |  5 | Athletics     |  3 |
-| Stability     | -2 | Hit Threshold |  0 |
-| Sanity        |  0 | Scuffling     |  1 |
-
----
-
-As they travel through a section of the lab which has caved in,
-they come across an Incensed Student, tearing through some papers.[^look]
+[^mask]:
+    Ilya is wearing the Mask of Hastur,
+    allowing him to induce command hallucinations on a whim.
+    This is what he's using on the Professor,
+    but he doesn't have it down to a science quite yet.
 
 
-[^look]:
-    Some parts of the lab aren't burned, they've been smashed.
-    The Professor used a minor spell from his Grimoire to posess them,
-    and he instructed them to destroy the lab, and his research.
-
+A twig breaks, and Ilya looks directly at the PCs.
+As this happens, the Professor looks unsteady on his feet.
+Ilya looks back at the Professor, who promptly drops his gun,
+and the Professor begins walking back towards the village at a leisurely pace.
 
 
 ~~~
-INT. BURNING LABORATORY - MORNING
+EXT. SMALL BRIDGE - DAY
 
-A group of STUDENTS are trying to escape from their burning laboratory.
-An INCENSED STUDENT is pacing madly, gesticulating and muttering to himself.
-He seems to be quite interested in the contents of the bookshelf,
-which is barring the most obvious egress from the burning building.
-The STUDENTS won't be able to get out without him noticing them.
+ILYA ZOLNEROWICH and an attaché of SOLIDERS approach the STUDENTS.
 
-STUDENTS
-Are you OK?
-
-INCENSED STUDENT
-(to himself)
-... the men, gods, men, gods, awake, wake, wake...
+ILYA ZOLNEROWICH
+You there! Do not move, we do not hurt you!
+Are you by chance student, of the PROFESSOR?
 
 STUDENTS
-We'd like to escape, come with us, we'll get you help!
+Yes, we're with him. Is that man OK?
+What's going on? Should we get help?
 
-INCENSED STUDENT
-(to himself)
-... awakened, wake, woke...
-
-The INCENSED STUDENT swings violently at the papers on the shelf,
-tearing some of them, albeit inefficiently.
-The STUDENTS attempt to pass him, presuming him to be focused solely on the papers.
-
-INCENSED STUDENT
-No, no, LEAVE, NO, do... You! You, staying?
-Ringing, awakened, you are awakened ones! You are!
-
-STUDENTS
-What do you mean by awakened?
-
-INCENSED STUDENT
-That you do not... you know, you understand, you are the awakened!
-You cannot, cannot... cannot ring, leave, awakened ones, awake... wake...
-
-STUDENTS
-We'd like to leave, the building is burning.
-
-INCENSED STUDENT
-Awakened ones are not, afraid of burning, afraid of fire, afraid of gods,
-you are... are... awakened, woken...
+ILYA ZOLNEROWICH
+It is no danger, I promise. Nobody is hurt.
+Are you feel OK? Do you feel safe here?
 ~~~
 
-Time being of the essence, the PCs may decide to incapacitate him to escape.
-Ears still ringing, the PCs push their way out of the building,
-having grabbed whatever they saw fit to take from the bookshelf.
 
-When they look back at the lab, it's like it never existed:
-the outline of their dormitories isn't where it should be,
-and the main lab has been reduced to rubble.
+The PCs suddenly begin to have a strange sensation.[^feel]
+The sun gets brighter, and its warmth feels like it's embracing them.
+The bridge's wooden frame gleams in the sunlight,
+and the trickling of the water seems almost friendly.
 
-The strange part is that they're alone.
-It's as if they're the only ones who even tried to get out.
-Just as they get to safety and begin assessing their situation,
-the ringing in their ears stops.
+[^feel]:
+    When Ilya looks at the PCs, the Mask of Hastur begins to effect them.
+    It exerts a powerful force over their perceptions,
+    and induces these feelings of wellbeing and happiness.
 
+When they look again, the PCs find the bridge to be spotless,
+devoid of any bullet shells or blood.[^bridge]
+They delight in the way the grass wavers about in the warm sun,
+and they get the feeling that everything is going to be OK.
 
+[^bridge]:
+    The bridge appears clean to them by Ilya's design.
+    They need to believe that the Professor didn't murder anyone.
 
+They find that they've walked back to the village,
+with only the faintest inkling that Ilya asked them some questions.
+While they're unable to remember any details,
+they do remember that Ilya's chief concern was their safety and wellbeing,
+and that if they ever ran into trouble with the Professor,
+they could always trust Ilya to keep them safe, or get them home.
 
+Having concluded their business in the area,
+the PCs feel compelled to get back to the Laboratory.
 
 
 

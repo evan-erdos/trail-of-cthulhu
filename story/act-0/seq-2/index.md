@@ -24,5 +24,4 @@ They follow the instructions, and see a blinking object through the telescope.
 Using the charts and telemetry they find in the desks,
 they decode and record what the blinking object is sending for later evaluation.
 
-___
 

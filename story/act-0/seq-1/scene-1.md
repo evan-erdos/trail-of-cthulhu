@@ -11,6 +11,7 @@ They return to the village to present Chieftain Ambalo with their findings.
 The PCs notice that they are the only ones present who were also on the initial expedition.
 Professor Birchwell begins the conversation with the Chieftain.
 
+*[trypanosomiasis]: African Sleeping Sickness
 
 ~~~
 INT. CHIEFTAIN'S HUT - MORNING
@@ -48,7 +49,7 @@ Uh, professor, aren't we supposed to use a combination of nifurtimox and eflorni
 I thought melarsoprol was only for cases of T.b.r. because of the side effect profile.
 
 PROFESSOR BIRCHWELL
-What you fail to understand is that melarsoprol is effective against both paricites,
+What you fail to understand is that melarsoprol is effective against both parasite,
 and since we have no way of telling if this is a case of T.b.g. or T.b.r.,
 the only logical course of action is to use the more effective treatment, now may I--
 
@@ -72,24 +73,6 @@ claiming that they are in the lair of the so-called "Demon Worshippers".[^hastur
 Even if the PCs have no interest in saving the villagers,
 they decide that going to investigate the other tribe could prove to be helpful,
 as it might provide them with new insights into the nature of the Ambalo Tribe's plight.
-
-As they conclude with Chieftain Ambalo,
-they notice Professor Birchwell slip away again.
-They trail him as he weaves his way through the village, to the edge of town.
-He walks directly into the woods, and comes to a stop on a small bridge.
-
-The PCs hide in the brush, slightly downstream.
-The sound of the water prevents Professor Birchwell from hearing them approach.
-They realize he's speaking in Russian to a group of Soviet Troops.
-A twig breaks, and the professor looks directly at the PCs, but says nothing to the man.
-Professor Birchwell departs towards the village.
-The PCs run through the woods to arrive before him, to avoid suspicion.
-
-
-
-
-
-
 
 
 

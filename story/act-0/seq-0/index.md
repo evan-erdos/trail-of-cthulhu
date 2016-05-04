@@ -1,6 +1,6 @@
 ---
 layout: sequence
-title:  Expedition
+title:  Cherry Blossoms and Asphodel
 ---
 
 

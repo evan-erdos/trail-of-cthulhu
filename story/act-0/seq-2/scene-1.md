@@ -1,29 +1,59 @@
 ---
+redirect_from: "/story/act-0/seq-2/scene-end"
 layout: scene
-title:  The Road Not Taken
+title:  Trust Me, I'm a Doctor
 beat:   procedural
-obj:    down
+obj:    up
+subj:   down
 ---
 
 
-The PCs set out into the jungle at night to find the Observatory.
-It's muggy, there's bugs everywhere, and Dolya's wounds still haven't healed.
+~~~
+INT. SOVIET OBSERVATORY, NIGHT
 
-After hearing a string of inexplicably horrifying noises coming from the jungle,
-they are attacked by a strange, tentacled creature.
+After being questioned extensively,
+ILYA returns to where the STUDENTS are being held.
 
-This time, however, a Soviet jeep appears down the road,
-and as the PCs flee, the jeep gunner kills the beast.
+ILYA ZOLNEROWICH
+You are aware that your professor failed us, yes?
 
-Dolya's leg is still wounded, and she can't move very quickly.
-She's taken by the Soviets, who drive off in a different direction.
+STUDENTS
+What was he after?
 
-The PCs follow the tire tracks in the dirt,
-and find themselves in a clearing, where an enormous Observatory has been built.
+ILYA ZOLNEROWICH
+How is it that you are so close to his research,
+yet you do not know this?
+A rocket of our design fell to Earth in the area.
+Your professor was trying to find it.
 
-They lie in wait until the Soviets leave, and then enter the Observatory.
+STUDENTS
+Yes, we worked closely with him.
 
+ILYA ZOLNEROWICH
+So you can be of use to us, yes?
 
+STUDENTS
+Certainly!
+
+ILYA ZOLNEROWICH
+Good. I have a task for you.
+The rituals in the ruins, they are a problem.
+I suspect that whoever is leading them knows what he has under the ruins.
+
+STUDENTS
+Is that where the rocket ended up?
+
+ILYA ZOLNEROWICH
+Yes, and while it is too large to retrieve,
+you need to find out what he knows, and if he intends to cause us problems.
+If you manage this, you are free to return home.
+If you fail us, or if you attempt to escape the area, you will be killed.
+~~~
+
+[^escape]:
+	To escape, they need:
+	**{ Fleeing / Stealth }** for each Player
+	**-1** to every Player's roll if **{ Fleeing < 3 }** for any Player
 
 
 

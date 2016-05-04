@@ -9,7 +9,8 @@ Professor Birchwell has been sent to diagnose a rash of sleep disturbances,
 reported by villagers living near late-Antiquity Roman ruins in Northern Africa.
 He has assembled a team of students and doctors to assist him on this expedition.
 
-The PCs touch down at the Cairo airport, and while they didn't talk much during the flight,
+The PCs touch down at the Cairo airport,
+and while they didn't talk much during the flight,
 they become acquainted during the long bus ride to the Laboratory.
 
 The PCs introduce themselves to eachother,

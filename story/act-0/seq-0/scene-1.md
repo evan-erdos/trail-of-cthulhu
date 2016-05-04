@@ -27,9 +27,9 @@ the PCs realize that they all had strange dreams last night.[^sleep]
 With packs full, the PCs arrive at the staging ground.
 There are other students, jeeps, and security guards everywhere.
 They see Professor Birchwell being instructed in the usage of a firearm.
-He holds it quite awkwardly, and is making jokes with the RSO.
+He holds it quite awkwardly, and is making jokes with the R.S.O.
 
-*[RSO]: Range Safety Officer
+*[R.S.O.]: Range Safety Officer
 
 The PCs are assigned a jeep and are given some basic instructions.
 They're told they can wander around for a short while,

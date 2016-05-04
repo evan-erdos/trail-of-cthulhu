@@ -1,78 +1,99 @@
 ---
+redirect_from: "/story/act-0/seq-0/scene-end/"
 layout: scene
-title:  Rumors
-beat:   question
-obj:    up
+title:  Toadstools and Petrichor
+beat:   pipe
+subj:   down
 ---
 
-
-The PCs return to the main square, to learn about this other tribe.
+After they conclude with Chieftain Ambalo,
+the PCs spend some time looking for any clues they might have missed while in the area.
 
 ~~~
-INT. BROKEN STOREFRONT - AFTERNOON
+EXT. RUINS - AFTERNOON
 
-The STUDENTS return to the STOREKEEPER, who is still working frantically.
-He looks like he's being flung around the room by some external force.
-His movements are sloppy, he looks tired, but his eyes are wide open.
-He repeatedly wets a rag with muddy water, and wipes down the entire counter,
-leaving chunks of dirt and grime after each pass.
+The PROFESSOR walks up behind the STUDENTS, with a solemn look on his face.
 
-STUDENTS
-You've reorganized the whole shop!
-
-STOREKEEPER
-y-Yes! I had to make sure... sure... Sure that people would buy meat!
+PROFESSOR
+Are you quite finished?
 
 STUDENTS
-They don't seem to be in any particular order.
+Yes, PROFESSOR. We're mostly done here.
 
-STOREKEEPER
-Th-they're ordered by... thing-ness!
-
-STUDENTS
-Thing-ness?
-
-STOREKEEPER
-Are you s-sure I can't sell you s-so-some meats?
+PROFESSOR
+I suppose you haven't heard the news then, having been out here?
 
 STUDENTS
-No, thanks. We'd like to know about the other tribe.
+What news?
 
-STOREKEEPER
-I can't t-t-ell any... non-m-meat buyers about a-any ritual if they don't buy so--
+PROFESSOR
+(sighing)
+I'll tell you back at the caravan, they're ready to go.
+
+They walk back to their meager camp, and it's more quiet than usual.
+They observe the PROFESSOR'S jeep depart.
+Their DRIVER looks them over.
+
+DRIVER
+You ain't heard the news, huh?
 
 STUDENTS
-We'll buy some meat if you tell us. Do you know anything about it?
+No, we haven't.
 
-STOREKEEPER
-Y-yes! Villagers and some of your p-people, too, take part in it,
-and th-there's another... is being held tomorrow!
+DRIVER
+Well... the main lab radioed in about an hour ago.
 
 STUDENTS
-Where do they do this?
+And...?
 
-STOREKEEPER
-A-are you going to b-buy meats?
+DRIVER
+There's no way to put it delicately...
+Some kid ... killed himself, after he shot some lady.
+Apparently there was some trouble with him earlier, too.
+I don't know much about that.
 ~~~
 
+With this, the caravan gets underway, but it's a boring and uneventful ride.
+The caravan returns to the lab, and they begin analysis on the samples immediately.
+They test against many common diseases and afflictions,
+but none of the tests come back positive.[^test]
 
-The PCs purchase some weird-smelling meat,[^barter]
-and learn that the ritual is to be held in the ruins themselves.
+[^test]:
+    There are no matches because they're not sick.
+    All of their ailments are a direct result of being altered by Cthulhu,
+    and their proximity to the ocean.
 
-[^barter]:
-    **{ Barter / Interrogate }**:
-    If they're clever, they can read into him, and barter with him for information.
+Perplexed and exhausted, they retire to their room.
+Oscar's possessions have been cleared away,
+let alone a scrap of paper under the bed.
+The PCs recognize it as the letter he was writing the first night.
+
+It reads:
+
+> Dear Mom,
+
+> It has been going good since I got here.
+> I've been taking my pills, you're always so worried I forget.
+> Since we landed, some of the weird voices came back, but don't worry!
+> I actually took extra today, even though they make me feel weird.
+> I'm all grown up, and I'm going on an expedition! I'll be researching!
+> I'm exited about tomorr--
+
+The PCs might recall that he was writing for more than an hour.
+This appears to be as far as he got.[^note]
+
+[^note]:
+    While it's possible that Oscar's actions were entirely due to his illness,
+    he says he took more pills than usual.
+    Extra antipsychotics would make him a lethargic zombie, not a psychotic murderer.
 
 
-They are warned, however, that the cultists don't like "interlopers".
-
-
-
-
-
-
-
-
+The PCs hear footsteps in the hall, and then Cindy and Borst enter the room.
+Borst tells them that they've made up another room for them in the basement.
+Cindy begins the arduous process of repacking all her things.
+With their things gathered, Cindy and the PCs relocate to the basement room.
+While not first-class accomodations, the room is a step in the right direction.
+They settle in, and try their best to sleep.
 
 
 

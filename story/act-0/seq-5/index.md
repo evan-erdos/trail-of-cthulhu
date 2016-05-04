@@ -1,6 +1,6 @@
 ---
 layout: sequence
-title:  Brave New Ruins
+title:  Secrets Among the Stars
 ---
 
 
