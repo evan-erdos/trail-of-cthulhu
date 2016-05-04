@@ -8,8 +8,12 @@ obj:    down
 
 As the PCs walk down the stairs of entrance, they hear rumbling.
 The entrance begins to collapse, and they'd die if they tried to run back.
-Stone begins to roll down the stairs, and if they aren't fast enough,[^0]
+Stone begins to roll down the stairs, and if they aren't fast enough,[^rock]
 they'll be pretty severely hurt.
+
+[^rock]:
+    **{ Athletics }**:
+    If they're not nimble enough, they'll be wounded right before a battle.
 
 Now, they're a dozen feet underground, and possibly wounded.
 While they're still in the dark, they're attacked by something.
@@ -21,7 +25,6 @@ While they're still in the dark, they're attacked by something.
 | Health           | 6  |
 | Athletics        | 6  |
 | Hit Threshold    | 3  |
-| Cthulhu Mythos   | 10 |
 | Scuffling        | 4  |
 
 ---
@@ -35,9 +38,6 @@ Once they defeat the creature, they assess their surroundings.
 They're in a damp, underground grotto, and they can faintly hear running water.
 Exploring the warrens, they find a ledge at the end of one passage.
 They also find another cavern, with an underground river running through it.
-
-[^0]: **{ Athletics }**: avoid falling rocks
-
 
 
 

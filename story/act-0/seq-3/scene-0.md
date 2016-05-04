@@ -1,6 +1,6 @@
 ---
 layout: scene
-title:  Daytime Cultism
+title:  Joining a Cult
 beat:   question
 obj:    up
 ---

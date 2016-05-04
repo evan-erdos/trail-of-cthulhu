@@ -1,6 +1,6 @@
 ---
 layout: scene
-title:  Joining a Cult
+title:  Lasciate Ogne Speranza...
 beat:   procedural
 obj:    up
 ---

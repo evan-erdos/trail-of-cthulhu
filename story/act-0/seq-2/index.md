@@ -1,27 +1,25 @@
 ---
 layout: sequence
-title:  The Secret Observatory
+title:  A Change in the Weather
 ---
 
 
-They return to the Lab, which has been rebuilt slightly since the fire.
-They clean themselves up, and they learn that Professor Birchwell is missing,
-and that nobody has seen him since the fire.
+The next day, the PCs are summoned to the main lab.
+After the Professor gives an unusual lecture,
+they return to the village to present the chief with their findings.
 
-The PCs set out into the jungle at night to find the Observatory.
-After hearing a string of inexplicably horrifying noises coming from the jungle,
-they are attacked by another strange, tentacled creature.
-This time, however, a Soviet jeep appears down the road,
-and as the PCs flee, the jeep gunner kills the beast.
+Professor Birchwell tells the Chieftain that the village has *trypanosomiasis*
+(African Sleeping Sickness), however, none of the samples the PCs analyzed corroborate this.
 
-The PCs follow the tire tracks in the dirt,
-and find themselves in a clearing, where an enormous Observatory has been built.
+As they conclude with the Chieftain, they notice Professor Birchwell slip away again.
+He stops at a bridge in the woods, and the PCs observe him at a distance.
+They realize he's speaking in Russian to someone on the other side of the bridge.
 
-Having found a way in, the PCs begin to gather information.
-They rife through desks and drawers, read documents, and find some instructions.
+The next morning, the PCs awake to the sound of sirens, and flee their rooms.
+It smells like smoke, and sections of the Laboratory are crumbling.
+They observe some of their peers doing very strange things.
 
-They follow the instructions, and see a blinking object through the telescope.
-Using the charts and telemetry they find in the desks,
-they decode and record what the blinking object is sending for later evaluation.
-
+After they escape the lab, the PCs pore over the notes they found.
+They learn that the Professor's research was not what it seemed,
+and they notice him leaving the Lab, down a road to the North.
 

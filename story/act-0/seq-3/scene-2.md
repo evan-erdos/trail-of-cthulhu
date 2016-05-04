@@ -1,6 +1,6 @@
 ---
 layout: scene
-title:  Diplomacy with Necromancers
+title:  ...Voi Ch'Intrate
 beat:   dramatic
 subj:   down
 ---
@@ -22,7 +22,7 @@ Entering the catacombs, they find piles of corpses.
 As they leave, if they're observant, they notice a symbol over the archway.[^face]
 
 In their attempts to learn more about the ritual,
-the PCs are eventually caught by none other than the High Acolyte.
+the PCs are eventually caught by a High Acolyte of the clergy.
 
 ~~~
 INT. ALTAR ROOM, INSIDE RUINS - DUSK
@@ -32,7 +32,7 @@ A horrific sacrifice is beginning in the Ampitheater.
 When they enter the Altar Room, they are suprised by the HIGH ACOLYTE.
 He moves lightly, like he's floating around in his flowing robes.
 He sways back and forth in a kind of rhythm.
-Although he appears to be a native, he speaks in monotone, un-accented English.
+When he speaks, it's as if his voice is coming from somewhere else.
 
 HIGH ACOLYTE
 The Yellow King consecrated this eisodos.
@@ -56,7 +56,7 @@ He narrows his gaze on one of the STUDENTS, and he smiles.
 HIGH ACOLYTE
 Your... trespasses warrant a punishment, but you may yet be awakened.
 
-LEE RUNGE HAMMARBURG
+STUDENTS
 What must we do? I am unafraid!
 
 HIGH ACOLYTE

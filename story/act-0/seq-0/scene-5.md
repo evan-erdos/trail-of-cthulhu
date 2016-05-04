@@ -1,7 +1,7 @@
 ---
 redirect_from: "/story/act-0/seq-0/scene-end/"
 layout: scene
-title:  Toadstools and Petrichor
+title:  Cherry Blossoms and Asphodel
 beat:   pipe
 subj:   down
 ---

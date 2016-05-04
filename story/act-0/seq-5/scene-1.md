@@ -1,5 +1,5 @@
 ---
-redirect_from: "/story/act-0/seq-2/scene-end"
+redirect_from: "/story/act-0/seq-5/scene-end"
 layout: scene
 title:  A Mind Forever Voyaging
 beat:   bringdown

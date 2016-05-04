@@ -23,6 +23,8 @@ They become attuned to it, and they notice a specific phrase being repeated:
 
 > ...ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl ftagn...
 
+(PCs gain **{ Cthulhu Mythos + 1 }**)
+
 Their vision fades, and they wake up on the shore, with their bodies rearranged.
 They appear to have crawled out of the water in their sleep,
 and put one hand back in the water.

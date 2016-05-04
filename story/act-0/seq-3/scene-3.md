@@ -52,8 +52,26 @@ The HIGH ACOLYTE pauses for a moment to disarm the STUDENT,
 and continues to speak while he wipes the blood off of the CEREMONIAL KNIFE.
 
 HIGH ACOLYTE
-(cont'd)
-Your awakening must continue.
+What do you wish to know?
+
+STUDENTS
+Who are you?
+
+EFUA AMBALO
+I am EFUA AMBALO, head priest of the Order of the Yellow Sign.
+
+STUDENTS
+You're the CHIEFTAIN's son?
+
+EFUA AMBALO
+No longer. I serve the Yellow King now.
+My father was lost to the demons long ago.
+
+STUDENTS
+What can you tell us of the catacombs beneath the ruins?
+
+EFUA AMBALO
+Your awakening must continue before you learn such things.
 The Yellow King instructs you to find the Dreaming One.
 He told me of a sacred dream realm, larger than anyplace on earth,
 which was watched over by a golden disc.
@@ -67,7 +85,7 @@ The PCs set off to find him.[^dream]
 
 [^guard]:
 	**{ Reassurance }**:
-	If the PCs are smooth enough, the High Acolyte will lower his guard.
+	If the PCs are smooth enough, Efua will lower his guard.
 
 [^dream]:
     This is a dream representation of the Tendril Medallion.

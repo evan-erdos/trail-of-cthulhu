@@ -1,11 +1,11 @@
 ---
 layout: sequence
-title:  The Wrong Cult
+title:  Diplomacy with Necromancers
 ---
 
 
-The PCs return to the Ruins, and they lie in wait,
-to observe another student gaining entry to the ritual.
+Now doing Ilya's bidding, the PCs return to the Ruins.
+They lie in wait to observe someone gaining entry to the ritual.
 They show their talisman to the cultists, and they are welcomed into the main crowd.
 
 As they move closer, they discover a horrific scene.

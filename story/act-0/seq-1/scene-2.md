@@ -18,20 +18,11 @@ They also recognize Ilya, who is standing at the other end of the bridge.[^safe]
 
 [^safe]:
     Ilya knows that he's taking a risk with the Professor.
-    He still hasn't perfected the mask's mind control ability,
+    He still hasn't perfected their mind control device,
     and what's more, the Professor is armed.
 
 All of a sudden, the Professor pulls out a gun.
 He shoots one of the Soviet Officers, and then takes aim at Ilya.
-At a distance, Ilya appears to be thourougly scandalized.
-His precise reaction, however, is harder to gauge.
-His face seems to shimmer as he looks around, albeit subtly.[^mask]
-
-[^mask]:
-    Ilya is wearing the Mask of Hastur,
-    allowing him to induce command hallucinations on a whim.
-    This is what he's using on the Professor,
-    but he doesn't have it down to a science quite yet.
 
 
 A twig breaks, and Ilya looks directly at the PCs.
@@ -65,7 +56,7 @@ The bridge's wooden frame gleams in the sunlight,
 and the trickling of the water seems almost friendly.
 
 [^feel]:
-    When Ilya looks at the PCs, the Mask of Hastur begins to effect them.
+    When Ilya looks at the PCs, the mind control prototype begins to act on them.
     It exerts a powerful force over their perceptions,
     and induces these feelings of wellbeing and happiness.
 
@@ -76,7 +67,7 @@ and they get the feeling that everything is going to be OK.
 
 [^bridge]:
     The bridge appears clean to them by Ilya's design.
-    They need to believe that the Professor didn't murder anyone.
+    He needs them to believe that the Professor didn't murder anyone.
 
 They find that they've walked back to the village,
 with only the faintest inkling that Ilya asked them some questions.
@@ -87,9 +78,6 @@ they could always trust Ilya to keep them safe, or get them home.
 
 Having concluded their business in the area,
 the PCs feel compelled to get back to the Laboratory.
-
-
-
 
 
 

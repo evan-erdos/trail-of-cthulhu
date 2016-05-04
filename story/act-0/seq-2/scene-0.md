@@ -19,7 +19,7 @@ they notice an out of place American Jeep parked near the Observatory's main Atr
 ~~~
 INT. OBSERVATORY ATRIUM - NIGHT
 
-A group of STUDENTS enter the Observatory,
+A group of STUDENTS enter the building,
 and find the PROFESSOR scribbling away in a little black book.
 He takes notice of them, and stands.
 
@@ -51,7 +51,7 @@ The PROFESSOR gives no reply whatsoever.
 He seems to have not even heard them.
 
 STUDENTS
-Why did you tell that Chieftain his village had trypanosomiasis?
+Why did you tell AMBALO his village had trypanosomiasis?
 We didn't find any evidence of that in the lab.
 
 PROFESSOR BIRCHWELL
@@ -126,23 +126,6 @@ Find a way home, get out of here, and never speak of this to anyone.
 ~~~
 
 The Professor gathers his things, and begins to leave the Observatory.
-At this moment, Ilya and some soldiers begin to enter from the other side.
-Ilya commands his men to stop the Professor, but he escapes into the night.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
