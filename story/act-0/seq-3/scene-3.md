@@ -31,6 +31,10 @@ then the High Acolyte will trust them, and let his guard down.[^guard]
 If he doesn't believe they're genuine, he will keep his distance,
 and the PCs will have no opportunity to strike him.
 
+[^guard]:
+	**{ Reassurance }**:
+	If the PCs are smooth enough, Efua will lower his guard.
+
 
 ~~~
 EXT. CENTERSTAGE, RUINS AMPITHEATER - NIGHT
@@ -73,19 +77,16 @@ What can you tell us of the catacombs beneath the ruins?
 EFUA AMBALO
 Your awakening must continue before you learn such things.
 The Yellow King instructs you to find the Dreaming One.
-He told me of a sacred dream realm, larger than anyplace on earth,
-which was watched over by a golden disc.
-He told me of its wonder, how it filled the sky with wisps of gold.
 You will find this dreamer, he can achieve your awakening.
 ~~~
 
+Efua goes on to describe what the Dreaming One told him about the other realm.
+It's a sacred dream realm, larger than anyplace on earth,
+which was watched over by a golden disc.
+Efua makes broad gestures when describing its wonder,
+and how it filled the sky with wisps of gold.
 
-The PCs set off to find him.[^dream]
-
-
-[^guard]:
-	**{ Reassurance }**:
-	If the PCs are smooth enough, Efua will lower his guard.
+The PCs set off to find the Dreaming One.[^dream]
 
 [^dream]:
     This is a dream representation of the Tendril Medallion.

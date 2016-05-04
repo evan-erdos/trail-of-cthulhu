@@ -1,11 +1,11 @@
 ---
 layout: scene
-title:  Joining a Cult
+title:  Daytime Cultism
 beat:   question
 obj:    up
 ---
 
-The PCs return to the main square, to learn about this other tribe.
+The PCs, Borst, and Dolya return to the main square.
 
 ~~~
 INT. BROKEN STOREFRONT - AFTERNOON
@@ -16,13 +16,13 @@ His movements are sloppy, he looks tired, but his eyes are wide open.
 He repeatedly wets a rag with muddy water, and wipes down the entire counter,
 leaving chunks of dirt and grime after each pass.
 
-STUDENTS
+DOLYA
 You've reorganized the whole shop!
 
 STOREKEEPER
 y-Yes! I had to make sure... sure... Sure that people would buy meat!
 
-STUDENTS
+BORST
 They don't seem to be in any particular order.
 
 STOREKEEPER
@@ -40,7 +40,7 @@ No, thanks. We'd like to know about the other tribe.
 STOREKEEPER
 I can't t-t-ell any... non-m-meat buyers about a-any ritual if they don't buy so--
 
-STUDENTS
+DOLYA
 We'll buy some meat if you tell us. Do you know anything about it?
 
 STOREKEEPER

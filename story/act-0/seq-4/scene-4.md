@@ -1,5 +1,4 @@
 ---
-redirect_from: "/story/act-0/seq-4/scene-end"
 layout: scene
 title:  Are You Experienced?
 beat:   pipe
@@ -8,6 +7,8 @@ obj:    up
 
 
 The PCs gather themselves, pack up their things, and take the plunge.[^0]
+
+[^0]: **{ Stability }**: remain sane while in the water
 
 Strange shapes flit in and out of their minds, and they begin to fall asleep.
 Their dreams are more lucid than life, and they dream of strange oceanscapes,
@@ -38,11 +39,6 @@ When they pull it out of the water, they realize it's the Tendril Medallion.
 {% include items/medallion.md %}
 
 They exit the cavern, and find themselves along the shore.
-
-[^0]: **{ Stability }**: remain sane while in the water
-
-
-
 
 
 

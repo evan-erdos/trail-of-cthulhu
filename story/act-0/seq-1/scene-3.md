@@ -42,11 +42,11 @@ If they do anything but leave her alone after this, she attacks.
 
 ---
 
-| Cindy         |    |               |    |
-|---------------|----|---------------|----|
-| Health        |  5 | Athletics     |  3 |
-| Stability     | -2 | Hit Threshold |  0 |
-| Sanity        |  0 | Scuffling     |  1 |
+| Cindy     |    |               |    |
+|-----------|----|---------------|----|
+| Health    |  5 | Athletics     |  3 |
+| Stability | -2 | Hit Threshold |  0 |
+| Sanity    |  0 | Scuffling     |  1 |
 
 ---
 

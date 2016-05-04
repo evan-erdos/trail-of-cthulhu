@@ -2,7 +2,7 @@
 redirect_from: "/story/act-0/seq-1/scene-end"
 layout: scene
 title:  Going to Have to Leave Me Now
-beat:   dramatic
+beat:   procedural
 obj:    down
 ---
 

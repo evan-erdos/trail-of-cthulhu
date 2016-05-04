@@ -1,6 +1,6 @@
 ---
 layout: scene
-title:  ...Voi Ch'Intrate
+title:  Lasciate Ogne Speranza...
 beat:   dramatic
 subj:   down
 ---
@@ -57,7 +57,7 @@ HIGH ACOLYTE
 Your... trespasses warrant a punishment, but you may yet be awakened.
 
 STUDENTS
-What must we do? I am unafraid!
+What must we do? We are unafraid!
 
 HIGH ACOLYTE
 You would begin with a false belief?
@@ -68,6 +68,14 @@ You will perform the sacrifice.
 
 STUDENTS
 And if we kill for this god, you will educate us about him?
+
+DOLYA
+(whispering)
+We are not seriously considering--
+
+BORST
+(whispering harshly, shushing DOLYA)
+--would he not be sacrificed in either case?
 
 HIGH ACOLYTE
 I will teach you all that I know about the Yellow King.

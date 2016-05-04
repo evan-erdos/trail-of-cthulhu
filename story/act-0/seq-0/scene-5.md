@@ -2,7 +2,7 @@
 redirect_from: "/story/act-0/seq-0/scene-end/"
 layout: scene
 title:  Cherry Blossoms and Asphodel
-beat:   pipe
+beat:   bringdown
 subj:   down
 ---
 

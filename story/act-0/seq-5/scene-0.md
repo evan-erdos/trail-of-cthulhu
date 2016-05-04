@@ -1,137 +1,62 @@
 ---
 layout: scene
-title:  The Road Not Taken
+title:  Always Returning
 beat:   procedural
-obj:    up
+obj:    down
 ---
 
 
-The PCs and Dolya have followed the Professor down a jungle road.
-It opens up into a clearing, the centerpiece of which is a grand Observatory.
-
-The PCs now must find a way past the guards, and into the building.
-They have waited until dusk, and are along a dusty path which leads to the Observatory.
-There isn't much activity around the Observatory.
-However, there is a steady flow of vehicles entering and exiting the area.
-Once inside, they must learn everything they can about the Professor, and the Soviets.
-
----
-
-Coming from the southeast, there's a vehicle checkpoint, manned by 1 **Gate Guard**.
-The checkpoint is run down and somewhat isolated from the rest of the area.
-While the **Gate Guard** cannot be reasoned with,
-he can be overpowered[^gate] and impersonated.[^who]
-If they maintain the illusion long enough, they can hijack an incoming vehicle.[^fire]
-
-[^gate]:
-	**{ Scuffling / Athletics }**:
-	They need to sneak up on him and incapacitate him somehow.
-	**+1** bonus if they took the vines from the fence to tie him up with.
-
-[^who]:
-    **{ Disguise / Languages }**:
-    Their impersonation of a gate guard doesn't need to be perfect,
-    it just needs to last long enough to hijack a vehicle.
-
-[^fire]:
-	**{ Firearms / Weapons }**:
-	This becomes harder if they fail to **Sense Trouble** as a vehicle is approaching,
-	or if anyone in the group is particularly clumsy **{ Stealth / Athletics}**.
-
-
----
-
-| Gate Guard     |    |
-|----------------|----|
-| Health         |  8 |
-| Stability      | 10 |
-| Sanity         | 10 |
-| Athletics      |  5 |
-| Hit Threshold  |  3 |
-| Scuffling      |  2 |
-| Firearms       |  6 |
-
----
-
-
-After they subdue him and set up shop, traffic will conveniently become less frequent,
-allowing them the time to interrogate the **Gate Guard**.[^guard]
-
-[^guard]:
-	To get information out of him, they need **{ Languages }**.
-	It also takes some effort to convince him to talk **{ Interrogation / Intimidation }**.
-	This yields basic information about the Observatory, and its layout.
-	However, if they ask about anything more, he claims to know nothing.
-	To get more out of him, they need **{ Languages }** to understand him,
-	**{ Intimidation / Psychoanalysis }** to get him to talk more,
-	and **{ Assess Honesty / Psychoanalysis }** to verify he believes what he says.
-
-
+Having come up short, the PCs must now return to Ilya with their findings.
+The PCs did find one item of interest, a Medallion,
+but Borst and Dolya have split opinions about what to do with it.
+Ilya appears to be in posession of the Professor's Grimoire now,
+and is studying it intently.
 
 ~~~
-EXT. GUARD BOOTH - NIGHT
+INT. OBSERVATORY VIEWING PLATFORM - MORNING
 
-The Party has kidnapped a guard, and is questioning him.
+A group of STUDENTS have returned from their mission,
+and now must report their findings to ILYA,
+who has promised them passage home upon completing this task.
 
-STUDENTS
-Tell us about the OBSERVATORY.
-
-GATE GUARD
-It is OBSERVATORY, with refractor telescope in the middle.
-There are metal path around inside edge,
-and stairs from the paths to entrance, and up to Control Room.
-
-In Control Room, there are lot of office... and papers, things.
-I not... I lack clearance to go in Control Room, I am apologize.
+ILYA ZOLNEROWICH
+Good to see friends. What have you found?
 
 STUDENTS
-Are there guards?
+The "Dreaming One" you sent us to look for was killed,
+and we didn't find any crashed rockets.
 
-GATE GUARD
-Three guards patrol outside base, 5 minute interval.
-Inside? no guards. The scientist, he does not allow these things.
+ILYA ZOLNEROWICH
+Unfortunate, but it is not problem.
+We have made progress here, decrypting what of the PROFESSOR's notes.
+Come closer, I wonder if you are make sense of this.
 
-STUDENTS
-The Scientist?
+The STUDENTS approach the desk and examine the strange book.
+They're suprised to find that they are able to read the arcane scripts!
+ILYA takes notice of this, and his eyes become wide.
 
-GATE GUARD
-Scientist? He is British. I have not spoken to him personal.
-
-STUDENTS
-Who is you C.O.?
-
-GATE GUARD
-Enough, American dogs. You kill me now, for Mother Russia!
+ILYA ZOLNEROWICH
+Ah, you can read it, yes?
+Tell me, read me the section about using the artefact it describes.
+We think it describes some sort of procedure, but we do not know.
 ~~~
 
+They fully comprehend the passage. It reads:
 
-If they gain entry, but aren't able to hijack a vehicle,
-the PCs must sneak into the main Observatory on their own.
-
-They make it past the guards, and enter the Observatory.[^in]
-
-[^in]:
-	3 **Guards** walk the perimeter at regular intervals.
-	The **Guards** are humorless, and are immediately hostile to the PCs.
-	On the opposite side of the Observatory, there's plenty of foliage.
-	**{ Stealth / Athletics }**:
-	They get across unseen, **+1** if they interrogated the **Gate Guard**.
-	**{ Lockpicking / Architecture }**:
-	to open the door or find another way in, **-1** if they run at the wrong time,
-	or if they don't use the foliage as cover.
+> ...the Mask is a thing of great power, power greater than any living form can sustain.
+> When handling the Mask, precautions must be taken.
+> If it gets too close to its wearer, the power will become overwhelming.
+> Once a being is gradually brought closer to the Mask, its power will attune.
+> With a sufficiently long treatment, a person could even wear the Mask with no ill effects...
 
 
----
+The PCs have a few options here, they can:
 
-| Soviet Troops |    |                |    |
-|---------------|----|----------------|----|
-| Health        | 10 | Weapon         | +4 |
-| Stability     |  7 | Alertness      | +2 |
-| Sanity        | 10 | Stealth        | +2 |
-| Athletics     |  8 | Firearms       | 6  |
-| Scuffling     |  5 | Hit Threshold  | 5  |
+- read Ilya the passage, verbatim
+- read Ilya most of the passage, but claim to not understand everything
+- read the passage, but tell Ilya it means the opposite of what it says
+- read him the passage, but omit subtle but critical details
 
----
 
 
 

@@ -2,7 +2,7 @@
 redirect_from: "/story/act-0/seq-2/scene-end"
 layout: scene
 title:  Shelter from the Storm
-beat:   procedural
+beat:   dramatic
 obj:    up
 subj:   down
 ---
@@ -105,14 +105,19 @@ What are we supposed to do?
 ILYA ZOLNEROWICH
 Find the cultist they call "The Dreaming One",
 and see if he knows anything about our rocket.
+I want you to be safe. I will send someone I trust along with you.
 ~~~
 
 The PCs are escorted out, and as promised,
 are given a place to stay in the makeshift Soviet base near the Village.
 
+As they're settling in, Borst arrives,
+and says he's been instructed to travel with them.
 
+He and Dolya agree that in the morning,
+they should return to town and ask about a ritual.
 
-
+The group agrees to meet at 0900 hours, at the Village square.
 
 
 

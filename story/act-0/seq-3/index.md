@@ -33,7 +33,8 @@ As the player brings the *Ceremonial Knife* down,
 the Sacrificial Student begins to say their name.
 His voice trails off after his heart is perforated by the knife.
 
-Satisfied with their work, the High Acolyte tells them about a tribesman named only "The Dreaming One",
+Satisfied with their work, the High Acolyte reveals himself to be Efua Ambalo,
+and tells them about a cultist named only "The Dreaming One",
 who claims to be able to communicate with gods.
 
 The PCs set out to find him.
