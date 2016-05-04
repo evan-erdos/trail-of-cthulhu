@@ -1,127 +1,99 @@
 ---
 layout: scene
-title:  An Outdoor Asylum
-beat:   question
-obj:    up
+title:  ... and Kill Them
+beat:   procedural
+obj:    down
 ---
 
 
-When the caravan arrives, they are met with the sight a dying village.
-Villagers, clad in rags, are seen roaming the streets, or sleeping in alleyways.
-Nearly everyone appears to be sleep deprived, and some even have physical wounds.[^ill]
-
-Professor Birchwell delegates assignments to the group.
-The PCs are to question the more salient locals,
-to determine what they think the cause of their sickness is.
-They are also tasked with finding the village leader, and getting his opinion.
-
-After this, Professor Birchwell wanders off into the village.[^prof]
-If the PCs attempt to trail him, they lose sight of him in the crowd.
+The crowd disperses, and preparations continue.
+The PCs are assigned a jeep.
 
 ~~~
-INT. BROKEN STOREFRONT - DAY
+EXT. NORTH STAGING GROUNDS - DAY
 
-The STUDENTS find a STOREKEEPER who is obsessively trying to clean his shop.
-He looks like he's being flung around the room by some external force.
-His movements are sloppy, he looks tired, but his eyes are wide open.
-He repeatedly wets a rag with muddy water, and wipes down the entire counter,
-leaving chunks of dirt and grime after each pass.
+A group of STUDENTS are busy at work packing daybags into their jeep.
+When they try to sit, however, the DRIVER speaks up.
 
-STUDENTS
-Why are you cleaning so much?
-
-STOREKEEPER
-To make p-people buy food! Wouldsh-would you like to buy f-food?
+DRIVER
+Not up front, hey... hey, you hear me?
+That's where the pointman sits.
 
 STUDENTS
-No, thank you. Do people buy much food?
+The pointman?
 
-STOREKEEPER
-Oh yes, much much-ch more now. The s-sickness makes... very hungry!
+DRIVER
+Yeah, someone gotta keep us safe,
+he need the best seat, know what I mean?
+
+BORST approaches the jeep.
+His accent is thick, but understandable.
+
+BORST
+You already have a... security? Or, I sit here?
+
+DRIVER
+Yeah, yeah, go ahead.
+
+BORST boards the jeep, and the convoy embarks into the jungle.
+As they continue into the jungle,
+BORST turns around to face the STUDENTS.
+
+BORST
+Hello, I am BORST. You are all student here?
 ~~~
 
-This is strange, as everyone in the village appears to be malnourished.
-Examining the shelves, they find military rations with Cryllic letters on them.[^hint]
-They thank him, and depart to the village well.
+Borst asks them about who they are, and their backgrounds.
+They make small talk, but he says nothing about himself.[^jeep]
 
-~~~
-EXT. RUINED VILLAGE - DAY
+[^jeep]:
+    Borst has a history with the Soviet military,
+    and an ulterior motive regarding the Professor and his research.
 
-The STUDENTS find a VILLAGER, drowsily cranking the pulley on the village's well.
-They notice that the rope is not attached to a bucket,
-he's just coiling and uncoiling the rope.
-
-STUDENTS
-Are you getting any water?
-
-VILLAGER
-...th.. the water helps... people.
-
-STUDENTS
-What do you mean, it helps people?
-
-VILLAGER
-...hot, during, during the... sun. The sun makes...
-
-STUDENTS
-It doesn't seem very hot outside.
-
-VILLAGER
-Ish... well, no. The ocean... water th... hot away...
-
-STUDENTS
-What do you mean?
-
-VILLAGER
-The ocean... th... it's th... the wind.
-
-STUDENTS
-Ok, so, how much water do you drink, usually?
-
-VILLAGER
-...the... the sun isn't hotter, but we are still thirsty.
-
-STUDENTS
-Are you thirsty at night, too?
-
-VILLAGER
-Yes, people are... thirsty, all... all the time thirsty...
-~~~
-
-Again, the PCs note these symptoms to be very strange.
-It hasn't been particularly hot, and they seem to have no shortage of water or shade.
-
-They have similar encounters with villagers, and while all of their stories match,
-it doesn't fit any particular sickness that they've ever seen or learned about.
-The PCs gather samples from the village, and set off to find the village's chief.
-
-[^ill]:
-    The Village's ailments are being caused by a ritual they perform.
-    They travel to a secluded area in the Ruins, and drink from an underwater river there.
-    The river, they say, has magical properties.
-    What they don't realize is that it is being contaminated by a fallen Soviet rocket.
+Smoke begins to pour out from under the hood of the Professor's jeep.
+Professor Birchwell becomes irate with the driver,
+and begins to lambaste him about coolant fluids.[^prof]
 
 [^prof]:
-    Professor Birchwell is off talking with Ilya Zolnerowich about the artefact.
+    This reaction is quite out of character for the Professor,
+    but the PCs don't know that yet.
 
-[^wind]:
-    Being near the ocean means there's probably a constant 10 knot wind.
-    If there's enough wind, bugs can't fly well enough to land on people and bite them,
-    so the village's problem is probably not related to mosquitoes.
+If the PCs fix the engine, they catch up with the others.[^repair]
+The caravan continues towards their destination, driving late into the night.
+Right before they arrive at the ruins, they are ambushed by tribesmen.
 
-[^hint]:
-	**{ Languages }**:
-    These rations are evidence of a Soviet military presence in the area.
-    The Soviets are searching for the rocket they lost in the area.
-
-
+[^repair]:
+    **{ Mechanical Repair }**:
+    If they repair the jeep in time, they won't have to fight the tribesmen alone.
+    If they don't make this roll, the caravan continues on without them.
 
 
+---
+
+| Ambushing Tribesman |    |            |    |
+|---------------------|----|------------|----|
+| Health              | 5  | Weapon     | +1 |
+| Athletics           | 8  | Alertness  | +1 |
+| Hit Threshold       | 0  | Stealth    | +2 |
+| Scuffling           | 3  |            |    |
+
+---
 
 
+After the PCs defend themselves they begin to assess their surroundings.
+The fight is rather easy, given that Borst was in their jeep, heavily armed.
 
+In the melee, the PCs see Professor Birchwell, cornered by a tribesman.
+He draws his pistol and awkwardly fires, and shortly thereafter, the tribesmen disperse.
+They find that the tribesman is unarmed, but is wearing a strange necklace.[^body]
+Professor Birchwell approaches them, and asks them to give him the necklace.
 
+[^body]:
+    **{ Forensics / Evidence Collection }**:
+    They can search the body and find the Talisman of the Yellow Sign.
+    They will be able to find one later, but they will need it to gain entry to a ritual.
 
+{% include items/talisman.md %}
 
 
 

@@ -34,6 +34,11 @@ we have brough a supply of melarsoprol, and...
 
 If they notice the discrepancy, the PCs can ask the Professor about it.[^med]
 
+[^med]:
+    **{ Medicine }**:
+    Doctors and cunning PCs will recognize this diagnosis to be objectively false.
+    African Sleeping Sickness is almost unheard of in the area.
+
 
 ~~~
 INT. CHIEFTAIN'S HUT - MORNING
@@ -46,13 +51,6 @@ PROFESSOR BIRCHWELL
 What you fail to understand is that melarsoprol is effective against both paricites,
 and since we have no way of telling if this is a case of T.b.g. or T.b.r.,
 the only logical course of action is to use the more effective treatment, now may I--
-~~~
-
-The PCs can continue to argue with Birchwell if they're sure they're correct.
-
-
-~~~
-INT. CHIEFTAIN'S HUT - MORNING
 
 STUDENTS
 --Aren't cases of T.b.g. about 50 times more frequent?
@@ -63,25 +61,29 @@ ENOUGH. Need I remind you how long I've worked in this area?
 You will hold your tongue until we return to the lab.
 ~~~
 
-
 The Chieftain characteristically suggests that they kill the whole neighboring tribe.
-As they conclude with the Chieftain, they notice Professor Birchwell slip away again.[^4]
+
+He pleads to the PCs to find the missing villagers, and his son,
+claiming that they are in the lair of the so-called "Demon Worshippers".[^hastur]
+
+[^hastur]:
+    The "Demon" is Hastur, and his "worshippers" are members of the other tribe.
+
+Even if the PCs have no interest in saving the villagers,
+they decide that going to investigate the other tribe could prove to be helpful,
+as it might provide them with new insights into the nature of the Ambalo Tribe's plight.
+
+As they conclude with Chieftain Ambalo,
+they notice Professor Birchwell slip away again.
 They trail him as he weaves his way through the village, to the edge of town.
 He walks directly into the woods, and comes to a stop on a small bridge.
+
 The PCs hide in the brush, slightly downstream.
 The sound of the water prevents Professor Birchwell from hearing them approach.
 They realize he's speaking in Russian to a group of Soviet Troops.
 A twig breaks, and the professor looks directly at the PCs, but says nothing to the man.
 Professor Birchwell departs towards the village.
 The PCs run through the woods to arrive before him, to avoid suspicion.
-
-
-[^med]:
-    **{ Medicine }**:
-    Medical professionals and cunning PCs alike will recognize that this diagnosis is objectively false.
-    African Sleeping Sickness is almost unheard of in the area.
-
-[^4]: Professor Birchwell is secretly meeting with Ilya Zolnerowich
 
 
 

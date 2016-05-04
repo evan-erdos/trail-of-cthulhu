@@ -5,6 +5,7 @@ beat:   procedural
 obj:    up
 ---
 
+
 The PCs return to the Ruins.
 
 At a distance, it looks like it's just a carving of the sun,

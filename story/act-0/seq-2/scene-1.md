@@ -10,7 +10,7 @@ The PCs set out into the jungle at night to find the Observatory.
 It's muggy, there's bugs everywhere, and Dolya's wounds still haven't healed.
 
 After hearing a string of inexplicably horrifying noises coming from the jungle,
-they are attacked by another strange, tentacled creature.
+they are attacked by a strange, tentacled creature.
 
 This time, however, a Soviet jeep appears down the road,
 and as the PCs flee, the jeep gunner kills the beast.

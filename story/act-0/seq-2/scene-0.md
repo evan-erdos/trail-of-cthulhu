@@ -5,11 +5,12 @@ beat:   dramatic
 obj:    up
 ---
 
+
 They return to the ruins and the village to look for him.
 When they arrive at the village, it looks like a warzone.
 There are bullet holes everywhere, and villagers are bleeding out in the streets.
 
-Among the wounded they find the girl they saw approach the professor in lecture.
+Among the wounded they find the girl they saw approach the Professor in lecture.
 Assuming she knows what happened to him, they interrogate her.
 She doesn't know, but is willing to help them if they bandage her wounds.
 

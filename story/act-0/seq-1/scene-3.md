@@ -15,6 +15,11 @@ however one thing becomes clear:
 The Professor wasn't interested in these costal tribes to cure them:
 he was looking for something, and he seems to have found it.
 
+[^note]:
+    Further examination of his notebook reveals a Tendril-Like Glyph.
+    The notes are slightly helpful, but now they need to learn more.
+
+
 ~~~
 EXT. SMOULDERING LAB - DAWN
 
@@ -27,13 +32,15 @@ The STUDENTS hastily conceal the notes they took from his office as he approache
 He looks alarmed, and he's carrying what looks to be a packed suitcase.
 
 PROFESSOR BIRCHWELL
-Thank, thank god you're all, you all made it out...
+Thank, thank god you're all, you've all made it out...
+
+The PROFESSOR's voice is cold and toneless,
+as if it were drained of all emotion.
 
 STUDENTS
 What's going on?
 
 PROFESSOR BIRCHWELL
-It's, I don't... I don't know!
 A fire must have started when someone was working late,
 or, early... early morning...
 
@@ -42,45 +49,43 @@ You seem remarkably well prepared, professor.
 Do you always pack your bags and leave the building at 4AM?
 
 PROFESSOR BIRCHWELL
-I, that's not... I was lucky.
-I couldn't sleep, so I thought I'd... I'd go out walking.
+I was lucky.
+I couldn't sleep, so I thought I'd... I've been out walking.
 
 STUDENTS
 With a full suitcase?
 
-PROFESSOR BIRCHWELL
-Enough of this, I don't have to explain mysel--
+The PROFESSOR doesn't reply in any way.
 
 STUDENTS
---I think you do, professor.
-I think there are a lot of things you should tell us.
-For example, why did you tell that chieftian his village had trypanosomiasis?
+Why did you tell that chieftian his village had trypanosomiasis?
 We didn't find any evidence of that in the lab.
 
 PROFESSOR BIRCHWELL
-Th-that's nothing of your... not your concern!
-You, wh-wh-what... who are you to question my medical opinion?!
+Who are you to question my medical opinion?
 You pull something like that, you... you might kill us, or...
 
 STUDENTS
-It was objectively false, it can't be T.B.r, we're too far Nor--
+It was flat out wrong, it can't be T.B.r, we're too far Nor--
 
 PROFESSOR BIRCHWELL
-Y-You aren't, how am I supposed t-to trust you with m-my research,
+How am I supposed to trust you with m-my research,
 if I can't trust you to not, not... trust that I have...
 
 STUDENTS
 That you have to lie to those helpless villagers abou--
 
 PROFESSOR BIRCHWELL
---You're the spies, aren't you? You've been spying on my research!
+--You're the spies, aren't you?
+You've been spying on my research.
 
 STUDENTS
 What on earth are you talking about?
 Wait, you mean to tell us... you're saying there's spies? Here?
 
 PROFESSOR BIRCHWELL
-You! You're, ah, you're right, about... They don't have T.B.r, I made it up.
+You! You're, ah, you're right, about...
+They don't have T.B.r, I made it up.
 There's something very strange going on there, but...
 I can't... rather, I don't know what, but... but...
 
@@ -121,24 +126,17 @@ Strange things are happening here. Things I cannot explain.
 The Soviets are not what they seem, and I had to make...
 make sure they didn't find anything here.
 You need to leave. Go home.
-If you get involved with this, you will be in more danger than you can imagine.
-Find a way home, get out of here, and never speak of this to anyone.
+If you get involved with this,
+you will be in more danger than you can imagine.
+Find a way home, get out of here,
+and never speak of this to anyone.
 
-The PROFESSOR lowers his weapon, and heads Northeast, to the Staging Grounds.
+The PROFESSOR lowers his weapon, and heads northeast, to the Staging Grounds.
 The STUDENTS hear the sound of a jeep being started, and wheels turning in the dirt.
-The PROFESSOR drives down the North road, and is gone.
+The PROFESSOR drives down the north road, and is gone.
 ~~~
 
-That night, after the fire has been stopped, they see strange lights on the horizon.
-They find strange auras in the sky near the ruins,
-which appear to be forming the strange glyph they found in the notes.
-
 Not wanting to lose the Professor, the PCs take another jeep, and follow him.
-
-
-[^note]:
-    Further examination of his notebook reveals a Tendril-Like Glyph.
-    The notes are slightly helpful, but now they need to learn more.
 
 
 

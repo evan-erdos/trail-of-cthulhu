@@ -1,18 +1,13 @@
 ---
 layout: sequence
-title:  A Burning Laboratory
+title:  Building on Fire
 ---
 
-The next day, the PCs are summoned to the main lab, again via note.
 
-The Professor begins to give his talk, but he's sweating,
-and fumbling with the controls of the slide projector.
+The next day, the PCs are summoned to the main lab.
+After the Professor gives an unusual lecture,
+they return to the village to present the chief with their findings.
 
-The PCs hear glass shattering, somewhere on the other side of the lab.
-A small fire breaks out, and Professor Birchwell watches it for a moment, giggling.
-Some students put it out, and the audience begins to disperse.
-
-They return to the village to present the chief with their findings.
 Professor Birchwell tells the Chieftain that the village has *trypanosomiasis*
 (African Sleeping Sickness), however, none of the samples the PCs analyzed corroborate this.
 
@@ -31,7 +26,4 @@ They observe some of their peers doing very strange things.
 
 After they escape the lab, the PCs pore over the notes they found.
 It's slightly helpful, but now they need to learn more.
-
-
-
 

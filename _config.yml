@@ -7,9 +7,11 @@ permalink: /:title/
 
 incremental: true
 
-description: >
-  A Lovecraftian horror story,
-  written for the Trail of Cthulhu Game System.
+excerpt_separator: ___
+
+kramdown:
+  input: GFM
+  auto_ids: true
 
 gems:
 - jekyll-redirect-from
@@ -18,5 +20,9 @@ gems:
 whitelist:
 - jekyll-redirect-from
 - jekyll-coffeescript
+
+description: >
+  A Lovecraftian horror story,
+  written for the Trail of Cthulhu Game System.
 
 

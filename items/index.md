@@ -15,8 +15,6 @@ Items
 </ul>
 
 
-
-Purple Root
 Personal Radio
 Medallion
 Mask

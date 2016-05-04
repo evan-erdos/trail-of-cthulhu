@@ -3,6 +3,7 @@ layout: sequence
 title:  The Wrong Cult
 ---
 
+
 The PCs return to the Ruins, and they lie in wait,
 to observe another student gaining entry to the ritual.
 They show their talisman to the cultists, and they are welcomed into the main crowd.

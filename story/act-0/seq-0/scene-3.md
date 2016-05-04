@@ -1,105 +1,129 @@
 ---
 layout: scene
-title:  Chieftain's Remorse
-beat:   dramatic
+title:  An Outdoor Asylum
+beat:   question
 obj:    up
 ---
 
-Having spoken to many of the villagers, the PCs decide to find the chieftain.
+
+When the caravan arrives, they are met with the sight a dying village.
+Villagers, clad in rags, are seen roaming the streets, or sleeping in alleyways.
+Nearly everyone appears to be sleep deprived, and some even have physical wounds.[^ill]
+
+[^ill]:
+    The Village's ailments are being caused by a ritual they perform.
+    They travel to a secluded area in the Ruins,
+    and drink from an underwater river there.
+    The river, they say, has magical properties.
+    The "magical properties" are actually contamination:
+    a Soviet rocket fell to Earth, somewhere in the area.
+
+
+Professor Birchwell delegates assignments to the group.
+The PCs are to question the more salient locals,
+to determine what they think the cause of their sickness is.
+They are also tasked with finding the village leader, and getting his opinion.
+
+After this, Professor Birchwell wanders off into the village.[^prof]
+If the PCs attempt to trail him, they lose sight of him in the crowd.
+
+[^prof]:
+    Professor Birchwell is off talking with Ilya Zolnerowich about the artefact.
 
 
 ~~~
-INT. CHIEFTAIN'S HUT - MORNING
+INT. BROKEN STOREFRONT - DAY
 
-The STUDENTS enter CHIEFTAIN AMBALO's bedchambers.
-He's confined to bed, and it's plain that he's nearly lost his mind.
-
-STUDENTS
-What do you think is going on with your village?
-
-CHIEFTAIN AMBALO
-It's those demon worshipers,
-they are the cause of our plight.
+The STUDENTS find a STOREKEEPER who is obsessively trying to clean his shop.
+He looks like he's being flung around the room by some external force.
+His movements are sloppy, he looks tired, but his eyes are wide open.
+He repeatedly wets a rag with muddy water, and wipes down the entire counter,
+leaving chunks of dirt and grime after each pass.
 
 STUDENTS
-What have they done to cause this to happen?
+Why are you cleaning so much?
 
-CHIEFTAIN AMBALO
-They have made deals with a devil,
-and have brought this curse to all of us.
-
-STUDENTS
-Has anything else out of the ordinary happened?
-
-CHIEFTAIN AMBALO
-Oh, many things! One thing, there were white men in suits,
-like yours, who came here from the east.
-
-Light floods the tent as the PROFESSOR enters through the canvas door.
-
-PROFESSOR
-Hello, my pupils. Greetings, Chief.
-Students, our work here is concluded. Let's be off now.
+STOREKEEPER
+To make p-people buy food! Wouldsh-would you like to buy f-food?
 
 STUDENTS
-We haven't asked the CHIEFTAIN about--
+No, thank you. Do people buy much food?
 
-PROFESSOR
-There will be time for that later. Come on, now!
-Let's not leave the caravan waiting.
-
-CHIEFTAIN AMBALO
-You, you must end our curse! Find the demon worshippers!
-They have caused the tide to change...
-...and they wander into our village at night,
-putting ants in our... our grain stores!
-
-PROFESSOR
-I'm sure. Come now, my students.
-
-STUDENTS
-Let's hear the CHIEFTAIN out, PROFESSOR.
-This could be very valuable information.
-
-PROFESSOR
-(sighing)
-I will have the caravan wait.
+STOREKEEPER
+Oh yes, much much-ch more now. The s-sickness makes... very hungry!
 ~~~
 
+This is strange, as everyone in the village appears to be malnourished.
+Examining the shelves, they find military rations with Cryllic letters on them.[^hint]
+They thank him, and depart to the village well.
 
-The Professor concedes, and the PCs continue to listen to the Chieftain's rambling.[^hate]
-He tells them that the strange men he saw come to the village periodically,
-waiting at the jungle's edge, and watching them.[^men]
-With some effort, the PCs convince Ambalo to reveal that his only son was taken.[^spill]
-His son disappeared without warning, a month before the village began to have problems.[^son]
-All the other missing villagers showed signs of this "curse" before disappearing.
+[^hint]:
+	**{ Languages }**:
+    These rations are evidence of a Soviet military presence in the area.
+    The Soviets are searching for the rocket they lost in the area.
 
-He pleads to the PCs to find the missing villagers, and his son,
-claiming that they are in the lair of the so-called "Demon Worshippers".[^hastur]
+~~~
+EXT. RUINED VILLAGE - DAY
 
-Even if the PCs have no interest in saving the villagers,
-they decide that going to investigate the other tribe could prove to be helpful,
-as it might provide them with new insights into the nature of the Ambalo Tribe's plight.
+The STUDENTS find a VILLAGER, drowsily cranking the pulley on the village's well.
+They notice that the rope is not attached to a bucket,
+he's just coiling and uncoiling the rope.
+
+STUDENTS
+Are you getting any water?
+
+VILLAGER
+...th.. the water helps... people.
+
+STUDENTS
+What do you mean, it helps people?
+
+VILLAGER
+...hot, during, during the... sun. The sun makes...
+
+STUDENTS
+It doesn't seem very hot outside.
+
+VILLAGER
+Ish... well, no. The ocean... water th... hot away...
+
+STUDENTS
+What do you mean?
+
+VILLAGER
+The ocean... th... it's th... the wind.
+
+STUDENTS
+Ok, so, how much water do you drink, usually?
+
+VILLAGER
+...the... the sun isn't hotter, but we are still thirsty.
+
+STUDENTS
+Are you thirsty at night, too?
+
+VILLAGER
+Yes, people are... thirsty, all... all the time thirsty...
+~~~
+
+Again, the PCs note these symptoms to be very strange.[^wind]
+It hasn't been particularly hot, and they seem to have no shortage of water or shade.
+
+[^wind]:
+    Being near the ocean means there's probably a constant 10 knot wind.
+    If there's enough wind, bugs can't fly well enough to land on people and bite them,
+    so the village's problem is probably not related to mosquitoes.
+
+They have similar encounters with villagers, and while all of their stories match,
+it doesn't fit any particular sickness that they've ever seen or learned about.
+The PCs gather samples from the village, and set off to find the village's chief.
 
 
-[^hate]:
-    His hatred for this other tribe has clouded his judgement.
-    While he may provide some insights, he may misinform the PCs.
 
-[^men]:
-    The uniformed men are Soviet troops who have taken an interest in the tribe.
-    The Soviets sent a rocket into space, but it fell to Earth somewhere nearby.
 
-[^son]:
-    This doesn't fit the pattern because the chief's son left on his own accord.
-    His son actually joined the other tribe, and is a servant of Hastur.
 
-[^hastur]:
-    The "Demon" is Hastur, and his "worshippers" are members of the other tribe.
 
-[^spill]:
-	**{ Intimidation / Psychoanalysis }**:
-	If they press him, they can get the Chief to talk further about his son.
+
 
 
 

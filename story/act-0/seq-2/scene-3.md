@@ -40,6 +40,10 @@ They follow the instructions, and see a blinking object[^space] through the tele
 Using the charts and telemetry they find in the desks,
 they decode and record what the blinking object is sending for later evaluation.
 
+[^space]:
+	**{ Astronomy }**:
+	Sputnik was broadcasting small amounts of information up to a month after launch.
+
 
 Just as they figure it out, Professor Birchwell enters the area.
 
@@ -61,6 +65,10 @@ Professor Birchwell is furious with the PCs, and is armed.
 He accosts them for meddling, but doesn't seem like he's going to kill them.
 He explains that he started the fire at the Lab to destroy his research.[^fire]
 He's not very coherent, but asks them to join him in his research.
+
+[^fire]:
+	It was also an insane attempt to drive Cthuhu out of his mind .
+
 
 When they ask him about the Soviets, he becomes furious.
 He reveals as little as he can about what he's doing,
@@ -192,20 +200,6 @@ If you fail us, or if you attempt to escape the area, you will be killed.
 	To escape, they need:
 	**{ Fleeing / Stealth }** for each Player
 	**-1** to every Player's roll if **{ Fleeing < 3 }** for any Player
-
-[^space]:
-	**{ Astronomy }**:
-	Sputnik was broadcasting small amounts of information up to a month after launch.
-
-[^fire]:
-	It was also an insane attempt to drive Cthuhu out of his mind .
-
-
-
-
-
-
-
 
 
 

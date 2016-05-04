@@ -1,155 +1,108 @@
 ---
 layout: scene
 title:  Meet Interesting People...
-beat:   pipe
-obj:    up
+beat:   dramatic
 ---
 
 
 Professor Birchwell has been sent to diagnose a rash of sleep disturbances,
-reported by villagers who live near a cluster of late-Antiquity Roman ruins in Northern Africa.
+reported by villagers living near late-Antiquity Roman ruins in Northern Africa.
 He has assembled a team of students and doctors to assist him on this expedition.
 
-Early one morning, each of the PCs receive a note under their door.
+The PCs touch down at the Cairo airport, and while they didn't talk much during the flight,
+they become acquainted during the long bus ride to the Laboratory.
 
-It reads:
+The PCs introduce themselves to eachother,
+and share stories about how they got in the program,
+and why they're interested in the Professor's work.
 
-![note-0]({{site.baseurl}}/assets/birchwell-note-0.png)
-
-With packs full, they arrive at the staging ground.
-They observe Professor Birchwell being instructed in the usage of a firearm.
-He holds it quite awkwardly, and is making jokes with the range safety officer.
-
-As the PCs are telling eachother stories about how they found out about the program,
-they notice some commotion happening nearby.
+The sun set long before they arrived, and the lights are all out in the dormitory.
+The thick, humid darkness occludes their view of the living space,
+but they can hear strange bugs and exotic animals making noise in the distance.
 
 ~~~
-EXT. NORTH STAGING GROUNDS - DAY
+INT. DORMITORIES - NIGHT
 
-While preparations are being made, and while the jeeps are being packed,
-the STUDENTS hear a scream come from across the staging grounds.
-A friend of theirs, OSCAR, has taken a gun, and is waving it around.
-The PROFESSOR rushes towards the commotion.
+A group of STUDENTS are unpacking their belongings in their assigned room.
+It's muggy, but the fan is doing a good job of pushing warm air around.
+An alarming number of bugs circle the room's lone incandescent bulb.
+Also assigned to their living space are OSCAR and CINDY.
+CINDY has so far unpacked 5 of her 9 bags,
+and is hard at work organizing alarm clocks and pencil cases on her nightstand.
+OSCAR is short, somewhat overweight, and doesn't smell quite right.
 
 OSCAR
-It's... the yellow, yellow, yellow...
-It is our saviour! Praise... to, it!
+(clearing his throat)
+What's he like?
 
-PROFESSOR
-Oscar, put that gun down immediately.
-
-OSCAR
-The... it's ours, it tells me!
-I am to be the first martyr of the Yellow King!
-
-OSCAR raises the gun, and points it at the PROFESSOR.
-
-PROFESSOR
-Oscar, what is the meaning of this?
+While all the STUDENTS heard him, it appears that CINDY didn't.
+She continues along unpacking, humming to herself.
 
 OSCAR
-You will be taken... taken with me!
-You can all be martyrs, the... the--
+The PROFESSOR, what's he like?
 
-PROFESSOR
-Oscar, tell me about this Yellow King.
+CINDY
+What, me? I don't know.
 
 OSCAR
-Our saviour?
+I heard you say you met him, on the bus.
+
+CINDY
+The bus... Do I know you?
+
+OSCAR
+No, I just heard...
+
+CINDY
+I've heard he's a complete loony, and--
+
+OSCAR
+--Don't say that, it's...
+Crazy people are just... people, they're not... evil.
+
+CINDY
+Okay...?
+
+OSCAR
+(to the STUDENTS)
+What do you guys think?
 ~~~
 
 
-The PCs can attempt to talk Oscar down[^talk] or disarm him.[^gun]
-If they succeed, he doesn't kill himself, but becomes incurably insane.
-Otherwise he attempts to shoot himself.
+The PCs can render their opinions, if they want.
 
 
 ~~~
-EXT. NORTH STAGING GROUNDS - DAY
+INT. DORMITORIES - NIGHT
 
-OSCAR raises the gun to his head, smiling.
-Suddenly, a member of the security detail tackles him.
+The room is quiet for a few moments, save for CINDY's unpacking.
+The fan rattles a bit, and the bugs continue to orbit the light.
 
-BORST
-(dusting himself off)
-Ok, we're done here. Take him out of here.
+OSCAR
+It's not bad to be... you know...
+Some people just need... help.
 
-PROFESSOR
-Thank you! Always keeping us safe.
-Everyone, your attention!
+CINDY
+What's the matter with you?
 
-The PROFESSOR raises his voice, though the crowd is already well at attention.
+OSCAR
+Nothing, I--
 
-PROFESSOR
-This is... what's your name, son?
+CINDY
+(smirking)
+--I hear he killed a kid on the last expedition.
 
-BORST
-BORST CHEKHOV, at your service, PROFESSOR.
+OSCAR
+That's ridiculous. You don't just...
+just kill people... and, and go back to normal!
 
-PROFESSOR
-Yes, BORST! A member of our security detail!
-Everyone, let this be an example of true bravery!
-If everyone follows in his example, we will accomplish great things!
+CINDY gives no response but an eye roll, and resumes her activities.
+
+OSCAR gets back into bed and begins penning a letter.
 ~~~
 
-
-Oscar is taken back into the lab by the security detail, and preparations continue.
-
-
-~~~
-EXT. NORTH STAGING GROUNDS - DAY
-
-A group of STUDENTS are busy at work packing daybags into their jeep.
-When they try to sit, the DRIVER speaks up.
-
-DRIVER
-Not up front, hey, hey, you hear me?
-That's where the pointman sits.
-
-STUDENTS
-The pointman?
-
-DRIVER
-Yeah, someone gotta keep us safe,
-he need the best seat, know what I mean?
-
-BORST approaches the jeep.
-His accent is thick, but understandable.
-
-BORST
-You already have a security, or, I sit here?
-
-DRIVER
-Yeah, yeah, go ahead.
-
-BORST boards the jeep, and turns around to face the STUDENTS.
-
-BORST
-Hello, I am BORST. You are all student here?
-~~~
-
-Borst asks them about who they are, and their backgrounds.
-They make small talk, but he says nothing about himself.[^jeep]
-
-The convoy embarks into the jungle.
-
-
-[^talk]:
-	**{ Bargain / Flattery / Psychoanalysis }**:
-	The PCs can try to convince him not to shoot himself or anyone around him.
-
-[^gun]:
-	**{ Stealth / Atheltics / Filch }**:
-	While unlikely, the PCs also might roll to disarm him.
-
-[^jeep]:
-	Borst has a history with the Soviet military,
-	and an ulterior motive regarding the Professor and his research.
-
-
-
-
-
+Eventually, the PCs turn off the lights, and try their best to sleep.
+They fall asleep quite easily, despite Oscar's snoring.
 
 
 
